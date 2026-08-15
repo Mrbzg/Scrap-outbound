@@ -19,6 +19,13 @@ Prospección de leads outbound por giro/nicho (México).
 - **44** referencias (tus ejemplos originales)
 - **5** baja prioridad (corporativos grandes)
 
+## Lotes por nicho (`leads/por_nicho/`)
+
+| Lote | Nicho | Leads | Archivos |
+|---|---|---|---|
+| 01 | Café / granos de café | 321 | `01_cafe_granos.*` |
+| 02 | Colágeno hidrolizado | 324 | `02_colageno_hidrolizado.*` |
+
 ## Uso rápido
 
 ```bash
