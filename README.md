@@ -25,6 +25,7 @@ Prospección de leads outbound por giro/nicho (México).
 |---|---|---|---|
 | 01 | Café / granos de café | 321 | `01_cafe_granos.*` |
 | 02 | Colágeno hidrolizado | 324 | `02_colageno_hidrolizado.*` |
+| 03 | Frutos secos | 231 | `03_frutos_secos.*` |
 
 ## Uso rápido
 
