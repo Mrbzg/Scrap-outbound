@@ -1,42 +1,2193 @@
 {
   "lote": "05",
   "slug": "botanas_snacks",
-  "description": "Semillas iniciales botanas - expandir",
+  "description": "Semillas curadas para lote 05 — botanas y snacks mexicanos (fábricas, mayoreo y D2C)",
   "leads": [
     {
       "empresa": "Chan Chips",
       "url": "https://chanchips.com/",
       "tipo": "Ejemplo original",
-      "notas": "Ejemplo del cliente",
+      "notas": "Ejemplo del cliente — botanas mexicanas D2C",
       "fuente": "ejemplo_cliente"
     },
     {
       "empresa": "Botanas Torritos",
       "url": "https://botanastorritos.com/",
-      "tipo": "Fabricante D2C",
-      "ciudad": "Yucatán",
+      "email": "gerenciadeventas@botanastorritos.com",
+      "telefono": "9992541252",
+      "ciudad": "Mérida",
       "estado": "Yucatán",
-      "notas": "Botanas yucatecas desde 1953"
+      "tipo": "Fabricante D2C",
+      "notas": "Botanas yucatecas desde 1953, charritos tostadas churritos",
+      "fuente": "research"
     },
     {
       "empresa": "Botanas Los Compadres",
       "url": "https://botanasloscompadres.com/",
-      "tipo": "Fabricante/distribuidor",
+      "telefono": "9991779873",
       "ciudad": "Kanasín",
       "estado": "Yucatán",
-      "telefono": "9991779873"
+      "tipo": "Fabricante/distribuidor",
+      "notas": "Proveedor tiendas y supermercados, mayoreo por kilo",
+      "fuente": "research"
     },
     {
-      "empresa": "Totis",
-      "url": "https://www.totis.com.mx/",
-      "tipo": "Marca nacional"
-    },
-    {
-      "empresa": "Botanas Lily",
+      "empresa": "Productos Lily de Occidente",
       "url": "https://www.botanaslily.com.mx",
+      "email": "contacto@botanaslily.com",
+      "telefono": "(33) 3639-0504",
+      "ciudad": "Tlaquepaque",
+      "estado": "Jalisco",
       "tipo": "Fabricante",
+      "notas": "Cronchitos y tostis LILY",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Totis / Fritos Totis",
+      "url": "https://www.totis.com.mx/",
+      "email": "jmartinez@totis.com.mx",
+      "telefono": "800-201-7333",
+      "ciudad": "Tizayuca",
+      "estado": "Hidalgo",
+      "tipo": "Marca nacional",
+      "notas": "Donitas, Pap's, chicharrones, totopos — planta Tizayuca",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Productos Don Tacho",
+      "url": "https://www.productosdontacho.com",
+      "email": "ventas@productosdontacho.com",
+      "telefono": "(444) 688-7775",
+      "ciudad": "Mexquitic de Carmona",
+      "estado": "SLP",
+      "tipo": "Fábrica botanas",
+      "notas": "Fábrica de botanas y frituras SLP",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "K-Botanas",
+      "url": "https://www.k-botanas.com/",
+      "telefono": "5656566389",
+      "ciudad": "Pachuca",
+      "estado": "Hidalgo",
+      "tipo": "Fabricante D2C",
+      "notas": "Fábrica desde 1998, tamarindo enchilado, cacahuates, mayoreo y tienda online",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Botanamex",
+      "url": "https://botanamex.com.mx/",
+      "email": "ventas@botanamex.com.mx",
+      "telefono": "5575854444",
+      "ciudad": "Chalco",
+      "estado": "EdoMex",
+      "tipo": "Fabricante",
+      "notas": "Zona industrial Chalco, elaboración de botanas",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Botanas San José",
+      "url": "https://botanassanjose.com/",
+      "email": "ventas@prosanjo.com.mx",
+      "telefono": "5545289162",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "Fabricante",
+      "notas": "Cueritos, chetos, frituras, palomitas, papas — Iztapalapa",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Botanas Bibisnacks",
+      "url": "http://botanasbibisnacks.com/",
+      "email": "botanasbibi@gmail.com",
+      "telefono": "5562841244",
+      "ciudad": "Iztapalapa",
+      "estado": "CDMX",
+      "tipo": "Fabricante mayoreo",
+      "notas": "Papas, chicharrones, churritos nopal/amaranto, palomitas — Santa Isabel Industrial",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Beto Botanas",
+      "url": "https://betobotanas.com.mx/",
+      "email": "ventas@betobotanas.com.mx",
+      "telefono": "5553052136",
+      "ciudad": "Cd. López Mateos",
+      "estado": "EdoMex",
+      "tipo": "Fabricante/distribuidor",
+      "notas": "Churritos, chicharrones, chetos, palomitas, papas, mayoreo",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Botanas RIC",
+      "url": "https://botanasric.com/",
+      "email": "ric@botanasric.com",
+      "telefono": "(487) 872-0408",
+      "ciudad": "Rioverde",
+      "estado": "SLP",
+      "tipo": "Fabricante",
+      "notas": "Papas, churritos, chicharrón, totopos, habas, cacahuates",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Botanas Provi / Productos VYL",
+      "url": "https://botanasprovi.com.mx/",
+      "email": "bety@botanasprovi.com.mx",
+      "telefono": "(444) 833-6922",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP",
+      "tipo": "Fabricante",
+      "notas": "Papas, cacahuates, haba, churritos, chicharrón 100% naturales",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Alimentos y Botanas Herrera",
+      "url": "https://www.botanasherrera.com",
+      "email": "ventas@botanasherrera.com",
+      "telefono": "(999) 946-1491",
+      "ciudad": "Mérida",
+      "estado": "Yucatán",
+      "tipo": "Fabricante",
+      "notas": "Charritos, papas, churritos, cacahuate, chicharrón, totopos, platanitos",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Botanas WIPO",
+      "url": "https://www.botanaswipo.com",
+      "email": "ventas@botanaswipo.com",
+      "telefono": "(33) 3684-7678",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco",
+      "tipo": "Fabricante",
+      "notas": "Frituras de harina de trigo, papa integral y maíz",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Botanas Esnafer",
+      "url": "https://www.botanasesnafer.com.mx",
+      "email": "contacto@botanasesnafer.com.mx",
+      "telefono": "(595) 951-1061",
+      "ciudad": "Texcoco",
+      "estado": "EdoMex",
+      "tipo": "Fabricante",
+      "notas": "Cacahuates, haba, garbanzo, girasol y calabaza — cobertura nacional",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Botanas Julimoy",
+      "url": "https://www.julimoy.com.mx",
+      "email": "escalera.m@julimoy.com.mx",
+      "telefono": "(55) 5694-4437",
+      "ciudad": "Iztapalapa",
+      "estado": "CDMX",
+      "tipo": "Fabricante",
+      "notas": "Papas, palomitas, aros, donitas, churritos, cacahuates",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Botanas Kande / Tronquitos",
+      "url": "https://www.fritostronquitos.com.mx",
+      "email": "botanaskande@prodigy.net.mx",
+      "telefono": "(81) 8354-5871",
+      "ciudad": "Monterrey",
+      "estado": "NL",
+      "tipo": "Fabricante",
+      "notas": "TRONQUITOS, CRUCITAS, TOSKYS — harina maíz/trigo/papa",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Botanas y Derivados / BYDSA",
+      "url": "https://www.bydsa.com",
+      "email": "jbueno@bydsa.com",
+      "telefono": "(81) 8360-9086",
+      "ciudad": "Guadalupe",
+      "estado": "NL",
+      "tipo": "Fabricante",
+      "notas": "Botanas, frituras, papas, chicharrones",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Botanas Jovi",
+      "telefono": "(833) 212-4522",
+      "ciudad": "Tampico",
+      "estado": "Tamaulipas",
+      "tipo": "Fabricante regional",
+      "notas": "Rancheritos, chicharrones, tostadas, cacahuates, cocadas",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Alimentos Extruidos / Gustinos",
+      "url": "https://www.gustinos.com",
+      "email": "ventas@gustinos.com",
+      "telefono": "(33) 3686-1771",
+      "ciudad": "Tlajomulco",
+      "estado": "Jalisco",
+      "tipo": "Fabricante insumos",
+      "notas": "Pellets para snacks de trigo, papa y maíz",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Alimentos Finos del Norte",
+      "email": "jgarza@hotmail.com",
+      "telefono": "(844) 432-0602",
+      "ciudad": "Saltillo",
+      "estado": "Coahuila",
+      "tipo": "Fabricante insumos",
+      "notas": "Pellet de cuero de cerdo para chicharrón",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Alimentos Procesados de Zamora / Aproza",
+      "url": "https://www.aprozaoficial.com",
+      "email": "aproza2@prodigy.net.mx",
+      "telefono": "(351) 517-0212",
+      "ciudad": "Zamora",
+      "estado": "Michoacán",
+      "tipo": "Fabricante",
+      "notas": "Cereales y botanas extruidas, palomitas, Troncheese",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "CGM / Botanas Matracas",
+      "url": "https://www.empresascgm.com.mx",
+      "email": "cogumo@prodigy.net.mx",
+      "telefono": "(591) 917-1349",
+      "ciudad": "Zumpango",
+      "estado": "EdoMex",
+      "tipo": "Fabricante",
+      "notas": "Frituras y botanas MATRACAS",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Comercializadora Galfra / Rancho Sano",
+      "url": "https://www.galfra.com",
+      "email": "ventas@galfra.com",
+      "telefono": "(378) 103-2851",
+      "ciudad": "Tepatitlán",
+      "estado": "Jalisco",
+      "tipo": "Fabricante",
+      "notas": "Cacahuates Rancho Sano, Charro Pancho, mazapán",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Cacahuates del Rey / Pikatones",
+      "url": "https://www.facebook.com/pikatones",
+      "email": "cacahuatesdelrey@hotmail.com",
+      "telefono": "(449) 996-2626",
+      "ciudad": "Aguascalientes",
+      "estado": "Aguascalientes",
+      "tipo": "Fabricante",
+      "notas": "Cacahuates habanero, nacho, jalapeño, pika nuts, japonés",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Empacadora Kipi",
+      "url": "https://www.kipi.com.mx",
+      "email": "kipipms@prodigy.net.mx",
+      "telefono": "(55) 5759-2021",
+      "ciudad": "GAM",
+      "estado": "CDMX",
+      "tipo": "Empacadora",
+      "notas": "Churritos, confitados, bofitos",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Frituras Rincón Tarasco",
+      "email": "comprasrincontarasco@gmail.com",
+      "telefono": "(961) 615-4502",
+      "ciudad": "Tuxtla Gutiérrez",
+      "estado": "Chiapas",
+      "tipo": "Fabricante",
+      "notas": "Churritos, nachos, papas, plátanos, tostadas, totopitos",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Friconsel / El Charrito",
+      "url": "https://www.friconsel.com",
+      "email": "info@friconsel.com",
+      "telefono": "(81) 8327-1918",
+      "ciudad": "Guadalupe",
+      "estado": "NL",
+      "tipo": "Fabricante",
+      "notas": "Botanas EL CHARRITO — papas, chicharrón, cacahuates",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Galdisa / Golden Nuts",
+      "url": "https://www.galdisa.com",
+      "email": "info@galdisa.com.mx",
+      "telefono": "(55) 5630-4616",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "Fabricante/mayoreo",
+      "notas": "GOLDEN y GOLD FRITZ, maquila de marca propia",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "GIMX / Indugrumex",
+      "url": "https://www.indugrumex.com",
+      "email": "ventas@indugrumex.com",
+      "telefono": "(55) 2483-7013",
+      "ciudad": "Atizapán",
+      "estado": "EdoMex",
+      "tipo": "Fabricante",
+      "notas": "Churros de amaranto, palanquetas, granolas, semillas",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Grupo Martin Cubero",
+      "url": "https://www.cacahuatesdemorelos.com.mx",
+      "email": "martindd@mail.internet.com.mx",
+      "telefono": "(55) 5626-7516",
+      "ciudad": "Tlalpan",
+      "estado": "CDMX",
+      "tipo": "Fabricante",
+      "notas": "Cacahuates y botanas MARTIN",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Grupo Medesa / Meber",
+      "url": "https://www.grupomedesa.com",
+      "email": "contacto@grupomedesa.com",
+      "telefono": "(722) 237-4573",
+      "ciudad": "San Mateo Atenco",
+      "estado": "EdoMex",
+      "tipo": "Fabricante",
+      "notas": "Botanas MEBER, cacahuate japonés, dulces",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Grupo Ta-Itto",
+      "url": "https://www.grupotaitto.com",
+      "telefono": "(55) 7248-8082",
+      "ciudad": "Texcoco",
+      "estado": "EdoMex",
+      "tipo": "Fabricante",
+      "notas": "Cacahuate japonés, dulces y botanas",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Productos Diamante",
+      "url": "https://www.productosdiamante.com",
+      "email": "contacto@productosdiamante.com",
+      "telefono": "(999) 944-0183",
+      "ciudad": "Kanasín",
+      "estado": "Yucatán",
+      "tipo": "Empacadora",
+      "notas": "Cacahuate, nueces, pistaches NOM NOMS; salsas POXILA",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Botanas Mina",
+      "url": "https://www.facebook.com/Botanasminaoficial",
+      "email": "josueweromina@gmail.com",
+      "telefono": "9988424833",
+      "ciudad": "Cancún",
+      "estado": "Quintana Roo",
+      "tipo": "Fabricante regional",
+      "notas": "Plátanos fritos, papas, palomitas, chicharrón de trigo/maíz",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Mura Productos de Cerdo",
+      "email": "productosmura@prodigy.net.mx",
+      "telefono": "(614) 436-0514",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua",
+      "tipo": "Fabricante",
+      "notas": "Chicharrón ahumado y botanero, cuero curtido a granel",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Bokados / Nacional de Alimentos y Helados",
+      "url": "https://www.bokados.com",
+      "email": "info@bokados.com",
+      "telefono": "800-800-3442",
+      "ciudad": "Santa Catarina",
+      "estado": "NL",
+      "tipo": "Marca nacional",
+      "notas": "Botanas BOKA-2, Arca Continental, Monterrey",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Nishikawa Cacahuates",
+      "url": "https://www.cacahuatesnishikawa.com",
+      "email": "ventas@cacahuatesnishikawa.com",
+      "telefono": "(55) 5657-1845",
+      "ciudad": "Iztacalco",
+      "estado": "CDMX",
+      "tipo": "Fabricante",
+      "notas": "Cacahuates japoneses, salado y enchilado",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Planta de Vida / Frubotanas",
+      "url": "https://www.plantavit.mx",
+      "email": "comentarios@plantavit.mx",
+      "telefono": "(81) 8355-4032",
+      "ciudad": "Guadalupe",
+      "estado": "NL",
+      "tipo": "Marca healthy",
+      "notas": "FRUBOTANAS fruta deshidratada, granolas ÁLMEN, quinoa",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Chilifrut",
+      "email": "miguelangel.ventaschilifrut@gmail.com",
+      "telefono": "(55) 7160-6467",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex",
+      "tipo": "Fabricante granel",
+      "notas": "Desde 1983, cacahuates y frituras a granel",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Productos Ávila / Kokis",
+      "url": "https://www.productosavila.com",
+      "email": "compras@productosavila.com",
+      "telefono": "(33) 3609-1042",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco",
+      "tipo": "Fabricante",
+      "notas": "Fritos y botanas KOKIS",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Productos de Maíz El Azteca",
+      "email": "elaztecaprod@hotmail.com",
+      "telefono": "(632) 322-3931",
+      "ciudad": "Magdalena de Kino",
+      "estado": "Sonora",
+      "tipo": "Fabricante",
+      "notas": "Pinole, tostadas, botanas y fritos de maíz",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Productos Deshidratados Arran",
+      "url": "https://www.arran.mx",
+      "email": "productos@arran.mx",
+      "telefono": "800-823-2747",
+      "ciudad": "Acatlán",
+      "estado": "Hidalgo",
+      "tipo": "Fabricante",
+      "notas": "Chicharrón botanero, plátanos, churritos, torcidillos, totopos",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Productos Diana",
+      "url": "https://www.pdiana.com",
+      "email": "info@pdiana.com",
+      "telefono": "(644) 414-6224",
+      "ciudad": "Cd. Obregón",
+      "estado": "Sonora",
+      "tipo": "Empacadora",
+      "notas": "Botanas y dulces, pistaches, cacahuates, habas",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Productos Dorisa",
+      "email": "contactobotanasdorisa@gmail.com",
+      "telefono": "(55) 5657-0641",
+      "ciudad": "Iztacalco",
+      "estado": "CDMX",
+      "tipo": "Fabricante",
+      "notas": "Papas, cacahuate, chicharrón, habas, garbanzo, pepita — mayoreo",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Productos Fritos",
+      "email": "pfritos@hotmail.com",
+      "telefono": "(55) 5583-2555",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "Fabricante",
+      "notas": "Habas, cacahuates, pepitas y garbanzos fritos",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Productos Kris",
+      "url": "https://www.kris.mx",
+      "telefono": "(662) 214-2344",
+      "ciudad": "Hermosillo",
+      "estado": "Sonora",
+      "tipo": "Fabricante",
+      "notas": "Tostadas, nachos, palomitas, fritos y botanas de maíz",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Productos Manzela",
+      "url": "https://www.manzela.com.mx",
+      "email": "manzela@prodigy.net.mx",
+      "telefono": "800-715-7208",
+      "ciudad": "Texcoco",
+      "estado": "EdoMex",
+      "tipo": "Fabricante",
+      "notas": "Cacahuate japonés, garapiñado, enchilado; dulces de tamarindo",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Productos Nipon",
+      "url": "https://www.niponbotanas.com",
+      "email": "info@pnipon.com",
+      "telefono": "(55) 5716-8600",
+      "ciudad": "Iztacalco",
+      "estado": "CDMX",
+      "tipo": "Fabricante",
+      "notas": "Cacahuate japonés, chile-limón, enchilados, CRISPY LEMON",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Productos Pepito",
+      "email": "propesa1@prodigy.com.mx",
+      "telefono": "800-710-6153",
+      "ciudad": "Iztapalapa",
+      "estado": "CDMX",
+      "tipo": "Empacadora",
+      "notas": "Elaboración y empacado de dulces y botana",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Rosasnack",
+      "email": "administracionprovifiesta@botanasprovi.com.mx",
+      "telefono": "4445553156",
+      "ciudad": "Mexquitic",
+      "estado": "SLP",
+      "tipo": "Fabricante/maquila",
+      "notas": "Maquila de papas, frituras, chicharrones, tostadas, totopos",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Barcel",
+      "url": "https://www.barcel.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "Marca nacional",
+      "notas": "Grupo Bimbo — Takis, Chip's, Runners; corporativo grande",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Sabritas",
+      "url": "https://www.sabritas.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "Marca nacional",
+      "notas": "PepsiCo — corporativo grande, menos fit outbound SME",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Mafer",
+      "url": "https://www.mafer.com.mx/",
+      "ciudad": "México",
+      "estado": "México",
+      "tipo": "Marca nacional",
+      "notas": "Cacahuates premium (PepsiCo)",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "McCain México",
+      "url": "https://www.mccain.com.mx",
+      "email": "francisco.lopez@mccain.com",
+      "telefono": "800-0622-246",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "Corporativo",
+      "notas": "Papas a la francesa y botanas congeladas — enterprise",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Grupo Bimbo / Dirección Corporativa Impulsora",
+      "url": "https://www.grupobimbo.com",
+      "email": "direcciondecompras.gestion@grupobimbo.com",
+      "telefono": "(55) 5268-6600",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "Corporativo",
+      "notas": "Barcel, Takis, Ricolino — enterprise",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Botanas SAS",
+      "ciudad": "Azcapotzalco",
+      "estado": "CDMX",
+      "tipo": "Distribuidor",
+      "notas": "Tonga 28 Col. Euzkadi, venta de frituras",
+      "fuente": "quiminet"
+    },
+    {
+      "empresa": "Botanas El Tacuache",
+      "ciudad": "Colima",
+      "estado": "Colima",
+      "tipo": "Proveedor B2B",
+      "notas": "Av. Gil Cabrera Gudiño 616, Rancho Blanco",
+      "fuente": "quiminet"
+    },
+    {
+      "empresa": "Botanas K-Chis",
+      "ciudad": "Puebla",
+      "estado": "Puebla",
+      "tipo": "Proveedor B2B",
+      "notas": "30 Norte 803 Col. Resurgimiento",
+      "fuente": "quiminet"
+    },
+    {
+      "empresa": "Comercializadora Gonac",
+      "url": "https://www.gonac.com.mx/",
+      "ciudad": "Tlaxcala",
+      "estado": "Tlaxcala",
+      "tipo": "Distribuidor nacional",
+      "notas": "Frituras, Ciudad Industrial Xicohtencatl II",
+      "fuente": "quiminet"
+    },
+    {
+      "empresa": "Cicasa Internacional",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "Proveedor B2B",
+      "notas": "Calle De La Rosa 32, Ampliación San Marcos — frituras",
+      "fuente": "quiminet"
+    },
+    {
+      "empresa": "Nava Foods",
+      "ciudad": "Morelia",
+      "estado": "Michoacán",
+      "tipo": "Proveedor B2B",
+      "notas": "Salvador Arzuela 200, Elias Perez Avalos",
+      "fuente": "quiminet"
+    },
+    {
+      "empresa": "Comercial Lucero",
+      "ciudad": "San Nicolás de los Garza",
+      "estado": "NL",
+      "tipo": "Distribuidor",
+      "notas": "Frituras Nuevo León",
+      "fuente": "quiminet"
+    },
+    {
+      "empresa": "Grupo Richaud",
+      "ciudad": "Campeche",
+      "estado": "Campeche",
+      "tipo": "Proveedor B2B",
+      "notas": "Mariano Rodríguez 14 Col. San José",
+      "fuente": "quiminet"
+    },
+    {
+      "empresa": "Grupo Comercial Sedesil",
+      "ciudad": "San Nicolás de los Garza",
+      "estado": "NL",
+      "tipo": "Distribuidor",
+      "notas": "Frituras de maíz, Vía Matamoros 520",
+      "fuente": "quiminet"
+    },
+    {
+      "empresa": "Magno Ingeniería en Alimentos",
+      "ciudad": "Cd. Juárez",
+      "estado": "Chihuahua",
+      "tipo": "Proveedor B2B",
+      "notas": "Av. Ejército Nacional 7695 — frituras y botanas",
+      "fuente": "quiminet"
+    },
+    {
+      "empresa": "Afrima de Michoacán",
+      "ciudad": "Morelia",
+      "estado": "Michoacán",
+      "tipo": "Fabricante",
+      "notas": "Benito Juárez 1205, Granjas del Maestro — frituras",
+      "fuente": "cosmos"
+    },
+    {
+      "empresa": "Dulcería Central Sur",
+      "ciudad": "Monterrey",
+      "estado": "NL",
+      "tipo": "Distribuidor",
+      "notas": "Batallón de San Blas 56 Col. Obrera — frituras",
+      "fuente": "cosmos"
+    },
+    {
+      "empresa": "iNuts",
+      "url": "https://www.inuts.com.mx",
+      "email": "clientes@inuts.com.mx",
+      "telefono": "(55) 1850-5463",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "Marca gourmet D2C",
+      "notas": "Cacahuates japoneses, almendras, tablas de botana",
+      "fuente": "research"
+    },
+    {
+      "empresa": "PALS Snacks",
+      "url": "https://www.pals-snacks.com",
+      "email": "hola@pals-snacks.com",
+      "telefono": "(81) 8370-9282",
+      "ciudad": "Monterrey",
+      "estado": "NL",
+      "tipo": "Marca snack",
+      "notas": "Barras de frutos secos veganas",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Nature's Heart snacks",
+      "url": "https://naturesheart.com.mx/",
+      "ciudad": "México",
+      "estado": "México",
+      "tipo": "Marca healthy",
+      "notas": "Snacks y nueces retail moderno",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Saníssimo",
+      "url": "https://www.sanissimo.com.mx/",
+      "ciudad": "México",
+      "estado": "México",
+      "tipo": "Marca tostadas",
+      "notas": "Tostadas y totopos horneados, Grupo Bimbo",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Tostadas Milpa Real",
+      "url": "https://www.milpareal.com.mx/",
+      "ciudad": "México",
+      "estado": "México",
+      "tipo": "Marca tostadas",
+      "notas": "Tostadas de maíz tradicionales",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Mission Foods México",
+      "url": "https://www.missionfoods.com.mx/",
+      "ciudad": "México",
+      "estado": "México",
+      "tipo": "Marca totopos",
+      "notas": "Totopos y tortillas — Gruma",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Tostadas Salmas",
+      "url": "https://www.salmas.com.mx/",
+      "ciudad": "México",
+      "estado": "México",
+      "tipo": "Marca tostadas",
+      "notas": "Tostadas horneadas de nopal y maíz",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Chicharrones Porky",
+      "url": "https://www.sigma-alimentos.com/",
+      "ciudad": "Monterrey",
+      "estado": "NL",
+      "tipo": "Marca nacional",
+      "notas": "Sigma Alimentos — chicharrón botanero",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Valley Foods",
+      "ciudad": "México",
+      "estado": "México",
+      "tipo": "Marca papas",
+      "notas": "Potato chips limón y ridge — canal retail",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Encanto Frituras",
+      "ciudad": "México",
+      "estado": "México",
+      "tipo": "Marca frituras",
+      "notas": "Conchitas y frituras de maíz sazonadas",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Azúcar Dulcerías botanas",
+      "url": "https://www.azucardulcerias.com/collections/botanas",
+      "ciudad": "México",
+      "estado": "México",
+      "tipo": "Mayoreo ecom",
+      "notas": "Botanas al mayoreo por caja, envíos nacionales",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Mayoreo Total botanas",
+      "url": "https://www.mayoreototal.mx/collections/botanas",
+      "ciudad": "México",
+      "estado": "México",
+      "tipo": "Mayoreo ecom",
+      "notas": "Churritos Kipi y botanas por caja",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Tiobaldo / Productos Delta",
+      "url": "https://www.tiobaldo.com.mx",
+      "email": "ventas@tiobaldo.com.mx",
+      "telefono": "(81) 8345-1803",
+      "ciudad": "Monterrey",
+      "estado": "NL",
+      "tipo": "Fabricante tostadas",
+      "notas": "Tostadas y botanas de maíz norte",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Botanas Crounsh / Tostadas Chihuahua",
+      "url": "https://www.botanascrounsh.com",
+      "email": "tostadas_chihuahua@hotmail.com",
+      "telefono": "(614) 435-4092",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua",
+      "tipo": "Fabricante tostadas",
+      "notas": "Tostadas y botanas regionales",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Botanas Mima",
+      "email": "tostadasmima@gmail.com",
+      "telefono": "(81) 8336-1600",
+      "ciudad": "Santa Catarina",
+      "estado": "NL",
+      "tipo": "Fabricante regional",
+      "notas": "Tostadas — Col. La Fama",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Hergran",
+      "url": "https://www.hergran.com",
+      "email": "informacion@hergran.com",
+      "telefono": "(81) 8104-1891",
+      "ciudad": "Monterrey",
+      "estado": "NL",
+      "tipo": "Marca granola/snacks",
+      "notas": "Granola y snacks con frutos secos",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Afrima / Tostadas Luz Ma",
+      "url": "https://www.tostadasluzma.com.mx",
+      "email": "alimentos_fritos@yahoo.com.mx",
+      "telefono": "(443) 313-7098",
+      "ciudad": "Morelia",
+      "estado": "Michoacán",
+      "tipo": "Fabricante",
+      "notas": "Tostadas tradicional/botanera/horneada y churros de maíz",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Alimentos Susalia",
+      "url": "https://www.susalia.com",
+      "email": "info@susalia.com",
+      "telefono": "(55) 8788-1860",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "Marca tostadas",
+      "notas": "Tortillas, totopos y tostadas de nopal",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Alimentos Típicos Mexicanos GAVI",
+      "email": "administracion@gavi.com.mx",
+      "telefono": "(55) 5360-0980",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex",
+      "tipo": "Fabricante",
+      "notas": "Tostadas, totopos, tortillas de harina",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Industrial Las Norteñas",
+      "email": "servicioalcliente@nortenas.com.mx",
+      "telefono": "800-134-5001",
+      "ciudad": "Tepic",
+      "estado": "Nayarit",
+      "tipo": "Fabricante",
+      "notas": "Tortillas de harina, tostadas y galletas de cacahuate",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Ideas en Alimentos / Tipikas",
+      "url": "https://ideasenalimentos.com.mx",
+      "email": "contacto@ideasenalimentos.com.mx",
+      "telefono": "(999) 985-0291",
+      "ciudad": "Mérida",
+      "estado": "Yucatán",
+      "tipo": "Fabricante",
+      "notas": "Tortillas de harina TIPIKAS",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "La Trigueña",
+      "url": "https://www.latriguena.com.mx",
+      "email": "atencionaclientes@latriguena.com.mx",
+      "telefono": "(961) 615-3684",
+      "ciudad": "Tuxtla Gutiérrez",
+      "estado": "Chiapas",
+      "tipo": "Fabricante",
+      "notas": "Tostadas botaneras, horneadas y chicharrón",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Milenarias",
+      "url": "https://www.milenarias.com",
+      "email": "rosamariacole@hotmail.com",
+      "telefono": "(222) 231-8671",
+      "ciudad": "Puebla",
+      "estado": "Puebla",
+      "tipo": "Fabricante",
+      "notas": "Frituras, totopos, tostadas, botanas",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Productos de Maíz Sabrosam",
+      "url": "https://www.sabrosam.com",
+      "email": "contacto@sabrosam.com.mx",
+      "telefono": "(33) 3608-4555",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco",
+      "tipo": "Fabricante",
+      "notas": "Tortillas, totopos, tostadas en todas sus variedades",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Tostaditas Musiqueras / Productos Paga",
+      "url": "https://www.musiqueras.com.mx",
+      "telefono": "(81) 1093-7324",
+      "ciudad": "Guadalupe",
+      "estado": "NL",
+      "tipo": "Fabricante",
+      "notas": "Tostaditas MUSIQUERAS horneada, chipotle, jalapeño",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Productos Morelos",
+      "email": "productosmorelos@hotmail.com",
+      "telefono": "(668) 812-4898",
+      "ciudad": "Los Mochis",
+      "estado": "Sinaloa",
+      "tipo": "Fabricante",
+      "notas": "Tostadas, totopos, churritos, tortillas",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Señor Cactus / Deli Dip Snacks",
+      "url": "https://www.senorcactus.com.mx",
+      "email": "atencion.clientes@delidipsnacks.com.mx",
+      "telefono": "800-759-0015",
+      "ciudad": "El Marqués",
+      "estado": "Querétaro",
+      "tipo": "Fabricante",
+      "notas": "Tortillas y tostadas de nopal",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Botanas Ramos",
+      "email": "botanasramos@gmail.com",
+      "telefono": "4777704596",
+      "ciudad": "León",
+      "estado": "Guanajuato",
+      "tipo": "Fabricante regional",
+      "notas": "Botanas de harina para freír y cuero para chicharrón",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Tostimex",
+      "url": "https://matangazo.mx/producto/tostimex/",
+      "telefono": "8183513898",
+      "ciudad": "Monterrey",
+      "estado": "NL",
+      "tipo": "Fabricante tostadas",
+      "notas": "Fábrica de tostadas, Av. Ruiz Cortínez 2529 Ote.",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Grupo El Norteño / Del Norte Foods",
+      "url": "https://www.delnortefoods.com",
+      "email": "gleal@delnortefoods.com",
+      "telefono": "(844) 415-1438",
+      "ciudad": "Saltillo",
+      "estado": "Coahuila",
+      "tipo": "Fabricante",
+      "notas": "Productos de maíz",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Fritos Vikingos",
+      "ciudad": "Tultitlán",
+      "estado": "EdoMex",
+      "tipo": "Fabricante",
+      "notas": "Chicharrón botanero — Lomas de Cartagena",
+      "fuente": "cosmos"
+    },
+    {
+      "empresa": "Bofrymex",
+      "ciudad": "Uruapan",
+      "estado": "Michoacán",
+      "tipo": "Fabricante",
+      "notas": "Chicharrón botanero — Col. Casa del Niño",
+      "fuente": "cosmos"
+    },
+    {
+      "empresa": "Productos Soleta de Oro",
+      "email": "soletadeoro81@hotmail.com",
+      "telefono": "(81) 8330-8018",
+      "ciudad": "San Nicolás de los Garza",
+      "estado": "NL",
+      "tipo": "Fabricante",
+      "notas": "Tortillas de harina y tostadas",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Fun Fruit botanas",
+      "url": "https://funfruit.com.mx/",
+      "email": "shop@funfruit.com.mx",
+      "ciudad": "Tlalnepantla",
+      "estado": "EdoMex",
+      "tipo": "Mayoreo B2B",
+      "notas": "Semillas y botanas de frutos secos, envíos nacionales",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Welbing México",
+      "url": "https://www.welbingmexico.com",
+      "email": "equipodeventas@welbingmexico.com",
+      "telefono": "(55) 5360-4763",
+      "ciudad": "Tlalnepantla",
+      "estado": "EdoMex",
+      "tipo": "Granel + marca propia",
+      "notas": "Botanas de nuez, macadamia, golden berries",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Rikanuez",
+      "url": "https://www.rikanuez.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "Ecom + mayoreo",
+      "notas": "Nuez pecana y botana premium",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Proagropecuarios Nauhtlan",
+      "ciudad": "Nautla",
+      "estado": "Veracruz",
+      "tipo": "Productor",
+      "notas": "Frituras de plátano, Barra de Palmas",
+      "fuente": "quiminet"
+    },
+    {
+      "empresa": "Dulces y Cacahuates Noriko",
+      "ciudad": "Iztapalapa",
+      "estado": "CDMX",
+      "tipo": "Distribuidor",
+      "notas": "Botanas y frituras, Claudio Alcer 85 Santa Martha Acatitla",
+      "fuente": "quiminet"
+    },
+    {
+      "empresa": "Casacarlo",
+      "ciudad": "EdoMex",
+      "estado": "EdoMex",
+      "tipo": "Distribuidor",
+      "notas": "Frituras y botanas Estado de México",
+      "fuente": "quiminet"
+    },
+    {
+      "empresa": "E-Feast",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "Distribuidor",
+      "notas": "Frituras y botanas CP 01730",
+      "fuente": "quiminet"
+    },
+    {
+      "empresa": "Nacional Abastecedora de Granos / Galdisa Abastos",
+      "url": "https://www.galdisa.com.mx",
+      "email": "ventas@galdisa.com",
+      "telefono": "(55) 5630-4616",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "Mayoreo industria",
+      "notas": "Cacahuate, pepita, pistache para industria de botanas — CEDA",
+      "fuente": "dirind"
+    },
+    {
+      "empresa": "Nacional de Botanas",
+      "tipo": "Fabricante",
+      "notas": "Chetos extruidos chile-limón, jalapeño, queso — Gardenias 30",
+      "fuente": "research",
+      "telefono": "5551201025",
+      "ciudad": "Ecatepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Frituras Roca",
+      "tipo": "Fabricante",
+      "notas": "Cacahuates, tostadas, totopos, chicharrones, papas — Juana Barragán 153",
+      "fuente": "research",
+      "telefono": "4432022651",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Kurumaya",
+      "tipo": "Fabricante",
+      "notas": "Elaboración de botanas, Granjas Jacinta",
+      "fuente": "denue",
+      "ciudad": "Chimalhuacán",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Fábrica de Cacahuate Chimalhuacán",
+      "tipo": "Fabricante",
+      "notas": "Venustiano Carranza SN, cabecera municipal",
+      "fuente": "denue",
+      "ciudad": "Chimalhuacán",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Tostadería Chiapas Chimalhuacán",
+      "tipo": "Tostadería",
+      "notas": "San Agustín Atlapulco",
+      "fuente": "denue",
+      "ciudad": "Chimalhuacán",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Frituras Cehuan",
+      "tipo": "Fabricante",
+      "notas": "Barrio Cesteros",
+      "fuente": "denue",
+      "ciudad": "Chimalhuacán",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Botanas Laura Chimalhuacán",
+      "tipo": "Fabricante",
+      "notas": "Taletec 8, Fracc. Pescadores",
+      "fuente": "denue",
+      "ciudad": "Chimalhuacán",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Frituras de Harina Organización Popular",
+      "tipo": "Fabricante",
+      "notas": "Barrio Vidrieros",
+      "fuente": "denue",
+      "ciudad": "Chimalhuacán",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Papas Fritas Adán",
+      "tipo": "Fabricante",
+      "notas": "Corregidora SN",
+      "fuente": "denue",
+      "ciudad": "Chimalhuacán",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Elaboración de Botanas Popayán",
+      "tipo": "Fabricante",
+      "notas": "Popayán 36, Barrio Labradores",
+      "fuente": "denue",
+      "ciudad": "Chimalhuacán",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Maquilan Nuez Chimalhuacán",
+      "tipo": "Maquila",
+      "notas": "Islas 1, San Agustín",
+      "fuente": "denue",
+      "ciudad": "Chimalhuacán",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Papas Fritas Benito Juárez Chimalhuacán",
+      "tipo": "Fabricante",
+      "notas": "Barrio Xochitenco",
+      "fuente": "denue",
+      "ciudad": "Chimalhuacán",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Papas Fritas Niños Héroes",
+      "tipo": "Fabricante",
+      "notas": "Col. Artesanos",
+      "fuente": "denue",
+      "ciudad": "Chimalhuacán",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Papas Fritas Corregidora 47",
+      "tipo": "Fabricante",
+      "notas": "Cabecera municipal",
+      "fuente": "denue",
+      "ciudad": "Chimalhuacán",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Postres Frituras y Papas",
+      "tipo": "Fabricante",
+      "notas": "Cofre de Perote 34",
+      "fuente": "denue",
+      "ciudad": "Chimalhuacán",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Tostadería La Doradita",
+      "tipo": "Tostadería",
+      "notas": "Arca de Noé, Acuitlapilco",
+      "fuente": "denue",
+      "ciudad": "Chimalhuacán",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Tostadería La Perla de Occidente",
+      "tipo": "Tostadería",
+      "notas": "Las Cruces, San Pablo",
+      "fuente": "denue",
+      "ciudad": "Chimalhuacán",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Tostadería Mi Linda Soledad",
+      "tipo": "Tostadería",
+      "notas": "Insurgentes 1, San Agustín",
+      "fuente": "denue",
+      "ciudad": "Chimalhuacán",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Papas Fritas Plutarco González",
+      "tipo": "Fabricante",
+      "notas": "Barrio Plateros",
+      "fuente": "denue",
+      "ciudad": "Chimalhuacán",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Elaboración de Papas Camez",
+      "tipo": "Fabricante",
+      "notas": "José Manuel Camez 25",
+      "fuente": "denue",
+      "ciudad": "Chimalhuacán",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Fábrica de Tostadas Remedios",
+      "tipo": "Fabricante tostadas",
+      "notas": "Villa San Lorenzo",
+      "fuente": "denue",
+      "ciudad": "Chimalhuacán",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Frituras Celio",
+      "tipo": "Fabricante",
+      "notas": "González 56, Fundidores",
+      "fuente": "denue",
+      "ciudad": "Chimalhuacán",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Frituras y Papas Vidal",
+      "tipo": "Fabricante",
+      "notas": "La Paz SN",
+      "fuente": "denue",
+      "ciudad": "Chimalhuacán",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Tostadería Kikis",
+      "tipo": "Tostadería",
+      "notas": "Coahuila SN, Villas de San Agustín",
+      "fuente": "denue",
+      "ciudad": "Chimalhuacán",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Tostadería Agustín Melgar",
+      "tipo": "Tostadería",
+      "notas": "Barrio Canteros",
+      "fuente": "denue",
+      "ciudad": "Chimalhuacán",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Papas Fritas Central 10",
+      "tipo": "Fabricante",
+      "notas": "Villas de San Lorenzo",
+      "fuente": "denue",
+      "ciudad": "Chimalhuacán",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Papas Fritas Parral",
+      "tipo": "Fabricante",
+      "notas": "Fracc. San Agustín",
+      "fuente": "denue",
+      "ciudad": "Chimalhuacán",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Tostadería Arisbeth",
+      "tipo": "Tostadería",
+      "notas": "Barrio Mineros",
+      "fuente": "denue",
+      "ciudad": "Chimalhuacán",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Encanto Frituras de Maíz",
+      "tipo": "Marca frituras",
+      "notas": "Conchitas y Tachos — canal retail",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Botanas Leo",
+      "tipo": "Marca regional",
+      "notas": "Frituras de maíz canal tradicional",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Snaky",
+      "tipo": "Marca botana",
+      "notas": "Canal tradicional",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Prispas",
+      "tipo": "Marca papas",
+      "notas": "Retail moderno/tradicional",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Cacahuates Karate",
+      "tipo": "Marca cacahuate",
+      "notas": "Japonés y enchilado",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Cacahuates La Lupita",
+      "tipo": "Marca cacahuate",
+      "notas": "Retail 150g",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Botanas Michel",
+      "tipo": "Marca",
+      "notas": "Chile limón presentación chica",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Sol Tubi-Papa",
+      "tipo": "Marca papas",
+      "notas": "Adobada / Rifaditas",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Pringles México",
+      "tipo": "Marca internacional",
+      "notas": "Kellanova — canal moderno",
+      "fuente": "brand",
+      "url": "https://www.pringles.com/mx/es/home.html",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "ACT II Palomitas",
+      "tipo": "Marca palomitas",
+      "notas": "Microondas, canal retail",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Palomitas Cinépolis",
+      "tipo": "Canal cine",
+      "notas": "Marca propia cines",
+      "fuente": "brand",
+      "url": "https://cinepolis.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Palomitas Cinemex",
+      "tipo": "Canal cine",
+      "notas": "Marca propia cines",
+      "fuente": "brand",
+      "url": "https://cinemex.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Doritos México",
+      "tipo": "Marca PepsiCo",
+      "notas": "Totopos saborizados",
+      "fuente": "brand",
+      "url": "https://www.sabritas.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Cheetos México",
+      "tipo": "Marca PepsiCo",
+      "notas": "Extruido queso",
+      "fuente": "brand",
+      "url": "https://www.sabritas.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Churrumais",
+      "tipo": "Marca PepsiCo",
+      "notas": "Fritura de maíz limón",
+      "fuente": "brand",
+      "url": "https://www.sabritas.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Rancheritos",
+      "tipo": "Marca PepsiCo",
+      "notas": "Fritura tradicional",
+      "fuente": "brand",
+      "url": "https://www.sabritas.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Fritos México",
+      "tipo": "Marca PepsiCo",
+      "notas": "Chile y limón",
+      "fuente": "brand",
+      "url": "https://www.sabritas.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Tostitos México",
+      "tipo": "Marca PepsiCo",
+      "notas": "Totopos salsa verde",
+      "fuente": "brand",
+      "url": "https://www.sabritas.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Chip's Barcel",
+      "tipo": "Marca Bimbo",
+      "notas": "Papas",
+      "fuente": "brand",
+      "url": "https://www.barcel.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Takis Barcel",
+      "tipo": "Marca Bimbo",
+      "notas": "Fuego / original",
+      "fuente": "brand",
+      "url": "https://www.barcel.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Runners Barcel",
+      "tipo": "Marca Bimbo",
+      "notas": "Fritura",
+      "fuente": "brand",
+      "url": "https://www.barcel.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Ricolino botanas",
+      "tipo": "Marca Bimbo",
+      "notas": "Dulce-salado",
+      "fuente": "brand",
+      "url": "https://www.ricolino.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Gold Fritz Galdisa",
+      "tipo": "Línea botana",
+      "notas": "Cacahuate, haba, garbanzo, pepita",
+      "fuente": "research",
+      "url": "https://www.galdisa.com",
+      "email": "info@galdisa.com.mx",
+      "telefono": "(55) 5630-4616",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Representaciones Manrique",
+      "tipo": "Distribuidor",
+      "notas": "Distribuidor Frallier / sazonadores botana",
+      "fuente": "dirind",
+      "telefono": "(33) 3121-6089",
       "ciudad": "Guadalajara",
       "estado": "Jalisco"
+    },
+    {
+      "empresa": "Aprodec Mérida",
+      "tipo": "Distribuidor",
+      "notas": "Distribuidor insumos botana",
+      "fuente": "dirind",
+      "telefono": "(999) 943-7389",
+      "ciudad": "Mérida",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "Botanas Los Compadres sucursal Pensiones",
+      "tipo": "Sucursal mayoreo",
+      "notas": "Calle 23 diagonal, Residencial Pensiones",
+      "fuente": "research",
+      "url": "https://botanasloscompadres.com/",
+      "telefono": "9996474830",
+      "ciudad": "Mérida",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "K-Botanas fábrica Pachuca",
+      "tipo": "Fábrica + tienda",
+      "notas": "Av. Juárez 1001 Local D desde 1998",
+      "fuente": "research",
+      "url": "https://www.k-botanas.com/",
+      "telefono": "5656566389",
+      "ciudad": "Pachuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Botanas extruidas Ecatepec cluster",
+      "tipo": "Cluster industrial",
+      "notas": "Chetos y extruidos oriente",
+      "fuente": "research",
+      "ciudad": "Ecatepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Botanas Iztapalapa cluster",
+      "tipo": "Cluster industrial",
+      "notas": "Fábricas oriente CDMX",
+      "fuente": "research",
+      "ciudad": "Iztapalapa",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Botanas Neza cluster",
+      "tipo": "Cluster",
+      "notas": "Frituras populares",
+      "fuente": "research",
+      "ciudad": "Nezahualcóyotl",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Botanas Tláhuac / Milpa Alta",
+      "tipo": "Cluster",
+      "notas": "Tostadas y maíz",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Totopos Guerrero",
+      "tipo": "Marca totopos",
+      "notas": "Canal abarrotes",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Tostadas Saníssimo horneadas",
+      "tipo": "Marca tostadas",
+      "notas": "Grupo Bimbo",
+      "fuente": "brand",
+      "url": "https://www.sanissimo.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Tostadas Salmas nopal",
+      "tipo": "Marca tostadas",
+      "notas": "Horneadas",
+      "fuente": "brand",
+      "url": "https://www.salmas.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Palomitas Morel",
+      "tipo": "Marca palomitas",
+      "notas": "Retail mantequilla",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Great Value papas Walmart",
+      "tipo": "Private label",
+      "notas": "Jalapeño / adobadas",
+      "fuente": "brand",
+      "url": "https://www.walmart.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "HEB papas y nachos",
+      "tipo": "Private label",
+      "notas": "Thin, ridged, nacho cheese",
+      "fuente": "brand",
+      "url": "https://www.heb.com.mx/botanas/papas-y-frituras",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Member's Mark botanas Sam's",
+      "tipo": "Private label",
+      "notas": "Mayoreo club",
+      "fuente": "brand",
+      "url": "https://www.sams.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Kirkland snacks Costco MX",
+      "tipo": "Private label",
+      "notas": "Nueces y chips",
+      "fuente": "brand",
+      "url": "https://www.costco.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Nature's Heart trail mix",
+      "tipo": "Marca healthy",
+      "notas": "Mix nueces 300g/900g",
+      "fuente": "brand",
+      "url": "https://naturesheart.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Cacahuates Golden Galdisa retail",
+      "tipo": "Mayoreo CEDA",
+      "notas": "Industria y retail",
+      "fuente": "research",
+      "url": "https://www.galdisa.com",
+      "email": "ventas@galdisa.com",
+      "telefono": "(55) 5630-4616",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Botanas a granel Central de Abasto",
+      "tipo": "Mayoreo CEDA",
+      "notas": "Kilo y costal",
+      "fuente": "research",
+      "ciudad": "Iztapalapa",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Botanas a granel Abastos GDL",
+      "tipo": "Mayoreo abastos",
+      "notas": "Occidente",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Botanas a granel Abastos MTY",
+      "tipo": "Mayoreo abastos",
+      "notas": "Norte",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Chicharrón botanero Sigma Porky",
+      "tipo": "Marca nacional",
+      "notas": "Cerdo botanero",
+      "fuente": "brand",
+      "url": "https://www.sigma-alimentos.com/",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Chicharrón de harina mayoreo CDMX",
+      "tipo": "Mayoreo",
+      "notas": "Canal fiesta / kilo",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Churritos de nopal / amaranto CDMX",
+      "tipo": "Fabricante healthy",
+      "notas": "Línea alternativa",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Platanitos fritos sureste",
+      "tipo": "Fabricante regional",
+      "notas": "Botana de plátano",
+      "fuente": "research",
+      "ciudad": "Yucatán",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "Pepitas enchiladas mayoreo",
+      "tipo": "Mayoreo semillas",
+      "notas": "Pepita chile",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Habas enchiladas mayoreo",
+      "tipo": "Mayoreo",
+      "notas": "Canal abarrotes",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Garbanzo enchilado mayoreo",
+      "tipo": "Mayoreo",
+      "notas": "Canal abarrotes",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Semillas de girasol botana",
+      "tipo": "Mayoreo",
+      "notas": "Tostadas y saladas",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Palomitas de olla / gourmet CDMX",
+      "tipo": "D2C gourmet",
+      "notas": "Sabores artesanales",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Botanas healthy horneadas MX",
+      "tipo": "Marca healthy",
+      "notas": "Baked snacks",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Chips de nopal MX",
+      "tipo": "Marca healthy",
+      "notas": "Botana de nopal",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Chips de camote MX",
+      "tipo": "Marca healthy",
+      "notas": "Alternativa a papa",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Totopos de nopal Susalia línea",
+      "tipo": "Línea nopal",
+      "notas": "Totopos y tostadas",
+      "fuente": "research",
+      "url": "https://www.susalia.com",
+      "email": "info@susalia.com",
+      "telefono": "(55) 8788-1860",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Churros de maíz Luz Ma",
+      "tipo": "Línea churros",
+      "notas": "Fábrica tostadas + churros",
+      "fuente": "research",
+      "url": "https://www.tostadasluzma.com.mx",
+      "email": "alimentos_fritos@yahoo.com.mx",
+      "telefono": "(443) 313-7098",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Tostaditas Musiqueras chipotle",
+      "tipo": "Línea sabores",
+      "notas": "Jalapeño / chipotle / casera",
+      "fuente": "research",
+      "url": "https://www.musiqueras.com.mx",
+      "telefono": "(81) 1093-7324",
+      "ciudad": "Guadalupe",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Cronchitos Lily",
+      "tipo": "SKU bandera",
+      "notas": "Cronchitos y tostis",
+      "fuente": "research",
+      "url": "https://www.botanaslily.com.mx",
+      "email": "contacto@botanaslily.com",
+      "telefono": "(33) 3639-0504",
+      "ciudad": "Tlaquepaque",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Donitas Totis",
+      "tipo": "SKU bandera",
+      "notas": "Limón y sal / chile",
+      "fuente": "research",
+      "url": "https://www.totis.com.mx/",
+      "email": "jmartinez@totis.com.mx",
+      "telefono": "800-201-7333",
+      "ciudad": "Tizayuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Pap's Totis",
+      "tipo": "SKU papas",
+      "notas": "Corte casero",
+      "fuente": "research",
+      "url": "https://www.totis.com.mx/",
+      "email": "jmartinez@totis.com.mx",
+      "telefono": "800-201-7333",
+      "ciudad": "Tizayuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Tronquitos Kande",
+      "tipo": "SKU bandera",
+      "notas": "Crucitas y Toskys",
+      "fuente": "research",
+      "url": "https://www.fritostronquitos.com.mx",
+      "email": "botanaskande@prodigy.net.mx",
+      "telefono": "(81) 8354-5871",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Matracas CGM",
+      "tipo": "Marca",
+      "notas": "Frituras MATRACAS",
+      "fuente": "research",
+      "url": "https://www.empresascgm.com.mx",
+      "email": "cogumo@prodigy.net.mx",
+      "telefono": "(591) 917-1349",
+      "ciudad": "Zumpango",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Kokis Productos Ávila",
+      "tipo": "Marca",
+      "notas": "Fritos KOKIS",
+      "fuente": "research",
+      "url": "https://www.productosavila.com",
+      "email": "compras@productosavila.com",
+      "telefono": "(33) 3609-1042",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Meber Grupo Medesa",
+      "tipo": "Marca",
+      "notas": "Cacahuate japonés y dulces",
+      "fuente": "research",
+      "url": "https://www.grupomedesa.com",
+      "email": "contacto@grupomedesa.com",
+      "telefono": "(722) 237-4573",
+      "ciudad": "San Mateo Atenco",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "El Charrito Friconsel",
+      "tipo": "Marca",
+      "notas": "Papas y chicharrón",
+      "fuente": "research",
+      "url": "https://www.friconsel.com",
+      "email": "info@friconsel.com",
+      "telefono": "(81) 8327-1918",
+      "ciudad": "Guadalupe",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Pikatones Del Rey",
+      "tipo": "Marca",
+      "notas": "Cacahuate pika",
+      "fuente": "research",
+      "url": "https://www.facebook.com/pikatones",
+      "email": "cacahuatesdelrey@hotmail.com",
+      "telefono": "(449) 996-2626",
+      "ciudad": "Aguascalientes",
+      "estado": "Aguascalientes"
+    },
+    {
+      "empresa": "Rancho Sano Galfra",
+      "tipo": "Marca",
+      "notas": "Cacahuates y Charro Pancho",
+      "fuente": "research",
+      "url": "https://www.galfra.com",
+      "email": "ventas@galfra.com",
+      "telefono": "(378) 103-2851",
+      "ciudad": "Tepatitlán",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Boka-2 Bokados",
+      "tipo": "Marca",
+      "notas": "Entremeses Arca Continental",
+      "fuente": "research",
+      "url": "https://www.bokados.com",
+      "email": "info@bokados.com",
+      "telefono": "800-800-3442",
+      "ciudad": "Santa Catarina",
+      "estado": "NL"
+    },
+    {
+      "empresa": "NOM NOMS Diamante",
+      "tipo": "Marca",
+      "notas": "Cacahuate y nueces",
+      "fuente": "research",
+      "url": "https://www.productosdiamante.com",
+      "email": "contacto@productosdiamante.com",
+      "telefono": "(999) 944-0183",
+      "ciudad": "Kanasín",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "Manzela La Shinita",
+      "tipo": "Marca",
+      "notas": "Japonés y tamarindo",
+      "fuente": "research",
+      "url": "https://www.manzela.com.mx",
+      "email": "manzela@prodigy.net.mx",
+      "telefono": "800-715-7208",
+      "ciudad": "Texcoco",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "CRISPY LEMON Nipon",
+      "tipo": "SKU",
+      "notas": "Cacahuate chile-limón",
+      "fuente": "research",
+      "url": "https://www.niponbotanas.com",
+      "email": "info@pnipon.com",
+      "telefono": "(55) 5716-8600",
+      "ciudad": "Iztacalco",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Chicharrón Arran botanero",
+      "tipo": "Línea cerdo",
+      "notas": "Placero y botanero",
+      "fuente": "research",
+      "url": "https://www.arran.mx",
+      "email": "productos@arran.mx",
+      "telefono": "800-823-2747",
+      "ciudad": "Acatlán",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Frubotanas Planta de Vida",
+      "tipo": "Marca healthy",
+      "notas": "Fruta deshidratada",
+      "fuente": "research",
+      "url": "https://www.plantavit.mx",
+      "email": "comentarios@plantavit.mx",
+      "telefono": "(81) 8355-4032",
+      "ciudad": "Guadalupe",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Botanas de amaranto Indugrumex",
+      "tipo": "Línea amaranto",
+      "notas": "Churros y palanquetas",
+      "fuente": "research",
+      "url": "https://www.indugrumex.com",
+      "email": "ventas@indugrumex.com",
+      "telefono": "(55) 2483-7013",
+      "ciudad": "Atizapán",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Cacahuates Martin Morelos",
+      "tipo": "Marca",
+      "notas": "Cacahuates MARTIN",
+      "fuente": "research",
+      "url": "https://www.cacahuatesdemorelos.com.mx",
+      "telefono": "(55) 5626-7516",
+      "ciudad": "Tlalpan",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Botanas de tamarindo K-Botanas",
+      "tipo": "Línea tamarindo",
+      "notas": "Enchilado fábrica",
+      "fuente": "research",
+      "url": "https://www.k-botanas.com/",
+      "telefono": "5656566389",
+      "ciudad": "Pachuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Cueritos San José",
+      "tipo": "Línea cueritos",
+      "notas": "Curtidos y chetos",
+      "fuente": "research",
+      "url": "https://botanassanjose.com/",
+      "email": "ventas@prosanjo.com.mx",
+      "telefono": "5545289162",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Churritos nopal Bibisnacks",
+      "tipo": "Línea churrito",
+      "notas": "Nopal y amaranto",
+      "fuente": "research",
+      "url": "http://botanasbibisnacks.com/",
+      "email": "botanasbibi@gmail.com",
+      "telefono": "5562841244",
+      "ciudad": "Iztapalapa",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Maquila Rosasnack SLP",
+      "tipo": "Maquila marca propia",
+      "notas": "Papas y frituras",
+      "fuente": "research",
+      "email": "administracionprovifiesta@botanasprovi.com.mx",
+      "telefono": "4445553156",
+      "ciudad": "Mexquitic",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Botanas fiesta / piñata mayoreo",
+      "tipo": "Mayoreo fiesta",
+      "notas": "Surtidos para eventos",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Surtidos Totis party mix",
+      "tipo": "SKU fiesta",
+      "notas": "Party Mix 30 pzas",
+      "fuente": "research",
+      "url": "https://www.totis.com.mx/",
+      "telefono": "800-201-7333",
+      "ciudad": "Tizayuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Botanas Yucatán charritos cluster",
+      "tipo": "Cluster regional",
+      "notas": "Charritos, tostadas chaya",
+      "fuente": "research",
+      "ciudad": "Mérida",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "Botanas Jalisco cluster",
+      "tipo": "Cluster regional",
+      "notas": "WIPO, Lily, Ávila, Galfra",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Botanas Nuevo León cluster",
+      "tipo": "Cluster regional",
+      "notas": "Kande, BYDSA, Friconsel, Bokados",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Botanas SLP cluster",
+      "tipo": "Cluster regional",
+      "notas": "Don Tacho, RIC, Provi, Rosasnack",
+      "fuente": "research",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Botanas Hidalgo cluster",
+      "tipo": "Cluster regional",
+      "notas": "Totis, Arran, K-Botanas",
+      "fuente": "research",
+      "ciudad": "Hidalgo",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Botanas Sonora cluster",
+      "tipo": "Cluster regional",
+      "notas": "Kris, Diana, El Azteca",
+      "fuente": "research",
+      "ciudad": "Sonora",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Aceites para freír Oleofinos canal botana",
+      "tipo": "Insumo industria",
+      "notas": "Easy Fried — proveedores de fábricas",
+      "fuente": "dirind",
+      "url": "https://www.oleofinos.com.mx",
+      "email": "sucet.alvarez@oleofinos.com.mx",
+      "telefono": "(477) 392-6516",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Sazonadores botana Frallier",
+      "tipo": "Insumo industria",
+      "notas": "Sabores para churrito/papa",
+      "fuente": "dirind",
+      "url": "https://www.frallier.com",
+      "email": "emiranda@frallier.com",
+      "telefono": "800-722-6737",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Pellets Gustinos snacks",
+      "tipo": "Insumo industria",
+      "notas": "Pasta para snacks",
+      "fuente": "dirind",
+      "url": "https://www.gustinos.com",
+      "email": "ventas@gustinos.com",
+      "telefono": "(33) 3686-1771",
+      "ciudad": "Tlajomulco",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Pellet chicharrón Alimentos Finos del Norte",
+      "tipo": "Insumo industria",
+      "notas": "Cuero de cerdo deshidratado",
+      "fuente": "dirind",
+      "email": "jgarza@hotmail.com",
+      "telefono": "(844) 432-0602",
+      "ciudad": "Saltillo",
+      "estado": "Coahuila"
     }
   ]
 }

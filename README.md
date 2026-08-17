@@ -74,7 +74,30 @@ leads/por_nicho/{ID}_{slug}.csv|.json|.md
 | 02 | Colágeno hidrolizado | `02_colageno_hidrolizado.*` |
 | 03 | Frutos secos | `03_frutos_secos.*` |
 | 04 | Cartas coleccionables / TCG | `04_cartas_coleccionables.*` |
-| 05 | Botanas y snacks (scaffold) | `05_botanas_snacks.*` |
+| 05 | Botanas y snacks mexicanos | `05_botanas_snacks.*` |
+| 06 | Maquillaje artístico / FX | `06_maquillaje_artistico.*` |
+| 07 | Disfraces | `07_disfraces.*` |
+| 08 | Cestas de regalo / arcones | `08_cestas_de_regalo.*` |
+| 09 | Almohadas y cobijas | `09_almohadas_cobijas.*` |
+| 10 | Cargadores / porta laptop | `10_cargadores_porta_laptop.*` |
+| 11 | Trajes típicos | `11_trajes_tipicos.*` |
+| 12 | Zapatos para danza | `12_zapatos_para_danza.*` |
+| 13 | Juguetes sensoriales / TEA | `13_juguetes_sensoriales.*` |
+| 14 | Miniaturas / modelismo escala | `14_articulos_miniatura.*` |
+| 15 | Insumos para tatuar | `15_insumos_para_tatuar.*` |
+| 16 | Invitaciones físicas | `16_invitaciones_fisicas.*` |
+| 17 | Miel afrodisíaca / Royal Honey | `17_miel_afrodisiaca.*` |
+| 18 | Tijeras con patrón al corte | `18_tijeras_patron_al_corte.*` |
+| 19 | Charms / dijes plata 925 | `19_charms.*` |
+| 20 | Pupilentes de color | `20_pupilentes.*` |
+| 21 | Insumos para uñas / press on | `21_insumos_unas_press_on.*` |
+| 22 | Tarot, lociones y velas esotéricas | `22_tarot_velas_esotericas.*` |
+| 23 | Shampoo artesanal / con tinte | `23_shampoo_artesanal_tinte.*` |
+| 24 | Hilos y estambre | `24_hilos_y_estambre.*` |
+| 25 | Bolsas de regalo | `25_bolsas_de_regalo.*` |
+| 26 | Tenis, botas y playeras | `26_tenis_botas_playeras.*` |
+| 27 | Skincare / cosméticos | `27_skincare_cosmeticos.*` |
+| 28 | Esmaltes, pegamentos y piedritas | `28_productos_unas_esmaltes.*` |
 
 Catálogo: `leads/nichos.json` (58 nichos).
 

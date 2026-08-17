@@ -58,16 +58,32 @@
 | Medicina / Suministros | Insumos para tatuar | Zebra Tattoo Supply | https://zebratattoosupply.com/ | Máquinas, cartuchos, PMU, envíos MX |
 | Medicina / Suministros | Insumos para tatuar | Make Art Supply | https://makeartsupply.com/ | Insumos profesionales tatuadores |
 | Medicina / Suministros | Insumos para tatuar | Inkside Supply | https://inksidesupply.com/ | CDMX, tintas, cartuchos, máquinas |
+| Alimentos | Miel afrodisíaca | Miel Oro | https://mieloro.com.mx/ | Apicultores GDL, +40 años, informacion@mieloro.com.mx |
+| Alimentos | Miel afrodisíaca | Tropical Honey | https://www.tropicalhoney.com.mx/ | Mérida, ventas@tropicalhoney.com.mx |
+| Alimentos | Miel afrodisíaca | Maya Honey | https://www.mayahoney.com/ | Izamal/Yucatán, contacto@mayahoney.com |
+| Alimentos | Miel afrodisíaca | Royal Honey MX | https://royalhoneymx.com/ | Mayoreo miel Malasia, envío discreto |
 | Papelería | Invitaciones físicas | Samsara Invitaciones | https://www.samsarainvitaciones.com.mx/ | Bodas, XV, hot stamping, digitales |
 | Papelería | Invitaciones físicas | Print The Joy / Tienda de Invitaciones | https://tiendadeinvitaciones.com/ | SLP, envíos nacionales gratis >$3500 |
-| Joyería | Charms | Plarte Charms | https://plarte.com.mx/collections/dijes-para-pulseras-y-pulseras | Charms plata 925 |
+| Papelería | Tijeras con patrón al corte | Scrap It Coyoacán | https://scrapit.mx/ | Fiskars / Silhouette / Cricut, scrapitmexico@gmail.com |
+| Papelería | Tijeras con patrón al corte | La Esquinita del Scrap | https://laesquinitadelscrap.com/ | Narvarte, hola@laesquinitadelscrap.com |
+| Papelería | Tijeras con patrón al corte | Lumen | https://lumen.com.mx/ | Mayoreo útiles y tijeras, ventasmayoreo@ |
+| Papelería | Tijeras con patrón al corte | Papelería Mérida | https://papeleriasmerida.com.mx/ | Mayoreo tijeras escolares, 9993813500 |
+| Joyería | Charms | Plarte | https://plarte.com.mx/ | SLP + Palma CDMX + GDL, ventas@plarte.com.mx |
 | Joyería | Charms | Charms MX / Charms SMX | https://www.charmssmx.com/ | Dijes plata 925, entrega CDMX metro |
-| Belleza | Pupilentes | Lentes en México | https://www.lentesenmexico.com.mx/13-pupilentes-de-color | Air Optix Colors, FreshLook, etc. |
-| Belleza | Pupilentes | Lentematic | https://lentematic.com/collections/vista-pupilentes-de-colores | Pupilentes cosméticos marcas premium |
-| Belleza | Insumos para uñas / press on | Círculo B | https://circulob.mx/ | Esmaltes, pegamentos, piedritas |
-| Artículos religiosos / Esoterismo | Tarot, lociones y velas esotéricas | Stellum | https://www.stellum.mx/ | Monterrey, tarot, velas mágicas |
-| Artículos religiosos / Esoterismo | Tarot, lociones y velas esotéricas | Tienda Esotérica MX | https://tiendaesoterica.com.mx/ | Tarot, velas, wicca, amuletos |
-| Artículos religiosos / Esoterismo | Tarot, lociones y velas esotéricas | Magic Ways MX | https://magicways.mx/ | Velas, tarot, cuarzos - Metepec |
+| Joyería | Charms | Malandra Jewelry | https://malandra.mx/ | SPGG, clientes@malandra.mx |
+| Joyería | Charms | Platería Emma | https://plateriaemma-mayoreo.com/ | Taxco mayoreo, plateriaemma@gmail.com |
+| Belleza | Pupilentes | Lentes en México | https://www.lentesenmexico.com.mx/13-pupilentes-de-color | Air Optix / FreshLook, ventas@lentesenmexico.com.mx |
+| Belleza | Pupilentes | Lentematic | https://lentematic.com/collections/vista-pupilentes-de-colores | SPGG desde 2012, clientes@lentematic.com |
+| Belleza | Pupilentes | GioLens Vision Care | https://www.giolensvisioncare.com.mx/ | Tijuana mayoreo, giolens@hotmail.com |
+| Belleza | Pupilentes | SColorsMX | https://www.scolorsmx.com/ | Freshlady, scolorsmx@gmail.com |
+| Belleza | Insumos para uñas / press on | Círculo B | https://circulob.mx/ | Tehuacán, contacto@circulob.mx |
+| Belleza | Insumos para uñas / press on | Nails Shop SLP | https://www.nailsshop.com.mx/ | Mayoreo Fantasy/Organic/Wapizima |
+| Belleza | Insumos para uñas / press on | Wapizima | https://wapizima.shop/ | Marca nacional, antonio@wapizima.info |
+| Belleza | Insumos para uñas / press on | Kiss México | https://www.kissmexico.mx/collections/press-on | imPRESS press-on |
+| Artículos religiosos / Esoterismo | Tarot, lociones y velas esotéricas | Stellum | https://www.stellum.mx/ | Monterrey, tienda.stellum@icloud.com |
+| Artículos religiosos / Esoterismo | Tarot, lociones y velas esotéricas | Tarots del Mundo | https://tarotsdelmundo.com/ | Polanco, info@tarotsdelmundo.com |
+| Artículos religiosos / Esoterismo | Tarot, lociones y velas esotéricas | Magic Ways MX | https://magicways.mx/ | Metepec, velas soya y cuarzos |
+| Artículos religiosos / Esoterismo | Tarot, lociones y velas esotéricas | Rinconcito Mágico | https://www.rinconcitomagico.mx/ | Pachuca, info@rinconcitomagico.mx |
 | Belleza | Jabones y shampoos | Rizos Mexicanos (ejemplo) | https://www.rizosmexicanos.com/ | Cuidado cabello rizado MX |
 | Belleza | Productos para el cabello | Don Juan MX | https://donjuan.mx/ | Keratinas, cremas, ampolletas |
 | Mercería | Hilos y estambre | Hilos y Estambres de México | https://www.hilosyestambresdemexicosadecv.com/ | Centro CDMX Mesones 128, +22 años |
@@ -107,13 +123,21 @@
 
 ### Alimentos — Botanas y snacks mexicanos
 
+Lote 05 exportado: `leads/por_nicho/05_botanas_snacks.*` — **232 leads** (110 Alta · 98 email · 114 teléfono).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| Botanas Torritos | https://botanastorritos.com/ | Fabricante D2C | **Alta** | Botanas yucatecas desde 1953, tienda online |
-| Botanas Los Compadres | https://botanasloscompadres.com/ | Fabricante/distribuidor | **Alta** | Proveedor tiendas y supermercados, Yucatán |
-| Totis | https://www.totis.com.mx/ | Marca nacional | **Media** | Botanas mexicanas clásicas |
-| Botanas Lily | https://www.botanaslily.com.mx | Fabricante | **Media** | GDL, cronchitos y tostis |
-| Productos Don Tacho | https://www.productosdontacho.com/ | Fábrica botanas | **Media** | SLP, frituras y botanas |
+| Botanas Torritos | https://botanastorritos.com/ | Fabricante D2C | **Alta** | Yucatán desde 1953, gerenciadeventas@ |
+| Botanas Los Compadres | https://botanasloscompadres.com/ | Fabricante/distribuidor | **Alta** | Mayoreo Kanasín, 9991779873 |
+| K-Botanas | https://www.k-botanas.com/ | Fabricante D2C | **Alta** | Fábrica Pachuca, tienda online |
+| Botanamex | https://botanamex.com.mx/ | Fabricante | **Alta** | Chalco, ventas@botanamex.com.mx |
+| Botanas San José | https://botanassanjose.com/ | Fabricante | **Alta** | Cueritos y frituras CDMX |
+| Beto Botanas | https://betobotanas.com.mx/ | Fabricante/distribuidor | **Alta** | Mayoreo EdoMex |
+| Botanas Herrera | https://www.botanasherrera.com | Fabricante | **Alta** | Mérida, charritos y totopos |
+| Botanas WIPO | https://www.botanaswipo.com | Fabricante | **Alta** | Zapopan |
+| Productos Don Tacho | https://www.productosdontacho.com/ | Fábrica botanas | **Alta** | SLP, ventas@productosdontacho.com |
+| Productos Lily | https://www.botanaslily.com.mx | Fabricante | **Alta** | GDL, cronchitos y tostis |
+| Totis | https://www.totis.com.mx/ | Marca nacional | **Alta** | Tizayuca, donitas y Pap's |
 | Chan Chips (ejemplo) | https://chanchips.com/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
 
 ### Alimentos — Frutos secos
@@ -129,10 +153,20 @@
 
 ### Alimentos — Miel afrodisíaca
 
+Lote 17 exportado: `leads/por_nicho/17_miel_afrodisiaca.*` — **256 leads** (71 Alta · 50 email · 72 teléfono).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| Cannaland | https://cannaland.mx/ | Retail wellness | **Media** | Royal Honey y similares |
-| Mieles de Malasia MX (ejemplo) | https://www.mielesdemalasiamx.com/ | Ejemplo original | **Referencia** | Ejemplo del cliente - Puebla |
+| Miel Oro | https://mieloro.com.mx/ | Productor | **Alta** | GDL, informacion@mieloro.com.mx |
+| Tropical Honey | https://www.tropicalhoney.com.mx/ | Productor | **Alta** | Mérida, ventas@tropicalhoney.com.mx |
+| Maya Honey | https://www.mayahoney.com/ | Productor | **Alta** | Izamal, contacto@mayahoney.com |
+| Mi Miel Yucatán | https://www.mimiel.com.mx/ | Productor | **Alta** | apicola@mimiel.com.mx |
+| Apiarios Abarca | https://apiariosabarca.com/ | Productor | **Alta** | CDMX, info@apiariosabarca.com |
+| Mieles México | https://mielesmexico.com/ | Ecom | **Alta** | Querétaro, info@mielesmexico.com |
+| NaturaSol / Mielmex | https://www.naturasol.com.mx/ | Marca | **Alta** | Naucalpan, recepcion@mielmex.com |
+| Royal Honey MX | https://royalhoneymx.com/ | Mayoreo D2C | **Media** | Miel Malasia, mayoreo desde 5 cajas |
+| Cannaland | https://cannaland.mx/ | Retail wellness | **Media** | Royal Honey VVIP |
+| Mieles de Malasia MX (ejemplo) | https://www.mielesdemalasiamx.com/ | Ejemplo original | **Referencia** | Ejemplo del cliente — Puebla 2222627488 |
 
 ### Alimentos / Salud — Gomitas de vitaminas
 
@@ -177,11 +211,16 @@
 
 ### Belleza — Insumos para uñas / press on
 
+Lote 21 exportado: `leads/por_nicho/21_insumos_unas_press_on.*` — **214 leads** (51 Alta · 16 email · 51 teléfono).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| Círculo B | https://circulob.mx/ | Insumos uñas | **Alta** | Esmaltes, pegamentos, piedritas |
-| Mi Shop MX | https://www.mishop.mx/ | Mayoreo belleza | **Media** | Press on y accesorios mayoreo |
-| MC Nails (vía ML) | https://listado.mercadolibre.com.mx/uñas-press-on | Marca tips | **Media** | Tips press on mayoreo |
+| Círculo B | https://circulob.mx/ | Mayoreo | **Alta** | Tehuacán, contacto@circulob.mx · 2381270502 |
+| Nails Shop SLP | https://www.nailsshop.com.mx/ | Mayoreo | **Alta** | Fantasy/Organic/Wapizima, 4448096424 |
+| Fantasy Nails Shop CDMX | https://www.facebook.com/fantasynailscdmx/ | Mayoreo | **Alta** | 5579007784 |
+| Wapizima | https://wapizima.shop/ | Marca | **Alta** | antonio@wapizima.info |
+| Cololab |  | Tienda | **Alta** | Izazaga 89, 5539946917 |
+| Kiss México | https://www.kissmexico.mx/collections/press-on | Marca | **Media** | imPRESS |
 | Unika Studio (ejemplo) | https://unikastudiomexico.com/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
 
 ### Belleza — Jabones y shampoos
@@ -192,10 +231,15 @@
 
 ### Belleza — Maquillaje artístico
 
+Lote 06 exportado: `leads/por_nicho/06_maquillaje_artistico.*` — **232 leads** (75 Alta).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| MEGA Body Paint México | https://www.facebook.com/MegaBodyPaintMx/ | Servicio + producto | **Media** | Body paint y maquillaje artístico |
-| Don Checo Art | https://www.donchecoart.com/bodypaint | Servicio profesional | **Media** | Body paint eventos masivos MX |
+| Artist City | https://www.artistcity.com.mx/ | Tienda profesional | **Alta** | Distribuidor Kryolan, Roma Norte |
+| The Makeup Center | https://themakeupcenter.com/ | Academia + tienda | **Alta** | ventas@themakeupc.com |
+| Bond's Boutique | https://www.bondsboutique.com.mx/ | Tienda artística | **Alta** | Body paint, Mehron, face paint |
+| Bodyart Productos |  | Marca body paint | **Alta** | bodyartproductos@gmail.com |
+| Helios Body Paint | https://helios-body-paint.ueniweb.com/ | Estudio + producto | **Alta** | FX, carnaval, catrinas |
 | Colibrix (ejemplo) | https://colibrix.com.mx/productos/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
 
 ### Belleza — Pelucas de colores
@@ -224,20 +268,45 @@
 |---|---|---|---|---|
 | Don Juan MX | https://donjuan.mx/ | Retail profesional cabello | **Alta** | Keratinas, cremas, ampolletas |
 
-### Belleza — Pupilentes
+### Belleza — Productos para uñas (esmaltes, pegamentos, piedritas)
+
+Lote 28 exportado: `leads/por_nicho/28_productos_unas_esmaltes.*` — **206 leads** (43 Alta · 24 email · 42 teléfono).
 
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| Lentes en México | https://www.lentesenmexico.com.mx/13-pupilentes-de-color | Óptica online | **Alta** | Air Optix Colors, FreshLook, etc. |
-| Lentematic | https://lentematic.com/collections/vista-pupilentes-de-colores | Óptica online | **Alta** | Pupilentes cosméticos marcas premium |
-| GioLens Vision Care | https://www.giolensvisioncare.com.mx/ | Marca/retail | **Media** | Pupilentes de color varios modelos |
+| Círculo B | https://circulob.mx/ | Mayoreo | **Alta** | Tehuacán, contacto@circulob.mx |
+| Bella Bella | https://bellabella.mx/ | Mayoreo | **Alta** | ventas@bellabella.mx · mín. $8000 |
+| Nails Shop SLP | https://www.nailsshop.com.mx/ | Mayoreo | **Alta** | Fantasy / Organic / Wapizima |
+| Fantasy Nails Shop CDMX | https://www.facebook.com/fantasynailscdmx/ | Mayoreo | **Alta** | 5579007784 |
+| Wapizima | https://wapizima.shop/ | Marca | **Alta** | antonio@wapizima.info |
+
+### Belleza — Pupilentes
+
+Lote 20 exportado: `leads/por_nicho/20_pupilentes.*` — **206 leads** (58 Alta · 44 email · 58 teléfono).
+
+| Empresa | URL | Tipo | Prioridad | Notas |
+|---|---|---|---|---|
+| Lentes en México | https://www.lentesenmexico.com.mx/ | Óptica online | **Alta** | ventas@lentesenmexico.com.mx · 5562860422 |
+| Lentematic | https://lentematic.com/ | Ecom | **Alta** | SPGG, clientes@lentematic.com · 8000220342 |
+| GioLens Vision Care | https://www.giolensvisioncare.com.mx/ | Marca/mayoreo | **Alta** | Tijuana, giolens@hotmail.com · 6643700664 |
+| SColorsMX | https://www.scolorsmx.com/ | Mayoreo D2C | **Alta** | Freshlady, scolorsmx@gmail.com |
+| Pupilentes GDL | https://www.facebook.com/pupilentesGDL/ | Tienda | **Alta** | Plaza Kristal, pupilentesgdl@gmail.com |
+| Más Visión | https://www.masvision.mx/ | Ecom óptica | **Media** | Acuvue / Air Optix / Biofinity |
 | Pupilentes.shop (ejemplo) | https://pupilentes.shop/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
 
 ### Belleza — Shampoo artesanal / con tinte
 
+Lote 23 exportado: `leads/por_nicho/23_shampoo_artesanal_tinte.*` — **206 leads** (28 Alta · 17 email · 62 teléfono).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| Meidu (ejemplo) | https://www.meidu.com.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
+| Rizos Mexicanos | https://www.rizosmexicanos.com/ | Marca D2C | **Alta** | Sólido avena, 5514718602 |
+| Don Juan Beauty Supply | https://donjuan.mx/ | Mayoreo | **Alta** | contacto@donjuan.mx · Hermosillo |
+| Bam Boo Lifestyle | https://www.bamboolifestyle.com.mx/ | Marca eco | **Alta** | onnearrss@gmail.com · 5579388337 |
+| Jabones Artesanales Ordaz | https://www.jabonesartesanalesordaz.net/ | Fabricante | **Alta** | ventas@jabonesartesanalesordaz.net |
+| RIS.O.S. | https://risos.com.mx/tienda/ | Marca rizos | **Alta** | Escobedo 194, 5564657515 |
+| AMAI MX | https://amai.mx/ | Marca D2C | **Media** | Shampoo en barra |
+| MEIDU (ejemplo) | https://www.meidu.com.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente — 5511336665 |
 
 ### Belleza — Skincare Coreano
 
@@ -252,23 +321,37 @@
 
 ### Belleza — Skincare y maquillaje
 
+Lote 27 cubre también este cluster: `leads/por_nicho/27_skincare_cosmeticos.*`
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
 | Beauty Care Latam (ejemplo) | https://beautycarelatam.com.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
 
 ### Belleza — Skincare, cosméticos
 
+Lote 27 exportado: `leads/por_nicho/27_skincare_cosmeticos.*` — **208 leads** (52 Alta · 31 email · 48 teléfono).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| Meriti Cosmetics (ejemplo) | https://meriticosmetics.com.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
+| Yoon Lab | https://yoonlab.mx/ | K-beauty | **Alta** | contacto@yoonlab.mx · 5520041035 |
+| Klara Beauty | https://klarabeauty.com.mx/ | K-beauty | **Alta** | León, hola@klarabeauty.com.mx |
+| MakeupMX | https://makeupmx.com/ | Mayoreo | **Alta** | Qro, equipomakeupmx@gmail.com |
+| The Makeup Center | https://themakeupcenter.com/ | Tienda profesional | **Alta** | ventas@themakeupc.com |
+| Bond's Boutique | https://www.bondsboutique.com.mx/ | Tienda artística | **Alta** | ventas@bondsboutique.com.mx |
+| Beauty Care Latam | https://beautycarelatam.com.mx/ | Mayoreo | **Alta** | Santa Fe, 5591382000 |
+| Meriti Cosmetics (ejemplo) | https://meriticosmetics.com.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente — 5528655026 |
 
 ### Blancos — Almohadas, cobijas
 
+Lote 09 exportado: `leads/por_nicho/09_almohadas_cobijas.*` — **215 leads** (51 Alta).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| Blancos Azteca | https://listado.mercadolibre.com.mx/almohadas_Store_blancos-azteca | Marca D2C | **Alta** | Almohadas muy vendidas MX |
-| Sognare | https://www.sognare.com.mx/ | Marca colchones/blancos | **Media** | Almohadas y blancos premium |
-| Luuna | https://luuna.mx/ | Marca D2C | **Media** | Almohadas memory foam |
+| Blancos Mexicanos | https://www.blancosmexicanos.com/ | Fabricante mayoreo | **Alta** | blancosmexico@hotmail.com |
+| Blancolor | https://blancolor.com.mx/ | Fabricante hotelero | **Alta** | info@blancolor.com.mx |
+| Blancos Casa Linda | https://blancoscasalinda.com.mx/ | Mayoreo hotel/Airbnb | **Alta** | Lomas de Sotelo |
+| La Nueva Perla | https://lanuevaperla.com/ | Fábrica textil | **Alta** | +80 años GDL |
+| Luuna | https://luuna.mx/ | Marca D2C | **Alta** | hola@luuna.mx |
 | Mint and Lime (ejemplo) | https://mintandlime.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
 
 ### Coleccionables — Cartas/tarjetas de colección
@@ -364,17 +447,29 @@
 
 ### Joyería — Charms
 
+Lote 19 exportado: `leads/por_nicho/19_charms.*` — **209 leads** (49 Alta · 29 email · 53 teléfono).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| Plarte Charms | https://plarte.com.mx/collections/dijes-para-pulseras-y-pulseras | Joyería plata | **Alta** | Charms plata 925 |
-| Charms MX / Charms SMX | https://www.charmssmx.com/ | D2C charms | **Alta** | Dijes plata 925, entrega CDMX metro |
-| Malandra Jewelry | https://malandra.mx/ | Joyería | **Media** | Colección charms + joyería general |
-| Charms Lab (ejemplo) | https://charmslab.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
+| Plarte | https://plarte.com.mx/ | Mayoreo | **Alta** | SLP + Palma + GDL, ventas@plarte.com.mx |
+| Malandra Jewelry | https://malandra.mx/ | Marca D2C | **Alta** | SPGG, clientes@malandra.mx |
+| Platería Emma | https://plateriaemma-mayoreo.com/ | Mayoreo | **Alta** | Taxco, plateriaemma@gmail.com |
+| Joyería Taxco 925 | https://www.taxco925.com/ | Fabricante | **Alta** | 7621224439 |
+| El Relicario de Plata | https://www.elrelicariodeplata.com/ | Fabricante | **Alta** | Taxco, dijes y relicarios |
+| Charms GDL | https://charmsgdl.com/ | Ecom | **Media** | Pandora-style S925 |
+| Charms MX / Charms SMX | https://www.charmssmx.com/ | D2C | **Media** | Entrega metro CDMX |
+| Charms Lab (ejemplo) | https://charmslab.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente — hola@charmslab.mx |
 
 ### Juguetes — Artículos miniatura o a escala
 
+Lote 14 exportado: `leads/por_nicho/14_articulos_miniatura.*` — **217 leads** (53 Alta).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
+| Trenes.mx | https://trenes.mx/ | Importador | **Alta** | Tamiya/Revell, Plaza Satélite desde 1974 |
+| Hobby Models | https://hobbymodels.com.mx/ | Mayoreo/menudeo | **Alta** | Morelia, modelismo y RC |
+| Hobbymex | https://hobbymex.com.mx/ | Tienda | **Alta** | Escandón CDMX |
+| Fenix Hobby | https://fenixhobby.com.mx/ | Tienda + ecom | **Alta** | Guadalajara |
 | Trenes.mx (ejemplo) | https://trenes.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
 
 ### Juguetes — Juguetes mayoreo
@@ -399,12 +494,14 @@
 
 ### Medicina / Suministros — Insumos para tatuar
 
+Lote 15 exportado: `leads/por_nicho/15_insumos_para_tatuar.*` — **254 leads** (56 Alta).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| Zebra Tattoo Supply | https://zebratattoosupply.com/ | Tattoo supply | **Alta** | Máquinas, cartuchos, PMU, envíos MX |
-| Make Art Supply | https://makeartsupply.com/ | Tattoo supply | **Alta** | Insumos profesionales tatuadores |
-| Inkside Supply | https://inksidesupply.com/ | Tattoo supply | **Alta** | CDMX, tintas, cartuchos, máquinas |
-| Daruma Supply Tattoo | https://daruma-supply-tattoo.ueniweb.com/ | Tattoo supply | **Media** | CDMX, cobertura nacional |
+| Zebra Tattoo Supply | https://zebratattoosupply.com/ | Mayoreo nacional | **Alta** | ventas@zebratattoosupply.com |
+| Inkside Supply | https://inksidesupply.com/ | Tienda CDMX | **Alta** | ventas@inksidesupply.com |
+| Tarmex | https://tarmex-vip.com/ | Mayoreo | **Alta** | ventas@tarmex-vip.com |
+| Reyes Tattoo Supply | https://www.reyestattoosupply.com/ | Estudio + supply | **Alta** | Zapopan |
 | Soulflower (ejemplo) | https://soulflower.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
 
 ### MedTech — Suministros médicos/farmacéuticos
@@ -424,17 +521,26 @@
 
 ### Papelería — Bolsas de regalo
 
+Lote 25 exportado: `leads/por_nicho/25_bolsas_de_regalo.*` — **202 leads** (53 Alta · 38 email · 54 teléfono).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| Creear (ejemplo) | https://creear.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
+| BolsaDeRegalo / Cachito Mío | https://bolsaderegalo.com/ | Mayoreo | **Alta** | Centro CDMX, hola@bolsaderegalo.com |
+| BK Bolsas | https://bolsasbk.com.mx/ | Fabricante | **Alta** | Naucalpan, ventas@bolsasbk.com.mx |
+| CORPER | https://corper.mx/ | Fabricante | **Alta** | ventas@corper.mx · 5544568805 |
+| Packsys | https://packsys.com/ | Mayoreo | **Alta** | Tepotzotlán, info@packsys.com |
+| Entelequia | https://desechablesbiodegradables.com/collections/bolsas-papel-kraft | Mayoreo | **Media** | Kraft alimentos |
+| Creear (ejemplo) | https://creear.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente — 5549491671 |
 
 ### Papelería — Invitaciones físicas
 
+Lote 16 exportado: `leads/por_nicho/16_invitaciones_fisicas.*` — **248 leads** (20 Alta).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| Samsara Invitaciones | https://www.samsarainvitaciones.com.mx/ | Imprenta eventos | **Alta** | Bodas, XV, hot stamping, digitales |
-| Print The Joy / Tienda de Invitaciones | https://tiendadeinvitaciones.com/ | Imprenta | **Alta** | SLP, envíos nacionales gratis >$3500 |
-| Empapelarte | https://empapelarte.com.mx/ | Papelería eventos | **Media** | Invitaciones boda/XV, mayoreo y menudeo |
+| Samsara Invitaciones | https://www.samsarainvitaciones.com.mx/ | Imprenta eventos | **Media** | Bodas, XV, hot stamping |
+| Print The Joy | https://tiendadeinvitaciones.com/ | Imprenta | **Alta** | SLP 4444922233 |
+| La Fabrika Invitaciones | https://www.lafabrikainvitaciones.com/ | Fábrica | **Alta** | CDMX 5540367726 |
 | Paradisa Print (ejemplo) | https://paradisaprint.com/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
 
 ### Papelería — Mochilas y útiles escolares
@@ -445,9 +551,19 @@
 
 ### Papelería — Tijeras con patrón al corte
 
+Lote 18 exportado: `leads/por_nicho/18_tijeras_patron_al_corte.*` — **247 leads** (74 Alta · 43 email · 77 teléfono).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| Yoyi (ejemplo) | https://yoyi.com.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
+| Scrap It Coyoacán | https://scrapit.mx/ | Tienda scrap | **Alta** | Fiskars / Cricut, scrapitmexico@gmail.com |
+| La Esquinita del Scrap | https://laesquinitadelscrap.com/ | Tienda scrap | **Alta** | Narvarte, hola@laesquinitadelscrap.com |
+| Mishu Scrap | https://www.mishuscrap.com/ | Tienda scrap | **Alta** | Tonanitla, 5574612039 |
+| Lumen | https://lumen.com.mx/ | Mayoreo | **Alta** | ventasmayoreo@lumen.com.mx |
+| Papelería Lozano Hnos | https://papeleriaslozanohermanos.com.mx/ | Mayoreo | **Alta** | papeleria@lozano.com.mx |
+| Papelería Mérida | https://papeleriasmerida.com.mx/ | Mayoreo | **Alta** | Tijeras escolares, 9993813500 |
+| Tony Superpapelerías | https://www.tony.com.mx/ | Mayoreo | **Alta** | Cadena, 800 000 TONY |
+| Super Papelera | https://superpapelera.com.mx/ | Mayoreo | **Media** | EdoMex, Barrilito / MAE |
+| Yoyi (ejemplo) | https://yoyi.com.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente — Chiapa de Corzo, ventas@yoyi.com.mx |
 
 ### Proveedores — Botellas y tapas personalizados
 
@@ -462,6 +578,8 @@
 
 ### Regalos — Cestas de regalo
 
+Lote 08 exportado: `leads/por_nicho/08_cestas_de_regalo.*` — **244 leads** (99 Alta).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
 | Arcones Gourmet | https://arconesgourmet.com/ | D2C regalos | **Alta** | Canastas gourmet CDMX, productos artesanales MX |
@@ -472,22 +590,41 @@
 
 ### Ropa — Disfraces
 
+Lote 07 exportado: `leads/por_nicho/07_disfraces.*` — **242 leads** (75 Alta).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| Mercado Libre sellers MX | https://listado.mercadolibre.com.mx/disfraces | Marketplace | **Media** | Muchos vendedores MX de disfraces; scrapear tiendas oficiales |
+| La Festa Disfraces | https://lafestadisfraces.com/ | Fabricante/tienda | **Alta** | Mayoreo infantil CDMX |
+| Disfraces Mancera | https://disfracesmancera.com.mx/ | Mayoreo | **Alta** | Col. del Valle |
+| El Famundi | https://www.elfamundi.com.mx/ | Fabricante | **Alta** | +30 años, Merced |
+| Disfraces DePeli | https://disfracesdepeli.com/ | Multi-sucursal | **Alta** | Pedregal / Polanco |
+| Ghoulish Productions | https://ghoulishproductions.com.mx/ | Fabricante máscaras | **Alta** | Morelos |
 | My Kids MX (ejemplo) | https://mykidsmx.com/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
 
 ### Ropa — Trajes típicos
 
+Lote 11 exportado: `leads/por_nicho/11_trajes_tipicos.*` — **296 leads** (27 Alta).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| El Charro | https://www.elcharro1.com/ | Fabricante | **Alta** | Mariachi, folklórico, tiendas GDL/CDMX/El Paso |
+| El Charro | https://www.elcharro1.com/ | Fabricante | **Alta** | sales@elcharro1.com — GDL/CDMX/El Paso |
+| Fábrica Los Gabrieles | https://fabricadetrajesdecharrogabrieles.com/ | Fabricante charro | **Alta** | +45 años Azcapotzalco |
+| Mayakim | https://www.mayakim.com.mx/ | Marca yucateca | **Media** | Guayaberas Mérida |
+| Isa y Alex Mayoreo | https://trajesartesanales.com/ | Mayoreo istmeño | **Alta** | Juchitán 9711164783 |
 | Dos Malinches (ejemplo) | https://dosmalinches.com/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
 
 ### Ropa y calzado — Tenis, botas, playeras
 
+Lote 26 exportado: `leads/por_nicho/26_tenis_botas_playeras.*` — **202 leads** (33 Alta · 12 email · 42 teléfono).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
+| Tenis Mayoreo | https://tenismayoreo.com/ | Mayoreo | **Alta** | San Francisco del Rincón, 4761900834 |
+| Mayoreo de Tenis | https://www.mayoreodetenis.com.mx/ | Mayoreo | **Alta** | contacto@mayoreodetenis.com.mx |
+| Calzado Andy | https://calzadoandymexmayoreo.com/ | Fabricante | **Alta** | León, calzado.andy12331@gmail.com |
+| Mayoreo Tenis MTY | https://www.facebook.com/MayoreoTenisMTY/ | Mayoreo | **Alta** | shoesf56@gmail.com · 8115148837 |
+| Mi Tennis | https://www.mitennis.mx/ | Retail | **Alta** | Interlomas, 5594629696 |
+| Mistertennis | https://www.mistertennis.shop/ | Retail | **Alta** | Puebla, contacto@mtsport.com.mx |
 | Miky Shop (ejemplo) | https://mikyshop.com.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
 
 ### Salud — Colágeno hidrolizado
@@ -508,8 +645,15 @@
 
 ### Tecnología — Cargadores, porta laptop
 
+Lote 10 exportado: `leads/por_nicho/10_cargadores_porta_laptop.*` — **205 leads** (34 Alta).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
+| Unicell México | https://unicell.com.mx/ | Mayoreo fundas | **Alta** | Eje Central, 55 6368 1724 |
+| MOCA Distribuidora | https://mocadistribuidora.com/ | Mayoreo accesorios | **Alta** | Monterrey + GDL |
+| PCH Connect | https://shop.pchconnect.com/ | Mayoreo tech | **Alta** | hola@pchconnect.com |
+| DDTech | https://www.ddtech.mx/ | Ecom + tienda | **Alta** | ventas@ddtech.mx |
+| ELE-GATE | https://www.ele-gate.com/ | Mayoreo B2B | **Media** | Dropshipping 32 estados |
 | Doto (ejemplo) | https://doto.com.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
 
 ### Zapatos — Zapatos para danza
@@ -539,7 +683,6 @@ Estos nichos quedaron cortos en hallazgos frescos (solo ejemplo o 1 lead). Convi
 - **Belleza / Pelucas de colores** (0 leads nuevos)
 - **Belleza / Perfumes** (0 leads nuevos)
 - **Belleza / Productos para el cabello** (1 leads nuevos)
-- **Belleza / Shampoo artesanal / con tinte** (0 leads nuevos)
 - **Belleza / Skincare y maquillaje** (0 leads nuevos)
 - **Belleza / Skincare, cosméticos** (0 leads nuevos)
 - **Comercializadora / Equipo de iluminación** (0 leads nuevos)
@@ -547,15 +690,13 @@ Estos nichos quedaron cortos en hallazgos frescos (solo ejemplo o 1 lead). Convi
 - **Fintech / Envío de tarjetas** (1 leads nuevos)
 - **Hogar / Artículos de limpieza** (1 leads nuevos)
 - **Hogar / Utensilios de cocina, tuppers** (0 leads nuevos)
-- **Juguetes / Artículos miniatura o a escala** (0 leads nuevos)
+
 - **Juguetes / Juguetes mayoreo** (1 leads nuevos)
 - **Libros / Libros de colección** (1 leads nuevos)
 - **MedTech / Suministros médicos/farmacéuticos** (1 leads nuevos)
-- **Papelería / Bolsas de regalo** (0 leads nuevos)
 - **Papelería / Mochilas y útiles escolares** (1 leads nuevos)
-- **Papelería / Tijeras con patrón al corte** (0 leads nuevos)
 - **Ropa / Disfraces** (1 leads nuevos)
-- **Ropa / Trajes típicos** (1 leads nuevos)
+
 - **Ropa y calzado / Tenis, botas, playeras** (0 leads nuevos)
 - **Salud / Vitaminas y suplementos** (1 leads nuevos)
 - **Tecnología / Cargadores, porta laptop** (0 leads nuevos)

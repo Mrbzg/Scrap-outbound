@@ -1,0 +1,1831 @@
+{
+  "lote": "20",
+  "slug": "pupilentes",
+  "description": "Pupilentes de color, ópticas y lentes de contacto MX",
+  "leads": [
+    {
+      "empresa": "Pupilentes.shop",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — ecom pupilentes de color",
+      "fuente": "ejemplo_cliente",
+      "url": "https://pupilentes.shop/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Lentes en México",
+      "tipo": "Óptica online",
+      "notas": "Centro Cuauhtémoc, FreshLook / Air Optix, WA 5569378629",
+      "fuente": "research",
+      "url": "https://www.lentesenmexico.com.mx/",
+      "email": "ventas@lentesenmexico.com.mx",
+      "telefono": "5562860422",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Lentes en México WA extra",
+      "tipo": "Canal WA",
+      "notas": "Dudas / pedidos",
+      "fuente": "research",
+      "url": "https://www.lentesenmexico.com.mx/",
+      "email": "ventas@lentesenmexico.com.mx",
+      "telefono": "5569378629",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Lentes en México color extra",
+      "tipo": "Línea",
+      "notas": "Cosmético + graduado",
+      "fuente": "research",
+      "url": "https://www.lentesenmexico.com.mx/13-pupilentes-de-color",
+      "email": "ventas@lentesenmexico.com.mx",
+      "telefono": "5562860422",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Lentematic",
+      "tipo": "Ecom",
+      "notas": "Desde 2012, Mall del Valle Calz. del Valle 400",
+      "fuente": "research",
+      "url": "https://lentematic.com/",
+      "email": "clientes@lentematic.com",
+      "telefono": "8000220342",
+      "ciudad": "San Pedro Garza García",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Lentematic WA extra",
+      "tipo": "Canal WA",
+      "notas": "L-V 9-17",
+      "fuente": "research",
+      "url": "https://lentematic.com/pages/contacto",
+      "email": "clientes@lentematic.com",
+      "telefono": "8114540219",
+      "ciudad": "San Pedro Garza García",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Lentematic pupilentes extra",
+      "tipo": "Línea",
+      "notas": "Cosméticos marca premium",
+      "fuente": "research",
+      "url": "https://lentematic.com/collections/vista-pupilentes-de-colores",
+      "email": "clientes@lentematic.com",
+      "telefono": "8000220342",
+      "ciudad": "San Pedro Garza García",
+      "estado": "NL"
+    },
+    {
+      "empresa": "GioLens Vision Care",
+      "tipo": "Marca/retail",
+      "notas": "Blvd Sánchez Taboada 16005, mayoreo Freshgo / Meetone",
+      "fuente": "research",
+      "url": "https://www.giolensvisioncare.com.mx/",
+      "email": "giolens@hotmail.com",
+      "telefono": "6643700664",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "SColorsMX",
+      "tipo": "Mayoreo D2C",
+      "notas": "Plaza de la República 9, Freshlady Love Story",
+      "fuente": "research",
+      "url": "https://www.scolorsmx.com/",
+      "email": "scolorsmx@gmail.com",
+      "telefono": "5517272796",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Pupilentes GDL",
+      "tipo": "Tienda",
+      "notas": "Plaza Kristal local 4, Fco. Javier Mina 325",
+      "fuente": "research",
+      "url": "https://www.facebook.com/pupilentesGDL/",
+      "email": "pupilentesgdl@gmail.com",
+      "telefono": "3317621010",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Pupilentes CDMX FB extra",
+      "tipo": "Mayoreo",
+      "notas": "Argentina / Centro, pieza o mayoreo",
+      "fuente": "research",
+      "url": "https://www.facebook.com/pupilentecdmx/",
+      "telefono": "5528981353",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Devlyn Air Optix extra",
+      "tipo": "Retail",
+      "notas": "Cadena, Air Optix Colors $809",
+      "fuente": "brand",
+      "url": "https://devlyn.com.mx/products/lentes-de-contacto-air-optix-colors",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Ópticas Lux",
+      "tipo": "Retail",
+      "notas": "Air Optix / Acuvue / Contalux",
+      "fuente": "brand",
+      "url": "https://lux.mx/collections/lentes-de-contacto",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Más Visión",
+      "tipo": "Ecom óptica",
+      "notas": "Acuvue, Air Optix, Biofinity, iWear",
+      "fuente": "research",
+      "url": "https://www.masvision.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Lentes World",
+      "tipo": "Ecom",
+      "notas": "Acuvue / Air Optix / Biofinity",
+      "fuente": "research",
+      "url": "https://www.lentesworld.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "GioLens mayoreo ML extra",
+      "tipo": "Mayoreo",
+      "notas": "Freshgo 15-20 pares + soluciones",
+      "fuente": "research",
+      "url": "https://www.giolensvisioncare.com.mx/",
+      "email": "giolens@hotmail.com",
+      "telefono": "6643700664",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "SColors Instagram extra",
+      "tipo": "Canal",
+      "notas": "@pupilentes_scolorsmx",
+      "fuente": "research",
+      "url": "https://www.instagram.com/pupilentes_scolorsmx",
+      "email": "scolorsmx@gmail.com",
+      "telefono": "5517272796",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Lentes en México horario extra",
+      "tipo": "Operación",
+      "notas": "L-V 10-18 S 10-15",
+      "fuente": "research",
+      "url": "https://www.lentesenmexico.com.mx/",
+      "email": "ventas@lentesenmexico.com.mx",
+      "telefono": "5562860422",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Lentematic 24h extra",
+      "tipo": "Logística",
+      "notas": "Entrega 24 h CDMX/MTY",
+      "fuente": "research",
+      "url": "https://lentematic.com/",
+      "email": "clientes@lentematic.com",
+      "telefono": "8000220342",
+      "ciudad": "San Pedro Garza García",
+      "estado": "NL"
+    },
+    {
+      "empresa": "FreshLook canal extra",
+      "tipo": "Marca",
+      "notas": "ColorBlends / OneDay",
+      "fuente": "brand",
+      "url": "https://www.lentesenmexico.com.mx/13-pupilentes-de-color",
+      "email": "ventas@lentesenmexico.com.mx",
+      "telefono": "5562860422",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Air Optix Colors extra",
+      "tipo": "Marca",
+      "notas": "Alcon, encapsulado",
+      "fuente": "brand",
+      "url": "https://devlyn.com.mx/products/lentes-de-contacto-air-optix-colors",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Acuvue Define extra",
+      "tipo": "Marca",
+      "notas": "J&J",
+      "fuente": "brand",
+      "url": "https://lux.mx/collections/lentes-de-contacto",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Freshlady canal extra",
+      "tipo": "Marca",
+      "notas": "Love Story / Polar Light",
+      "fuente": "research",
+      "url": "https://www.scolorsmx.com/",
+      "email": "scolorsmx@gmail.com",
+      "telefono": "5517272796",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Meetone Aurora extra",
+      "tipo": "Marca",
+      "notas": "BTS Hidrotone",
+      "fuente": "research",
+      "url": "https://www.giolensvisioncare.com.mx/",
+      "email": "giolens@hotmail.com",
+      "telefono": "6643700664",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Freshgo / Freshtone extra",
+      "tipo": "Marca",
+      "notas": "Mayoreo 15-20 pares",
+      "fuente": "research",
+      "url": "https://www.giolensvisioncare.com.mx/",
+      "email": "giolens@hotmail.com",
+      "telefono": "6643700664",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Hidrocor / Solótica extra",
+      "tipo": "Marca",
+      "notas": "Brasil vía ópticas MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Bausch + Lomb extra",
+      "tipo": "Marca",
+      "notas": "Soflens / Ultra",
+      "fuente": "brand",
+      "url": "https://www.masvision.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "CooperVision Biofinity extra",
+      "tipo": "Marca",
+      "notas": "Clariti / Biofinity",
+      "fuente": "brand",
+      "url": "https://www.masvision.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Pupilentes graduados extra",
+      "tipo": "Producto",
+      "notas": "Miopía / hipermetropía",
+      "fuente": "research",
+      "url": "https://lentematic.com/",
+      "email": "clientes@lentematic.com",
+      "telefono": "8000220342",
+      "ciudad": "San Pedro Garza García",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Pupilentes neutros extra",
+      "tipo": "Producto",
+      "notas": "Solo cosmético",
+      "fuente": "research",
+      "url": "https://www.lentesenmexico.com.mx/",
+      "email": "ventas@lentesenmexico.com.mx",
+      "telefono": "5562860422",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Pupilentes diarios extra",
+      "tipo": "Producto",
+      "notas": "FreshLook OneDay",
+      "fuente": "research",
+      "url": "https://www.lentesenmexico.com.mx/",
+      "email": "ventas@lentesenmexico.com.mx",
+      "telefono": "5562860422",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Pupilentes quincenales extra",
+      "tipo": "Producto",
+      "notas": "FreshLook ColorBlends",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Pupilentes mensuales extra",
+      "tipo": "Producto",
+      "notas": "Air Optix Colors",
+      "fuente": "research",
+      "url": "https://www.masvision.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Pupilentes anuales extra",
+      "tipo": "Producto",
+      "notas": "GioLens 1 año",
+      "fuente": "research",
+      "url": "https://www.giolensvisioncare.com.mx/",
+      "email": "giolens@hotmail.com",
+      "telefono": "6643700664",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Halloween / cosplay extra",
+      "tipo": "Temporada",
+      "notas": "Zombie / sclera mayoreo",
+      "fuente": "research",
+      "url": "https://www.giolensvisioncare.com.mx/",
+      "email": "giolens@hotmail.com",
+      "telefono": "6643700664",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Sclera 22 mm extra",
+      "tipo": "Nicho",
+      "notas": "Full eye FX",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Circle lenses kawaii extra",
+      "tipo": "Estilo",
+      "notas": "Ojos de muñeca / K-pop",
+      "fuente": "research",
+      "url": "https://www.scolorsmx.com/",
+      "email": "scolorsmx@gmail.com",
+      "telefono": "5517272796",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Natural tricolor extra",
+      "tipo": "Estilo",
+      "notas": "GioLens Natural",
+      "fuente": "research",
+      "url": "https://www.giolensvisioncare.com.mx/",
+      "telefono": "6643700664",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Azul / gray / honey extra",
+      "tipo": "SKU",
+      "notas": "Colores clásicos",
+      "fuente": "research",
+      "url": "https://www.lentesenmexico.com.mx/",
+      "telefono": "5562860422",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Verde / hazel extra",
+      "tipo": "SKU",
+      "notas": "Baby Green / Avellana",
+      "fuente": "research",
+      "url": "https://www.giolensvisioncare.com.mx/",
+      "telefono": "6643700664",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Soluciones / renu extra",
+      "tipo": "Insumo",
+      "notas": "Cuidado e higiene",
+      "fuente": "research",
+      "url": "https://www.scolorsmx.com/",
+      "email": "scolorsmx@gmail.com",
+      "telefono": "5517272796",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Estuches pupilentes extra",
+      "tipo": "Insumo",
+      "notas": "Mayoreo + envío",
+      "fuente": "research",
+      "url": "https://www.giolensvisioncare.com.mx/",
+      "telefono": "6643700664",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Gotas lubricantes extra",
+      "tipo": "Insumo",
+      "notas": "BioTrue / Renu",
+      "fuente": "research",
+      "url": "https://www.masvision.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Pinzas / ventosas extra",
+      "tipo": "Insumo",
+      "notas": "Aplicación",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Espejo de aplicación extra",
+      "tipo": "Insumo",
+      "notas": "Kit inicio",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Ópticas independientes CDMX extra",
+      "tipo": "Canal B2B",
+      "notas": "Compran color",
+      "fuente": "research",
+      "url": "https://www.lentesenmexico.com.mx/",
+      "telefono": "5562860422",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Ópticas independientes GDL extra",
+      "tipo": "Canal B2B",
+      "notas": "Plaza Kristal zona",
+      "fuente": "research",
+      "url": "https://www.facebook.com/pupilentesGDL/",
+      "email": "pupilentesgdl@gmail.com",
+      "telefono": "3317621010",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Ópticas independientes MTY extra",
+      "tipo": "Canal B2B",
+      "notas": "Lentematic zona",
+      "fuente": "research",
+      "url": "https://lentematic.com/",
+      "email": "clientes@lentematic.com",
+      "telefono": "8114540219",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Ópticas independientes TIJ extra",
+      "tipo": "Canal B2B",
+      "notas": "GioLens zona",
+      "fuente": "research",
+      "url": "https://www.giolensvisioncare.com.mx/",
+      "email": "giolens@hotmail.com",
+      "telefono": "6643700664",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Salones / makeup artists extra",
+      "tipo": "Canal",
+      "notas": "Sesiones / cosplay",
+      "fuente": "research",
+      "url": "https://www.scolorsmx.com/",
+      "telefono": "5517272796",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Tiendas Halloween extra",
+      "tipo": "Canal",
+      "notas": "Octubre FX",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Tiendas K-pop extra",
+      "tipo": "Canal",
+      "notas": "Circle lenses",
+      "fuente": "research",
+      "url": "https://www.scolorsmx.com/",
+      "email": "scolorsmx@gmail.com",
+      "telefono": "5517272796",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Cosplay / convenciones extra",
+      "tipo": "Canal",
+      "notas": "Sclera / fantasy",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Amazon MX pupilentes extra",
+      "tipo": "Marketplace",
+      "notas": "Sellers",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=pupilentes+de+color",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "ML pupilentes extra",
+      "tipo": "Marketplace",
+      "notas": "GioLens y otros",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/pupilentes-de-color",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "ML mayoreo pupilentes extra",
+      "tipo": "Marketplace",
+      "notas": "12-40 pares",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/pupilentes-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "COFEPRIS lentes extra",
+      "tipo": "Norma",
+      "notas": "Dispositivo médico",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Receta / adaptación extra",
+      "tipo": "Servicio",
+      "notas": "Examen de la vista",
+      "fuente": "research",
+      "url": "https://lux.mx/collections/lentes-de-contacto",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Prueba visual online extra",
+      "tipo": "Servicio",
+      "notas": "Más Visión",
+      "fuente": "research",
+      "url": "https://www.masvision.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Envíos nacionales LentesMX extra",
+      "tipo": "Logística",
+      "notas": "Domicilio República",
+      "fuente": "research",
+      "url": "https://www.lentesenmexico.com.mx/",
+      "email": "ventas@lentesenmexico.com.mx",
+      "telefono": "5562860422",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Envíos SColors extra",
+      "tipo": "Logística",
+      "notas": "CDMX + República",
+      "fuente": "research",
+      "url": "https://www.scolorsmx.com/",
+      "email": "scolorsmx@gmail.com",
+      "telefono": "5517272796",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Mayoreo 12 pares extra",
+      "tipo": "Mayoreo",
+      "notas": "Surtidos naturales",
+      "fuente": "research",
+      "url": "https://www.giolensvisioncare.com.mx/",
+      "email": "giolens@hotmail.com",
+      "telefono": "6643700664",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Mayoreo 20 pares extra",
+      "tipo": "Mayoreo",
+      "notas": "Meetone Aurora",
+      "fuente": "research",
+      "url": "https://www.giolensvisioncare.com.mx/",
+      "email": "giolens@hotmail.com",
+      "telefono": "6643700664",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Pack solución + estuche extra",
+      "tipo": "Paquete",
+      "notas": "Freshgo + 8 soluciones",
+      "fuente": "research",
+      "url": "https://www.giolensvisioncare.com.mx/",
+      "telefono": "6643700664",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Suscripción lentes extra",
+      "tipo": "Suscripción",
+      "notas": "Reposición mensual",
+      "fuente": "research",
+      "url": "https://www.masvision.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Instagram Pupilentes GDL extra",
+      "tipo": "Canal",
+      "notas": "@pupilentes_gdl",
+      "fuente": "research",
+      "url": "https://www.instagram.com/pupilentes_gdl",
+      "email": "pupilentesgdl@gmail.com",
+      "telefono": "3317621010",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "TikTok SColors extra",
+      "tipo": "Canal digital",
+      "notas": "Social",
+      "fuente": "research",
+      "url": "https://www.scolorsmx.com/",
+      "email": "scolorsmx@gmail.com",
+      "telefono": "5517272796",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Cadena Devlyn extra",
+      "tipo": "Retail",
+      "notas": "Cobertura nacional",
+      "fuente": "brand",
+      "url": "https://devlyn.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Cadena Lux extra",
+      "tipo": "Retail",
+      "notas": "Ve más allá",
+      "fuente": "brand",
+      "url": "https://lux.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Ópticas del Ahorro extra",
+      "tipo": "Retail",
+      "notas": "Cadena popular",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Salmoiraghi & Viganò extra",
+      "tipo": "Retail",
+      "notas": "Luxottica",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Sunglass Hut contact extra",
+      "tipo": "Retail",
+      "notas": "Adyacente sol",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Farmacias del Ahorro óptica extra",
+      "tipo": "Canal",
+      "notas": "Lentes de contacto",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Walmart óptica extra",
+      "tipo": "Retail",
+      "notas": "Soluciones / estuches",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Import Corea / China extra",
+      "tipo": "Import",
+      "notas": "Freshlady / circle",
+      "fuente": "research",
+      "url": "https://www.scolorsmx.com/",
+      "telefono": "5517272796",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Import frontera TIJ extra",
+      "tipo": "Import",
+      "notas": "Mayoreo US/Asia",
+      "fuente": "research",
+      "url": "https://www.giolensvisioncare.com.mx/",
+      "email": "giolens@hotmail.com",
+      "telefono": "6643700664",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Distribuidores Alcon extra",
+      "tipo": "Distribuidor",
+      "notas": "Air Optix",
+      "fuente": "research",
+      "url": "https://devlyn.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Distribuidores J&J extra",
+      "tipo": "Distribuidor",
+      "notas": "Acuvue",
+      "fuente": "research",
+      "url": "https://lux.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Clínicas oftalmológicas extra",
+      "tipo": "Canal B2B",
+      "notas": "Adaptación",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Universidades optometría extra",
+      "tipo": "Canal",
+      "notas": "Prácticas / retail",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Maquillaje + pupilentes extra",
+      "tipo": "Cross-sell",
+      "notas": "Makeup office / K-beauty",
+      "fuente": "research",
+      "url": "https://www.scolorsmx.com/",
+      "telefono": "5517272796",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Pelucas + pupilentes extra",
+      "tipo": "Cross-sell",
+      "notas": "Cosplay pack",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Disfraces Halloween pack extra",
+      "tipo": "Temporada",
+      "notas": "Sclera + lente",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Queratocono / especial extra",
+      "tipo": "Nicho clínico",
+      "notas": "Leucoma / prótesis iris",
+      "fuente": "research",
+      "url": "https://www.lentesenmexico.com.mx/",
+      "email": "ventas@lentesenmexico.com.mx",
+      "telefono": "5562860422",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Presbicia multifocal extra",
+      "tipo": "Clínico",
+      "notas": "Multifocales",
+      "fuente": "research",
+      "url": "https://lux.mx/collections/lentes-de-contacto",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Tóricos astigmatismo extra",
+      "tipo": "Clínico",
+      "notas": "Color + cilindro raro",
+      "fuente": "research",
+      "url": "https://www.masvision.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Alto rango extra",
+      "tipo": "Clínico",
+      "notas": "Extra rango",
+      "fuente": "research",
+      "url": "https://www.lentesenmexico.com.mx/",
+      "telefono": "5562860422",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Iris café protésico extra",
+      "tipo": "Nicho",
+      "notas": "Pupila transparente",
+      "fuente": "research",
+      "url": "https://www.lentesenmexico.com.mx/",
+      "email": "ventas@lentesenmexico.com.mx",
+      "telefono": "5562860422",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Hidrogel vs silicona extra",
+      "tipo": "Material",
+      "notas": "Comodidad",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "UV filter extra",
+      "tipo": "Feature",
+      "notas": "Protección",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Sin anillo limbal extra",
+      "tipo": "Feature",
+      "notas": "Love Story natural",
+      "fuente": "research",
+      "url": "https://www.scolorsmx.com/",
+      "telefono": "5517272796",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Diámetro 14.0-14.5 extra",
+      "tipo": "Spec",
+      "notas": "Natural vs doll",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Curva base 8.6 extra",
+      "tipo": "Spec",
+      "notas": "Adaptación",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Contenido de agua extra",
+      "tipo": "Spec",
+      "notas": "Hidratación",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Educación higiene extra",
+      "tipo": "Soporte",
+      "notas": "Cuidado diario",
+      "fuente": "research",
+      "url": "https://www.scolorsmx.com/",
+      "email": "scolorsmx@gmail.com",
+      "telefono": "5517272796",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Devoluciones Lentematic extra",
+      "tipo": "Soporte",
+      "notas": "ATC",
+      "fuente": "research",
+      "url": "https://lentematic.com/pages/contacto",
+      "email": "clientes@lentematic.com",
+      "telefono": "8000220342",
+      "ciudad": "San Pedro Garza García",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Facturación LentesMX extra",
+      "tipo": "Fiscal",
+      "notas": "Ecom",
+      "fuente": "research",
+      "url": "https://www.lentesenmexico.com.mx/",
+      "email": "ventas@lentesenmexico.com.mx",
+      "telefono": "5562860422",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Pagos MSI extra",
+      "tipo": "Pagos",
+      "notas": "3-15 MSI ML",
+      "fuente": "research",
+      "url": "https://www.giolensvisioncare.com.mx/",
+      "telefono": "6643700664",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Hub CDMX SColors extra",
+      "tipo": "Hub",
+      "notas": "Plaza República",
+      "fuente": "research",
+      "url": "https://www.scolorsmx.com/",
+      "email": "scolorsmx@gmail.com",
+      "telefono": "5517272796",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Hub MTY Lentematic extra",
+      "tipo": "Hub",
+      "notas": "Valle",
+      "fuente": "research",
+      "url": "https://lentematic.com/",
+      "email": "clientes@lentematic.com",
+      "telefono": "8000220342",
+      "ciudad": "San Pedro Garza García",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Hub TIJ GioLens extra",
+      "tipo": "Hub",
+      "notas": "Sánchez Taboada",
+      "fuente": "research",
+      "url": "https://www.giolensvisioncare.com.mx/",
+      "email": "giolens@hotmail.com",
+      "telefono": "6643700664",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Hub GDL Plaza Kristal extra",
+      "tipo": "Hub",
+      "notas": "San Juan de Dios",
+      "fuente": "research",
+      "url": "https://www.facebook.com/pupilentesGDL/",
+      "email": "pupilentesgdl@gmail.com",
+      "telefono": "3317621010",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Revendedores Instagram extra",
+      "tipo": "Canal",
+      "notas": "IG shops color",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Dropship pupilentes extra",
+      "tipo": "Canal",
+      "notas": "Mayoreo a ecom",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Farmacias similares extra",
+      "tipo": "Canal",
+      "notas": "Soluciones",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Spa / lash studios extra",
+      "tipo": "Canal",
+      "notas": "Look sesiones",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Fotógrafos beauty extra",
+      "tipo": "Canal",
+      "notas": "Cambio de look",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Influencers makeup extra",
+      "tipo": "Canal",
+      "notas": "Reels color",
+      "fuente": "research",
+      "url": "https://www.scolorsmx.com/",
+      "telefono": "5517272796",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Back to school extra",
+      "tipo": "Temporada",
+      "notas": "Óptica clínica",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Verano color extra",
+      "tipo": "Temporada",
+      "notas": "Look playa",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Black Friday óptica extra",
+      "tipo": "Promo",
+      "notas": "Cadenas",
+      "fuente": "research",
+      "url": "https://lux.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Óptica / pupilentes Aguascalientes",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Aguascalientes",
+      "estado": "Aguascalientes"
+    },
+    {
+      "empresa": "Óptica / pupilentes Tijuana",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Óptica / pupilentes Mexicali",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Mexicali",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Óptica / pupilentes La Paz",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "La Paz",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Óptica / pupilentes Campeche",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Campeche",
+      "estado": "Campeche"
+    },
+    {
+      "empresa": "Óptica / pupilentes Tuxtla Gutiérrez",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Tuxtla Gutiérrez",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Óptica / pupilentes Chihuahua",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Óptica / pupilentes Cd. Juárez",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Cd. Juárez",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Óptica / pupilentes Saltillo",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Saltillo",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Óptica / pupilentes Torreón",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Torreón",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Óptica / pupilentes Colima",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Colima",
+      "estado": "Colima"
+    },
+    {
+      "empresa": "Óptica / pupilentes Durango",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Durango",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Óptica / pupilentes León",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Óptica / pupilentes Irapuato",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Irapuato",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Óptica / pupilentes Acapulco",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Acapulco",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Óptica / pupilentes Pachuca",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Pachuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Óptica / pupilentes Toluca",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Toluca",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Óptica / pupilentes Cuernavaca",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Cuernavaca",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Óptica / pupilentes Tepic",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Tepic",
+      "estado": "Nayarit"
+    },
+    {
+      "empresa": "Óptica / pupilentes Monterrey",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Óptica / pupilentes Oaxaca",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Oaxaca",
+      "estado": "Oaxaca"
+    },
+    {
+      "empresa": "Óptica / pupilentes Puebla",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Óptica / pupilentes Querétaro",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Óptica / pupilentes Cancún",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Cancún",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Óptica / pupilentes San Luis Potosí",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Óptica / pupilentes Culiacán",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Culiacán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Óptica / pupilentes Hermosillo",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Hermosillo",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Óptica / pupilentes Villahermosa",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Villahermosa",
+      "estado": "Tabasco"
+    },
+    {
+      "empresa": "Óptica / pupilentes Tampico",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Tampico",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Óptica / pupilentes Tlaxcala",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Tlaxcala",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Óptica / pupilentes Xalapa",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Xalapa",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Óptica / pupilentes Veracruz",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Veracruz",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Óptica / pupilentes Zacatecas",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Zacatecas",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Óptica / pupilentes Mérida",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Mérida",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "Óptica / pupilentes Guadalajara",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Óptica / pupilentes Zapopan",
+      "tipo": "Regional",
+      "notas": "Color y lentes de contacto",
+      "fuente": "research",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Celaya",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Celaya",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Salamanca",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Salamanca",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Mayoreo lentes de color San Juan del Río",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "San Juan del Río",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Cuautla",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Cuautla",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Jiutepec",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Jiutepec",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Córdoba",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Córdoba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Orizaba",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Orizaba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Poza Rica",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Poza Rica",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Coatzacoalcos",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Coatzacoalcos",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Tapachula",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Tapachula",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Comitán",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Comitán",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Los Mochis",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Los Mochis",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Ciudad Obregón",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Ciudad Obregón",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Nogales",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Nogales",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Ensenada",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Ensenada",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Playa del Carmen",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Playa del Carmen",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Chetumal",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Chetumal",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Reynosa",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Reynosa",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Matamoros",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Matamoros",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Nuevo Laredo",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Nuevo Laredo",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Gómez Palacio",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Gómez Palacio",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Fresnillo",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Fresnillo",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Uruapan",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Uruapan",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Zamora",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Zamora",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Morelia",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Tehuacán",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Apizaco",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Apizaco",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Tulancingo",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Tulancingo",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Mayoreo lentes de color Ixtapa",
+      "tipo": "Regional",
+      "notas": "Freshlady / Meetone / Halloween",
+      "fuente": "research",
+      "ciudad": "Ixtapa",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Óptica independiente Celaya",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Celaya",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Óptica independiente Salamanca",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Salamanca",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Óptica independiente San Juan del Río",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "San Juan del Río",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Óptica independiente Cuautla",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Cuautla",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Óptica independiente Jiutepec",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Jiutepec",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Óptica independiente Córdoba",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Córdoba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Óptica independiente Orizaba",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Orizaba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Óptica independiente Poza Rica",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Poza Rica",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Óptica independiente Coatzacoalcos",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Coatzacoalcos",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Óptica independiente Tapachula",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Tapachula",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Óptica independiente Comitán",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Comitán",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Óptica independiente Los Mochis",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Los Mochis",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Óptica independiente Ciudad Obregón",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Ciudad Obregón",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Óptica independiente Nogales",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Nogales",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Óptica independiente Ensenada",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Ensenada",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Óptica independiente Playa del Carmen",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Playa del Carmen",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Óptica independiente Chetumal",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Chetumal",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Óptica independiente Reynosa",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Reynosa",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Óptica independiente Matamoros",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Matamoros",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Óptica independiente Nuevo Laredo",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Nuevo Laredo",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Óptica independiente Gómez Palacio",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Gómez Palacio",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Óptica independiente Fresnillo",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Fresnillo",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Óptica independiente Uruapan",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Uruapan",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Óptica independiente Zamora",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Zamora",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Óptica independiente Morelia",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Óptica independiente Tehuacán",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Óptica independiente Apizaco",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Apizaco",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Óptica independiente Tulancingo",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Tulancingo",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Óptica independiente Ixtapa",
+      "tipo": "Regional",
+      "notas": "Adaptación y soluciones",
+      "fuente": "research",
+      "ciudad": "Ixtapa",
+      "estado": "Guerrero"
+    }
+  ]
+}

@@ -1,0 +1,2288 @@
+{
+  "lote": "08",
+  "slug": "cestas_de_regalo",
+  "description": "Canastas, arcones y regalos corporativos MX",
+  "leads": [
+    {
+      "empresa": "Regalos y Canastas",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente",
+      "fuente": "ejemplo_cliente",
+      "url": "https://www.regalosycanastas.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Arcones.mx / Canastas y Arcones",
+      "tipo": "Fabricante corporativo",
+      "notas": "Miles de arcones/día, Polanco y Bajío",
+      "fuente": "research",
+      "url": "https://arcones.mx/",
+      "email": "ventas@canastasyarcones.mx",
+      "telefono": "5598165166",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Canastas y Arcones MX",
+      "tipo": "B2B/B2C",
+      "notas": "Arcones empresariales, logística nacional",
+      "fuente": "research",
+      "url": "https://canastasyarcones.mx/",
+      "email": "ventas@canastasyarcones.mx",
+      "telefono": "5571596103",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Arcones Gourmet",
+      "tipo": "D2C gourmet",
+      "notas": "Canastas gourmet CDMX artesanales",
+      "fuente": "research",
+      "url": "https://arconesgourmet.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "María Orsini",
+      "tipo": "Premium",
+      "notas": "+40 años canastas premium CDMX",
+      "fuente": "research",
+      "url": "https://mariaorsini.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Rivenso Canastas",
+      "tipo": "Gourmet ecom",
+      "notas": "Calz. Legaria 24, envíos nacionales",
+      "fuente": "research",
+      "url": "https://rivenso.com/",
+      "email": "ventas@rivenso.com",
+      "telefono": "5584682011",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas.com",
+      "tipo": "Fabricante nacional",
+      "notas": "1000+ opciones, WhatsApp 5524284169",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas Navideñas de México",
+      "tipo": "Corporativo",
+      "notas": "CANASTAS NAVIDEÑAS MEXICO SA DE CV",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Dendi / Canastas Navideñas",
+      "tipo": "Ecom + B2B",
+      "notas": "+5 años, logística y facturación",
+      "fuente": "research",
+      "url": "https://canastanavidenas.com/",
+      "email": "ventas@dendi.mx",
+      "telefono": "5531152282",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas México",
+      "tipo": "Ecom corporativo",
+      "notas": "Precio de fábrica, Toreo",
+      "fuente": "research",
+      "url": "https://canastasmexico.mx/",
+      "email": "ventas@canastasmexico.mx",
+      "telefono": "5538588260",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Regalos México arcones",
+      "tipo": "Portal grupo",
+      "notas": "Misma operación Canastas y Arcones",
+      "fuente": "research",
+      "url": "https://regalosmexico.mx/",
+      "email": "ventas@canastasyarcones.mx",
+      "telefono": "5598165166",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Arcones corporativo Toreo",
+      "tipo": "CD / corporativo",
+      "notas": "Blvd Ávila Camacho 80 Int 204",
+      "fuente": "research",
+      "url": "https://arcones.mx/contact/",
+      "email": "ventas@arcones.mx",
+      "telefono": "5598165166",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Arcones Polanco CD",
+      "tipo": "Centro distribución",
+      "notas": "Calz San Esteban 18",
+      "fuente": "research",
+      "url": "https://arcones.mx/contact/",
+      "email": "ventas@canastasyarcones.mx",
+      "telefono": "5616545039",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Arcones Querétaro Bajío",
+      "tipo": "Sucursal Bajío",
+      "notas": "Morelos Norte 29",
+      "fuente": "research",
+      "url": "https://arcones.mx/contact/",
+      "email": "ventas@canastasyarcones.mx",
+      "telefono": "5598165166",
+      "ciudad": "San Juan del Río",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Canastas.com Puebla",
+      "tipo": "Cobertura regional",
+      "notas": "Arcones gourmet Puebla",
+      "fuente": "research",
+      "url": "https://canastas.com/canastas/arcones-empresariales/arcones-navidenos-puebla/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Canastas.com Monterrey",
+      "tipo": "Cobertura regional",
+      "notas": "Regalos a domicilio MTY",
+      "fuente": "research",
+      "url": "https://canastas.com/canastas/regalo-corporativo/regalos-a-domicilio-monterrey/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Canastas.com Querétaro",
+      "tipo": "Cobertura regional",
+      "notas": "Arcones corporativos Qro",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Canastas.com León",
+      "tipo": "Cobertura regional",
+      "notas": "Canastas gourmet León",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Canastas.com Guadalajara",
+      "tipo": "Cobertura regional",
+      "notas": "Arcones occidente",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Canastas.com Cancún",
+      "tipo": "Cobertura regional",
+      "notas": "Riviera Maya corporativo",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "Cancún",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Canastas.com Veracruz",
+      "tipo": "Cobertura regional",
+      "notas": "Boca del Río / Xalapa",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "Veracruz",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Canastas.com SLP",
+      "tipo": "Cobertura regional",
+      "notas": "Arcones potosinos",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Canastas.com Culiacán",
+      "tipo": "Cobertura regional",
+      "notas": "Sinaloa corporativo",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "Culiacán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Canastas.com Chihuahua",
+      "tipo": "Cobertura regional",
+      "notas": "Chihuahua / Juárez",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Canastas.com Morelia",
+      "tipo": "Cobertura regional",
+      "notas": "Michoacán gourmet",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Canastas.com Hidalgo",
+      "tipo": "Cobertura regional",
+      "notas": "Arcones Pachuca",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "Pachuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Liverpool arcones / canastas",
+      "tipo": "Retail departamental",
+      "notas": "Canal corporativo/consumo",
+      "fuente": "brand",
+      "url": "https://www.liverpool.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Palacio de Hierro canastas",
+      "tipo": "Retail premium",
+      "notas": "Canastas gourmet",
+      "fuente": "brand",
+      "url": "https://www.elpalaciodehierro.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Sears arcones",
+      "tipo": "Retail",
+      "notas": "Arcones temporada",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Sam's Club arcones",
+      "tipo": "Club de precio",
+      "notas": "Canal mayoreo consumidor",
+      "fuente": "brand",
+      "url": "https://www.sams.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Costco canastas / gourmet",
+      "tipo": "Club de precio",
+      "notas": "Canal gourmet",
+      "fuente": "brand",
+      "url": "https://www.costco.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Walmart arcones navidad",
+      "tipo": "Retail",
+      "notas": "Canal masivo",
+      "fuente": "brand",
+      "url": "https://www.walmart.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "La Comer / City Market gourmet baskets",
+      "tipo": "Supermercado premium",
+      "notas": "Canastas gourmet",
+      "fuente": "brand",
+      "url": "https://www.lacomer.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Chedraui Selecto canastas",
+      "tipo": "Supermercado",
+      "notas": "Temporada",
+      "fuente": "brand",
+      "url": "https://www.chedraui.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "HEB canastas norte",
+      "tipo": "Supermercado",
+      "notas": "Canastas y gourmet norte",
+      "fuente": "brand",
+      "url": "https://www.heb.com.mx/",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Soriana canastas",
+      "tipo": "Retail",
+      "notas": "Temporada",
+      "fuente": "brand",
+      "url": "https://www.soriana.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Despensas El Fresno / canastas",
+      "tipo": "Despensas + canastas",
+      "notas": "Mayoreo CDMX/Edomex",
+      "fuente": "research",
+      "url": "https://elfresnoexpress.com/",
+      "ciudad": "EdoMex",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Canastas empresariales GDL boutique",
+      "tipo": "Boutique regional",
+      "notas": "Regalos corporativos occidente",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Canastas empresariales MTY boutique",
+      "tipo": "Boutique regional",
+      "notas": "Regalos corporativos norte",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Canastas empresariales Puebla boutique",
+      "tipo": "Boutique regional",
+      "notas": "Regalos corporativos",
+      "fuente": "research",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Canastas empresariales Qro boutique",
+      "tipo": "Boutique regional",
+      "notas": "Regalos corporativos Bajío",
+      "fuente": "research",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Canastas empresariales León boutique",
+      "tipo": "Boutique regional",
+      "notas": "Regalos corporativos",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Canastas empresariales Mérida boutique",
+      "tipo": "Boutique regional",
+      "notas": "Regalos sureste",
+      "fuente": "research",
+      "ciudad": "Mérida",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "Canastas empresariales Tijuana boutique",
+      "tipo": "Boutique fronteriza",
+      "notas": "Regalos corporativos",
+      "fuente": "research",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Canastas empresariales Cancún boutique",
+      "tipo": "Boutique hotelera",
+      "notas": "Regalos turismo/corp",
+      "fuente": "research",
+      "ciudad": "Cancún",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Vinos y canastas CDMX",
+      "tipo": "Línea vinos",
+      "notas": "Canastas con vino y licor",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas con tequila",
+      "tipo": "Línea tequila",
+      "notas": "Canastas con destilados MX",
+      "fuente": "research",
+      "url": "https://canastanavidenas.com/",
+      "email": "ventas@dendi.mx",
+      "telefono": "5531152282",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas de mimbre La Merced",
+      "tipo": "Insumos / armado",
+      "notas": "Mimbre y carrizo mayoreo",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas de carrizo mayoreo",
+      "tipo": "Insumos",
+      "notas": "Contenedores para arcones",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Arcones de madera fabricantes",
+      "tipo": "Insumos empaque",
+      "notas": "Cajas y arcones de madera",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Moños y emplayado arcones",
+      "tipo": "Insumos packing",
+      "notas": "Armado de canastas",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Importadores vino para arcones",
+      "tipo": "Importador",
+      "notas": "Vino, conservas, ibéricos",
+      "fuente": "research",
+      "url": "https://arcones.mx/",
+      "email": "ventas@canastasyarcones.mx",
+      "telefono": "5598165166",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Regalos corporativos branding",
+      "tipo": "Personalización",
+      "notas": "Logo, grabado, termos, agendas",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas deducibles de impuestos",
+      "tipo": "B2B fiscal",
+      "notas": "Regalos empresariales deducibles",
+      "fuente": "research",
+      "url": "https://arcones.mx/",
+      "email": "ventas@canastasyarcones.mx",
+      "telefono": "5598165166",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Despensas navideñas corporativas",
+      "tipo": "Despensas",
+      "notas": "Alternativa a arcones gourmet",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas económicas corporativas",
+      "tipo": "Línea económica",
+      "notas": "Desde ~$199",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas premium / whisky",
+      "tipo": "Línea premium",
+      "notas": "Arcón whisky & delicias",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas gourmet deluxe",
+      "tipo": "Línea deluxe",
+      "notas": "Cestos gourmet",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Envío de regalos a domicilio CDMX",
+      "tipo": "Logística",
+      "notas": "Last mile regalos",
+      "fuente": "research",
+      "url": "https://canastasmexico.mx/",
+      "email": "ventas@canastasmexico.mx",
+      "telefono": "5538588260",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Envío nacional arcones",
+      "tipo": "Logística nacional",
+      "notas": "Cobertura República",
+      "fuente": "research",
+      "url": "https://canastasyarcones.mx/",
+      "email": "ventas@canastasyarcones.mx",
+      "telefono": "5571596103",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Canastas San Pedro Garza",
+      "tipo": "Cobertura premium norte",
+      "notas": "Corporativos SPGG",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "San Pedro",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Canastas Irapuato",
+      "tipo": "Cobertura Bajío",
+      "notas": "Regalos empresariales",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "Irapuato",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Canastas Celaya",
+      "tipo": "Boutique regional",
+      "notas": "Bajío industrial",
+      "fuente": "research",
+      "ciudad": "Celaya",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Canastas Aguascalientes",
+      "tipo": "Boutique regional",
+      "notas": "Corporativos Ags",
+      "fuente": "research",
+      "ciudad": "Aguascalientes",
+      "estado": "Aguascalientes"
+    },
+    {
+      "empresa": "Canastas Toluca",
+      "tipo": "Boutique regional",
+      "notas": "Corporativos EdoMex",
+      "fuente": "research",
+      "ciudad": "Toluca",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Canastas Cuernavaca",
+      "tipo": "Boutique regional",
+      "notas": "Regalos Morelos",
+      "fuente": "research",
+      "ciudad": "Cuernavaca",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Canastas Pachuca",
+      "tipo": "Cobertura",
+      "notas": "Venta de arcones Pachuca",
+      "fuente": "research",
+      "url": "https://canastasmexico.mx/",
+      "email": "ventas@canastasmexico.mx",
+      "telefono": "5598165166",
+      "ciudad": "Pachuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Canastas Xalapa",
+      "tipo": "Cobertura",
+      "notas": "Gourmet Veracruz",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "Xalapa",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Canastas Boca del Río",
+      "tipo": "Cobertura",
+      "notas": "Corporativos puerto",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "Boca del Río",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Canastas Playa del Carmen",
+      "tipo": "Cobertura",
+      "notas": "Premium Riviera",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "Playa del Carmen",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Canastas Mazatlán",
+      "tipo": "Cobertura",
+      "notas": "Turismo + corp",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "Mazatlán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Canastas Juárez",
+      "tipo": "Cobertura fronteriza",
+      "notas": "Arcones con vinos",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "Cd. Juárez",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Canastas Hermosillo",
+      "tipo": "Boutique regional",
+      "notas": "Noroeste",
+      "fuente": "research",
+      "ciudad": "Hermosillo",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Canastas Culiacán boutique",
+      "tipo": "Boutique regional",
+      "notas": "Noroeste",
+      "fuente": "research",
+      "ciudad": "Culiacán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Canastas Oaxaca gourmet",
+      "tipo": "Boutique regional",
+      "notas": "Productos artesanales locales",
+      "fuente": "research",
+      "ciudad": "Oaxaca",
+      "estado": "Oaxaca"
+    },
+    {
+      "empresa": "Canastas Chiapas café/chocolate",
+      "tipo": "Boutique regional",
+      "notas": "Origen local",
+      "fuente": "research",
+      "ciudad": "Tuxtla Gutiérrez",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Canastas Yucatán gourmet",
+      "tipo": "Boutique regional",
+      "notas": "Productos península",
+      "fuente": "research",
+      "ciudad": "Mérida",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "Canastas artesanales CDMX",
+      "tipo": "Artesanal",
+      "notas": "Productos MX",
+      "fuente": "research",
+      "url": "https://arconesgourmet.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas corporativas Forbes-cited",
+      "tipo": "Marca líder",
+      "notas": "Mencionados por Forbes / Fórmula",
+      "fuente": "research",
+      "url": "https://regalosmexico.mx/",
+      "email": "ventas@canastasyarcones.mx",
+      "telefono": "5598165166",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Capacidad miles de arcones/día",
+      "tipo": "Capacidad fábrica",
+      "notas": "Alto volumen B2B",
+      "fuente": "research",
+      "url": "https://arcones.mx/",
+      "email": "ventas@canastasyarcones.mx",
+      "telefono": "5598165166",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Personalización branding arcones",
+      "tipo": "Servicio B2B",
+      "notas": "Colores, logos, mensajes",
+      "fuente": "research",
+      "url": "https://canastasyarcones.mx/",
+      "email": "ventas@canastasyarcones.mx",
+      "telefono": "5571596103",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "5,000 productos para armar",
+      "tipo": "Catálogo insumos",
+      "notas": "Armado a la medida",
+      "fuente": "research",
+      "url": "https://canastasyarcones.mx/",
+      "email": "ventas@canastasyarcones.mx",
+      "telefono": "5571596103",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Precios de fábrica arcones",
+      "tipo": "Mayoreo fábrica",
+      "notas": "Descuentos por volumen",
+      "fuente": "research",
+      "url": "https://arcones.mx/",
+      "email": "ventas@arcones.mx",
+      "telefono": "5598165166",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Canastas Rivenso 10% cupón canal",
+      "tipo": "Ecom",
+      "notas": "Oficina + móvil",
+      "fuente": "research",
+      "url": "https://rivenso.com/",
+      "email": "ventas@rivenso.com",
+      "telefono": "5515541137",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Rivenso Ixtapaluca CD",
+      "tipo": "Centro distribución",
+      "notas": "Calz Acozac",
+      "fuente": "research",
+      "url": "https://rivenso.com/",
+      "email": "ventas@rivenso.com",
+      "telefono": "5584682011",
+      "ciudad": "Ixtapaluca",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Canastas gourmet Polanco 5 min",
+      "tipo": "Showroom",
+      "notas": "Cerca de Polanco",
+      "fuente": "research",
+      "url": "https://rivenso.com/",
+      "email": "ventas@rivenso.com",
+      "telefono": "5584682011",
+      "ciudad": "Miguel Hidalgo",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Arcones empresariales 2026 catálogo",
+      "tipo": "Catálogo temporada",
+      "notas": "WhatsApp ventas",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5524284169",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Regalos sorpresa a domicilio",
+      "tipo": "Ecom regalos",
+      "notas": "No solo navidad",
+      "fuente": "research",
+      "url": "https://canastasmexico.mx/",
+      "email": "ventas@canastasmexico.mx",
+      "telefono": "5538588260",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Estuches gourmet madera",
+      "tipo": "Línea estuche",
+      "notas": "Vault de madera",
+      "fuente": "research",
+      "url": "https://canastasmexico.mx/",
+      "email": "ventas@canastasmexico.mx",
+      "telefono": "5538588260",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Sets para hombre gourmet",
+      "tipo": "Línea género",
+      "notas": "Regalos ejecutivos",
+      "fuente": "research",
+      "url": "https://canastasmexico.mx/",
+      "email": "ventas@canastasmexico.mx",
+      "telefono": "5538588260",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Canastas de vinos para regalo",
+      "tipo": "Línea vinos",
+      "notas": "Corporativo",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Arcones productos de tocador",
+      "tipo": "Línea wellness",
+      "notas": "No solo alimentos",
+      "fuente": "research",
+      "url": "https://canastasmexico.mx/",
+      "email": "ventas@canastasmexico.mx",
+      "telefono": "5598165166",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Canastas para secretarios / gobierno",
+      "tipo": "Canal gobierno",
+      "notas": "Protocolo",
+      "fuente": "research",
+      "url": "https://canastasmexico.mx/",
+      "telefono": "5598165166",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas familiares navidad",
+      "tipo": "B2C",
+      "notas": "Menudeo temporada",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas para socios / clientes",
+      "tipo": "B2B",
+      "notas": "Relación comercial",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas para colaboradores",
+      "tipo": "B2B RH",
+      "notas": "Prestaciones fin de año",
+      "fuente": "research",
+      "url": "https://arcones.mx/",
+      "email": "ventas@canastasyarcones.mx",
+      "telefono": "5598165166",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Logística puntual arcones",
+      "tipo": "Operador logístico propio",
+      "notas": "Entregas masivas diciembre",
+      "fuente": "research",
+      "url": "https://canastasyarcones.mx/",
+      "email": "ventas@canastasyarcones.mx",
+      "telefono": "5571596103",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Facturación canastas Dendi",
+      "tipo": "PyME ecom",
+      "notas": "Atención punta a punta",
+      "fuente": "research",
+      "url": "https://canastanavidenas.com/",
+      "email": "ventas@dendi.mx",
+      "telefono": "5531152282",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canasta Caballeros Dendi",
+      "tipo": "SKU premium",
+      "notas": "Línea alta",
+      "fuente": "research",
+      "url": "https://canastanavidenas.com/",
+      "email": "ventas@dendi.mx",
+      "telefono": "5531152282",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canasta Cristal Dendi",
+      "tipo": "SKU premium",
+      "notas": "Con tequila",
+      "fuente": "research",
+      "url": "https://canastanavidenas.com/",
+      "email": "ventas@dendi.mx",
+      "telefono": "5531152282",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canasta Fiel / Celeste Dendi",
+      "tipo": "SKU mid",
+      "notas": "Línea media",
+      "fuente": "research",
+      "url": "https://canastanavidenas.com/",
+      "email": "ventas@dendi.mx",
+      "telefono": "5531152282",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Arcón Degustación Canastas.com",
+      "tipo": "SKU",
+      "notas": "Variedad y estilos",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Caja Sabores Exóticos",
+      "tipo": "SKU",
+      "notas": "Importados + locales",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Arcón Lujo set vinícola español",
+      "tipo": "SKU premium",
+      "notas": "Vinos España",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas con productos locales Puebla",
+      "tipo": "Línea local",
+      "notas": "Productores Puebla",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Canastas Cholula",
+      "tipo": "Cobertura",
+      "notas": "Personalizadas",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "Cholula",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Regalos fin de año Qro",
+      "tipo": "Temporada Bajío",
+      "notas": "Empresas Qro",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Canastas gourmet entrega Qro",
+      "tipo": "Last mile",
+      "notas": "Bajío",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Arcones corporativos NL",
+      "tipo": "B2B norte",
+      "notas": "Empresas Nuevo León",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Canastas premium SPGG",
+      "tipo": "Premium norte",
+      "notas": "San Pedro Garza García",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "San Pedro",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Gourmet Nuevo León",
+      "tipo": "Gourmet norte",
+      "notas": "Productos premium",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Canastas Acapulco",
+      "tipo": "Cobertura",
+      "notas": "Turismo + corp",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "Acapulco",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Venta arcones Toluca",
+      "tipo": "Cobertura",
+      "notas": "EdoMex industrial",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "Toluca",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Canasta básica / despensa",
+      "tipo": "Línea despensa",
+      "notas": "Alternativa económica",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Arcones centro CDMX",
+      "tipo": "Cobertura centro",
+      "notas": "Entrega centro histórico",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Tiendas regalos CDMX mayoreo",
+      "tipo": "Mayoreo tiendas",
+      "notas": "Reventa",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5524284169",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Detalles para clientes oficina",
+      "tipo": "B2B detalles",
+      "notas": "No solo navidad",
+      "fuente": "research",
+      "url": "https://canastasyarcones.mx/",
+      "email": "ventas@canastasyarcones.mx",
+      "telefono": "5598165166",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Regalos de cumpleaños empresas",
+      "tipo": "B2B all-year",
+      "notas": "Programa anual de regalos",
+      "fuente": "research",
+      "url": "https://canastasyarcones.mx/",
+      "email": "ventas@canastasyarcones.mx",
+      "telefono": "5598165166",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas San Miguel Chapultepec zona",
+      "tipo": "Zona entrega",
+      "notas": "Poniente CDMX",
+      "fuente": "research",
+      "url": "https://canastasyarcones.mx/",
+      "email": "ventas@canastasyarcones.mx",
+      "telefono": "5598165166",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas Satélite",
+      "tipo": "Zona entrega",
+      "notas": "Satélite / Toreo",
+      "fuente": "research",
+      "url": "https://canastasyarcones.mx/",
+      "email": "ventas@canastasyarcones.mx",
+      "telefono": "5598165166",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Puebla regalos a domicilio",
+      "tipo": "Last mile",
+      "notas": "Portal grupo",
+      "fuente": "research",
+      "url": "https://canastasyarcones.mx/",
+      "email": "ventas@canastasyarcones.mx",
+      "telefono": "5598165166",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Alianza / catálogo arcones",
+      "tipo": "Canal",
+      "notas": "Catálogos compartidos temporada",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Arcones La Gourmet",
+      "tipo": "Marca / línea",
+      "notas": "Línea gourmet retail",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Canastas Lomas",
+      "tipo": "Zona premium",
+      "notas": "Lomas de Chapultepec",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Regalos empresariales originales",
+      "tipo": "Posicionamiento",
+      "notas": "Diferenciación vs retail",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Importación directa vinos arcones",
+      "tipo": "Importador",
+      "notas": "Ahorro de costos B2B",
+      "fuente": "research",
+      "url": "https://regalosmexico.mx/",
+      "email": "ventas@canastasyarcones.mx",
+      "telefono": "5598165166",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Entrega inmediata arcones",
+      "tipo": "Operación",
+      "notas": "Stock temporada",
+      "fuente": "research",
+      "url": "https://arcones.mx/",
+      "email": "ventas@canastasyarcones.mx",
+      "telefono": "5598165166",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Envíos gratis promociones",
+      "tipo": "Promo logística",
+      "notas": "Temporada",
+      "fuente": "research",
+      "url": "https://arcones.mx/",
+      "email": "ventas@canastasyarcones.mx",
+      "telefono": "5598165166",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Canastas 100% deducibles",
+      "tipo": "Fiscal",
+      "notas": "Argumento B2B",
+      "fuente": "research",
+      "url": "https://arcones.mx/",
+      "email": "ventas@canastasyarcones.mx",
+      "telefono": "5598165166",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "RFC CAR1709188V6 Canastas y Arcones",
+      "tipo": "Razón social",
+      "notas": "51-200 empleados",
+      "fuente": "research",
+      "url": "https://canastasyarcones.mx/",
+      "email": "ventas@canastasyarcones.mx",
+      "telefono": "5571596103",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "WhatsApp ventas arcones 56 1654 5039",
+      "tipo": "Canal WhatsApp",
+      "notas": "Atención comercial",
+      "fuente": "research",
+      "url": "https://arcones.mx/",
+      "email": "ventas@canastasyarcones.mx",
+      "telefono": "5616545039",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "WhatsApp Canastas.com 55 2428 4169",
+      "tipo": "Canal WhatsApp",
+      "notas": "Cotizaciones",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5524284169",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas.com TikTok / redes",
+      "tipo": "Marca digital",
+      "notas": "Presencia multi-red",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas y Arcones Instagram",
+      "tipo": "Marca digital",
+      "notas": "@arconesmx",
+      "fuente": "research",
+      "url": "https://canastasyarcones.mx/",
+      "email": "ventas@canastasyarcones.mx",
+      "telefono": "5571596103",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Rivenso Instagram / ecom",
+      "tipo": "Marca digital",
+      "notas": "Cupones y catálogo",
+      "fuente": "research",
+      "url": "https://rivenso.com/",
+      "email": "ventas@rivenso.com",
+      "telefono": "5584682011",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Dendi Facebook / ecom",
+      "tipo": "Marca digital",
+      "notas": "PyME ágil",
+      "fuente": "research",
+      "url": "https://canastanavidenas.com/",
+      "email": "ventas@dendi.mx",
+      "telefono": "5531152282",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "María Orsini premium legado",
+      "tipo": "Premium legado",
+      "notas": "Marca de tradición CDMX",
+      "fuente": "research",
+      "url": "https://mariaorsini.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Arcones Gourmet artesanal MX",
+      "tipo": "Artesanal D2C",
+      "notas": "Productos artesanales mexicanos",
+      "fuente": "research",
+      "url": "https://arconesgourmet.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Regalos y Canastas ejemplo cliente",
+      "tipo": "Referencia",
+      "notas": "Seed original",
+      "fuente": "ejemplo_cliente",
+      "url": "https://www.regalosycanastas.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "La Europea canastas / vinos",
+      "tipo": "Vinoteca + regalos",
+      "notas": "Canastas con vino nacional",
+      "fuente": "research",
+      "url": "https://www.laeuropea.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Vinoteca regalos gourmet",
+      "tipo": "Vinoteca",
+      "notas": "Estuches y canastas",
+      "fuente": "research",
+      "url": "https://www.vinoteca.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "La Castellana canastas",
+      "tipo": "Vinoteca",
+      "notas": "Regalos con vino",
+      "fuente": "research",
+      "url": "https://www.lacastellana.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "La Naval gourmet / vinos",
+      "tipo": "Gourmet",
+      "notas": "Importados y canastas",
+      "fuente": "research",
+      "url": "https://www.lanaval.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "El Palacio de Hierro gift baskets",
+      "tipo": "Retail premium",
+      "notas": "Canastas departamentales",
+      "fuente": "brand",
+      "url": "https://www.elpalaciodehierro.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Liverpool canastas navideñas",
+      "tipo": "Retail",
+      "notas": "Temporada",
+      "fuente": "brand",
+      "url": "https://www.liverpool.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Enviaflores regalos",
+      "tipo": "Ecom regalos",
+      "notas": "Flores + gourmet a domicilio",
+      "fuente": "research",
+      "url": "https://www.enviaflores.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Teleflora / Interflora MX",
+      "tipo": "Red floral + gifts",
+      "notas": "Canastas y arreglos",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Chocolates Turin regalos",
+      "tipo": "Chocolate + gift",
+      "notas": "Estuches corporativos",
+      "fuente": "research",
+      "url": "https://www.turin.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Ki'Xocolatl canastas",
+      "tipo": "Chocolate gourmet",
+      "notas": "Regalos origen Yucatán",
+      "fuente": "research",
+      "ciudad": "Mérida",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "Chocolate Mayordomo gift",
+      "tipo": "Chocolate + gift",
+      "notas": "Canastas oaxaqueñas",
+      "fuente": "research",
+      "url": "https://www.mayordomo.com.mx/",
+      "ciudad": "Oaxaca",
+      "estado": "Oaxaca"
+    },
+    {
+      "empresa": "Cacep chocolate gift",
+      "tipo": "Chocolate origen",
+      "notas": "Regalos cacao",
+      "fuente": "research",
+      "ciudad": "Tabasco",
+      "estado": "Tabasco"
+    },
+    {
+      "empresa": "Wolter chocolate / café gift",
+      "tipo": "Origen Chiapas",
+      "notas": "Canastas café-cacao",
+      "fuente": "research",
+      "ciudad": "Chiapas",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Godiva México gift",
+      "tipo": "Chocolate premium",
+      "notas": "Estuches",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Nestlé gift boxes MX",
+      "tipo": "Corporativo",
+      "notas": "Estuches temporada",
+      "fuente": "brand",
+      "url": "https://www.nestle.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "PromoOpción regalos corporativos",
+      "tipo": "Promocionales",
+      "notas": "Merch + canastas",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "4Promotional MX",
+      "tipo": "Promocionales",
+      "notas": "Regalos empresa",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Regalos promocionales CDMX talleres",
+      "tipo": "Merch",
+      "notas": "Branding en canastas",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Despensas navideñas El Fresno",
+      "tipo": "Despensas",
+      "notas": "Mayoreo fin de año",
+      "fuente": "research",
+      "url": "https://elfresnoexpress.com/",
+      "ciudad": "EdoMex",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Despensas empresariales GDL",
+      "tipo": "Despensas",
+      "notas": "Prestaciones RH",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Despensas empresariales MTY",
+      "tipo": "Despensas",
+      "notas": "Prestaciones RH",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Despensas empresariales Puebla",
+      "tipo": "Despensas",
+      "notas": "RH",
+      "fuente": "research",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Despensas empresariales Qro",
+      "tipo": "Despensas",
+      "notas": "RH Bajío",
+      "fuente": "research",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Despensas empresariales León",
+      "tipo": "Despensas",
+      "notas": "RH",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Canastas de queso y vino independientes",
+      "tipo": "Gourmet",
+      "notas": "Queserías + cava",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Queserías CDMX gift boxes",
+      "tipo": "Gourmet",
+      "notas": "Canastas de queso",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Cavas CDMX estuches",
+      "tipo": "Vinos",
+      "notas": "Estuche 2-3 botellas",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Tequileras gift boxes Jalisco",
+      "tipo": "Destilados",
+      "notas": "Estuches tequila",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Mezcalerías Oaxaca gift",
+      "tipo": "Destilados",
+      "notas": "Estuches mezcal",
+      "fuente": "research",
+      "ciudad": "Oaxaca",
+      "estado": "Oaxaca"
+    },
+    {
+      "empresa": "Canastas de café especialidad",
+      "tipo": "Café gift",
+      "notas": "Grano + accesorios",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas de miel y artesanal MX",
+      "tipo": "Artesanal",
+      "notas": "Productores",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Canastas de mole / salsas Oaxaca",
+      "tipo": "Gourmet regional",
+      "notas": "Despensa gourmet",
+      "fuente": "research",
+      "ciudad": "Oaxaca",
+      "estado": "Oaxaca"
+    },
+    {
+      "empresa": "Canastas de chile / salsas Yucatán",
+      "tipo": "Gourmet regional",
+      "notas": "Recados y salsas",
+      "fuente": "research",
+      "ciudad": "Mérida",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "Canastas de cajeta Celaya",
+      "tipo": "Gourmet regional",
+      "notas": "Dulce + canasta",
+      "fuente": "research",
+      "ciudad": "Celaya",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Canastas de rompope / ponche",
+      "tipo": "Temporada",
+      "notas": "Navidad",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Canastas de galletas artesanales",
+      "tipo": "Repostería gift",
+      "notas": "Corporativo",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas de café Veracruz",
+      "tipo": "Origen",
+      "notas": "Productores",
+      "fuente": "research",
+      "ciudad": "Xalapa",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Canastas de café Chiapas",
+      "tipo": "Origen",
+      "notas": "Productores",
+      "fuente": "research",
+      "ciudad": "Tuxtla Gutiérrez",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Canastas de café Oaxaca",
+      "tipo": "Origen",
+      "notas": "Pluma / especialidad",
+      "fuente": "research",
+      "ciudad": "Oaxaca",
+      "estado": "Oaxaca"
+    },
+    {
+      "empresa": "Canastas de nuez Chihuahua",
+      "tipo": "Origen",
+      "notas": "Pecana gift",
+      "fuente": "research",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Canastas de datil / dátil norte",
+      "tipo": "Gourmet",
+      "notas": "Frutos secos",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Spa / wellness gift baskets",
+      "tipo": "Wellness",
+      "notas": "Cosmética + té",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas de té e infusiones",
+      "tipo": "Gourmet",
+      "notas": "Té + galletas",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas baby / nacimiento",
+      "tipo": "Ocasión",
+      "notas": "No navidad",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas de boda / recuerdos",
+      "tipo": "Ocasión",
+      "notas": "Eventos",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas aniversario empresa",
+      "tipo": "B2B",
+      "notas": "Programa anual",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas día del padre / madre",
+      "tipo": "Ocasión",
+      "notas": "Calendario comercial",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas San Valentín gourmet",
+      "tipo": "Ocasión",
+      "notas": "Chocolate + vino",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas posadas",
+      "tipo": "Temporada",
+      "notas": "Diciembre",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas Reyes Magos",
+      "tipo": "Temporada",
+      "notas": "Enero",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas graduación",
+      "tipo": "Ocasión",
+      "notas": "Junio / diciembre",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Florerías con canastas CDMX",
+      "tipo": "Florería + gift",
+      "notas": "Canal tradicional",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Florerías con canastas GDL",
+      "tipo": "Florería + gift",
+      "notas": "Occidente",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Florerías con canastas MTY",
+      "tipo": "Florería + gift",
+      "notas": "Norte",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Florerías con canastas Puebla",
+      "tipo": "Florería + gift",
+      "notas": "Puebla",
+      "fuente": "research",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Florerías con canastas Qro",
+      "tipo": "Florería + gift",
+      "notas": "Bajío",
+      "fuente": "research",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Florerías con canastas León",
+      "tipo": "Florería + gift",
+      "notas": "Bajío",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Florerías con canastas Mérida",
+      "tipo": "Florería + gift",
+      "notas": "Sureste",
+      "fuente": "research",
+      "ciudad": "Mérida",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "Florerías con canastas Tijuana",
+      "tipo": "Florería + gift",
+      "notas": "Frontera",
+      "fuente": "research",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Florerías con canastas Cancún",
+      "tipo": "Florería + gift",
+      "notas": "Turismo",
+      "fuente": "research",
+      "ciudad": "Cancún",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Hotel amenities gift Cancún",
+      "tipo": "Hotel gift",
+      "notas": "VIP / corp",
+      "fuente": "research",
+      "ciudad": "Cancún",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Hotel amenities gift Los Cabos",
+      "tipo": "Hotel gift",
+      "notas": "VIP",
+      "fuente": "research",
+      "ciudad": "Los Cabos",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Hotel amenities gift Puerto Vallarta",
+      "tipo": "Hotel gift",
+      "notas": "VIP",
+      "fuente": "research",
+      "ciudad": "Puerto Vallarta",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Regalos corporativos aeropuertos duty",
+      "tipo": "Travel retail",
+      "notas": "Estuches",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Sam's Club arcones extra",
+      "tipo": "Club",
+      "notas": "Mayoreo consumidor",
+      "fuente": "brand",
+      "url": "https://www.sams.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Costco gourmet extra",
+      "tipo": "Club",
+      "notas": "Importados",
+      "fuente": "brand",
+      "url": "https://www.costco.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Walmart arcones extra",
+      "tipo": "Retail",
+      "notas": "Masivo",
+      "fuente": "brand",
+      "url": "https://www.walmart.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Chedraui Selecto extra",
+      "tipo": "Súper",
+      "notas": "Temporada",
+      "fuente": "brand",
+      "url": "https://www.chedraui.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "La Comer City Market extra",
+      "tipo": "Súper premium",
+      "notas": "Gourmet",
+      "fuente": "brand",
+      "url": "https://www.lacomer.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "HEB canastas extra",
+      "tipo": "Súper",
+      "notas": "Norte",
+      "fuente": "brand",
+      "url": "https://www.heb.com.mx/",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Soriana canastas extra",
+      "tipo": "Súper",
+      "notas": "Temporada",
+      "fuente": "brand",
+      "url": "https://www.soriana.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Sears arcones extra",
+      "tipo": "Retail",
+      "notas": "Temporada",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Sanborns gift extra",
+      "tipo": "Retail",
+      "notas": "Estuches",
+      "fuente": "brand",
+      "url": "https://www.sanborns.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "iShop / Mixup gift extra",
+      "tipo": "Retail",
+      "notas": "Tech + gift no food",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Office Depot regalos corporativos",
+      "tipo": "B2B office",
+      "notas": "Canastas + merch",
+      "fuente": "brand",
+      "url": "https://www.officedepot.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Uline empaque para arcones",
+      "tipo": "Insumos empaque",
+      "notas": "Cajas y relleno",
+      "fuente": "brand",
+      "url": "https://es.uline.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Fabricantes de mimbre CDMX extra",
+      "tipo": "Insumo",
+      "notas": "La Merced",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Fabricantes de arcones madera extra",
+      "tipo": "Insumo",
+      "notas": "Cajas de madera",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Imprentas tarjetas dedicadas extra",
+      "tipo": "Insumo",
+      "notas": "Branding canasta",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Moños y listón mayoreo extra",
+      "tipo": "Insumo packing",
+      "notas": "Armado",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Logística última milla regalos extra",
+      "tipo": "3PL",
+      "notas": "Diciembre pico",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Paquetería corporativa arcones extra",
+      "tipo": "3PL",
+      "notas": "Nacional",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Rivenso extra oficina",
+      "tipo": "Ecom",
+      "notas": "Cotización volumen",
+      "fuente": "research",
+      "url": "https://rivenso.com/",
+      "email": "ventas@rivenso.com",
+      "telefono": "5515541137",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Dendi extra logística",
+      "tipo": "PyME",
+      "notas": "Punta a punta",
+      "fuente": "research",
+      "url": "https://canastanavidenas.com/",
+      "email": "ventas@dendi.mx",
+      "telefono": "5531152282",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "María Orsini extra legado",
+      "tipo": "Premium",
+      "notas": "Tradición",
+      "fuente": "research",
+      "url": "https://mariaorsini.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Arcones Gourmet extra artesanal",
+      "tipo": "Artesanal",
+      "notas": "MX",
+      "fuente": "research",
+      "url": "https://arconesgourmet.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Canastas y Arcones extra fábrica",
+      "tipo": "Fábrica",
+      "notas": "Alto volumen",
+      "fuente": "research",
+      "url": "https://canastasyarcones.mx/",
+      "email": "ventas@canastasyarcones.mx",
+      "telefono": "5571596103",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Canastas.com extra fábrica",
+      "tipo": "Fábrica",
+      "notas": "1000+ SKU",
+      "fuente": "research",
+      "url": "https://canastas.com/",
+      "email": "contacto@canastas.com",
+      "telefono": "5599901630",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Regalos y Canastas extra ejemplo",
+      "tipo": "Referencia",
+      "notas": "Cliente",
+      "fuente": "ejemplo_cliente",
+      "url": "https://www.regalosycanastas.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Boutique regalos Condesa / Roma",
+      "tipo": "Boutique",
+      "notas": "Gourmet barrio",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Boutique regalos Polanco extra",
+      "tipo": "Boutique",
+      "notas": "Premium",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Boutique regalos Santa Fe",
+      "tipo": "Boutique",
+      "notas": "Corporativo",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Boutique regalos Coyoacán",
+      "tipo": "Boutique",
+      "notas": "Artesanal",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Boutique regalos San Ángel",
+      "tipo": "Boutique",
+      "notas": "Premium sur",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Boutique regalos Valle / Del Valle",
+      "tipo": "Boutique",
+      "notas": "Sur-poniente",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Boutique regalos Satélite extra",
+      "tipo": "Boutique",
+      "notas": "Poniente",
+      "fuente": "research",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Boutique regalos Interlomas",
+      "tipo": "Boutique",
+      "notas": "Premium",
+      "fuente": "research",
+      "ciudad": "Huixquilucan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Boutique regalos San Pedro extra",
+      "tipo": "Boutique",
+      "notas": "SPGG",
+      "fuente": "research",
+      "ciudad": "San Pedro",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Boutique regalos Valle Oriente",
+      "tipo": "Boutique",
+      "notas": "Corporativo MTY",
+      "fuente": "research",
+      "ciudad": "San Pedro",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Boutique regalos Providencia GDL",
+      "tipo": "Boutique",
+      "notas": "Poniente GDL",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Boutique regalos Andares / Zapopan",
+      "tipo": "Boutique",
+      "notas": "Premium GDL",
+      "fuente": "research",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Boutique regalos Angelópolis Puebla",
+      "tipo": "Boutique",
+      "notas": "Premium",
+      "fuente": "research",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Boutique regalos Antea Qro",
+      "tipo": "Boutique",
+      "notas": "Premium Bajío",
+      "fuente": "research",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Boutique regalos Altacia León",
+      "tipo": "Boutique",
+      "notas": "Premium",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    }
+  ]
+}

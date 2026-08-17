@@ -138,6 +138,16 @@ lotes:
         kind: dirind
         urls:
           - https://www.dirind.com/dag/botanas1.html
+          - https://www.dirind.com/dag/tortillas-tostadas1.html
+      - id: quiminet_frituras
+        kind: quiminet
+        urls:
+          - https://www.quiminet.com/proveedores/frituras-2615278348.htm
+          - https://www.quiminet.com/productos/frituras-2615278348/proveedores.htm
+      - id: cosmos_frituras
+        kind: generic_list
+        urls:
+          - https://www.cosmos.com.mx/producto/frituras-4cqw/
       - id: seed_manual
         kind: seeds
         file: config/seeds/05_botanas_snacks.json
@@ -146,7 +156,334 @@ lotes:
       - churritos totopos snacks mexicanos tienda .mx
       - distribuidor botanas frituras México
 
-# Plantilla para lotes futuros (06+)
+  "06":
+    slug: maquillaje_artistico
+    giro: Belleza
+    nicho: Maquillaje artistico
+    ejemplo: https://colibrix.com.mx/productos/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/06_maquillaje_artistico.json
+    search_queries:
+      - maquillaje artístico body paint México tienda
+      - Kryolan Mehron caracterización FX México
+      - face paint pinta caritas mayoreo CDMX
+
+  "07":
+    slug: disfraces
+    giro: Ropa
+    nicho: Disfraces
+    ejemplo: https://mykidsmx.com/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/07_disfraces.json
+    search_queries:
+      - fábrica disfraces México mayoreo
+      - tienda disfraces Halloween CDMX Guadalajara Monterrey
+      - renta disfraces México .mx
+
+  "08":
+    slug: cestas_de_regalo
+    giro: Regalos
+    nicho: Cestas de regalo
+    ejemplo: https://www.regalosycanastas.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/08_cestas_de_regalo.json
+    search_queries:
+      - arcones canastas navideñas mayoreo México
+      - regalos corporativos gourmet .mx
+      - fábrica canastas empresariales México
+
+  "09":
+    slug: almohadas_cobijas
+    giro: Blancos
+    nicho: Almohadas, cobijas
+    ejemplo: https://mintandlime.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/09_almohadas_cobijas.json
+    search_queries:
+      - fábrica blancos hotel México mayoreo almohadas
+      - cobijas cobertores mayoreo México
+      - colchones almohadas D2C .mx
+
+  "10":
+    slug: cargadores_porta_laptop
+    giro: Tecnologia
+    nicho: Cargadores, porta laptop
+    ejemplo: https://doto.com.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/10_cargadores_porta_laptop.json
+    search_queries:
+      - mayoreo accesorios celular México fundas cargadores
+      - porta laptop mochila tienda .mx
+      - dropshipping accesorios electrónicos México
+
+  "11":
+    slug: trajes_tipicos
+    giro: Ropa
+    nicho: Trajes tipicos
+    ejemplo: https://dosmalinches.com/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/11_trajes_tipicos.json
+    search_queries:
+      - fábrica trajes de charro México mayoreo
+      - huipiles guayaberas mayoreo México
+      - trajes regionales folklóricos tienda .mx
+
+  "12":
+    slug: zapatos_para_danza
+    giro: Zapatos
+    nicho: Zapatos para danza
+    ejemplo: https://calzadomanzano.com/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/12_zapatos_para_danza.json
+    search_queries:
+      - zapatos danza folklórica México fábrica
+      - tienda ballet Capezio Bloch México
+      - calzado flamenco jazz tap .mx
+
+  "13":
+    slug: juguetes_sensoriales
+    giro: Juguetes
+    nicho: Juguetes sensoriales y terapeuticos
+    ejemplo: https://www.coconini.com.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/13_juguetes_sensoriales.json
+    search_queries:
+      - juguetes sensoriales Montessori TEA México mayoreo
+      - material didáctico terapéutico tienda .mx
+      - Pikler squishy pop-it mayoreo México
+
+  "14":
+    slug: articulos_miniatura
+    giro: Juguetes
+    nicho: Articulos miniatura o a escala
+    ejemplo: https://trenes.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/14_articulos_miniatura.json
+    search_queries:
+      - modelismo escala México Tamiya Revell tienda
+      - trenes HO N ferromodelismo México
+      - hobby RC maquetas mayoreo .mx
+
+  "15":
+    slug: insumos_para_tatuar
+    giro: Medicina
+    nicho: Insumos para tatuar
+    ejemplo: https://soulflower.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/15_insumos_para_tatuar.json
+    search_queries:
+      - tattoo supply México mayoreo tintas máquinas
+      - insumos tatuar PMU tienda .mx
+      - cartuchos EZ Cheyenne México
+
+  "16":
+    slug: invitaciones_fisicas
+    giro: Papeleria
+    nicho: Invitaciones fisicas
+    ejemplo: https://paradisaprint.com/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/16_invitaciones_fisicas.json
+    search_queries:
+      - invitaciones boda hot stamping México
+      - imprenta XV años papelería eventos .mx
+      - letterpress invitaciones mayoreo
+
+  "17":
+    slug: miel_afrodisiaca
+    giro: Alimentos
+    nicho: Miel afrodisiaca
+    ejemplo: https://www.mielesdemalasiamx.com/
+    sources:
+      - id: dirind_miel
+        kind: dirind
+        urls:
+          - https://www.dirind.com/dag/miel1.html
+          - https://www.dirind.com/dap/miel-abeja1.html
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/17_miel_afrodisiaca.json
+    search_queries:
+      - miel afrodisíaca Royal Honey México tienda .mx
+      - miel de Malasia mayoreo México Etumax
+      - apicultor miel de abeja mayoreo Yucatán Jalisco
+
+  "18":
+    slug: tijeras_patron_al_corte
+    giro: Papeleria
+    nicho: Tijeras con patron al corte
+    ejemplo: https://yoyi.com.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/18_tijeras_patron_al_corte.json
+    search_queries:
+      - tijeras dentadas scrapbooking México Fiskars
+      - papelería mayoreo tijeras escolares Barrilito MAE
+      - tijeras patrón al corte zigzag .mx
+
+  "19":
+    slug: charms
+    giro: Joyeria
+    nicho: Charms
+    ejemplo: https://charmslab.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/19_charms.json
+    search_queries:
+      - charms plata 925 México tienda Pandora .mx
+      - dijes pulsera mayoreo Centro CDMX Taxco
+      - joyería plata charms Guadalajara Monterrey
+
+  "20":
+    slug: pupilentes
+    giro: Belleza
+    nicho: Pupilentes
+    ejemplo: https://pupilentes.shop/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/20_pupilentes.json
+    search_queries:
+      - pupilentes de color México tienda .mx
+      - lentes de contacto cosméticos mayoreo FreshLook
+      - óptica pupilentes Halloween Freshlady
+
+  "21":
+    slug: insumos_unas_press_on
+    giro: Belleza
+    nicho: Insumos para uñas, uñas press on
+    ejemplo: https://unikastudiomexico.com/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/21_insumos_unas_press_on.json
+    search_queries:
+      - uñas press on mayoreo México tienda .mx
+      - insumos uñas Organic Fantasy Wapizima
+      - esmaltes gel tips acrílico mayoreo
+
+  "22":
+    slug: tarot_velas_esotericas
+    giro: Articulos religiosos
+    nicho: Tarot, lociones y velas esotericas
+    ejemplo: https://pinka.com.mx/tarots-y-oraculos/tarot/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/22_tarot_velas_esotericas.json
+    search_queries:
+      - tienda esotérica México tarot velas .mx
+      - velas mágicas mayoreo Centro CDMX
+      - cuarzos sahumerios oráculos tienda
+
+  "23":
+    slug: shampoo_artesanal_tinte
+    giro: Belleza
+    nicho: Shampoo artesanal, shampoo con tinte
+    ejemplo: https://www.meidu.com.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/23_shampoo_artesanal_tinte.json
+    search_queries:
+      - shampoo tinte cubre canas México tienda .mx
+      - shampoo sólido artesanal rizos mayoreo
+      - jabón champú artesanal D2C México
+
+  "24":
+    slug: hilos_y_estambre
+    giro: Merceria
+    nicho: Hilos y estambre
+    ejemplo: https://makrama.com.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/24_hilos_y_estambre.json
+    search_queries:
+      - estambre mayoreo México Omega Tamm Dasa
+      - mercería hilos Centro CDMX Mesones
+      - hilo macramé tienda .mx
+
+  "25":
+    slug: bolsas_de_regalo
+    giro: Papeleria
+    nicho: Bolsas de regalo
+    ejemplo: https://creear.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/25_bolsas_de_regalo.json
+    search_queries:
+      - bolsas de regalo mayoreo México kraft
+      - fábrica bolsas papel personalizadas .mx
+      - envolturas moños papelería Centro CDMX
+
+  "26":
+    slug: tenis_botas_playeras
+    giro: Ropa y calzado
+    nicho: Tenis, botas, playeras
+    ejemplo: https://mikyshop.com.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/26_tenis_botas_playeras.json
+    search_queries:
+      - tenis mayoreo León San Francisco del Rincón
+      - playeras algodón mayoreo México .mx
+      - calzado Andy botas fábrica Guanajuato
+
+  "27":
+    slug: skincare_cosmeticos
+    giro: Belleza
+    nicho: Skincare, cosmeticos
+    ejemplo: https://meriticosmetics.com.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/27_skincare_cosmeticos.json
+    search_queries:
+      - skincare coreano México tienda .mx
+      - cosméticos mayoreo CDMX K-beauty
+      - dermocosmética D2C México
+
+  "28":
+    slug: productos_unas_esmaltes
+    giro: Belleza
+    nicho: Productos para uñas (esmaltes, pegamentos, piedritas)
+    ejemplo: https://circulob.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/28_productos_unas_esmaltes.json
+    search_queries:
+      - esmaltes gel mayoreo México Fantasy Organic
+      - pegamento uñas piedritas strass .mx
+      - Miss Cherry Nail Factory mayoreo
+
+# Plantilla para lotes futuros (29+)
 # Copiar bloque y llenar sources + seeds
 template_lote:
   slug: ""

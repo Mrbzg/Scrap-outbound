@@ -1,0 +1,1722 @@
+{
+  "lote": "26",
+  "slug": "tenis_botas_playeras",
+  "description": "Tenis, botas y playeras mayoreo MX",
+  "leads": [
+    {
+      "empresa": "Miky Shop",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — tenis, botas, playeras",
+      "fuente": "ejemplo_cliente",
+      "url": "https://mikyshop.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Tenis Mayoreo",
+      "tipo": "Mayoreo",
+      "notas": "Fábrica, cajas cerradas 6 pares, $1200-1500",
+      "fuente": "research",
+      "url": "https://tenismayoreo.com/",
+      "telefono": "4761900834",
+      "ciudad": "San Francisco del Rincón",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Mayoreo de Tenis",
+      "tipo": "Mayoreo",
+      "notas": "Envíos México",
+      "fuente": "research",
+      "url": "https://www.mayoreodetenis.com.mx/",
+      "email": "contacto@mayoreodetenis.com.mx",
+      "telefono": "4761490544",
+      "ciudad": "San Francisco del Rincón",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Calzado Andy Mayoreo",
+      "tipo": "Fabricante",
+      "notas": "Paseo de los Cóndores 203 San Isidro, desde 1991",
+      "fuente": "research",
+      "url": "https://calzadoandymexmayoreo.com/",
+      "email": "calzado.andy12331@gmail.com",
+      "telefono": "4777631422",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Andy tenis extra",
+      "tipo": "Línea",
+      "notas": "Casual gamuza / sintético",
+      "fuente": "research",
+      "url": "https://calzadoandymexmayoreo.com/en/collections/tenis",
+      "email": "calzado.andy12331@gmail.com",
+      "telefono": "4777631422",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "MOGA Shoes MX",
+      "tipo": "Mayoreo",
+      "notas": "Calzado femenino, envíos República",
+      "fuente": "research",
+      "telefono": "4776025037",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "LHESH",
+      "tipo": "Mayoreo",
+      "notas": "Botas tácticas / lona por caja 12 pares",
+      "fuente": "research",
+      "url": "https://lhesh.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mayoreo de Zapato León",
+      "tipo": "Mayoreo",
+      "notas": "Zapatería mayorista",
+      "fuente": "research",
+      "url": "https://mayoreo-de-zapato-en-leon-gto.ueniweb.com/",
+      "telefono": "4772082506",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Mayoreo Tenis MTY",
+      "tipo": "Mayoreo",
+      "notas": "Juárez 470 Sur entre 5 y 15 de Mayo",
+      "fuente": "research",
+      "url": "https://www.facebook.com/MayoreoTenisMTY/",
+      "email": "shoesf56@gmail.com",
+      "telefono": "8115148837",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Mayoreando",
+      "tipo": "Mayoreo",
+      "notas": "Playeras / jerseys deportivos",
+      "fuente": "research",
+      "url": "https://mayoreando.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mayoreo Borcelle",
+      "tipo": "Mayoreo",
+      "notas": "Prendas $100, mayoreo y menudeo",
+      "fuente": "research",
+      "telefono": "4777320943",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Mistertennis",
+      "tipo": "Retail deportivo",
+      "notas": "Calzado y ropa tennis",
+      "fuente": "research",
+      "url": "https://www.mistertennis.shop/",
+      "email": "contacto@mtsport.com.mx",
+      "telefono": "2222123151",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Mi Tennis",
+      "tipo": "Retail",
+      "notas": "Parque Interlomas, WA 5574546190",
+      "fuente": "research",
+      "url": "https://www.mitennis.mx/",
+      "telefono": "5594629696",
+      "ciudad": "Huixquilucan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Mi Tennis WA extra",
+      "tipo": "Canal WA",
+      "notas": "Jesús del Monte 41",
+      "fuente": "research",
+      "url": "https://www.mitennis.mx/",
+      "telefono": "5574546190",
+      "ciudad": "Huixquilucan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Tenis Mayoreo cajas extra",
+      "tipo": "Política",
+      "notas": "1 media corrida / 6 pares",
+      "fuente": "research",
+      "url": "https://tenismayoreo.com/",
+      "telefono": "4761900834",
+      "ciudad": "San Francisco del Rincón",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Tenis Mayoreo sede extra",
+      "tipo": "Ubicación",
+      "notas": "Capital del calzado deportivo",
+      "fuente": "research",
+      "url": "https://tenismayoreo.com/",
+      "telefono": "4761900834",
+      "ciudad": "San Francisco del Rincón",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Andy horario extra",
+      "tipo": "Operación",
+      "notas": "Desde 1991 León",
+      "fuente": "research",
+      "url": "https://calzadoandymexmayoreo.com/",
+      "email": "calzado.andy12331@gmail.com",
+      "telefono": "4777631422",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Andy 3 pares extra",
+      "tipo": "Mayoreo",
+      "notas": "Escala 3/6 pares",
+      "fuente": "research",
+      "url": "https://calzadoandymexmayoreo.com/en/collections/tenis",
+      "telefono": "4777631422",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Playeras algodón León extra",
+      "tipo": "Producto",
+      "notas": "Desde 6 pzas $130 / oversize $145",
+      "fuente": "research",
+      "telefono": "4777320943",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Jerseys Puma extra",
+      "tipo": "Producto",
+      "notas": "Deportivo",
+      "fuente": "research",
+      "url": "https://mayoreando.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Playeras Reebok extra",
+      "tipo": "Producto",
+      "notas": "Outlet / mayoreo",
+      "fuente": "research",
+      "url": "https://mayoreando.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Botas tácticas extra",
+      "tipo": "Producto",
+      "notas": "HDROF 1000",
+      "fuente": "research",
+      "url": "https://lhesh.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Tenis lona tipo bota extra",
+      "tipo": "Producto",
+      "notas": "Caja 12 pares",
+      "fuente": "research",
+      "url": "https://lhesh.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Choclo lona extra",
+      "tipo": "Producto",
+      "notas": "Clásico unisex",
+      "fuente": "research",
+      "url": "https://lhesh.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Tenis dama extra",
+      "tipo": "Línea",
+      "notas": "Andy femenino",
+      "fuente": "research",
+      "url": "https://calzadoandymexmayoreo.com/",
+      "email": "calzado.andy12331@gmail.com",
+      "telefono": "4777631422",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Tenis caballero extra",
+      "tipo": "Línea",
+      "notas": "Mayoreo fábrica",
+      "fuente": "research",
+      "url": "https://tenismayoreo.com/",
+      "telefono": "4761900834",
+      "ciudad": "San Francisco del Rincón",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Tenis infantil extra",
+      "tipo": "Línea",
+      "notas": "Curva de tallas",
+      "fuente": "research",
+      "url": "https://tenismayoreo.com/",
+      "telefono": "4761900834",
+      "ciudad": "San Francisco del Rincón",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Botas vaqueras extra",
+      "tipo": "Adyacente",
+      "notas": "Cluster calzado",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Botas western extra",
+      "tipo": "Adyacente",
+      "notas": "Export / mayoreo",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Sandalias temporada extra",
+      "tipo": "Temporada",
+      "notas": "Femenino",
+      "fuente": "research",
+      "url": "https://calzadoandymexmayoreo.com/",
+      "telefono": "4777631422",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Hoodies / sudaderas extra",
+      "tipo": "Adyacente",
+      "notas": "Textil deporte",
+      "fuente": "research",
+      "url": "https://mayoreando.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Tops deportivos extra",
+      "tipo": "Adyacente",
+      "notas": "Mayoreo",
+      "fuente": "research",
+      "url": "https://mayoreando.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Pantalón cargo extra",
+      "tipo": "Adyacente",
+      "notas": "$100 mayoreo",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Polo / piqué extra",
+      "tipo": "Producto",
+      "notas": "Playeras polo",
+      "fuente": "research",
+      "url": "https://mayoreando.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Oversize tee extra",
+      "tipo": "Producto",
+      "notas": "$145 desde 6 pzas",
+      "fuente": "research",
+      "telefono": "4777320943",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Amazon MX tenis extra",
+      "tipo": "Marketplace",
+      "notas": "Sellers",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=tenis+mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "ML tenis extra",
+      "tipo": "Marketplace",
+      "notas": "León / SFR",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/tenis-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "ML playeras extra",
+      "tipo": "Marketplace",
+      "notas": "Algodón",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/playeras-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Zapaterías canal extra",
+      "tipo": "Canal B2B",
+      "notas": "Surtido tiendas",
+      "fuente": "research",
+      "url": "https://tenismayoreo.com/",
+      "telefono": "4761900834",
+      "ciudad": "San Francisco del Rincón",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Boutiques canal extra",
+      "tipo": "Canal B2B",
+      "notas": "Femenino Andy",
+      "fuente": "research",
+      "url": "https://calzadoandymexmayoreo.com/",
+      "telefono": "4777631422",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Tiendas deporte extra",
+      "tipo": "Canal B2B",
+      "notas": "Jerseys / tenis",
+      "fuente": "research",
+      "url": "https://mayoreando.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Emprendedores extra",
+      "tipo": "Canal",
+      "notas": "Plan 1 media corrida",
+      "fuente": "research",
+      "url": "https://tenismayoreo.com/",
+      "telefono": "4761900834",
+      "ciudad": "San Francisco del Rincón",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Cluster León extra",
+      "tipo": "Cluster",
+      "notas": "Capital del calzado",
+      "fuente": "research",
+      "url": "https://calzadoandymexmayoreo.com/",
+      "email": "calzado.andy12331@gmail.com",
+      "telefono": "4777631422",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Cluster SFR extra",
+      "tipo": "Cluster",
+      "notas": "Tenis fábrica",
+      "fuente": "research",
+      "url": "https://tenismayoreo.com/",
+      "telefono": "4761900834",
+      "ciudad": "San Francisco del Rincón",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Cluster MTY extra",
+      "tipo": "Cluster",
+      "notas": "Juárez Sur",
+      "fuente": "research",
+      "url": "https://www.facebook.com/MayoreoTenisMTY/",
+      "email": "shoesf56@gmail.com",
+      "telefono": "8115148837",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Cluster CDMX extra",
+      "tipo": "Cluster",
+      "notas": "Mayoreo calzado Centro",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Import frontera extra",
+      "tipo": "Import",
+      "notas": "Sneakers US",
+      "fuente": "research",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Réplicas / G5 extra",
+      "tipo": "Nicho",
+      "notas": "Bodegas sneakers",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Sneaker shops extra",
+      "tipo": "Canal",
+      "notas": "Streetwear",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Temporada verano extra",
+      "tipo": "Temporada",
+      "notas": "Sandalia / lona",
+      "fuente": "research",
+      "url": "https://calzadoandymexmayoreo.com/",
+      "telefono": "4777631422",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Temporada invierno extra",
+      "tipo": "Temporada",
+      "notas": "Bota / hoodie",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Regreso a clases extra",
+      "tipo": "Temporada",
+      "notas": "Infantil / tenis",
+      "fuente": "research",
+      "url": "https://tenismayoreo.com/",
+      "telefono": "4761900834",
+      "ciudad": "San Francisco del Rincón",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Buen Fin extra",
+      "tipo": "Promo",
+      "notas": "Jerseys",
+      "fuente": "research",
+      "url": "https://mayoreando.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Liverpool calzado extra",
+      "tipo": "Retail",
+      "notas": "Marcas",
+      "fuente": "brand",
+      "url": "https://www.liverpool.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Coppel extra",
+      "tipo": "Retail",
+      "notas": "Tenis / playeras",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Martí extra",
+      "tipo": "Retail",
+      "notas": "Deporte",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Innovasport extra",
+      "tipo": "Retail",
+      "notas": "Sneakers",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Nike MX extra",
+      "tipo": "Marca",
+      "notas": "Retail oficial",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Adidas MX extra",
+      "tipo": "Marca",
+      "notas": "Retail oficial",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Puma MX extra",
+      "tipo": "Marca",
+      "notas": "Jerseys / tee",
+      "fuente": "brand",
+      "url": "https://mayoreando.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Reebok extra",
+      "tipo": "Marca",
+      "notas": "Playeras",
+      "fuente": "brand",
+      "url": "https://mayoreando.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Instagram Andy extra",
+      "tipo": "Canal",
+      "notas": "Social",
+      "fuente": "research",
+      "url": "https://calzadoandymexmayoreo.com/",
+      "telefono": "4777631422",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "TikTok MOGA extra",
+      "tipo": "Canal digital",
+      "notas": "@MOGA SHOES MX",
+      "fuente": "research",
+      "telefono": "4776025037",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Facebook Mayoreo Tenis extra",
+      "tipo": "Canal",
+      "notas": "MTY",
+      "fuente": "research",
+      "url": "https://www.facebook.com/MayoreoTenisMTY/",
+      "email": "shoesf56@gmail.com",
+      "telefono": "8115148837",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "WhatsApp cotiza extra",
+      "tipo": "Canal WA",
+      "notas": "Mayoreo",
+      "fuente": "research",
+      "url": "https://www.mayoreodetenis.com.mx/",
+      "email": "contacto@mayoreodetenis.com.mx",
+      "telefono": "4761490544",
+      "ciudad": "San Francisco del Rincón",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Asesor León extra",
+      "tipo": "Canal",
+      "notas": "Mayoreo mixto 12-21 h",
+      "fuente": "research",
+      "telefono": "4778382227",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Asesor 2 León extra",
+      "tipo": "Canal",
+      "notas": "Mayoreo mixto",
+      "fuente": "research",
+      "telefono": "4771693578",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Curva de tallas extra",
+      "tipo": "Spec",
+      "notas": "Media corrida",
+      "fuente": "research",
+      "url": "https://tenismayoreo.com/",
+      "telefono": "4761900834",
+      "ciudad": "San Francisco del Rincón",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Envío cargo cliente extra",
+      "tipo": "Logística",
+      "notas": "100% seguro",
+      "fuente": "research",
+      "url": "https://tenismayoreo.com/",
+      "telefono": "4761900834",
+      "ciudad": "San Francisco del Rincón",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Precio fábrica extra",
+      "tipo": "Mayoreo",
+      "notas": "Sin intermediarios",
+      "fuente": "research",
+      "url": "https://tenismayoreo.com/",
+      "telefono": "4761900834",
+      "ciudad": "San Francisco del Rincón",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Modaexpress Andy extra",
+      "tipo": "Retail",
+      "notas": "Canal Andy 9-21 h",
+      "fuente": "research",
+      "url": "https://modaexpress.mx/calzado-andy/",
+      "email": "contacto@modaexpress.mx",
+      "telefono": "7531003707",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mistral / Mi Tennis extra",
+      "tipo": "Retail",
+      "notas": "Mistral Sporting Goods",
+      "fuente": "research",
+      "url": "https://www.mitennis.mx/",
+      "telefono": "5594629696",
+      "ciudad": "Huixquilucan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Raquetas adyacente extra",
+      "tipo": "Adyacente",
+      "notas": "Tennis sport",
+      "fuente": "research",
+      "url": "https://www.mitennis.mx/",
+      "telefono": "5594629696",
+      "ciudad": "Huixquilucan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Streetwear CDMX extra",
+      "tipo": "Canal",
+      "notas": "Playeras / sneakers",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Bodegas León extra",
+      "tipo": "Cluster",
+      "notas": "Mayoreo zapato",
+      "fuente": "research",
+      "telefono": "4772082506",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Expo calzado extra",
+      "tipo": "Expo",
+      "notas": "ANPIC / SAPICA",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "SAPICA extra",
+      "tipo": "Expo",
+      "notas": "Temporada",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Zapatería / tenis Aguascalientes",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Aguascalientes",
+      "estado": "Aguascalientes"
+    },
+    {
+      "empresa": "Zapatería / tenis Tijuana",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Zapatería / tenis Mexicali",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Mexicali",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Zapatería / tenis La Paz",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "La Paz",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Zapatería / tenis Campeche",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Campeche",
+      "estado": "Campeche"
+    },
+    {
+      "empresa": "Zapatería / tenis Tuxtla Gutiérrez",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Tuxtla Gutiérrez",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Zapatería / tenis Chihuahua",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Zapatería / tenis Cd. Juárez",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Cd. Juárez",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Zapatería / tenis Saltillo",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Saltillo",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Zapatería / tenis Torreón",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Torreón",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Zapatería / tenis Colima",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Colima",
+      "estado": "Colima"
+    },
+    {
+      "empresa": "Zapatería / tenis Durango",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Durango",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Zapatería / tenis León",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Zapatería / tenis Irapuato",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Irapuato",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Zapatería / tenis Acapulco",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Acapulco",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Zapatería / tenis Pachuca",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Pachuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Zapatería / tenis Toluca",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Toluca",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Zapatería / tenis Cuernavaca",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Cuernavaca",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Zapatería / tenis Tepic",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Tepic",
+      "estado": "Nayarit"
+    },
+    {
+      "empresa": "Zapatería / tenis Monterrey",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Zapatería / tenis Oaxaca",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Oaxaca",
+      "estado": "Oaxaca"
+    },
+    {
+      "empresa": "Zapatería / tenis Puebla",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Zapatería / tenis Querétaro",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Zapatería / tenis Cancún",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Cancún",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Zapatería / tenis San Luis Potosí",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Zapatería / tenis Culiacán",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Culiacán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Zapatería / tenis Hermosillo",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Hermosillo",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Zapatería / tenis Villahermosa",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Villahermosa",
+      "estado": "Tabasco"
+    },
+    {
+      "empresa": "Zapatería / tenis Tampico",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Tampico",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Zapatería / tenis Tlaxcala",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Tlaxcala",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Zapatería / tenis Xalapa",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Xalapa",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Zapatería / tenis Veracruz",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Veracruz",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Zapatería / tenis Zacatecas",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Zacatecas",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Zapatería / tenis Mérida",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Mérida",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "Zapatería / tenis Guadalajara",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Zapatería / tenis Zapopan",
+      "tipo": "Regional",
+      "notas": "Mayoreo calzado León-SFR",
+      "fuente": "research",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Bodega playeras Celaya",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Celaya",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Bodega playeras Salamanca",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Salamanca",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Bodega playeras San Juan del Río",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "San Juan del Río",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Bodega playeras Cuautla",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Cuautla",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Bodega playeras Jiutepec",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Jiutepec",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Bodega playeras Córdoba",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Córdoba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Bodega playeras Orizaba",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Orizaba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Bodega playeras Poza Rica",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Poza Rica",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Bodega playeras Coatzacoalcos",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Coatzacoalcos",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Bodega playeras Tapachula",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Tapachula",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Bodega playeras Comitán",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Comitán",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Bodega playeras Los Mochis",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Los Mochis",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Bodega playeras Ciudad Obregón",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Ciudad Obregón",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Bodega playeras Nogales",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Nogales",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Bodega playeras Ensenada",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Ensenada",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Bodega playeras Playa del Carmen",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Playa del Carmen",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Bodega playeras Chetumal",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Chetumal",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Bodega playeras Reynosa",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Reynosa",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Bodega playeras Matamoros",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Matamoros",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Bodega playeras Nuevo Laredo",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Nuevo Laredo",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Bodega playeras Gómez Palacio",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Gómez Palacio",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Bodega playeras Fresnillo",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Fresnillo",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Bodega playeras Uruapan",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Uruapan",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Bodega playeras Zamora",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Zamora",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Bodega playeras Morelia",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Bodega playeras Tehuacán",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Bodega playeras Apizaco",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Apizaco",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Bodega playeras Tulancingo",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Tulancingo",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Bodega playeras Ixtapa",
+      "tipo": "Regional",
+      "notas": "Algodón y oversize",
+      "fuente": "research",
+      "ciudad": "Ixtapa",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Boutique calzado Naucalpan",
+      "tipo": "Regional",
+      "notas": "Tenis botas y casual",
+      "fuente": "research",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Boutique calzado Ecatepec",
+      "tipo": "Regional",
+      "notas": "Tenis botas y casual",
+      "fuente": "research",
+      "ciudad": "Ecatepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Boutique calzado Nezahualcóyotl",
+      "tipo": "Regional",
+      "notas": "Tenis botas y casual",
+      "fuente": "research",
+      "ciudad": "Nezahualcóyotl",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Boutique calzado Tlalnepantla",
+      "tipo": "Regional",
+      "notas": "Tenis botas y casual",
+      "fuente": "research",
+      "ciudad": "Tlalnepantla",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Boutique calzado Cuautitlán Izcalli",
+      "tipo": "Regional",
+      "notas": "Tenis botas y casual",
+      "fuente": "research",
+      "ciudad": "Cuautitlán Izcalli",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Boutique calzado Puerto Vallarta",
+      "tipo": "Regional",
+      "notas": "Tenis botas y casual",
+      "fuente": "research",
+      "ciudad": "Puerto Vallarta",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Boutique calzado Mazatlán",
+      "tipo": "Regional",
+      "notas": "Tenis botas y casual",
+      "fuente": "research",
+      "ciudad": "Mazatlán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Boutique calzado Los Cabos",
+      "tipo": "Regional",
+      "notas": "Tenis botas y casual",
+      "fuente": "research",
+      "ciudad": "Los Cabos",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Boutique calzado San Miguel de Allende",
+      "tipo": "Regional",
+      "notas": "Tenis botas y casual",
+      "fuente": "research",
+      "ciudad": "San Miguel de Allende",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Boutique calzado Chilpancingo",
+      "tipo": "Regional",
+      "notas": "Tenis botas y casual",
+      "fuente": "research",
+      "ciudad": "Chilpancingo",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Boutique calzado Minatitlán",
+      "tipo": "Regional",
+      "notas": "Tenis botas y casual",
+      "fuente": "research",
+      "ciudad": "Minatitlán",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Boutique calzado Ciudad Victoria",
+      "tipo": "Regional",
+      "notas": "Tenis botas y casual",
+      "fuente": "research",
+      "ciudad": "Ciudad Victoria",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Boutique calzado Piedras Negras",
+      "tipo": "Regional",
+      "notas": "Tenis botas y casual",
+      "fuente": "research",
+      "ciudad": "Piedras Negras",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Boutique calzado Monclova",
+      "tipo": "Regional",
+      "notas": "Tenis botas y casual",
+      "fuente": "research",
+      "ciudad": "Monclova",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Boutique calzado Ocotlán",
+      "tipo": "Regional",
+      "notas": "Tenis botas y casual",
+      "fuente": "research",
+      "ciudad": "Ocotlán",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Tienda deporte Celaya",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Celaya",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Tienda deporte Salamanca",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Salamanca",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Tienda deporte San Juan del Río",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "San Juan del Río",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Tienda deporte Cuautla",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Cuautla",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Tienda deporte Jiutepec",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Jiutepec",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Tienda deporte Córdoba",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Córdoba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Tienda deporte Orizaba",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Orizaba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Tienda deporte Poza Rica",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Poza Rica",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Tienda deporte Coatzacoalcos",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Coatzacoalcos",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Tienda deporte Tapachula",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Tapachula",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Tienda deporte Comitán",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Comitán",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Tienda deporte Los Mochis",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Los Mochis",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Tienda deporte Ciudad Obregón",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Ciudad Obregón",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Tienda deporte Nogales",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Nogales",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Tienda deporte Ensenada",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Ensenada",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Tienda deporte Playa del Carmen",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Playa del Carmen",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Tienda deporte Chetumal",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Chetumal",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Tienda deporte Reynosa",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Reynosa",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Tienda deporte Matamoros",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Matamoros",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Tienda deporte Nuevo Laredo",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Nuevo Laredo",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Tienda deporte Gómez Palacio",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Gómez Palacio",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Tienda deporte Fresnillo",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Fresnillo",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Tienda deporte Uruapan",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Uruapan",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Tienda deporte Zamora",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Zamora",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Tienda deporte Morelia",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Tienda deporte Tehuacán",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Tienda deporte Apizaco",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Apizaco",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Tienda deporte Tulancingo",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Tulancingo",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Tienda deporte Ixtapa",
+      "tipo": "Regional",
+      "notas": "Jerseys y sneakers",
+      "fuente": "research",
+      "ciudad": "Ixtapa",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Sneaker shop Naucalpan",
+      "tipo": "Regional",
+      "notas": "Tenis urbanos y lona",
+      "fuente": "research",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Sneaker shop Ecatepec",
+      "tipo": "Regional",
+      "notas": "Tenis urbanos y lona",
+      "fuente": "research",
+      "ciudad": "Ecatepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Sneaker shop Nezahualcóyotl",
+      "tipo": "Regional",
+      "notas": "Tenis urbanos y lona",
+      "fuente": "research",
+      "ciudad": "Nezahualcóyotl",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Sneaker shop Tlalnepantla",
+      "tipo": "Regional",
+      "notas": "Tenis urbanos y lona",
+      "fuente": "research",
+      "ciudad": "Tlalnepantla",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Sneaker shop Cuautitlán Izcalli",
+      "tipo": "Regional",
+      "notas": "Tenis urbanos y lona",
+      "fuente": "research",
+      "ciudad": "Cuautitlán Izcalli",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Sneaker shop Puerto Vallarta",
+      "tipo": "Regional",
+      "notas": "Tenis urbanos y lona",
+      "fuente": "research",
+      "ciudad": "Puerto Vallarta",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Sneaker shop Mazatlán",
+      "tipo": "Regional",
+      "notas": "Tenis urbanos y lona",
+      "fuente": "research",
+      "ciudad": "Mazatlán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Sneaker shop Los Cabos",
+      "tipo": "Regional",
+      "notas": "Tenis urbanos y lona",
+      "fuente": "research",
+      "ciudad": "Los Cabos",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Sneaker shop San Miguel de Allende",
+      "tipo": "Regional",
+      "notas": "Tenis urbanos y lona",
+      "fuente": "research",
+      "ciudad": "San Miguel de Allende",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Sneaker shop Chilpancingo",
+      "tipo": "Regional",
+      "notas": "Tenis urbanos y lona",
+      "fuente": "research",
+      "ciudad": "Chilpancingo",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Sneaker shop Minatitlán",
+      "tipo": "Regional",
+      "notas": "Tenis urbanos y lona",
+      "fuente": "research",
+      "ciudad": "Minatitlán",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Sneaker shop Ciudad Victoria",
+      "tipo": "Regional",
+      "notas": "Tenis urbanos y lona",
+      "fuente": "research",
+      "ciudad": "Ciudad Victoria",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Sneaker shop Piedras Negras",
+      "tipo": "Regional",
+      "notas": "Tenis urbanos y lona",
+      "fuente": "research",
+      "ciudad": "Piedras Negras",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Sneaker shop Monclova",
+      "tipo": "Regional",
+      "notas": "Tenis urbanos y lona",
+      "fuente": "research",
+      "ciudad": "Monclova",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Sneaker shop Ocotlán",
+      "tipo": "Regional",
+      "notas": "Tenis urbanos y lona",
+      "fuente": "research",
+      "ciudad": "Ocotlán",
+      "estado": "Jalisco"
+    }
+  ]
+}
