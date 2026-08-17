@@ -1,0 +1,218 @@
+{
+  "lote": "46",
+  "slug": "cortinas",
+  "description": "Cortinas MX",
+  "leads": [
+    {
+      "empresa": "Cortinas.com (ejemplo)",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — cortinas",
+      "fuente": "ejemplo_cliente",
+      "url": "https://cortinas.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Grupo Cortilum",
+      "tipo": "Fabricante",
+      "notas": "15+ años; fábrica de cortinas enrollables, blackout, screen y toldos; sucursales PV y Cancún",
+      "fuente": "research",
+      "url": "https://www.cortilum.mx/",
+      "telefono": "3320022116",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Viva Persianas",
+      "tipo": "Fabricante",
+      "notas": "13+ años y 50,000 clientes; persianas, cortinas y toldos a la medida; automatización Somfy",
+      "fuente": "research",
+      "url": "https://vivapersianas.com/",
+      "email": "contacto@vivapersianas.com",
+      "telefono": "8181900840",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Viva Persianas GDL",
+      "tipo": "Sucursal",
+      "notas": "Oficina Guadalajara",
+      "fuente": "research",
+      "url": "https://vivapersianas.com/",
+      "email": "guadalajara@vivapersianas.com",
+      "telefono": "3315962343",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Persianas Casa Bonita",
+      "tipo": "Fabricante",
+      "notas": "20 años; persianas y cortinas en 14 ciudades: MTY, GDL, Hermosillo, Mérida, Tampico, Saltillo…",
+      "fuente": "research",
+      "url": "https://www.persianascasabonita.com/",
+      "ciudad": "Hermosillo",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Persianas Luxor",
+      "tipo": "Fabricante",
+      "notas": "Fabricantes directos desde 1996; persianas y cortinas a medida, eléctricas y blackout",
+      "fuente": "research",
+      "url": "https://www.persianasluxor.com.mx/",
+      "email": "ventas@persianasluxor.com.mx",
+      "telefono": "5585485672",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Tecno Blinds Shop",
+      "tipo": "Fabricante",
+      "notas": "Distribuidor oficial; persianas, cortinas y toldos con motorización; cobertura CDMX, Cuernavaca, Querétaro y Edomex",
+      "fuente": "research",
+      "url": "https://tecnoblindscdmx.shop/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "PersianasyCortinas.com",
+      "tipo": "Ecom",
+      "notas": "Tienda en línea #1 de persianas y cortinas; envío gratis desde $3,499; medidas exactas garantizadas",
+      "fuente": "research",
+      "url": "https://persianasycortinas.com/",
+      "telefono": "8114973858",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Pisos y Muros LNA",
+      "tipo": "Retail",
+      "notas": "Persianas y cortinas blackout, enrollables y traslúcidas; sucursales",
+      "fuente": "research",
+      "url": "https://lna.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Meya Design",
+      "tipo": "Fabricante",
+      "notas": "Cortinas personalizadas fabricadas en planta Farz; showroom Ciudad Satélite; garantía hasta 3 años",
+      "fuente": "research",
+      "url": "https://www.meya-design.mx/",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Brancato",
+      "tipo": "Mayoreo",
+      "notas": "Telas para cortinas de mayoreo: blackouts, sheers y decorativas; surte cortineros y tapiceros",
+      "fuente": "research",
+      "url": "https://www.brancato.com.mx/",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Casa Osaka",
+      "tipo": "Marca",
+      "notas": "Cortinas blackout 2 paneles, vía ML (4.9★ 179 reviews)",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Melocotton Hogar",
+      "tipo": "Marca",
+      "notas": "Cortinas blackout microfibra, vía Walmart",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Zulema",
+      "tipo": "Marca",
+      "notas": "Cortinas de encaje y cenefas, retail MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Nanwei",
+      "tipo": "Marca",
+      "notas": "Cortinas blackout, vía ML/import",
+      "fuente": "brand",
+      "ciudad": "China"
+    },
+    {
+      "empresa": "Lightdot",
+      "tipo": "Distribuidor",
+      "notas": "Vende Nanwei en ML",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Teker",
+      "tipo": "Marca",
+      "notas": "Cortinas blackout, vía ML (4.8★ 2,127 reviews)",
+      "fuente": "brand",
+      "ciudad": "China"
+    },
+    {
+      "empresa": "Home Trends (Walmart)",
+      "tipo": "Marca",
+      "notas": "Cortinas blackout y de baño, marca de Walmart MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Home Creations",
+      "tipo": "Marca",
+      "notas": "Cortinas de baño, marca retail MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mainstays",
+      "tipo": "Marca",
+      "notas": "Cortinas y cortineros, marca Walmart",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Way to Celebrate",
+      "tipo": "Marca",
+      "notas": "Cortinas decorativas, vía Walmart",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Walmart México",
+      "tipo": "Retail",
+      "notas": "Sección de cortinas y persianas",
+      "fuente": "brand",
+      "url": "https://www.walmart.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Amazon MX cortinas",
+      "tipo": "Marketplace",
+      "notas": "Sellers de cortinas",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=cortinas+blackout",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mercado Libre cortinas",
+      "tipo": "Marketplace",
+      "notas": "Mayoreo de cortinas blackout",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/cortinas-black-out-por-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "lote": "45",
+  "slug": "extensiones_de_pelo",
+  "description": "Extensiones de pelo para salón MX",
+  "leads": [
+    {
+      "empresa": "Beauty Art (ejemplo)",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — tienda de belleza con extensiones para salón",
+      "fuente": "ejemplo_cliente",
+      "url": "https://shop.beautyart.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Rapunzel Extensiones Naturales",
+      "tipo": "Mayoreo",
+      "notas": "Extensiones 100% natural, mayoreo y menudeo; Buenavista 227, Lindavista",
+      "fuente": "research",
+      "url": "https://www.facebook.com/RapunzelMX/",
+      "telefono": "5525005774",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Extensiones de Cabello CDMX",
+      "tipo": "Mayoreo",
+      "notas": "Cabello 100% humano y virgen; Chupícuaro 15; envíos nacionales",
+      "fuente": "research",
+      "url": "https://extensiones-de-cabello-cdmx.negocio.site/",
+      "telefono": "5514406688",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "MAYFE",
+      "tipo": "Ecom",
+      "notas": "30+ años; extensiones de cabello 100% humano con garantía de color",
+      "fuente": "research",
+      "url": "https://mayfe.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Naked Hair",
+      "tipo": "Marca",
+      "notas": "Extensiones Remy con clip, vía Sally Beauty MX",
+      "fuente": "brand",
+      "url": "https://www.sallymexico.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "LUV REMY",
+      "tipo": "Marca",
+      "notas": "Extensiones Eve 22'' 100% natural, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "GALA Remy",
+      "tipo": "Marca",
+      "notas": "Extensiones 100% natural 18'' básicos, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "XBWIG",
+      "tipo": "Marca",
+      "notas": "Extensiones clip rectas 7 pzs, vía ML (4.6★ 1,015 reviews)",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "JR Extensiones",
+      "tipo": "Marca",
+      "notas": "Extensiones fibra natural con clips, mayoreo 6 pzs, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "MY STYLE",
+      "tipo": "Marca",
+      "notas": "Coletas de listón mayoreo, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "INVISIBLE",
+      "tipo": "Marca",
+      "notas": "Extensiones hilo invisible mayoreo 6 pzs, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "ANOGOL",
+      "tipo": "Marca",
+      "notas": "Extensiones trenzadas de color, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "CHECKK",
+      "tipo": "Marca",
+      "notas": "Coleta postiza cabello natural, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "GNN",
+      "tipo": "Marca",
+      "notas": "Kit cortina de cabello 21 pzs, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "MU Extensiones",
+      "tipo": "Marca",
+      "notas": "Extensiones clip de pelo natural 10 pzs, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Sally Beauty México",
+      "tipo": "Retail",
+      "notas": "Cadena con sección de extensiones y pelucas",
+      "fuente": "brand",
+      "url": "https://www.sallymexico.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "MV Hair Extensions",
+      "tipo": "Mayoreo",
+      "notas": "Venta de cabello mayoreo/menudeo y colocaciones; Izazaga 89 piso 5 local 505, Centro",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Novengasa / Star One",
+      "tipo": "Tienda",
+      "notas": "Tienda de belleza con extensiones; Calle del Carmen 67, Centro",
+      "fuente": "research",
+      "telefono": "5528468155",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Michelle Sainz Extensiones",
+      "tipo": "Mayoreo",
+      "notas": "Sucursales GDL, CDMX y Vallarta; fibra premium (ACA Hair)",
+      "fuente": "research",
+      "telefono": "5612964521",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Don Moa Extensiones",
+      "tipo": "Mayoreo",
+      "notas": "Emprende con pelucas; Correo Mayor 5, locales 9 y 10, CDMX",
+      "fuente": "research",
+      "telefono": "5559590050",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "El 10 Pelucas & Extensiones",
+      "tipo": "Tienda",
+      "notas": "Pelucas y extensiones en el Centro; Alhóndiga 29E; envíos",
+      "fuente": "research",
+      "telefono": "5578602637",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Crazy Hair",
+      "tipo": "Mayoreo",
+      "notas": "Pelucas y extensiones 100% humano, mix y sintético; ventas al mayoreo; sucursales CDMX y GDL",
+      "fuente": "research",
+      "url": "https://www.crazyhair.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Cabello Natural",
+      "tipo": "Ecom",
+      "notas": "Extensiones y coletas de cabello natural; Plaza Picacho, Calz. Lázaro Cárdenas 3770 local 3A",
+      "fuente": "research",
+      "url": "https://www.cabellonatural.com.mx/",
+      "email": "extensionesdepelo16@gmail.com",
+      "telefono": "3338150221",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Imperio Extensiones GDL",
+      "tipo": "Mayoreo",
+      "notas": "Extensiones 100% humano; envíos nacionales; mayoreo y menudeo",
+      "fuente": "research",
+      "url": "https://www.instagram.com/imperio_extensionsgdl/",
+      "telefono": "3324941839",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Amazon MX extensiones",
+      "tipo": "Marketplace",
+      "notas": "Sellers de extensiones",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=extensiones+de+cabello",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mercado Libre extensiones",
+      "tipo": "Marketplace",
+      "notas": "Mayoreo de extensiones",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/extensiones-de-cabello-a-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    }
+  ]
+}

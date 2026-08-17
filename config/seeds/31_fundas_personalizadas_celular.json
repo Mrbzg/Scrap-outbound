@@ -1,0 +1,232 @@
+{
+  "lote": "31",
+  "slug": "fundas_personalizadas_celular",
+  "description": "Fundas personalizadas y soporte para celular MX",
+  "leads": [
+    {
+      "empresa": "Funcases",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — fundas personalizadas y soporte para celular",
+      "fuente": "ejemplo_cliente",
+      "url": "https://funcases.mx/"
+    },
+    {
+      "empresa": "InstaCase",
+      "tipo": "Ecom",
+      "notas": "+200 modelos; CC Santa Fe, Vasco de Quiróga 3800, Cuajimalpa",
+      "fuente": "research",
+      "url": "https://instacase.mx/",
+      "email": "contacto@instacase.mx",
+      "telefono": "5513810714",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "InstaCase WA alterno",
+      "tipo": "Canal",
+      "notas": "WhatsApp 55 7316 8706",
+      "fuente": "research",
+      "url": "https://instacase.mx/contacto",
+      "email": "contacto@instacase.mx",
+      "telefono": "5573168706",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "La Casa de las Carcasas",
+      "tipo": "Ecom",
+      "notas": "Oficina Ejército Nacional 424-606, Granada; fundas y personalización",
+      "fuente": "research",
+      "url": "https://lacasadelascarcasas.com.mx/",
+      "telefono": "5610812656",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Carcasas Centro Santa Fe",
+      "tipo": "Sucursal",
+      "notas": "Local 317, 1er nivel, CC Santa Fe",
+      "fuente": "research",
+      "url": "https://centrosantafe.com.mx/products/la-casa-de-las-carcasas",
+      "telefono": "5592455002",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Carcasas Portal Centro",
+      "tipo": "Sucursal",
+      "notas": "Lorenzo Boturini 258, Col. Tránsito",
+      "fuente": "research",
+      "url": "https://funocomercial.com/portal-centro/tiendas/la-casa-de-las-carcasas/",
+      "telefono": "557417506",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Unicell fundas",
+      "tipo": "Mayoreo",
+      "notas": "Mínimo $3,000; silicón, uso rudo, con diseño, magnéticas",
+      "fuente": "research",
+      "url": "https://unicell.com.mx/fundas-para-celular-mayoreo/",
+      "telefono": "5621399879",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Unicell fundas catálogo",
+      "tipo": "Canal",
+      "notas": "Catálogo 500+ modelos todas las marcas",
+      "fuente": "research",
+      "url": "https://unicell.com.mx/fundas-para-celular-mayoreo/",
+      "telefono": "5621399879",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Mundo Case",
+      "tipo": "Mayoreo",
+      "notas": "Izazaga 29/38; 8 sucursales CDMX + 2 GDL; envíos desde 10 pzs",
+      "fuente": "research",
+      "telefono": "5610701287",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Tienda-Mex",
+      "tipo": "Fabricante",
+      "notas": "Fundas de piel cinceladas a mano; mayoreo; Francisco de Ayza 2838",
+      "fuente": "research",
+      "url": "https://tienda-mex.com/",
+      "email": "ventas@tienda-mex.com",
+      "telefono": "3336853593",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Tienda-Mex WhatsApp",
+      "tipo": "Canal",
+      "notas": "WhatsApp +52 1 33 2168 1707",
+      "fuente": "research",
+      "url": "https://tienda-mex.com/",
+      "email": "ventas@tienda-mex.com",
+      "telefono": "3321681707",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Accesorios Bizalú",
+      "tipo": "Mayoreo",
+      "notas": "Izazaga 26, 1er piso locales 104-105",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Distribuidora OEM fundas",
+      "tipo": "Mayoreo",
+      "notas": "Fundas, micas y cargadores por mayoreo",
+      "fuente": "research",
+      "url": "https://distribuidoraoem.mx/",
+      "email": "info@distribuidoraoem.com",
+      "telefono": "8180751009",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Keiz soportes",
+      "tipo": "Mayoreo",
+      "notas": "Soportes, power banks y accesorios",
+      "fuente": "research",
+      "url": "https://keiz.mx/",
+      "email": "ventas@keiz.mx",
+      "telefono": "8122235059",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Xtassis fundas",
+      "tipo": "Mayoreo",
+      "notas": "Andrade 47, fundas económicas",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Amazon MX fundas personalizadas",
+      "tipo": "Marketplace",
+      "notas": "Sellers de fundas",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=fundas+para+celular+personalizadas",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "ML fundas mayoreo",
+      "tipo": "Marketplace",
+      "notas": "Kits y paquetes mayoreo",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/fundas-para-celular-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "OtterBox México",
+      "tipo": "Marca",
+      "notas": "Fundas de uso rudo",
+      "fuente": "brand",
+      "url": "https://www.otterbox.com.mx/"
+    },
+    {
+      "empresa": "Spigen México",
+      "tipo": "Marca",
+      "notas": "Cases vía ecom MX",
+      "fuente": "brand",
+      "url": "https://www.spigen.com.mx/"
+    },
+    {
+      "empresa": "Ringke / ESR",
+      "tipo": "Marca",
+      "notas": "Accesorios móvil",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Fundas magsafe producto",
+      "tipo": "Producto",
+      "notas": "Fundas magnéticas magsafe",
+      "fuente": "research",
+      "url": "https://unicell.com.mx/fundas-para-celular-mayoreo/",
+      "telefono": "5621399879",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Micas 9D producto",
+      "tipo": "Producto",
+      "notas": "Micas de vidrio templado",
+      "fuente": "research",
+      "url": "https://keiz.mx/",
+      "email": "ventas@keiz.mx",
+      "telefono": "8122235059",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Soporte magnético auto",
+      "tipo": "Producto",
+      "notas": "Soportes para celular en auto",
+      "fuente": "research",
+      "url": "https://keiz.mx/",
+      "email": "ventas@keiz.mx",
+      "telefono": "8122235059",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Fundas personalizadas foto",
+      "tipo": "Producto",
+      "notas": "Personalización con fotos y diseño",
+      "fuente": "research",
+      "url": "https://funcases.mx/"
+    }
+  ]
+}

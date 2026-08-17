@@ -1,9 +1,9 @@
 # Lote 06 — Belleza / Maquillaje artistico
 
 **Slug:** `maquillaje_artistico`  
-**Total leads:** 232  
-**Alta:** 75 · **Media:** 54 · **Baja:** 103  
-**Con email:** 26 · **Con teléfono:** 81 · **Con URL:** 99
+**Total leads:** 204  
+**Alta:** 74 · **Media:** 46 · **Baja:** 84  
+**Con email:** 25 · **Con teléfono:** 80 · **Con URL:** 98
 
 Ejemplo original: https://colibrix.com.mx/productos/
 
@@ -56,7 +56,6 @@ Ejemplo original: https://colibrix.com.mx/productos/
 | Maquillaje social + artístico bodas | https://helios-body-paint.ueniweb.com/ |  | 5527156654 | CDMX | Servicio eventos |
 | Marifer Cosmetics TMC | https://themakeupcenter.com/ |  | 5565491471 | CDMX | Marca MX |
 | Mehron México vía Bonds | https://www.bondsboutique.com.mx/ | ventas@bondsboutique.com.mx | 5555585862 | CDMX | Distribuidor Mehron |
-| Mehron Paradise retailers extra | https://www.bondsboutique.com.mx/ | ventas@bondsboutique.com.mx | 5555585862 | CDMX | Distribución |
 | MF Cosmetics Marifer | https://mfcosmeticos.com/ | cosmeticos.marifer@mfcosmeticos.com.mx | 3351072853 | Guadalajara | Marca + tienda |
 | Mimos y estatua humana insumos | https://www.bondsboutique.com.mx/ |  | 5555585862 | CDMX | Canal callejero |
 | Narices de payaso Bonds | https://www.bondsboutique.com.mx/ |  | 5555585862 | CDMX | Insumos payaso |
@@ -136,190 +135,162 @@ Ejemplo original: https://colibrix.com.mx/productos/
 | 43 | Maquillaje social + artístico bodas | https://helios-body-paint.ueniweb.com/ |  | 5527156654 | CDMX | Alta | Servicio eventos |
 | 44 | Marifer Cosmetics TMC | https://themakeupcenter.com/ |  | 5565491471 | CDMX | Alta | Marca MX |
 | 45 | Mehron México vía Bonds | https://www.bondsboutique.com.mx/ | ventas@bondsboutique.com.mx | 5555585862 | CDMX | Alta | Distribuidor Mehron |
-| 46 | Mehron Paradise retailers extra | https://www.bondsboutique.com.mx/ | ventas@bondsboutique.com.mx | 5555585862 | CDMX | Alta | Distribución |
-| 47 | MF Cosmetics Marifer | https://mfcosmeticos.com/ | cosmeticos.marifer@mfcosmeticos.com.mx | 3351072853 | Guadalajara | Alta | Marca + tienda |
-| 48 | Mimos y estatua humana insumos | https://www.bondsboutique.com.mx/ |  | 5555585862 | CDMX | Alta | Canal callejero |
-| 49 | Narices de payaso Bonds | https://www.bondsboutique.com.mx/ |  | 5555585862 | CDMX | Alta | Insumos payaso |
-| 50 | Paradise AQ Glitter Mehron | https://www.bondsboutique.com.mx/ |  | 5555585862 | CDMX | Alta | Insumos glitter |
-| 51 | Party Zone makeup Toluca | https://www.partyzonedisfraces.com/ |  | 7228642693 | Toluca | Alta | Tienda + makeup |
-| 52 | Payasos Unidos insumos CDMX | https://www.bondsboutique.com.mx/ |  | 5555585862 | CDMX | Alta | Canal payaso |
-| 53 | Pelucas payaso Bonds | https://www.bondsboutique.com.mx/ |  | 5555585862 | CDMX | Alta | Peluquería artística |
-| 54 | Pestañas de fantasía Artist City | https://www.artistcity.com.mx/ |  | (55) 3547-6444 | CDMX | Alta | Insumos artísticos |
-| 55 | Pinceles Illusion Kryolan | https://www.artistcity.com.mx/ |  | (55) 3547-6444 | CDMX | Alta | Herramientas |
-| 56 | Pinceles Torey Artist City | https://www.artistcity.com.mx/ |  | (55) 3547-6444 | CDMX | Alta | Herramientas |
-| 57 | Pixie Paint Bonds | https://www.bondsboutique.com.mx/ |  | 5555585862 | CDMX | Alta | Insumos glitter |
-| 58 | ProAiir extra puntos venta | https://www.bondsboutique.com.mx/ |  | 5555585862 | CDMX | Alta | Distribución |
-| 59 | ProAiir México / Bond's | https://www.bondsboutique.com.mx/ | ventas@bondsboutique.com.mx | 5555585862 | CDMX | Alta | Distribuidor aerógrafo |
-| 60 | Pupilentes FX Artist City | https://www.artistcity.com.mx/ |  | (55) 3547-6444 | CDMX | Alta | Insumos FX |
-| 61 | Sangre teatral Bonds | https://www.bondsboutique.com.mx/ |  | 5555585862 | CDMX | Alta | Insumos FX |
-| 62 | Silly Farm extra puntos venta | https://www.bondsboutique.com.mx/ |  | 5555585862 | CDMX | Alta | Distribución |
-| 63 | Stencils pinta caritas Bonds | https://www.bondsboutique.com.mx/ |  | 5555585862 | CDMX | Alta | Insumos face paint |
-| 64 | Supracolor paletas MX | https://www.artistcity.com.mx/ |  | (55) 3547-6444 | CDMX | Alta | Producto clave |
-| 65 | The Makeup Center | https://themakeupcenter.com/ | ventas@themakeupc.com | 5565491471 | CDMX | Alta | Academia + tienda |
-| 66 | The Makeup Center EdoMex | https://themakeupcenter.com/ | ventas@themakeupc.com | 5565491471 | EdoMex | Alta | Sucursal academia |
-| 67 | The Makeup Center Monterrey | https://themakeupcenter.com/ | ventas@themakeupc.com | 5565491471 | Monterrey | Alta | Sucursal academia |
-| 68 | The Makeup Center Monterrey Plaza Anáhuac | https://themakeupcenter.com/pages/sucursales-1 | ventas@themakeupc.com | 8120136471 | Monterrey | Alta | Sucursal tienda |
-| 69 | The Makeup Center Puebla | https://themakeupcenter.com/ | ventas@themakeupc.com | 5565491471 | Puebla | Alta | Sucursal academia |
-| 70 | The Makeup Center Puebla Zavaleta | https://themakeupcenter.com/pages/sucursales-1 | ventas@themakeupc.com | 2216444282 | Puebla | Alta | Sucursal tienda |
-| 71 | Tu Maquillaje México | https://tumaquillajemexico.com/ | loquiero@tumaquillaje.com | 6677769123 | Culiacán | Alta | Tienda profesional |
-| 72 | Tu Maquillaje sucursal Guadalupe | https://tumaquillajemexico.com/pages/ubica-tu-tienda | loquiero@tumaquillaje.com | 6677769123 | Culiacán | Alta | Sucursal |
-| 73 | Tu Maquillaje sucursal Las Quintas | https://tumaquillajemexico.com/pages/ubica-tu-tienda |  | 6677769123 | Culiacán | Alta | Sucursal |
-| 74 | TV Paint Stick Kryolan MX | https://themakeupcenter.com/ | ventas@themakeupc.com | 5565491471 | CDMX | Alta | Producto clave |
-| 75 | UV / neón Bonds | https://www.bondsboutique.com.mx/ |  | 5555585862 | CDMX | Alta | Insumos UV |
-| 76 | Art Inc México | https://www.artincmexico.com/body-paint |  |  | CDMX | Media | Servicio profesional |
-| 77 | Beauty Care Latam | https://beautycarelatam.com.mx/ |  |  | México | Media | Distribuidor beauty |
-| 78 | Beauty Supply CDMX centro |  |  |  | CDMX | Media | Mayoreo beauty |
-| 79 | Beauty Supply Guadalajara |  |  |  | Guadalajara | Media | Mayoreo beauty |
-| 80 | Beauty Supply Monterrey |  |  |  | Monterrey | Media | Mayoreo beauty |
-| 81 | Beauty Supply Puebla |  |  |  | Puebla | Media | Mayoreo beauty |
-| 82 | Benefit Cosmetics MX |  |  |  | CDMX | Media | Marca profesional |
-| 83 | Benefit counters MX |  |  |  | CDMX | Media | Marca pro |
-| 84 | Colibrix | https://colibrix.com.mx/productos/ |  |  | CDMX | Media | Ejemplo original |
-| 85 | Colibrix tienda productos | https://colibrix.com.mx/productos/ |  |  | México | Media | Marca D2C |
-| 86 | Creature Angel FX |  |  | 7291378344 | Zinacantepec | Media | Tienda FX |
-| 87 | Círculo B beauty | https://circulob.mx/ |  |  | México | Media | Insumos beauty |
-| 88 | Disfraces + makeup Mercado de Todos |  |  | 6646217442 | Tijuana | Media | Canal cruzado |
-| 89 | Disfraces Mercado de Todos makeup |  |  | 6646217442 | Tijuana | Media | Tienda + makeup |
-| 90 | Don Checo Art | https://www.donchecoart.com/bodypaint |  |  | México | Media | Servicio profesional |
-| 91 | Fiesta kits face paint mayoreo |  |  |  | CDMX | Media | Mayoreo eventos |
-| 92 | Inglot México |  |  |  | CDMX | Media | Marca profesional |
-| 93 | Inglot standalone CDMX |  |  |  | CDMX | Media | Tienda marca |
-| 94 | Insumos FX Guadalajara |  |  |  | Guadalajara | Media | Distribuidor regional |
-| 95 | Insumos FX León |  |  |  | León | Media | Distribuidor regional |
-| 96 | Insumos FX Monterrey |  |  |  | Monterrey | Media | Distribuidor regional |
-| 97 | Insumos FX Puebla |  |  |  | Puebla | Media | Distribuidor regional |
-| 98 | Insumos FX Querétaro |  |  |  | Querétaro | Media | Distribuidor regional |
-| 99 | Katia Torres Academy |  |  | 8119316860 | Monterrey | Media | Academia |
-| 100 | Lagunilla maquillaje y pelucas |  |  |  | CDMX | Media | Mayoreo popular |
-| 101 | Lagunilla pelucas FX |  |  |  | CDMX | Media | Mayoreo popular |
-| 102 | Liverpool Kryolan / pro counter | https://www.liverpool.com.mx/ |  |  | CDMX | Media | Retail |
-| 103 | Liverpool maquillaje profesional | https://www.liverpool.com.mx/ |  |  | CDMX | Media | Retail |
-| 104 | MAC Cosmetics México | https://www.maccosmetics.com.mx/ |  |  | CDMX | Media | Marca profesional |
-| 105 | MAC Pro México | https://www.maccosmetics.com.mx/ |  |  | CDMX | Media | Canal pro |
-| 106 | MAC Pro store CDMX | https://www.maccosmetics.com.mx/ |  |  | CDMX | Media | Tienda marca |
-| 107 | Make Up For Ever México | https://www.makeupforever.com/mx |  |  | CDMX | Media | Marca profesional |
-| 108 | Makeup Forever Academy MX |  |  |  | CDMX | Media | Academia marca |
-| 109 | Makeup Forever counter MX | https://www.makeupforever.com/mx |  |  | CDMX | Media | Marca pro |
-| 110 | Maquillaje artistico (ejemplo original) | https://colibrix.com.mx/productos/ |  |  |  | Media | Ejemplo original |
-| 111 | Maquillaje artístico Tijuana |  |  | 6646217442 | Tijuana | Media | Cluster fronterizo |
-| 112 | MEGA Body Paint México | https://www.facebook.com/MegaBodyPaintMx/ |  |  | CDMX | Media | Servicio + producto |
-| 113 | Mercado de Sonora glitter y aqua |  |  |  | CDMX | Media | Mayoreo popular |
-| 114 | Mercado de Sonora maquillaje teatral |  |  |  | CDMX | Media | Mayoreo popular |
-| 115 | Meriti Cosmetics | https://meriticosmetics.com.mx/ |  |  | México | Media | Marca cosmética |
-| 116 | Noëlle Makeup Studio | https://www.noellemakeupstudio.com/tienda-maquillaje-profesional/ |  |  | México | Media | Tienda profesional |
-| 117 | NYX Professional counters MX | https://www.nyxcosmetics.com.mx/ |  |  | CDMX | Media | Marca pro |
-| 118 | NYX Professional Makeup MX | https://www.nyxcosmetics.com.mx/ |  |  | CDMX | Media | Marca profesional |
-| 119 | Palacio de Hierro beauty | https://www.elpalaciodehierro.com/ |  |  | CDMX | Media | Retail premium |
-| 120 | Palacio de Hierro makeup pro | https://www.elpalaciodehierro.com/ |  |  | CDMX | Media | Retail premium |
-| 121 | Pinta caritas CDMX eventos |  |  | 5527156654 | CDMX | Media | Servicio eventos |
-| 122 | Sanborns beauty | https://www.sanborns.com.mx/ |  |  | CDMX | Media | Retail |
-| 123 | Sephora Antara / Perisur makeup pro | https://www.sephora.com.mx/ |  |  | CDMX | Media | Retail |
-| 124 | Sephora México | https://www.sephora.com.mx/ |  |  | CDMX | Media | Retail beauty |
-| 125 | Silly Farm / Fusion Body Art MX | https://www.bondsboutique.com.mx/ |  |  | CDMX | Media | Distribuidor face paint |
-| 126 | Tepito insumos fiesta makeup |  |  |  | CDMX | Media | Mayoreo popular |
-| 127 | Tepito pelucas y blanco teatral |  |  |  | CDMX | Media | Mayoreo popular |
-| 128 | Urban Decay counters MX |  |  |  | CDMX | Media | Marca pro |
-| 129 | Urban Decay México |  |  |  | CDMX | Media | Marca profesional |
-| 130 | Academia de maquillaje Cancún |  |  |  | Cancún | Baja | Academia |
-| 131 | Academia de maquillaje GDL centro |  |  |  | Guadalajara | Baja | Academia |
-| 132 | Academia de maquillaje León |  |  |  | León | Baja | Academia |
-| 133 | Academia de maquillaje Mérida |  |  |  | Mérida | Baja | Academia |
-| 134 | Academia de maquillaje Puebla |  |  |  | Puebla | Baja | Academia |
-| 135 | Academia de maquillaje Puebla centro histórico |  |  |  | Puebla | Baja | Academia |
-| 136 | Academia de maquillaje Querétaro |  |  |  | Querétaro | Baja | Academia |
-| 137 | Academia de maquillaje Tijuana |  |  |  | Tijuana | Baja | Academia |
-| 138 | Aerógrafo makeup CDMX |  |  |  | CDMX | Baja | Insumos aerógrafo |
-| 139 | Aerógrafo makeup GDL |  |  |  | Guadalajara | Baja | Insumos aerógrafo |
-| 140 | Aerógrafo makeup MTY |  |  |  | Monterrey | Baja | Insumos aerógrafo |
-| 141 | Airbrush tattoo eventos GDL |  |  |  | Guadalajara | Baja | Servicio |
-| 142 | Airbrush tattoo eventos MTY |  |  |  | Monterrey | Baja | Servicio |
-| 143 | Airbrush tattoo eventos MX |  |  |  | México | Baja | Servicio eventos |
-| 144 | Anime Expo / convention makeup vendors |  |  |  | CDMX | Baja | Canal convenciones |
-| 145 | Balm Micro MX |  |  |  | México | Baja | Insumos |
-| 146 | Belly paint GDL |  |  |  | Guadalajara | Baja | Servicio |
-| 147 | Belly paint MTY |  |  |  | Monterrey | Baja | Servicio |
-| 148 | Ben Nye kits teatrales MX |  |  |  | México | Baja | Marca teatral |
-| 149 | Ben Nye México |  |  |  | México | Baja | Marca teatral |
-| 150 | Body paint GDL eventos |  |  |  | Guadalajara | Baja | Servicio eventos |
-| 151 | Body paint Mazatlán carnaval |  |  |  | Mazatlán | Baja | Servicio carnaval |
-| 152 | Body paint Monterrey eventos |  |  |  | Monterrey | Baja | Servicio eventos |
-| 153 | Body paint Oaxaca |  |  |  | Oaxaca | Baja | Servicio artístico |
-| 154 | Body paint Puebla catrinas |  |  |  | Puebla | Baja | Servicio artístico |
-| 155 | Body paint Puebla eventos |  |  |  | Puebla | Baja | Servicio eventos |
-| 156 | Body paint Veracruz carnaval |  |  |  | Veracruz | Baja | Servicio carnaval |
-| 157 | Burlesque brushes MX |  |  |  | México | Baja | Herramientas |
-| 158 | Burlesque Makeup MX |  |  |  | México | Baja | Marca pinceles |
-| 159 | Cameleon Makeup MX |  |  |  | México | Baja | Marca artística |
-| 160 | Cecil Q Makeup |  |  |  | CDMX | Baja | Artista / docente |
-| 161 | Chistirrin / payaso supplies |  |  |  | CDMX | Baja | Influencer + canal |
-| 162 | Cine Closet makeup / vestuario |  |  |  | CDMX | Baja | Vestuario cine |
-| 163 | Cosplay makeup CDMX |  |  |  | CDMX | Baja | Canal cosplay |
-| 164 | Cosplay makeup GDL |  |  |  | Guadalajara | Baja | Canal cosplay |
-| 165 | Cosplay makeup MTY |  |  |  | Monterrey | Baja | Canal cosplay |
-| 166 | Cosplay makeup Puebla |  |  |  | Puebla | Baja | Canal cosplay |
-| 167 | Diamond FX México |  |  |  | México | Baja | Marca face paint |
-| 168 | European Body Art extra MX |  |  |  | México | Baja | Marca alcohol |
-| 169 | European Body Art MX |  |  |  | México | Baja | Marca body paint |
-| 170 | Farmasi líderes MX |  |  |  | México | Baja | Red / marca |
-| 171 | Farmasi México |  |  |  | México | Baja | Marca / red |
-| 172 | Fiesta Face Paint kits |  |  |  | México | Baja | Kits eventos |
-| 173 | Glitter y pedrería GDL |  |  |  | Guadalajara | Baja | Insumos |
-| 174 | Glitter y pedrería MTY |  |  |  | Monterrey | Baja | Insumos |
-| 175 | Global Colours MX |  |  |  | México | Baja | Marca face paint |
-| 176 | Graftobian México |  |  |  | México | Baja | Marca teatral |
-| 177 | Henna glitter tattoo GDL |  |  |  | Guadalajara | Baja | Servicio |
-| 178 | Henna glitter tattoo MTY |  |  |  | Monterrey | Baja | Servicio |
-| 179 | Henna y glitter tattoo MX |  |  |  | México | Baja | Servicio eventos |
-| 180 | Hysteria FX |  |  |  | México | Baja | Marca FX |
-| 181 | Hysteria FX retailers MX |  |  |  | México | Baja | Marca FX |
-| 182 | Insumos payaso GDL |  |  |  | Guadalajara | Baja | Insumos |
-| 183 | Insumos payaso MTY |  |  |  | Monterrey | Baja | Insumos |
-| 184 | Jordane Cosmetics MX |  |  |  | México | Baja | Marca profesional |
-| 185 | Jorge de la Garza academy + línea |  |  |  | México | Baja | Marca + academia |
-| 186 | Jorge de la Garza Cosmetics |  |  |  | México | Baja | Marca profesional |
-| 187 | Látex y sangre teatral GDL |  |  |  | Guadalajara | Baja | Insumos FX |
-| 188 | Látex y sangre teatral MTY |  |  |  | Monterrey | Baja | Insumos FX |
-| 189 | Maquillaje artístico Aguascalientes feria |  |  |  | Aguascalientes | Baja | Servicio feria |
-| 190 | Maquillaje artístico Cancún extra |  |  |  | Cancún | Baja | Cluster turismo |
-| 191 | Maquillaje artístico Chihuahua |  |  |  | Chihuahua | Baja | Cluster norte |
-| 192 | Maquillaje artístico GDL academias |  |  |  | Guadalajara | Baja | Cluster regional |
-| 193 | Maquillaje artístico Hermosillo |  |  |  | Hermosillo | Baja | Cluster noroeste |
-| 194 | Maquillaje artístico León |  |  |  | León | Baja | Cluster regional |
-| 195 | Maquillaje artístico León feria |  |  |  | León | Baja | Servicio feria |
-| 196 | Maquillaje artístico Mazatlán carnaval |  |  |  | Mazatlán | Baja | Cluster carnaval |
-| 197 | Maquillaje artístico Mexicali |  |  |  | Mexicali | Baja | Cluster frontera |
-| 198 | Maquillaje artístico MTY academias |  |  |  | Monterrey | Baja | Cluster regional |
-| 199 | Maquillaje artístico Mérida |  |  |  | Mérida | Baja | Cluster regional |
-| 200 | Maquillaje artístico Mérida extra |  |  |  | Mérida | Baja | Cluster sureste |
-| 201 | Maquillaje artístico Querétaro |  |  |  | Querétaro | Baja | Cluster regional |
-| 202 | Maquillaje artístico Tijuana extra |  |  |  | Tijuana | Baja | Cluster frontera |
-| 203 | Maquillaje artístico Veracruz carnaval |  |  |  | Veracruz | Baja | Cluster carnaval |
-| 204 | Maquillaje ballet CDMX más compañías |  |  |  | CDMX | Baja | Danza |
-| 205 | Maquillaje catrina CDMX |  |  |  | CDMX | Baja | Servicio artístico |
-| 206 | Maquillaje cine CDMX freelance hub |  |  |  | CDMX | Baja | Cluster cine |
-| 207 | Maquillaje cine Guadalajara |  |  |  | Guadalajara | Baja | Cluster cine |
-| 208 | Maquillaje FX Guadalajara estudios |  |  |  | Guadalajara | Baja | Estudio FX |
-| 209 | Maquillaje FX Monterrey estudios |  |  |  | Monterrey | Baja | Estudio FX |
-| 210 | Maquillaje Halloween FX CDMX |  |  |  | CDMX | Baja | Servicio FX |
-| 211 | Maquillaje social + FX bodas GDL |  |  |  | Guadalajara | Baja | Servicio mixto |
-| 212 | Maquillaje social + FX bodas MTY |  |  |  | Monterrey | Baja | Servicio mixto |
-| 213 | Maquillaje teatral UNAM / foro |  |  |  | CDMX | Baja | Escena universitaria |
-| 214 | Maquillaje teatro UNAM más foros |  |  |  | CDMX | Baja | Cluster teatro |
-| 215 | Pelucas teatrales GDL |  |  |  | Guadalajara | Baja | Peluquería teatral |
-| 216 | Pelucas teatrales MTY |  |  |  | Monterrey | Baja | Peluquería teatral |
-| 217 | Pinta caritas GDL eventos |  |  |  | Guadalajara | Baja | Servicio eventos |
-| 218 | Pinta caritas MTY eventos |  |  |  | Monterrey | Baja | Servicio eventos |
-| 219 | Pinta caritas Puebla eventos |  |  |  | Puebla | Baja | Servicio eventos |
-| 220 | Pinta caritas Querétaro eventos |  |  |  | Querétaro | Baja | Servicio eventos |
-| 221 | Pupilentes FX GDL |  |  |  | Guadalajara | Baja | Insumos FX |
-| 222 | Pupilentes FX MTY |  |  |  | Monterrey | Baja | Insumos FX |
-| 223 | RCMA / Cinema Secrets MX |  |  |  | México | Baja | Marca cine |
-| 224 | RCMA México |  |  |  | México | Baja | Marca cine |
-| 225 | Sally Beauty México |  |  |  | México | Baja | Retail profesional |
-| 226 | Sally Beauty sucursales makeup |  |  |  | México | Baja | Retail profesional |
-| 227 | Snazaroo México |  |  |  | México | Baja | Marca face paint |
-| 228 | Snazaroo retail infantil extra |  |  |  | México | Baja | Marca kids |
-| 229 | Superstar Face Paint MX |  |  |  | México | Baja | Marca face paint |
-| 230 | Tag Body Art MX |  |  |  | México | Baja | Marca face paint |
-| 231 | Wolfe / Superstar / Tag extra MX |  |  |  | México | Baja | Marcas face paint |
-| 232 | Wolfe FX México |  |  |  | México | Baja | Marca face paint |
+| 46 | MF Cosmetics Marifer | https://mfcosmeticos.com/ | cosmeticos.marifer@mfcosmeticos.com.mx | 3351072853 | Guadalajara | Alta | Marca + tienda |
+| 47 | Mimos y estatua humana insumos | https://www.bondsboutique.com.mx/ |  | 5555585862 | CDMX | Alta | Canal callejero |
+| 48 | Narices de payaso Bonds | https://www.bondsboutique.com.mx/ |  | 5555585862 | CDMX | Alta | Insumos payaso |
+| 49 | Paradise AQ Glitter Mehron | https://www.bondsboutique.com.mx/ |  | 5555585862 | CDMX | Alta | Insumos glitter |
+| 50 | Party Zone makeup Toluca | https://www.partyzonedisfraces.com/ |  | 7228642693 | Toluca | Alta | Tienda + makeup |
+| 51 | Payasos Unidos insumos CDMX | https://www.bondsboutique.com.mx/ |  | 5555585862 | CDMX | Alta | Canal payaso |
+| 52 | Pelucas payaso Bonds | https://www.bondsboutique.com.mx/ |  | 5555585862 | CDMX | Alta | Peluquería artística |
+| 53 | Pestañas de fantasía Artist City | https://www.artistcity.com.mx/ |  | (55) 3547-6444 | CDMX | Alta | Insumos artísticos |
+| 54 | Pinceles Illusion Kryolan | https://www.artistcity.com.mx/ |  | (55) 3547-6444 | CDMX | Alta | Herramientas |
+| 55 | Pinceles Torey Artist City | https://www.artistcity.com.mx/ |  | (55) 3547-6444 | CDMX | Alta | Herramientas |
+| 56 | Pixie Paint Bonds | https://www.bondsboutique.com.mx/ |  | 5555585862 | CDMX | Alta | Insumos glitter |
+| 57 | ProAiir extra puntos venta | https://www.bondsboutique.com.mx/ |  | 5555585862 | CDMX | Alta | Distribución |
+| 58 | ProAiir México / Bond's | https://www.bondsboutique.com.mx/ | ventas@bondsboutique.com.mx | 5555585862 | CDMX | Alta | Distribuidor aerógrafo |
+| 59 | Pupilentes FX Artist City | https://www.artistcity.com.mx/ |  | (55) 3547-6444 | CDMX | Alta | Insumos FX |
+| 60 | Sangre teatral Bonds | https://www.bondsboutique.com.mx/ |  | 5555585862 | CDMX | Alta | Insumos FX |
+| 61 | Silly Farm extra puntos venta | https://www.bondsboutique.com.mx/ |  | 5555585862 | CDMX | Alta | Distribución |
+| 62 | Stencils pinta caritas Bonds | https://www.bondsboutique.com.mx/ |  | 5555585862 | CDMX | Alta | Insumos face paint |
+| 63 | Supracolor paletas MX | https://www.artistcity.com.mx/ |  | (55) 3547-6444 | CDMX | Alta | Producto clave |
+| 64 | The Makeup Center | https://themakeupcenter.com/ | ventas@themakeupc.com | 5565491471 | CDMX | Alta | Academia + tienda |
+| 65 | The Makeup Center EdoMex | https://themakeupcenter.com/ | ventas@themakeupc.com | 5565491471 | EdoMex | Alta | Sucursal academia |
+| 66 | The Makeup Center Monterrey | https://themakeupcenter.com/ | ventas@themakeupc.com | 5565491471 | Monterrey | Alta | Sucursal academia |
+| 67 | The Makeup Center Monterrey Plaza Anáhuac | https://themakeupcenter.com/pages/sucursales-1 | ventas@themakeupc.com | 8120136471 | Monterrey | Alta | Sucursal tienda |
+| 68 | The Makeup Center Puebla | https://themakeupcenter.com/ | ventas@themakeupc.com | 5565491471 | Puebla | Alta | Sucursal academia |
+| 69 | The Makeup Center Puebla Zavaleta | https://themakeupcenter.com/pages/sucursales-1 | ventas@themakeupc.com | 2216444282 | Puebla | Alta | Sucursal tienda |
+| 70 | Tu Maquillaje México | https://tumaquillajemexico.com/ | loquiero@tumaquillaje.com | 6677769123 | Culiacán | Alta | Tienda profesional |
+| 71 | Tu Maquillaje sucursal Guadalupe | https://tumaquillajemexico.com/pages/ubica-tu-tienda | loquiero@tumaquillaje.com | 6677769123 | Culiacán | Alta | Sucursal |
+| 72 | Tu Maquillaje sucursal Las Quintas | https://tumaquillajemexico.com/pages/ubica-tu-tienda |  | 6677769123 | Culiacán | Alta | Sucursal |
+| 73 | TV Paint Stick Kryolan MX | https://themakeupcenter.com/ | ventas@themakeupc.com | 5565491471 | CDMX | Alta | Producto clave |
+| 74 | UV / neón Bonds | https://www.bondsboutique.com.mx/ |  | 5555585862 | CDMX | Alta | Insumos UV |
+| 75 | Art Inc México | https://www.artincmexico.com/body-paint |  |  | CDMX | Media | Servicio profesional |
+| 76 | Beauty Care Latam | https://beautycarelatam.com.mx/ |  |  | México | Media | Distribuidor beauty |
+| 77 | Beauty Supply CDMX centro |  |  |  | CDMX | Media | Mayoreo beauty |
+| 78 | Benefit Cosmetics MX |  |  |  | CDMX | Media | Marca profesional |
+| 79 | Benefit counters MX |  |  |  | CDMX | Media | Marca pro |
+| 80 | Colibrix | https://colibrix.com.mx/productos/ |  |  | CDMX | Media | Ejemplo original |
+| 81 | Colibrix tienda productos | https://colibrix.com.mx/productos/ |  |  | México | Media | Marca D2C |
+| 82 | Creature Angel FX |  |  | 7291378344 | Zinacantepec | Media | Tienda FX |
+| 83 | Círculo B beauty | https://circulob.mx/ |  |  | México | Media | Insumos beauty |
+| 84 | Disfraces + makeup Mercado de Todos |  |  | 6646217442 | Tijuana | Media | Canal cruzado |
+| 85 | Disfraces Mercado de Todos makeup |  |  | 6646217442 | Tijuana | Media | Tienda + makeup |
+| 86 | Don Checo Art | https://www.donchecoart.com/bodypaint |  |  | México | Media | Servicio profesional |
+| 87 | Fiesta kits face paint mayoreo |  |  |  | CDMX | Media | Mayoreo eventos |
+| 88 | Inglot México |  |  |  | CDMX | Media | Marca profesional |
+| 89 | Inglot standalone CDMX |  |  |  | CDMX | Media | Tienda marca |
+| 90 | Katia Torres Academy |  |  | 8119316860 | Monterrey | Media | Academia |
+| 91 | Lagunilla maquillaje y pelucas |  |  |  | CDMX | Media | Mayoreo popular |
+| 92 | Lagunilla pelucas FX |  |  |  | CDMX | Media | Mayoreo popular |
+| 93 | Liverpool Kryolan / pro counter | https://www.liverpool.com.mx/ |  |  | CDMX | Media | Retail |
+| 94 | Liverpool maquillaje profesional | https://www.liverpool.com.mx/ |  |  | CDMX | Media | Retail |
+| 95 | MAC Cosmetics México | https://www.maccosmetics.com.mx/ |  |  | CDMX | Media | Marca profesional |
+| 96 | MAC Pro México | https://www.maccosmetics.com.mx/ |  |  | CDMX | Media | Canal pro |
+| 97 | MAC Pro store CDMX | https://www.maccosmetics.com.mx/ |  |  | CDMX | Media | Tienda marca |
+| 98 | Make Up For Ever México | https://www.makeupforever.com/mx |  |  | CDMX | Media | Marca profesional |
+| 99 | Makeup Forever Academy MX |  |  |  | CDMX | Media | Academia marca |
+| 100 | Makeup Forever counter MX | https://www.makeupforever.com/mx |  |  | CDMX | Media | Marca pro |
+| 101 | Maquillaje artistico (ejemplo original) | https://colibrix.com.mx/productos/ |  |  |  | Media | Ejemplo original |
+| 102 | Maquillaje artístico Tijuana |  |  | 6646217442 | Tijuana | Media | Cluster fronterizo |
+| 103 | MEGA Body Paint México | https://www.facebook.com/MegaBodyPaintMx/ |  |  | CDMX | Media | Servicio + producto |
+| 104 | Mercado de Sonora glitter y aqua |  |  |  | CDMX | Media | Mayoreo popular |
+| 105 | Mercado de Sonora maquillaje teatral |  |  |  | CDMX | Media | Mayoreo popular |
+| 106 | Meriti Cosmetics | https://meriticosmetics.com.mx/ |  |  | México | Media | Marca cosmética |
+| 107 | Noëlle Makeup Studio | https://www.noellemakeupstudio.com/tienda-maquillaje-profesional/ |  |  | México | Media | Tienda profesional |
+| 108 | NYX Professional counters MX | https://www.nyxcosmetics.com.mx/ |  |  | CDMX | Media | Marca pro |
+| 109 | NYX Professional Makeup MX | https://www.nyxcosmetics.com.mx/ |  |  | CDMX | Media | Marca profesional |
+| 110 | Palacio de Hierro beauty | https://www.elpalaciodehierro.com/ |  |  | CDMX | Media | Retail premium |
+| 111 | Palacio de Hierro makeup pro | https://www.elpalaciodehierro.com/ |  |  | CDMX | Media | Retail premium |
+| 112 | Pinta caritas CDMX eventos |  |  | 5527156654 | CDMX | Media | Servicio eventos |
+| 113 | Sanborns beauty | https://www.sanborns.com.mx/ |  |  | CDMX | Media | Retail |
+| 114 | Sephora Antara / Perisur makeup pro | https://www.sephora.com.mx/ |  |  | CDMX | Media | Retail |
+| 115 | Sephora México | https://www.sephora.com.mx/ |  |  | CDMX | Media | Retail beauty |
+| 116 | Silly Farm / Fusion Body Art MX | https://www.bondsboutique.com.mx/ |  |  | CDMX | Media | Distribuidor face paint |
+| 117 | Tepito insumos fiesta makeup |  |  |  | CDMX | Media | Mayoreo popular |
+| 118 | Tepito pelucas y blanco teatral |  |  |  | CDMX | Media | Mayoreo popular |
+| 119 | Urban Decay counters MX |  |  |  | CDMX | Media | Marca pro |
+| 120 | Urban Decay México |  |  |  | CDMX | Media | Marca profesional |
+| 121 | Academia de maquillaje GDL centro |  |  |  | Guadalajara | Baja | Academia |
+| 122 | Academia de maquillaje Puebla centro histórico |  |  |  | Puebla | Baja | Academia |
+| 123 | Aerógrafo makeup CDMX |  |  |  | CDMX | Baja | Insumos aerógrafo |
+| 124 | Aerógrafo makeup GDL |  |  |  | Guadalajara | Baja | Insumos aerógrafo |
+| 125 | Aerógrafo makeup MTY |  |  |  | Monterrey | Baja | Insumos aerógrafo |
+| 126 | Airbrush tattoo eventos GDL |  |  |  | Guadalajara | Baja | Servicio |
+| 127 | Airbrush tattoo eventos MTY |  |  |  | Monterrey | Baja | Servicio |
+| 128 | Airbrush tattoo eventos MX |  |  |  | México | Baja | Servicio eventos |
+| 129 | Anime Expo / convention makeup vendors |  |  |  | CDMX | Baja | Canal convenciones |
+| 130 | Balm Micro MX |  |  |  | México | Baja | Insumos |
+| 131 | Belly paint GDL |  |  |  | Guadalajara | Baja | Servicio |
+| 132 | Belly paint MTY |  |  |  | Monterrey | Baja | Servicio |
+| 133 | Ben Nye kits teatrales MX |  |  |  | México | Baja | Marca teatral |
+| 134 | Ben Nye México |  |  |  | México | Baja | Marca teatral |
+| 135 | Body paint GDL eventos |  |  |  | Guadalajara | Baja | Servicio eventos |
+| 136 | Body paint Mazatlán carnaval |  |  |  | Mazatlán | Baja | Servicio carnaval |
+| 137 | Body paint Monterrey eventos |  |  |  | Monterrey | Baja | Servicio eventos |
+| 138 | Body paint Puebla catrinas |  |  |  | Puebla | Baja | Servicio artístico |
+| 139 | Body paint Puebla eventos |  |  |  | Puebla | Baja | Servicio eventos |
+| 140 | Body paint Veracruz carnaval |  |  |  | Veracruz | Baja | Servicio carnaval |
+| 141 | Burlesque brushes MX |  |  |  | México | Baja | Herramientas |
+| 142 | Burlesque Makeup MX |  |  |  | México | Baja | Marca pinceles |
+| 143 | Cameleon Makeup MX |  |  |  | México | Baja | Marca artística |
+| 144 | Cecil Q Makeup |  |  |  | CDMX | Baja | Artista / docente |
+| 145 | Chistirrin / payaso supplies |  |  |  | CDMX | Baja | Influencer + canal |
+| 146 | Cine Closet makeup / vestuario |  |  |  | CDMX | Baja | Vestuario cine |
+| 147 | Cosplay makeup CDMX |  |  |  | CDMX | Baja | Canal cosplay |
+| 148 | Cosplay makeup GDL |  |  |  | Guadalajara | Baja | Canal cosplay |
+| 149 | Cosplay makeup MTY |  |  |  | Monterrey | Baja | Canal cosplay |
+| 150 | Diamond FX México |  |  |  | México | Baja | Marca face paint |
+| 151 | European Body Art extra MX |  |  |  | México | Baja | Marca alcohol |
+| 152 | European Body Art MX |  |  |  | México | Baja | Marca body paint |
+| 153 | Farmasi líderes MX |  |  |  | México | Baja | Red / marca |
+| 154 | Farmasi México |  |  |  | México | Baja | Marca / red |
+| 155 | Fiesta Face Paint kits |  |  |  | México | Baja | Kits eventos |
+| 156 | Glitter y pedrería GDL |  |  |  | Guadalajara | Baja | Insumos |
+| 157 | Glitter y pedrería MTY |  |  |  | Monterrey | Baja | Insumos |
+| 158 | Global Colours MX |  |  |  | México | Baja | Marca face paint |
+| 159 | Graftobian México |  |  |  | México | Baja | Marca teatral |
+| 160 | Henna glitter tattoo GDL |  |  |  | Guadalajara | Baja | Servicio |
+| 161 | Henna glitter tattoo MTY |  |  |  | Monterrey | Baja | Servicio |
+| 162 | Henna y glitter tattoo MX |  |  |  | México | Baja | Servicio eventos |
+| 163 | Hysteria FX |  |  |  | México | Baja | Marca FX |
+| 164 | Hysteria FX retailers MX |  |  |  | México | Baja | Marca FX |
+| 165 | Insumos payaso GDL |  |  |  | Guadalajara | Baja | Insumos |
+| 166 | Insumos payaso MTY |  |  |  | Monterrey | Baja | Insumos |
+| 167 | Jordane Cosmetics MX |  |  |  | México | Baja | Marca profesional |
+| 168 | Jorge de la Garza academy + línea |  |  |  | México | Baja | Marca + academia |
+| 169 | Jorge de la Garza Cosmetics |  |  |  | México | Baja | Marca profesional |
+| 170 | Látex y sangre teatral GDL |  |  |  | Guadalajara | Baja | Insumos FX |
+| 171 | Látex y sangre teatral MTY |  |  |  | Monterrey | Baja | Insumos FX |
+| 172 | Maquillaje artístico Aguascalientes feria |  |  |  | Aguascalientes | Baja | Servicio feria |
+| 173 | Maquillaje artístico GDL academias |  |  |  | Guadalajara | Baja | Cluster regional |
+| 174 | Maquillaje artístico León feria |  |  |  | León | Baja | Servicio feria |
+| 175 | Maquillaje artístico Mazatlán carnaval |  |  |  | Mazatlán | Baja | Cluster carnaval |
+| 176 | Maquillaje artístico MTY academias |  |  |  | Monterrey | Baja | Cluster regional |
+| 177 | Maquillaje artístico Veracruz carnaval |  |  |  | Veracruz | Baja | Cluster carnaval |
+| 178 | Maquillaje ballet CDMX más compañías |  |  |  | CDMX | Baja | Danza |
+| 179 | Maquillaje catrina CDMX |  |  |  | CDMX | Baja | Servicio artístico |
+| 180 | Maquillaje cine CDMX freelance hub |  |  |  | CDMX | Baja | Cluster cine |
+| 181 | Maquillaje FX Guadalajara estudios |  |  |  | Guadalajara | Baja | Estudio FX |
+| 182 | Maquillaje FX Monterrey estudios |  |  |  | Monterrey | Baja | Estudio FX |
+| 183 | Maquillaje Halloween FX CDMX |  |  |  | CDMX | Baja | Servicio FX |
+| 184 | Maquillaje social + FX bodas GDL |  |  |  | Guadalajara | Baja | Servicio mixto |
+| 185 | Maquillaje social + FX bodas MTY |  |  |  | Monterrey | Baja | Servicio mixto |
+| 186 | Maquillaje teatral UNAM / foro |  |  |  | CDMX | Baja | Escena universitaria |
+| 187 | Maquillaje teatro UNAM más foros |  |  |  | CDMX | Baja | Cluster teatro |
+| 188 | Pelucas teatrales GDL |  |  |  | Guadalajara | Baja | Peluquería teatral |
+| 189 | Pelucas teatrales MTY |  |  |  | Monterrey | Baja | Peluquería teatral |
+| 190 | Pinta caritas GDL eventos |  |  |  | Guadalajara | Baja | Servicio eventos |
+| 191 | Pinta caritas MTY eventos |  |  |  | Monterrey | Baja | Servicio eventos |
+| 192 | Pinta caritas Puebla eventos |  |  |  | Puebla | Baja | Servicio eventos |
+| 193 | Pinta caritas Querétaro eventos |  |  |  | Querétaro | Baja | Servicio eventos |
+| 194 | Pupilentes FX GDL |  |  |  | Guadalajara | Baja | Insumos FX |
+| 195 | Pupilentes FX MTY |  |  |  | Monterrey | Baja | Insumos FX |
+| 196 | RCMA / Cinema Secrets MX |  |  |  | México | Baja | Marca cine |
+| 197 | RCMA México |  |  |  | México | Baja | Marca cine |
+| 198 | Sally Beauty México |  |  |  | México | Baja | Retail profesional |
+| 199 | Sally Beauty sucursales makeup |  |  |  | México | Baja | Retail profesional |
+| 200 | Snazaroo México |  |  |  | México | Baja | Marca face paint |
+| 201 | Superstar Face Paint MX |  |  |  | México | Baja | Marca face paint |
+| 202 | Tag Body Art MX |  |  |  | México | Baja | Marca face paint |
+| 203 | Wolfe / Superstar / Tag extra MX |  |  |  | México | Baja | Marcas face paint |
+| 204 | Wolfe FX México |  |  |  | México | Baja | Marca face paint |

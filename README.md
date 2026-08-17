@@ -98,6 +98,36 @@ leads/por_nicho/{ID}_{slug}.csv|.json|.md
 | 26 | Tenis, botas y playeras | `26_tenis_botas_playeras.*` |
 | 27 | Skincare / cosméticos | `27_skincare_cosmeticos.*` |
 | 28 | Esmaltes, pegamentos y piedritas | `28_productos_unas_esmaltes.*` |
+| 29 | Utensilios de cocina, tuppers | `29_utensilios_cocina_tuppers.*` |
+| 30 | Audífonos bluetooth, cargadores, fundas | `30_audifonos_bluetooth_cargadores.*` |
+| 31 | Fundas personalizadas y soporte para celular | `31_fundas_personalizadas_celular.*` |
+| 32 | Aromatizantes para autos | `32_aromatizantes_para_autos.*` |
+| 33 | Mochilas y útiles escolares | `33_mochilas_utiles_escolares.*` |
+| 34 | Skincare y maquillaje | `34_skincare_maquillaje.*` |
+| 35 | Refacciones automotrices | `35_refacciones_automotrices.*` |
+| 36 | Vitaminas para plantas y abono | `36_vitaminas_plantas_abono.*` |
+| 37 | Gomitas de vitaminas | `37_gomitas_vitaminas.*` |
+| 38 | Libros de colección | `38_libros_coleccion.*` |
+| 39 | Artículos de limpieza | `39_articulos_limpieza.*` |
+| 40 | Perfumes | `40_perfumes.*` |
+| 41 | Scoops / sorpresas | `41_scoops_sorpresas.*` |
+| 42 | Artículos para adultos | `42_articulos_para_adultos.*` |
+| 43 | Vitaminas y suplementos | `43_vitaminas_suplementos.*` |
+| 44 | Productos para el cabello (keratina, cremas, ampolletas) | `44_productos_cabello_keratina.*` |
+| 45 | Extensiones de pelo para salón | `45_extensiones_de_pelo.*` |
+| 46 | Cortinas | `46_cortinas.*` |
+| 47 | Juguetes sensoriales mayoreo | `47_juguetes_sensoriales_mayoreo.*` |
+| 48 | Botellas y tapas personalizados | `48_botellas_tapas_personalizados.*` |
+| 49 | Accesorios para autos (luces y refacciones pequeñas) | `49_accesorios_para_autos.*` |
+| 50 | Pelucas de colores | `50_pelucas_de_colores.*` |
+| 51 | Jabones y shampoos | `51_jabones_shampoos.*` |
+| 52 | Skincare Coreano | `52_skincare_coreano.*` |
+| 53 | Artículos de papelería en mayoreo | `53_papeleria_mayoreo.*` |
+| 54 | Equipo de iluminación | `54_equipo_iluminacion.*` |
+| 55 | Servicio de envíos de tarjetas | `55_envios_de_tarjetas.*` |
+| 56 | Suministros médicos / farmacéuticos | `56_suministros_medicos_farmaceuticos.*` |
+| 57 | Barbería y cuidado masculino | `57_barberia_cuidado_masculino.*` |
+| 58 | Insumos para Tattoo y Body Art | `58_insumos_tattoo_body_art.*` |
 
 Catálogo: `leads/nichos.json` (58 nichos).
 

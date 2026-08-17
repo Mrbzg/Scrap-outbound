@@ -1,0 +1,315 @@
+{
+  "lote": "47",
+  "slug": "juguetes_sensoriales_mayoreo",
+  "description": "Juguetes sensoriales mayoreo MX",
+  "leads": [
+    {
+      "empresa": "Mayoreo Didáctico (ejemplo)",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — juguetes sensoriales, Montessori y didácticos por mayoreo",
+      "fuente": "ejemplo_cliente",
+      "url": "https://www.mayoreodidactico.mx/",
+      "email": "monica@mayoreodidactico.mx",
+      "telefono": "8189891980",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Toys 2 Teach",
+      "tipo": "Fabricante",
+      "notas": "30+ años; fabricante de mobiliario escolar y juguetes didácticos; 5 plantas; atiende mayoristas",
+      "fuente": "research",
+      "url": "https://www.toys2teach.mx/",
+      "telefono": "5565854337",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Ideas Hands / Casa Didáctica",
+      "tipo": "Fabricante",
+      "notas": "Fabricante y distribuidor autorizado de juguetes educativos; mayoristas y distribuidores",
+      "fuente": "research",
+      "url": "https://www.ideashands.com.mx/",
+      "email": "ventas@casadidactica.com",
+      "telefono": "2222998488",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "D'Toys",
+      "tipo": "Mayoreo",
+      "notas": "Distribuidor mayorista de juguetes; C. José Fernando Abascal 157, San Juan de Dios; mín. $1,000",
+      "fuente": "research",
+      "url": "http://www.dtoys.com.mx/",
+      "telefono": "3318809509",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Toymark",
+      "tipo": "Fabricante",
+      "notas": "Empresa mexicana de fabricación, importación y distribución de juguetes por mayoreo por caja",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Promeyco",
+      "tipo": "Fabricante",
+      "notas": "Fabrica y distribuye juguetes al mayoreo: patines, triciclos, carros montables y andaderas",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Juguetería La Loba",
+      "tipo": "Mayoreo",
+      "notas": "Mayoreo de juguetes: didácticos, educativos, montables, rompecabezas y juegos de mesa",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Pepe Toys",
+      "tipo": "Mayoreo",
+      "notas": "Distribuidor mayorista GDL de juguetes y papelería; envíos nacionales; mín. $2,000",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Mayoreo de Juguete",
+      "tipo": "Mayoreo",
+      "notas": "Juguetes de marca al mayoreo directo de fábrica (Mattel, Hasbro, Spin Master)",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "B-Toys",
+      "tipo": "Mayoreo",
+      "notas": "Juguetes de marca por mayoreo para bebés y preescolar",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Educactivity",
+      "tipo": "Fabricante",
+      "notas": "Red de distribuidores de juguetes educativos y material didáctico; mín. $3,000; márgenes 30-40%",
+      "fuente": "research",
+      "url": "https://educactivity.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "JAVI TOYS",
+      "tipo": "Ecom",
+      "notas": "Kits de fidget toys: squishy, oruga, pop tube, pelota antiestrés y slime",
+      "fuente": "research",
+      "url": "https://javitoys.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "ELE-GATE",
+      "tipo": "Mayoreo",
+      "notas": "Pop It fidget toys y accesorios al mayoreo; sección 'Mayoreo'",
+      "fuente": "research",
+      "url": "https://www.ele-gate.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Coconini",
+      "tipo": "Ecom",
+      "notas": "Juguetes y estimulación temprana",
+      "fuente": "research",
+      "url": "https://www.coconini.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "XMajo Didácticos",
+      "tipo": "Ecom",
+      "notas": "Material didáctico y sensorial; +1,000 productos; envíos MX",
+      "fuente": "research",
+      "url": "https://xmajodidacticos.com/",
+      "email": "info@xmajodidacticos.com",
+      "telefono": "8117537880",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Toiki",
+      "tipo": "Mayoreo",
+      "notas": "Juguetes y artículos por mayoreo en GDL",
+      "fuente": "research",
+      "url": "https://toiki.mx/",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "AIPAI Cositas",
+      "tipo": "Ecom",
+      "notas": "Juguetes didácticos y sensoriales",
+      "fuente": "research",
+      "url": "https://aipaicositas.com/",
+      "email": "cositas.aipai@gmail.com",
+      "telefono": "5522657691",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Grupo Educar",
+      "tipo": "Fabricante",
+      "notas": "Material didáctico y juguetes educativos",
+      "fuente": "research",
+      "url": "https://grupoeducar.com.mx/",
+      "telefono": "5514036115",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Teng Da Tepito",
+      "tipo": "Mayoreo",
+      "notas": "Mayoreo de juguetes en Tepito, CDMX",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "BM Toys México",
+      "tipo": "Mayoreo",
+      "notas": "Mayoreo de juguetes",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Distribuidora Mesones",
+      "tipo": "Mayoreo",
+      "notas": "Distribuidora de juguetes en Mesones, Centro CDMX",
+      "fuente": "research",
+      "telefono": "5656770570",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "BOJA Sensory",
+      "tipo": "Marca",
+      "notas": "Kit 40 pzs fidget toys sensoriales vía Amazon MX",
+      "fuente": "brand",
+      "url": "https://www.amazon.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Newpop",
+      "tipo": "Marca",
+      "notas": "Pop tubes 24 pzs vía Amazon MX",
+      "fuente": "brand",
+      "url": "https://www.amazon.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "TOYGON",
+      "tipo": "Marca",
+      "notas": "Kit 2 pzs pop it con llavero vía Amazon MX",
+      "fuente": "brand",
+      "url": "https://www.amazon.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "DAQI",
+      "tipo": "Marca",
+      "notas": "Fidget toys 64 pack vía Amazon MX",
+      "fuente": "brand",
+      "url": "https://www.amazon.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "ZHEYU / Kulome",
+      "tipo": "Marca",
+      "notas": "Pop It electrónico antiestrés vía Amazon MX",
+      "fuente": "brand",
+      "url": "https://www.amazon.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "XJZWHN",
+      "tipo": "Marca",
+      "notas": "Cubos de fidget antiestrés vía Amazon MX",
+      "fuente": "brand",
+      "url": "https://www.amazon.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "MNNHQ",
+      "tipo": "Marca",
+      "notas": "36 pack squishy mochi vía Amazon MX",
+      "fuente": "brand",
+      "url": "https://www.amazon.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Amazon MX fidget mayoreo",
+      "tipo": "Marketplace",
+      "notas": "Sellers de fidget toys por mayoreo",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/fidget-toys-mayoreo/s?k=fidget+toys+mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mercado Libre fidget",
+      "tipo": "Marketplace",
+      "notas": "Mayoreo de fidget y pop it",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/fidget-toys-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Walmart México juguetes",
+      "tipo": "Retail",
+      "notas": "Vende juguetes sensoriales y pop it",
+      "fuente": "brand",
+      "url": "https://www.walmart.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Liverpool juguetes",
+      "tipo": "Retail",
+      "notas": "Vende juguetes didácticos",
+      "fuente": "brand",
+      "url": "https://www.liverpool.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Juguetron",
+      "tipo": "Retail",
+      "notas": "Juguetería en línea",
+      "fuente": "brand",
+      "url": "https://www.juguetron.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Julio Cepeda Juguetes",
+      "tipo": "Retail",
+      "notas": "Juguetería y distribuidor",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    }
+  ]
+}

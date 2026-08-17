@@ -4834,22 +4834,6 @@
   {
     "giro": "Distribuidor de café",
     "nicho": "Granos de café",
-    "empresa": "Café Colón Xalapa",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Xalapa",
-    "estado": "Veracruz",
-    "pais": "México",
-    "tipo": "",
-    "notas": "Tradicional",
-    "fuente": "retail/asociaciones",
-    "prioridad": "Baja",
-    "score_contacto": 1
-  },
-  {
-    "giro": "Distribuidor de café",
-    "nicho": "Granos de café",
     "empresa": "Café de Altura Coatepec Mercado",
     "url": "",
     "email": "",
@@ -4910,22 +4894,6 @@
     "fuente": "dirind/expo",
     "prioridad": "Baja",
     "score_contacto": 0
-  },
-  {
-    "giro": "Distribuidor de café",
-    "nicho": "Granos de café",
-    "empresa": "Consejo Regulador Café Veracruz",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Veracruz",
-    "estado": "Veracruz",
-    "pais": "México",
-    "tipo": "",
-    "notas": "DO",
-    "fuente": "retail/asociaciones",
-    "prioridad": "Baja",
-    "score_contacto": 1
   },
   {
     "giro": "Distribuidor de café",

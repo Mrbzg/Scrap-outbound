@@ -1,0 +1,215 @@
+{
+  "lote": "39",
+  "slug": "articulos_limpieza",
+  "description": "Artículos de limpieza MX",
+  "leads": [
+    {
+      "empresa": "Uline México (ejemplo)",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — artículos de limpieza y empaque",
+      "fuente": "ejemplo_cliente",
+      "url": "https://es.uline.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "La Avenida",
+      "tipo": "Fabricante",
+      "notas": "Químicos de limpieza y desinfección; granel 1L-1000L; Ruiz Cortines 104 Pte",
+      "fuente": "research",
+      "url": "https://laavenida.com.mx/",
+      "telefono": "8117672929",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "La Avenida Escobedo",
+      "tipo": "Sucursal",
+      "notas": "Calle Sétima 601, Praderas Girasoles",
+      "fuente": "research",
+      "url": "https://laavenida.com.mx/",
+      "telefono": "8114920810",
+      "ciudad": "Escobedo",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Yanitor",
+      "tipo": "Fabricante",
+      "notas": "Limpieza industrial; distribuidor Rubbermaid/Purell/Diversey; Av. Fundidora 501",
+      "fuente": "research",
+      "url": "https://www.yanitor.com/",
+      "email": "tiendaweb@yanitor.com",
+      "telefono": "8112340500",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Energy Clean",
+      "tipo": "Fabricante",
+      "notas": "Químicos, papel institucional y jarcería; Juventino Rosas 2008",
+      "fuente": "research",
+      "url": "https://www.energyclean.mx/",
+      "email": "ventas@energyclean.mx",
+      "telefono": "8130685708",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Codelmex",
+      "tipo": "Distribuidor",
+      "notas": "60+ años; 600+ artículos de limpieza mayoreo; Topacio 36 Centro",
+      "fuente": "research",
+      "url": "https://www.codelmex.mx/",
+      "email": "ventas@codelmex.mx",
+      "telefono": "5557633898",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "MayoreoTotal",
+      "tipo": "Mayoreo",
+      "notas": "Abarrotes y limpieza al mayoreo CDMX; detergentes, cloro, papel",
+      "fuente": "research",
+      "url": "https://www.mayoreototal.net/",
+      "email": "mtnotificacion@gmail.com",
+      "telefono": "5560752408",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Cepillos El Castor",
+      "tipo": "Fabricante",
+      "notas": "70+ años; cepillos, escobas, trapeadores y jaladores profesionales",
+      "fuente": "research",
+      "url": "https://www.cepilloselcastor.com/",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Alcodistribuidora",
+      "tipo": "Distribuidor",
+      "notas": "Distribuidor master de El Castor y grandes marcas de limpieza",
+      "fuente": "research",
+      "url": "https://alcodistribuidora.com/"
+    },
+    {
+      "empresa": "Grupo Kryss",
+      "tipo": "Fabricante",
+      "notas": "Escobas, cepillos y jarciería, marca mexicana",
+      "fuente": "brand",
+      "ciudad": "Aguascalientes",
+      "estado": "Aguascalientes"
+    },
+    {
+      "empresa": "Fábrica de Jabón La Corona",
+      "tipo": "Marca",
+      "notas": "Detergente Roma, Foca y jabones",
+      "fuente": "brand",
+      "url": "https://www.lacorona.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Diversey México",
+      "tipo": "Marca",
+      "notas": "Limpieza institucional e higiene",
+      "fuente": "brand",
+      "url": "https://diversey.com/es-mx",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "3M México",
+      "tipo": "Marca",
+      "notas": "Scotch-Brite, esponjas y limpiadores",
+      "fuente": "brand",
+      "url": "https://www.3m.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Clorox México",
+      "tipo": "Marca",
+      "notas": "Cloro, Pinol y desinfectantes",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "P&G México (Ace / Mr. Clean)",
+      "tipo": "Marca",
+      "notas": "Detergentes y multiusos",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Rubbermaid Commercial",
+      "tipo": "Marca",
+      "notas": "Contenedores y jarciería profesional, vía distribuidores MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Purell / GOJO",
+      "tipo": "Marca",
+      "notas": "Sanitizantes y dispensadores, vía Yanitor",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Surtidora de Productos de Limpieza",
+      "tipo": "Mayoreo",
+      "notas": "Almorol, aromatizantes y brillo a mayoreo; suc. Zapopan 33 3805 6628",
+      "fuente": "research",
+      "telefono": "3336532518",
+      "ciudad": "Puerto Melaque",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Walmart México",
+      "tipo": "Retail",
+      "notas": "Autoservicio: limpieza de hogar",
+      "fuente": "brand",
+      "url": "https://www.walmart.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Costco México",
+      "tipo": "Retail",
+      "notas": "Limpieza por volumen",
+      "fuente": "brand",
+      "url": "https://www.costco.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Home Depot México",
+      "tipo": "Retail",
+      "notas": "Limpieza y jarciería",
+      "fuente": "brand",
+      "url": "https://www.homedepot.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Amazon MX limpieza",
+      "tipo": "Marketplace",
+      "notas": "Sellers de artículos de limpieza",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=articulos+de+limpieza",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mercado Libre limpieza",
+      "tipo": "Marketplace",
+      "notas": "Mayoreo de limpieza",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/articulos-de-limpieza-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    }
+  ]
+}

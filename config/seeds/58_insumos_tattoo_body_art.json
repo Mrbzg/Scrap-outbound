@@ -1,0 +1,249 @@
+{
+  "lote": "58",
+  "slug": "insumos_tattoo_body_art",
+  "description": "Insumos para Tattoo y Body Art MX",
+  "leads": [
+    {
+      "empresa": "Soulflower (ejemplo)",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — insumos para tatuar",
+      "fuente": "ejemplo_cliente",
+      "url": "https://soulflower.mx/",
+      "email": "soulflowercustom@gmail.com",
+      "telefono": "5545127515",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Zebra Tattoo Supply",
+      "tipo": "Mayoreo",
+      "notas": "Máquinas, cartuchos, PMU; envíos MX",
+      "fuente": "research",
+      "url": "https://zebratattoosupply.com/",
+      "email": "ventas@zebratattoosupply.com",
+      "telefono": "5541880654",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Inkside Supply",
+      "tipo": "Mayoreo",
+      "notas": "Tintas, cartuchos y máquinas CDMX",
+      "fuente": "research",
+      "url": "https://inksidesupply.com/",
+      "email": "ventas@inksidesupply.com",
+      "telefono": "5510480496",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Tarmex Tattoo Supply",
+      "tipo": "Mayoreo",
+      "notas": "Insumos profesionales para tatuar",
+      "fuente": "research",
+      "url": "https://tarmex-vip.com/",
+      "email": "ventas@tarmex-vip.com",
+      "telefono": "5562786666",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "AGMA Tattoo Supply",
+      "tipo": "Mayoreo",
+      "notas": "Insumos para tatuaje",
+      "fuente": "research",
+      "url": "https://agmatattoo.com/",
+      "telefono": "7711691599",
+      "ciudad": "Pachuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Daruma Supply Tattoo",
+      "tipo": "Mayoreo",
+      "notas": "Insumos profesionales",
+      "fuente": "research",
+      "url": "https://www.darumasupplytattoo.com/",
+      "email": "castillo.aguil4@gmail.com",
+      "telefono": "5519649709",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Reyes Tattoo Supply",
+      "tipo": "Mayoreo",
+      "notas": "Distribuidor oficial FK Irons, Cheyenne, Eternal y Bishop; Av. Tepeyac 930A",
+      "fuente": "research",
+      "url": "https://www.reyestattoosupply.com/",
+      "email": "ventas@reyestattoosupply.com",
+      "telefono": "3320031187",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Eagle Tattoo Supply",
+      "tipo": "Mayoreo",
+      "notas": "Distribuidor nacional desde 2016; tintas, agujas, máquinas y cartuchos",
+      "fuente": "research",
+      "url": "https://eagletattoosupply.com/",
+      "telefono": "5583396661",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Make Art Supply",
+      "tipo": "Mayoreo",
+      "notas": "Insumos profesionales para tatuadores",
+      "fuente": "research",
+      "url": "https://makeartsupply.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Cheyenne",
+      "tipo": "Marca",
+      "notas": "Máquinas pen y cartuchos, distribución MX",
+      "fuente": "brand",
+      "ciudad": "Alemania"
+    },
+    {
+      "empresa": "FK Irons",
+      "tipo": "Marca",
+      "notas": "Máquinas de tatuar, distribución oficial MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Bishop Rotary",
+      "tipo": "Marca",
+      "notas": "Máquinas rotary, distribución oficial MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Eternal Ink",
+      "tipo": "Marca",
+      "notas": "Tintas profesionales, distribución MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Dynamic Tattoo Ink",
+      "tipo": "Marca",
+      "notas": "Triple Black y colores, vía Soulflower",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Radiant Colors",
+      "tipo": "Marca",
+      "notas": "Tintas de color, vía Soulflower",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "World Famous Tattoo Ink",
+      "tipo": "Marca",
+      "notas": "Tintas, distribución MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Fusion Ink",
+      "tipo": "Marca",
+      "notas": "Tintas, distribución MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Starbrite",
+      "tipo": "Marca",
+      "notas": "Tintas, vía Reyes",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Panthera",
+      "tipo": "Marca",
+      "notas": "Tinta para tatuaje, vía Soulflower",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "SUPRA",
+      "tipo": "Marca",
+      "notas": "Set de 12 tintas, vía Soulflower",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Allegory Ink",
+      "tipo": "Marca",
+      "notas": "Tintas, vía Eagle",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "EZ Cartuchos",
+      "tipo": "Marca",
+      "notas": "Cartuchos V-Select y EZ INKin Revo",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Atomus",
+      "tipo": "Marca",
+      "notas": "Tintas y kits profesionales, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Muramaudi",
+      "tipo": "Marca",
+      "notas": "Kits profesionales, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Amazon MX tattoo supply",
+      "tipo": "Marketplace",
+      "notas": "Sellers de insumos para tatuar",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=tattoo+supply",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mercado Libre tattoo",
+      "tipo": "Marketplace",
+      "notas": "Tintas, máquinas y cartuchos",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/tintas-para-tatuar",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Tinta Dynamic 1oz",
+      "tipo": "Producto",
+      "notas": "Dynamic Triple Black 1oz",
+      "fuente": "research",
+      "url": "https://soulflower.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Kit Axis Soulflower",
+      "tipo": "Producto",
+      "notas": "Kit profesional Soulflower x Radiant Axis",
+      "fuente": "research",
+      "url": "https://soulflower.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    }
+  ]
+}

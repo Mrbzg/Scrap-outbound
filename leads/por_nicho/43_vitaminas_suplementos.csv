@@ -1,0 +1,103 @@
+giro,nicho,empresa,url,email,telefono,ciudad,estado,pais,tipo,prioridad,score_contacto,notas,fuente
+Salud,Vitaminas y suplementos,Abbott México,https://www.abbott.com.mx/,,,CDMX,CDMX,México,Laboratorio,Media,3,Ensure y nutrición,brand
+Salud,Vitaminas y suplementos,Almacén de Medicinas,,,,CDMX,CDMX,México,Mayoreo,Media,2,Distribuidora farmacéutica,brand
+Salud,Vitaminas y suplementos,Amazon MX vitaminas,https://www.amazon.com.mx/s?k=vitaminas+y+suplementos,,,México,México,México,Marketplace,Media,2,Sellers de vitaminas y suplementos,research
+Salud,Vitaminas y suplementos,Amino Vida (Genomma),https://www.genommalab.com/,,,CDMX,CDMX,México,Marca,Media,4,Suplemento para cabello y uñas,brand
+Salud,Vitaminas y suplementos,B Life,https://www.blife.mx/,,,CDMX,CDMX,México,D2C,Media,4,Suplementos y vitaminas ecom,research
+Salud,Vitaminas y suplementos,B Life (ejemplo),https://www.blife.mx/,,,CDMX,CDMX,México,Ejemplo original,Media,3,Ejemplo del cliente — vitaminas y suplementos D2C,ejemplo_cliente
+Salud,Vitaminas y suplementos,Bayer México,https://www.bayer.mx/,,,CDMX,CDMX,México,Laboratorio,Media,3,"Berocca, Supradyn, One A Day",brand
+Salud,Vitaminas y suplementos,Berocca (Bayer),,,,Alemania,,México,Marca,Media,2,Efervescentes de vitaminas B+C,brand
+Salud,Vitaminas y suplementos,BSN,,,,USA,,México,Marca,Media,2,"Suplementos deportivos, distribución MX",brand
+Salud,Vitaminas y suplementos,Carlson Labs,,,,USA,,México,Marca,Media,2,"Vitaminas y omega, venta MX",brand
+Salud,Vitaminas y suplementos,Casa Ley,https://www.casaley.mx/,,,Culiacán,Sinaloa,México,Retail,Media,3,Autoservicio del noroeste,brand
+Salud,Vitaminas y suplementos,Casa Marzam,https://www.marzam.com.mx/,,,CDMX,CDMX,México,Mayoreo,Media,4,Distribuidora farmacéutica nacional,brand
+Salud,Vitaminas y suplementos,Centrum,,,,USA,,México,Marca,Media,2,"Multivitamínico + omega, importado",brand
+Salud,Vitaminas y suplementos,Chedraui,https://www.chedraui.com.mx/,,,Xalapa,Veracruz,México,Retail,Media,3,Autoservicio con sección de vitaminas,brand
+Salud,Vitaminas y suplementos,City Club,https://www.cityclub.com.mx/,,,CDMX,CDMX,México,Retail,Media,3,Club de precios con vitaminas por mayoreo,brand
+Salud,Vitaminas y suplementos,Costco México,https://www.costco.com.mx/,,,CDMX,CDMX,México,Retail,Media,3,Mayoreo de vitaminas (Kirkland),brand
+Salud,Vitaminas y suplementos,Deportes Martí,https://www.marti.mx/,,,CDMX,CDMX,México,Retail,Media,3,Tienda deportiva MX con suplementos,brand
+Salud,Vitaminas y suplementos,Disur,,,,CDMX,CDMX,México,Mayoreo,Media,2,Distribuidora farmacéutica,brand
+Salud,Vitaminas y suplementos,Doctor's Best,https://www.drbvitamins.com/,,,USA,,México,Marca,Media,4,"Suplementos importados, venta MX",brand
+Salud,Vitaminas y suplementos,Dymatize,,,,USA,,México,Marca,Media,2,"Proteínas y aminoácidos, distribución MX",brand
+Salud,Vitaminas y suplementos,Farmacias ABC,https://farmaciasabc.com/,,,CDMX,CDMX,México,Retail,Media,3,Cadena de farmacias CDMX,brand
+Salud,Vitaminas y suplementos,Farmacias Benavides,https://www.benavides.com.mx/,,,Monterrey,Nuevo León,México,Retail,Media,3,Cadena de farmacias del norte,brand
+Salud,Vitaminas y suplementos,Farmacias del Ahorro,https://www.fahorro.com/,,,CDMX,CDMX,México,Retail,Media,3,Cadena nacional de farmacias con línea de vitaminas,brand
+Salud,Vitaminas y suplementos,Farmacias del Sol,https://www.farmaciasdelsol.mx/,,,CDMX,CDMX,México,Retail,Media,3,Cadena de farmacias CDMX,brand
+Salud,Vitaminas y suplementos,Farmacias Guadalajara,https://www.farmaciasguadalajara.com.mx/,,,Guadalajara,Jalisco,México,Retail,Media,3,Cadena nacional con sección de suplementos,brand
+Salud,Vitaminas y suplementos,Farmacias Morelos,https://www.farmaciasmorelos.com.mx/,,,Cuernavaca,Morelos,México,Retail,Media,3,Cadena de farmacias del sur,brand
+Salud,Vitaminas y suplementos,Farmacias Roma,https://www.farmaciasroma.com.mx/,,,CDMX,CDMX,México,Retail,Media,3,Cadena de farmacias CDMX,brand
+Salud,Vitaminas y suplementos,Farmacias San Pablo,https://farmaciasanpablo.mx/,,,CDMX,CDMX,México,Retail,Media,3,Cadena de farmacias CDMX,brand
+Salud,Vitaminas y suplementos,Farmacias YZA,https://farmaciasyza.com/,,,CDMX,CDMX,México,Retail,Media,3,Cadena de farmacias CDMX,brand
+Salud,Vitaminas y suplementos,Frubiés (Liomont),https://www.liomont.com.mx/,,,CDMX,CDMX,México,Marca,Media,4,Vitaminas efervescentes,brand
+Salud,Vitaminas y suplementos,Fármacos Especializados,,,,CDMX,CDMX,México,Mayoreo,Media,2,Distribuidora farmacéutica,brand
+Salud,Vitaminas y suplementos,Fármacos Nacionales,,,,CDMX,CDMX,México,Mayoreo,Media,2,Distribuidora farmacéutica,brand
+Salud,Vitaminas y suplementos,Garden of Life,,,,USA,,México,Marca,Media,2,"Suplementos orgánicos, venta MX",brand
+Salud,Vitaminas y suplementos,Genomma Lab,https://www.genommalab.com/,,,CDMX,CDMX,México,Laboratorio,Media,3,"Farmacéutica mexicana (Amino Vida, Rescata)",brand
+Salud,Vitaminas y suplementos,GNC México,https://www.gnc.com.mx/,,,CDMX,CDMX,México,Marca,Media,4,Tienda especializada en suplementos,brand
+Salud,Vitaminas y suplementos,Grisi,https://www.grisi.com.mx/,,,CDMX,CDMX,México,Marca,Media,4,"Vitaminas y salud, marca mexicana",brand
+Salud,Vitaminas y suplementos,GSK México,https://www.gsk.com.mx/,,,CDMX,CDMX,México,Laboratorio,Media,3,Pharmaton y multivitamínicos,brand
+Salud,Vitaminas y suplementos,Gummy Life,https://www.gummylife.mx/,,,México,México,México,D2C,Media,3,"Gomitas vitamínicas mexicanas (biotina, omega 3, magnesio)",research
+Salud,Vitaminas y suplementos,HEB México,https://www.heb.com.mx/,,,Monterrey,Nuevo León,México,Retail,Media,3,Autoservicio del noreste,brand
+Salud,Vitaminas y suplementos,Herbalife México,https://www.herbalife.com.mx/,,,CDMX,CDMX,México,Marca,Media,4,Nutrición deportiva y control de peso,brand
+Salud,Vitaminas y suplementos,iHerb,https://es.iherb.com/,,,México,México,México,D2C,Media,3,Tienda internacional de suplementos con envío a MX,brand
+Salud,Vitaminas y suplementos,Innvictus,https://www.innvictus.com.mx/,,,CDMX,CDMX,México,Retail,Media,3,Tienda deportiva MX con suplementos,brand
+Salud,Vitaminas y suplementos,Jarrow Formulas,,,,USA,,México,Marca,Media,2,"Suplementos importados, venta MX",brand
+Salud,Vitaminas y suplementos,Kirkland Signature,https://www.costco.com.mx/,,,USA,,México,Marca,Media,4,Multivitamínicos por mayoreo en Costco,brand
+Salud,Vitaminas y suplementos,La Comer,https://www.lacomer.com.mx/,,,CDMX,CDMX,México,Retail,Media,3,Autoservicio con sección de vitaminas,brand
+Salud,Vitaminas y suplementos,Laboratorios Carnot,https://www.carnot.com.mx/,,,CDMX,CDMX,México,Laboratorio,Media,3,Farmacéutica mexicana,brand
+Salud,Vitaminas y suplementos,Laboratorios Liomont,https://www.liomont.com.mx/,,,CDMX,CDMX,México,Laboratorio,Media,3,"Farmacéutica mexicana (Frubiés, Bion)",brand
+Salud,Vitaminas y suplementos,Laboratorios PiSA,https://www.pisa.com.mx/,,,Guadalajara,Jalisco,México,Laboratorio,Media,3,Farmacéutica mexicana con línea de vitaminas,brand
+Salud,Vitaminas y suplementos,Life Extension,,,,USA,,México,Marca,Media,2,"Suplementos importados, venta MX",brand
+Salud,Vitaminas y suplementos,Marathón Sports,https://www.marathon-sports.com.mx/,,,CDMX,CDMX,México,Retail,Media,3,Tienda deportiva MX con suplementos,brand
+Salud,Vitaminas y suplementos,MegaFood,,,,USA,,México,Marca,Media,2,"Vitaminas alimentarias, venta MX",brand
+Salud,Vitaminas y suplementos,Member's Mark,https://www.sams.com.mx/,,,USA,,México,Marca,Media,4,Multivitamínicos por mayoreo en Sam's,brand
+Salud,Vitaminas y suplementos,Mercado Libre suplementos,https://listado.mercadolibre.com.mx/suplementos-alimenticios-mayoreo,,,México,México,México,Marketplace,Media,2,Mayoreo de suplementos,research
+Salud,Vitaminas y suplementos,Merck México,https://www.merckgroup.com/mx,,,CDMX,CDMX,México,Laboratorio,Media,3,Productos de salud,brand
+Salud,Vitaminas y suplementos,Multicentrum,,,,USA,,México,Marca,Media,2,"Multivitamínico, venta MX",brand
+Salud,Vitaminas y suplementos,MuscleTech,,,,USA,,México,Marca,Media,2,"Suplementos deportivos, distribución MX",brand
+Salud,Vitaminas y suplementos,Myprotein,https://www.myprotein.com.mx/,,,México,México,México,D2C,Media,3,Suplementos en línea con operación MX,brand
+Salud,Vitaminas y suplementos,Nadro,https://www.nadro.mx/,,,CDMX,CDMX,México,Mayoreo,Media,4,Distribuidora farmacéutica nacional,brand
+Salud,Vitaminas y suplementos,Natrol,,,,USA,,México,Marca,Media,2,"Melatonina en gomitas, importado",brand
+Salud,Vitaminas y suplementos,Nature Made,,,,USA,,México,Marca,Media,2,"Gomitas omega 3 y magnesio, importado",brand
+Salud,Vitaminas y suplementos,Nature's Bounty,,,,USA,,México,Marca,Media,2,"Gomitas zinc y multivitamínicas, importado",brand
+Salud,Vitaminas y suplementos,Nature's Truth,,,,USA,,México,Marca,Media,2,"Vitamina D3 gomitas, importado",brand
+Salud,Vitaminas y suplementos,Nature's Way,https://www.naturesway.com/,,,USA,,México,Marca,Media,4,"Suplementos importados, venta ML",brand
+Salud,Vitaminas y suplementos,NOW Foods,https://www.nowfoods.com/,,,USA,,México,Marca,Media,4,"Suplementos importados, distribución MX",brand
+Salud,Vitaminas y suplementos,Nutrilite / Amway,https://www.amway.com.mx/,,,CDMX,CDMX,México,Marca,Media,4,Vitaminas y suplementos por consultoría,brand
+Salud,Vitaminas y suplementos,Nutriólogos / MediNat,https://www.medinat.com.mx/,,,CDMX,CDMX,México,Marca,Media,4,Suplementos mexicanos,brand
+Salud,Vitaminas y suplementos,Omnilife,https://www.omnilife.com/,,,Guadalajara,Jalisco,México,Marca,Media,4,Suplementos alimenticios MLM mexicano,brand
+Salud,Vitaminas y suplementos,One A Day,,,,USA,,México,Marca,Media,2,"Multivitamínicos, venta MX",brand
+Salud,Vitaminas y suplementos,Optimum Nutrition,,,,USA,,México,Marca,Media,2,"Proteínas y suplementos deportivos, distribución MX",brand
+Salud,Vitaminas y suplementos,Pfizer México,https://www.pfizer.com.mx/,,,CDMX,CDMX,México,Laboratorio,Media,3,Centrum,brand
+Salud,Vitaminas y suplementos,Pharmaton (GSK),,,,Suiza,,México,Marca,Media,2,Multivitamínico con ginseng,brand
+Salud,Vitaminas y suplementos,Prozis,https://www.prozis.com/mx,,,México,México,México,D2C,Media,3,"Suplementos en línea, operación MX",brand
+Salud,Vitaminas y suplementos,Pure Encapsulations,,,,USA,,México,Marca,Media,2,"Suplementos hipoalergénicos, venta MX",brand
+Salud,Vitaminas y suplementos,Sam's Club México,https://www.sams.com.mx/,,,CDMX,CDMX,México,Retail,Media,3,Mayoreo de vitaminas (Member's Mark),brand
+Salud,Vitaminas y suplementos,Sanfer,https://www.sanfer.com.mx/,,,CDMX,CDMX,México,Laboratorio,Media,3,Farmacéutica mexicana,brand
+Salud,Vitaminas y suplementos,Sanofi México,https://www.sanofi.com.mx/,,,CDMX,CDMX,México,Laboratorio,Media,3,Magnesio y suplementos,brand
+Salud,Vitaminas y suplementos,Schiff,,,,USA,,México,Marca,Media,2,"Vitaminas y omega, venta MX",brand
+Salud,Vitaminas y suplementos,Solaray,https://www.solaray.com/,,,USA,,México,Marca,Media,4,"Vitaminas importadas, venta MX",brand
+Salud,Vitaminas y suplementos,Soriana,https://www.soriana.com/,,,CDMX,CDMX,México,Retail,Media,3,Autoservicio con sección de vitaminas,brand
+Salud,Vitaminas y suplementos,Sundown Naturals,,,,USA,,México,Marca,Media,2,"Vitaminas importadas, venta MX",brand
+Salud,Vitaminas y suplementos,Supradyn (Bayer),,,,Alemania,,México,Marca,Media,2,Multivitamínico energético,brand
+Salud,Vitaminas y suplementos,Swanson Health,https://www.swansonvitamins.com/,,,USA,,México,Marca,Media,4,"Vitaminas importadas, venta MX",brand
+Salud,Vitaminas y suplementos,Thorne Research,,,,USA,,México,Marca,Media,2,"Suplementos médicos, venta MX",brand
+Salud,Vitaminas y suplementos,TikTok Shop suplementos,https://shop.tiktok.com/,,,México,México,México,Marketplace,Media,2,Venta de suplementos D2C,research
+Salud,Vitaminas y suplementos,Universal Nutrition,,,,USA,,México,Marca,Media,2,"Suplementos deportivos, distribución MX",brand
+Salud,Vitaminas y suplementos,Vitaflor,https://www.vitaflor.com.mx/,,,CDMX,CDMX,México,Marca,Media,4,Suplementos mexicanos,brand
+Salud,Vitaminas y suplementos,Vitafusion,,,,USA,,México,Marca,Media,2,"Gomitas multivitamínicas, importado",brand
+Salud,Vitaminas y suplementos,Vital Suplementos MX,https://vitalsuplementosmex.com/,,,México,México,México,D2C,Media,3,Gomitas de vitaminas y suplementos,research
+Salud,Vitaminas y suplementos,Vitaldin,https://www.vitaldin.com.mx/,,,CDMX,CDMX,México,Marca,Media,4,Suplementos mexicanos,brand
+Salud,Vitaminas y suplementos,Vitaminas y suplementos (ejemplo original),https://www.blife.mx/,,,,,México,Ejemplo original,Media,2,Seed del cliente,ejemplo_cliente
+Salud,Vitaminas y suplementos,Walmart México,https://www.walmart.com.mx/,,,CDMX,CDMX,México,Retail,Media,3,Autoservicio con sección de vitaminas,brand
+Salud,Vitaminas y suplementos,Zumub,https://www.zumub.com/mx/,,,México,México,México,D2C,Media,3,"Suplementos en línea, operación MX",brand
+Salud,Vitaminas y suplementos,Belabear,,,,México,México,México,Marca,Baja,1,Gomitas multivitamínico women 150 pzs,research
+Salud,Vitaminas y suplementos,Básicos de la casa,,,,México,México,México,Distribuidor,Baja,1,Nature Made y Centrum vía ML,research
+Salud,Vitaminas y suplementos,C-Boost,,,,México,México,México,Marca,Baja,1,Gomitas multivitamínicas 180 pzs,research
+Salud,Vitaminas y suplementos,Geomed,,,,México,México,México,Distribuidor,Baja,1,Distribuye Plenlife en ML (4.9★),research
+Salud,Vitaminas y suplementos,Heally,,,,México,México,México,Marca,Baja,1,Multivitamínico + colágeno en gomitas,research
+Salud,Vitaminas y suplementos,Nutrisport,,,,México,México,México,Marca,Baja,1,Suplementos mexicanos,brand
+Salud,Vitaminas y suplementos,OK Vitaminas,,,,México,México,México,Distribuidor,Baja,1,Nature's Way y gomitas vía ML,research
+Salud,Vitaminas y suplementos,Plenlife,,,,México,México,México,Marca,Baja,1,"Gomitas calcio+vit D y multivitamínico, vía ML",research
+Salud,Vitaminas y suplementos,Suplefit MX,,,,México,México,México,Distribuidor,Baja,1,Vitafusion y gomitas importadas vía ML,research
+Salud,Vitaminas y suplementos,Vitamin World,,,,México,México,México,Distribuidor,Baja,1,Natrol melatonina gomitas vía ML,research

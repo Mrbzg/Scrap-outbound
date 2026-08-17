@@ -3266,22 +3266,6 @@
   {
     "giro": "Alimentos",
     "nicho": "Botanas y snacks mexicanos",
-    "empresa": "Botanas Neza cluster",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Nezahualcóyotl",
-    "estado": "EdoMex",
-    "pais": "México",
-    "tipo": "Cluster",
-    "notas": "Frituras populares",
-    "fuente": "research",
-    "prioridad": "Baja",
-    "score_contacto": 0
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Botanas y snacks mexicanos",
     "empresa": "Botanas Nuevo León cluster",
     "url": "",
     "email": "",
@@ -3326,22 +3310,6 @@
     "fuente": "research",
     "prioridad": "Baja",
     "score_contacto": 0
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Botanas y snacks mexicanos",
-    "empresa": "Botanas Tláhuac / Milpa Alta",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "CDMX",
-    "estado": "CDMX",
-    "pais": "México",
-    "tipo": "Cluster",
-    "notas": "Tostadas y maíz",
-    "fuente": "research",
-    "prioridad": "Baja",
-    "score_contacto": 1
   },
   {
     "giro": "Alimentos",

@@ -1,207 +1,22 @@
 giro,nicho,empresa,url,email,telefono,ciudad,estado,pais,tipo,prioridad,score_contacto,notas,fuente
-Merceria,Hilos y estambre,Agujas de gancho extra,http://www.estambressansebastian.com.mx/,,2222669886,Puebla,Puebla,México,Insumo,Alta,5,Crochet,research
-Merceria,Hilos y estambre,Alize extra,https://www.estambresymerceria.com.mx/,,5562124807,México,México,México,Marca,Alta,5,Import Tapyarte,brand
-Merceria,Hilos y estambre,Carta de colores extra,,pedidos@hilosomega.com.mx,5555228660,CDMX,CDMX,México,Soporte,Alta,6,Catálogo Omega,research
-Merceria,Hilos y estambre,Clases de tejido extra,http://www.estambressansebastian.com.mx/,,2222669886,Puebla,Puebla,México,Educación,Alta,5,Si no sabe tejer le enseñamos,research
-Merceria,Hilos y estambre,Cluster Mesones extra,https://www.hilosyestambresdemexicosadecv.com/,hemsa20132@gmail.com,5555227065,CDMX,CDMX,México,Cluster,Alta,7,Centro Histórico mercería,research
-Merceria,Hilos y estambre,Cluster San Antonio Abad extra,,pedidos@hilosomega.com.mx,5555228660,CDMX,CDMX,México,Cluster,Alta,5,Omega / Tránsito,research
-Merceria,Hilos y estambre,Confeccionistas extra,,hilosp-laconfeccion@hotmail.com,5557091812,CDMX,CDMX,México,Canal B2B,Alta,7,Hilo industrial,research
-Merceria,Hilos y estambre,Conos 5k extra,,pedidos@hilosomega.com.mx,5555228660,CDMX,CDMX,México,Mayoreo,Alta,7,Industrial,research
-Merceria,Hilos y estambre,Cordón de algodón extra,https://makrama.com.mx/,contacto@makrama.mx,2214418442,Puebla,Puebla,México,Producto,Alta,8,Wall hanging,research
-Merceria,Hilos y estambre,Dasa extra,http://www.estambressansebastian.com.mx/,,2222669886,Puebla,Puebla,México,Marca,Alta,6,Estambre,brand
-Merceria,Hilos y estambre,Día de las madres extra,https://makrama.com.mx/,,2214418442,Puebla,Puebla,México,Temporada,Alta,5,Kits regalo,research
-Merceria,Hilos y estambre,El Gato extra,https://www.estambresymerceria.com.mx/,,5562124807,México,México,México,Marca,Alta,5,Nacional,brand
-Merceria,Hilos y estambre,Envíos HEMSA extra,https://www.hilosyestambresdemexicosadecv.com/,hemsa20132@gmail.com,5555227065,CDMX,CDMX,México,Logística,Alta,8,Cotiza WhatsApp,research
-Merceria,Hilos y estambre,Envíos San Sebastián extra,http://www.estambressansebastian.com.mx/,,2222669886,Puebla,Puebla,México,Logística,Alta,5,Toda la República,research
-Merceria,Hilos y estambre,Estambre acrílico extra,http://www.estambressansebastian.com.mx/,,2222669886,Puebla,Puebla,México,Producto,Alta,5,Mayoreo ovillos,research
-Merceria,Hilos y estambre,Expo mercería extra,,pedidos@hilosomega.com.mx,5555228660,CDMX,CDMX,México,Expo,Alta,6,Textil,research
-Merceria,Hilos y estambre,Facebook Makrama extra,https://makrama.com.mx/,contacto@makrama.mx,2214418442,Puebla,Puebla,México,Canal,Alta,8,Social,research
-Merceria,Hilos y estambre,Florerías maceteros extra,https://makrama.com.mx/,,2214418442,Puebla,Puebla,México,Canal,Alta,5,Plant hangers,research
-Merceria,Hilos y estambre,Franco extra,http://www.estambressansebastian.com.mx/,,2222669886,Puebla,Puebla,México,Marca,Alta,6,Del centro,brand
-Merceria,Hilos y estambre,HEMSA Facebook extra,https://facebook.com/EstambresRobertsMx,hemsa20132@gmail.com,5555227065,CDMX,CDMX,México,Canal,Alta,8,Estambres Roberts,research
-Merceria,Hilos y estambre,HEMSA Instagram extra,https://instagram.com/estambres_roberts/,hemsa20132@gmail.com,5555227065,CDMX,CDMX,México,Canal,Alta,8,@estambres_roberts,research
-Merceria,Hilos y estambre,Hilo de algodón extra,https://www.hilosyestambresdemexicosadecv.com/,hemsa20132@gmail.com,5555227065,CDMX,CDMX,México,Producto,Alta,8,Costura / bordado,research
-Merceria,Hilos y estambre,Hilo de bordar extra,https://www.hilosyestambresdemexicosadecv.com/,,5555227065,CDMX,CDMX,México,Producto,Alta,5,Madeja,research
-Merceria,Hilos y estambre,Hilo de poliéster extra,,hilosp-laconfeccion@hotmail.com,5557091812,CDMX,CDMX,México,Producto,Alta,6,Confección,research
-Merceria,Hilos y estambre,Hilo macramé extra,https://makrama.com.mx/,contacto@makrama.mx,2214418442,Puebla,Puebla,México,Producto,Alta,8,Cuerda / cordón,research
-Merceria,Hilos y estambre,Hilo para máquina extra,,hilosp-laconfeccion@hotmail.com,5557091812,CDMX,CDMX,México,Producto,Alta,6,Conos industriales,research
+Merceria,Hilos y estambre,Estambres Santa Teresita,https://santateresita.com.mx/,,3338252835,Guadalajara,Jalisco,México,Mayoreo,Alta,6,"Mercería GDL: estambres, hilazas, hilos y manualidades; mayoreo y menudeo",research
+Merceria,Hilos y estambre,Estambres Sweet Crochet,https://sweetcrochet.com.mx/,,2711732068,CDMX,CDMX,México,Ecom,Alta,6,"Estambres nacionales e importados, amigurumi; atención a mayoristas; Dr. Atl 92, Sta. María la Ribera",research
 Merceria,Hilos y estambre,Hilos para la Confección,,hilosp-laconfeccion@hotmail.com,5557091812,CDMX,CDMX,México,Mayoreo,Alta,7,Mesones 99 Centro,research
 Merceria,Hilos y estambre,Hilos y Estambres de México,https://www.hilosyestambresdemexicosadecv.com/,hemsa20132@gmail.com,5555227065,CDMX,CDMX,México,Mayoreo,Alta,9,"Mesones 128 Centro, +22 años, L-S 10-19",research
-Merceria,Hilos y estambre,Horario HEMSA extra,https://www.hilosyestambresdemexicosadecv.com/,hemsa20132@gmail.com,5555227065,CDMX,CDMX,México,Operación,Alta,8,L-S 10-19 Dom cerrado,research
-Merceria,Hilos y estambre,Horario Omega extra,,orden@hilosomega.com.mx,5555228660,CDMX,CDMX,México,Operación,Alta,6,L-V 9-18,research
-Merceria,Hilos y estambre,Inicie su negocio extra,http://www.estambressansebastian.com.mx/,,2222669886,Puebla,Puebla,México,Canal B2B,Alta,6,Revendedores estambre,research
-Merceria,Hilos y estambre,Instagram Makrama extra,https://makrama.com.mx/,contacto@makrama.mx,2214418442,Puebla,Puebla,México,Canal,Alta,8,Social,research
-Merceria,Hilos y estambre,Interiorismo / macramé extra,https://makrama.com.mx/,contacto@makrama.mx,2214418442,Puebla,Puebla,México,Canal,Alta,8,Decoradores,research
-Merceria,Hilos y estambre,Kits macramé extra,https://makrama.com.mx/,contacto@makrama.mx,2214418442,Puebla,Puebla,México,Paquete,Alta,8,Principiantes,research
-Merceria,Hilos y estambre,Lumen estambre extra,https://lumen.com.mx/,,5544455000,CDMX,CDMX,México,Retail,Alta,5,Manualidades,brand
 Merceria,Hilos y estambre,Makrama,https://makrama.com.mx/,contacto@makrama.mx,2214418442,Puebla,Puebla,México,Ejemplo original,Alta,8,"Ejemplo del cliente — macramé, hilos y estambre",ejemplo_cliente
-Merceria,Hilos y estambre,Makrama envíos extra,https://makrama.com.mx/,contacto@makrama.mx,2214418442,Puebla,Puebla,México,Logística,Alta,8,Estafeta 3-5 días,research
-Merceria,Hilos y estambre,Maquilas textil extra,,pedidos@hilosomega.com.mx,5555228660,CDMX,CDMX,México,Canal B2B,Alta,7,Omega zona,research
 Merceria,Hilos y estambre,Mercería San Sebastián,http://www.estambressansebastian.com.mx/,,2222669886,Puebla,Puebla,México,Mayoreo fábrica,Alta,6,"Blvd Norte 4224 Las Cuartillas, San Marcos/Dasa/Omega/Tamm",research
-Merceria,Hilos y estambre,Nako extra,https://www.estambresymerceria.com.mx/,,5562124807,México,México,México,Marca,Alta,5,Hilaza,brand
-Merceria,Hilos y estambre,Omega 2o tel extra,,orden@hilosomega.com.mx,5555228661,CDMX,CDMX,México,Mayoreo,Alta,7,"Fax 5555226347, desde 1985",research
-Merceria,Hilos y estambre,Omega canal extra,,pedidos@hilosomega.com.mx,5555228660,CDMX,CDMX,México,Marca,Alta,7,Estambre e hilaza nacional,brand
 Merceria,Hilos y estambre,Omega Distribuidora de Hilos,,pedidos@hilosomega.com.mx,5555228660,CDMX,CDMX,México,Fabricante,Alta,7,"Cjon. San Antonio Abad 23 Tránsito, orden@hilosomega.com.mx",research
-Merceria,Hilos y estambre,Palillos / agujas tejer extra,https://www.hilosyestambresdemexicosadecv.com/,,5555227065,CDMX,CDMX,México,Insumo,Alta,5,Two needles,research
-Merceria,Hilos y estambre,Plant hangers extra,https://makrama.com.mx/,contacto@makrama.mx,2214418442,Puebla,Puebla,México,Uso,Alta,8,Maceteros,research
-Merceria,Hilos y estambre,Precio fábrica extra,http://www.estambressansebastian.com.mx/,,2222669886,Puebla,Puebla,México,Mayoreo,Alta,6,Venta directa,research
-Merceria,Hilos y estambre,Rebecca Pick extra,http://www.estambressansebastian.com.mx/,,2222669886,Puebla,Puebla,México,Marca,Alta,6,Import,brand
-Merceria,Hilos y estambre,Red Heart extra,https://www.estambresymerceria.com.mx/,,5562124807,México,México,México,Marca,Alta,5,Estambre,brand
-Merceria,Hilos y estambre,San Marcos extra,http://www.estambressansebastian.com.mx/,,2222669886,Puebla,Puebla,México,Marca,Alta,6,Fábrica,brand
-Merceria,Hilos y estambre,San Sebastián horario extra,http://www.estambressansebastian.com.mx/,,2222669886,Puebla,Puebla,México,Operación,Alta,5,L-S 9:30-19,research
-Merceria,Hilos y estambre,Talleres macramé extra,https://makrama.com.mx/,contacto@makrama.mx,2214418442,Puebla,Puebla,México,Educación,Alta,8,Kits + tutorial,research
-Merceria,Hilos y estambre,Tamm extra,http://www.estambressansebastian.com.mx/,,2222669886,Puebla,Puebla,México,Marca,Alta,6,Estambre,brand
 Merceria,Hilos y estambre,Tapyarte de México,https://www.estambresymerceria.com.mx/,,5562124807,México,México,México,Distribuidor,Alta,5,"Desde 2006, Omega Alize Nako Red Heart, envíos República",research
-Merceria,Hilos y estambre,Texcofil extra,http://www.estambressansebastian.com.mx/,,2222669886,Puebla,Puebla,México,Marca,Alta,6,Industrial,brand
-Merceria,Hilos y estambre,Wall hanging extra,https://makrama.com.mx/,contacto@makrama.mx,2214418442,Puebla,Puebla,México,Uso,Alta,8,Decoración,research
-Merceria,Hilos y estambre,Adhesivos / contactel extra,https://www.estambresymerceria.com.mx/,,5562124807,México,México,México,Insumo,Media,4,Manualidades,research
-Merceria,Hilos y estambre,Amazon MX estambre extra,https://www.amazon.com.mx/s?k=estambre+omega,,,México,México,México,Marketplace,Media,2,Sellers,research
-Merceria,Hilos y estambre,Botones extra,https://www.estambresymerceria.com.mx/,,5562124807,México,México,México,Insumo,Media,4,Mercería,research
-Merceria,Hilos y estambre,Cierres extra,https://www.estambresymerceria.com.mx/,,5562124807,México,México,México,Insumo,Media,4,Costura,research
-Merceria,Hilos y estambre,Cluster GDL extra,,,3338252835,Guadalajara,Jalisco,México,Cluster,Media,2,Sta. Teresita zona,research
-Merceria,Hilos y estambre,Cluster Puebla Norte extra,http://www.estambressansebastian.com.mx/,,2222669886,Puebla,Puebla,México,Cluster,Media,4,Fábrica estambre,research
-Merceria,Hilos y estambre,Encajes / guipure extra,https://www.estambresymerceria.com.mx/,,5562124807,México,México,México,Insumo,Media,4,Tira bordada,research
-Merceria,Hilos y estambre,Envíos Tapyarte extra,https://www.estambresymerceria.com.mx/,,5562124807,México,México,México,Logística,Media,4,Paquetería República,research
 Merceria,Hilos y estambre,Estambres Sta. Teresita,,,3338252835,Guadalajara,Jalisco,México,Mayoreo,Media,4,"WA 3311105686, envíos República",research
-Merceria,Hilos y estambre,Estambres Sta. Teresita WA extra,,,3311105686,Guadalajara,Jalisco,México,Canal WA,Media,3,Mercería hilos y estambres,research
-Merceria,Hilos y estambre,Hilaza extra,https://www.estambresymerceria.com.mx/,,5562124807,México,México,México,Producto,Media,4,Omega / Alize / Nako,research
+Merceria,Hilos y estambre,Gütermann,,,,Alemania,,México,Marca,Media,2,"Hilos de coser mayoreo 270 colores, vía ML",brand
 Merceria,Hilos y estambre,Hilos y estambre (ejemplo original),https://makrama.com.mx/,,,,,México,Ejemplo original,Media,2,Seed del cliente,ejemplo_cliente
-Merceria,Hilos y estambre,Hule espuma extra,https://www.estambresymerceria.com.mx/,,5562124807,México,México,México,Insumo,Media,4,Relleno,research
-Merceria,Hilos y estambre,Liverpool manualidades extra,https://www.liverpool.com.mx/,,,CDMX,CDMX,México,Retail,Media,3,Estambre temporada,brand
-Merceria,Hilos y estambre,Mayoreo vs menudeo extra,https://www.estambresymerceria.com.mx/,,5562124807,México,México,México,Política,Media,4,Ambos canales,research
-Merceria,Hilos y estambre,ML estambre extra,https://listado.mercadolibre.com.mx/estambre-omega,,,México,México,México,Marketplace,Media,2,Mayoreo ovillos,research
-Merceria,Hilos y estambre,ML hilo macramé extra,https://listado.mercadolibre.com.mx/hilo-macrame,,,México,México,México,Marketplace,Media,2,Cordón algodón,research
-Merceria,Hilos y estambre,Office Depot craft extra,https://www.officedepot.com.mx/,,,México,México,México,Retail,Media,2,Hobby,brand
-Merceria,Hilos y estambre,Ojitos amigurumi extra,https://www.estambresymerceria.com.mx/,,5562124807,México,México,México,Insumo,Media,4,Tapyarte,research
-Merceria,Hilos y estambre,Amigurumi anime extra,,,,México,México,México,Uso,Baja,0,Tendencia,research
-Merceria,Hilos y estambre,Amigurumi comunidad extra,,,,México,México,México,Canal,Baja,0,Crochet juguetes,research
-Merceria,Hilos y estambre,Bolsas tejidas extra,,,,México,México,México,Uso,Baja,0,Crochet fashion,research
-Merceria,Hilos y estambre,Cobijas / granny extra,,,,México,México,México,Uso,Baja,0,Estambre grueso,research
-Merceria,Hilos y estambre,Confección / hilo industrial Chilpancingo,,,,Chilpancingo,Guerrero,México,Regional,Baja,1,Conos y mayoreo,research
-Merceria,Hilos y estambre,Confección / hilo industrial Ciudad Victoria,,,,Ciudad Victoria,Tamaulipas,México,Regional,Baja,1,Conos y mayoreo,research
-Merceria,Hilos y estambre,Confección / hilo industrial Cuautitlán Izcalli,,,,Cuautitlán Izcalli,EdoMex,México,Regional,Baja,1,Conos y mayoreo,research
-Merceria,Hilos y estambre,Confección / hilo industrial Ecatepec,,,,Ecatepec,EdoMex,México,Regional,Baja,1,Conos y mayoreo,research
-Merceria,Hilos y estambre,Confección / hilo industrial Los Cabos,,,,Los Cabos,BCS,México,Regional,Baja,1,Conos y mayoreo,research
-Merceria,Hilos y estambre,Confección / hilo industrial Mazatlán,,,,Mazatlán,Sinaloa,México,Regional,Baja,1,Conos y mayoreo,research
-Merceria,Hilos y estambre,Confección / hilo industrial Minatitlán,,,,Minatitlán,Veracruz,México,Regional,Baja,1,Conos y mayoreo,research
-Merceria,Hilos y estambre,Confección / hilo industrial Monclova,,,,Monclova,Coahuila,México,Regional,Baja,1,Conos y mayoreo,research
-Merceria,Hilos y estambre,Confección / hilo industrial Naucalpan,,,,Naucalpan,EdoMex,México,Regional,Baja,1,Conos y mayoreo,research
-Merceria,Hilos y estambre,Confección / hilo industrial Nezahualcóyotl,,,,Nezahualcóyotl,EdoMex,México,Regional,Baja,1,Conos y mayoreo,research
-Merceria,Hilos y estambre,Confección / hilo industrial Ocotlán,,,,Ocotlán,Jalisco,México,Regional,Baja,1,Conos y mayoreo,research
-Merceria,Hilos y estambre,Confección / hilo industrial Piedras Negras,,,,Piedras Negras,Coahuila,México,Regional,Baja,1,Conos y mayoreo,research
-Merceria,Hilos y estambre,Confección / hilo industrial Puerto Vallarta,,,,Puerto Vallarta,Jalisco,México,Regional,Baja,1,Conos y mayoreo,research
-Merceria,Hilos y estambre,Confección / hilo industrial San Miguel de Allende,,,,San Miguel de Allende,Guanajuato,México,Regional,Baja,1,Conos y mayoreo,research
-Merceria,Hilos y estambre,Confección / hilo industrial Tlalnepantla,,,,Tlalnepantla,EdoMex,México,Regional,Baja,1,Conos y mayoreo,research
-Merceria,Hilos y estambre,Crochet / amigurumi Apizaco,,,,Apizaco,Tlaxcala,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi Celaya,,,,Celaya,Guanajuato,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi Chetumal,,,,Chetumal,Q. Roo,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi Ciudad Obregón,,,,Ciudad Obregón,Sonora,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi Coatzacoalcos,,,,Coatzacoalcos,Veracruz,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi Comitán,,,,Comitán,Chiapas,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi Cuautla,,,,Cuautla,Morelos,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi Córdoba,,,,Córdoba,Veracruz,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi Ensenada,,,,Ensenada,BC,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi Fresnillo,,,,Fresnillo,Zacatecas,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi Gómez Palacio,,,,Gómez Palacio,Durango,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi Ixtapa,,,,Ixtapa,Guerrero,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi Jiutepec,,,,Jiutepec,Morelos,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi Los Mochis,,,,Los Mochis,Sinaloa,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi Matamoros,,,,Matamoros,Tamaulipas,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi Morelia,,,,Morelia,Michoacán,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi Nogales,,,,Nogales,Sonora,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi Nuevo Laredo,,,,Nuevo Laredo,Tamaulipas,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi Orizaba,,,,Orizaba,Veracruz,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi Playa del Carmen,,,,Playa del Carmen,Q. Roo,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi Poza Rica,,,,Poza Rica,Veracruz,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi Reynosa,,,,Reynosa,Tamaulipas,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi Salamanca,,,,Salamanca,Guanajuato,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi San Juan del Río,,,,San Juan del Río,Querétaro,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi Tapachula,,,,Tapachula,Chiapas,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi Tehuacán,,,,Tehuacán,Puebla,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi Tulancingo,,,,Tulancingo,Hidalgo,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi Uruapan,,,,Uruapan,Michoacán,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Crochet / amigurumi Zamora,,,,Zamora,Michoacán,México,Regional,Baja,1,Ovillos y ojitos,research
-Merceria,Hilos y estambre,Escuelas de diseño extra,,,,México,México,México,Canal,Baja,0,Textil,research
-Merceria,Hilos y estambre,Estambre lana extra,,,,México,México,México,Producto,Baja,0,Invierno,research
-Merceria,Hilos y estambre,Ferias handmade extra,,,,México,México,México,Expo,Baja,0,Tejido / macramé,research
-Merceria,Hilos y estambre,Hilo metalizado extra,,,,México,México,México,Producto,Baja,0,Fiesta / bordado,research
-Merceria,Hilos y estambre,Influencers crochet extra,,,,México,México,México,Canal,Baja,0,IG / TikTok,research
-Merceria,Hilos y estambre,Marcadores de puntos extra,,,,México,México,México,Insumo,Baja,0,Accesorio,research
-Merceria,Hilos y estambre,Mercería / estambre Acapulco,,,,Acapulco,Guerrero,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Aguascalientes,,,,Aguascalientes,Aguascalientes,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Campeche,,,,Campeche,Campeche,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Cancún,,,,Cancún,Q. Roo,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Cd. Juárez,,,,Cd. Juárez,Chihuahua,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Chihuahua,,,,Chihuahua,Chihuahua,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Colima,,,,Colima,Colima,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Cuernavaca,,,,Cuernavaca,Morelos,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Culiacán,,,,Culiacán,Sinaloa,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Durango,,,,Durango,Durango,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Guadalajara,,,,Guadalajara,Jalisco,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Hermosillo,,,,Hermosillo,Sonora,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Irapuato,,,,Irapuato,Guanajuato,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre La Paz,,,,La Paz,BCS,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre León,,,,León,Guanajuato,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Mexicali,,,,Mexicali,BC,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Monterrey,,,,Monterrey,NL,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Mérida,,,,Mérida,Yucatán,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Oaxaca,,,,Oaxaca,Oaxaca,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Pachuca,,,,Pachuca,Hidalgo,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Puebla,,,,Puebla,Puebla,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Querétaro,,,,Querétaro,Querétaro,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Saltillo,,,,Saltillo,Coahuila,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre San Luis Potosí,,,,San Luis Potosí,SLP,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Tampico,,,,Tampico,Tamaulipas,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Tepic,,,,Tepic,Nayarit,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Tijuana,,,,Tijuana,BC,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Tlaxcala,,,,Tlaxcala,Tlaxcala,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Toluca,,,,Toluca,EdoMex,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Torreón,,,,Torreón,Coahuila,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Tuxtla Gutiérrez,,,,Tuxtla Gutiérrez,Chiapas,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Veracruz,,,,Veracruz,Veracruz,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Villahermosa,,,,Villahermosa,Tabasco,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Xalapa,,,,Xalapa,Veracruz,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Zacatecas,,,,Zacatecas,Zacatecas,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercería / estambre Zapopan,,,,Zapopan,Jalisco,México,Regional,Baja,1,"Hilos, hilaza y crochet",research
-Merceria,Hilos y estambre,Mercerías de barrio extra,,,,México,México,México,Canal,Baja,0,Menudeo ovillo,research
-Merceria,Hilos y estambre,Navidad adornos extra,,,,México,México,México,Temporada,Baja,0,Crochet,research
-Merceria,Hilos y estambre,Ovillado servicio extra,,,,México,México,México,Servicio,Baja,0,Mercería,research
-Merceria,Hilos y estambre,Papelerías craft extra,,,,México,México,México,Canal,Baja,0,Estambre escolar,research
-Merceria,Hilos y estambre,Patrones digitales extra,,,,México,México,México,Adyacente,Baja,0,Etsy / creadores,research
-Merceria,Hilos y estambre,Regreso a clases extra,,,,México,México,México,Temporada,Baja,0,Manualidades escolares,research
-Merceria,Hilos y estambre,Relleno polyester extra,,,,México,México,México,Insumo,Baja,0,Amigurumi,research
-Merceria,Hilos y estambre,Ropa bebé extra,,,,México,México,México,Uso,Baja,0,Hilaza suave,research
-Merceria,Hilos y estambre,Tapetes trapillo extra,,,,México,México,México,Producto,Baja,0,T-shirt yarn,research
-Merceria,Hilos y estambre,Tejedoras independientes extra,,,,México,México,México,Canal B2B,Baja,0,Compran ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Apizaco,,,,Apizaco,Tlaxcala,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Celaya,,,,Celaya,Guanajuato,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Chetumal,,,,Chetumal,Q. Roo,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Ciudad Obregón,,,,Ciudad Obregón,Sonora,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Coatzacoalcos,,,,Coatzacoalcos,Veracruz,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Comitán,,,,Comitán,Chiapas,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Cuautla,,,,Cuautla,Morelos,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Córdoba,,,,Córdoba,Veracruz,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Ensenada,,,,Ensenada,BC,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Fresnillo,,,,Fresnillo,Zacatecas,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Gómez Palacio,,,,Gómez Palacio,Durango,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Ixtapa,,,,Ixtapa,Guerrero,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Jiutepec,,,,Jiutepec,Morelos,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Los Mochis,,,,Los Mochis,Sinaloa,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Matamoros,,,,Matamoros,Tamaulipas,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Morelia,,,,Morelia,Michoacán,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Nogales,,,,Nogales,Sonora,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Nuevo Laredo,,,,Nuevo Laredo,Tamaulipas,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Orizaba,,,,Orizaba,Veracruz,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Playa del Carmen,,,,Playa del Carmen,Q. Roo,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Poza Rica,,,,Poza Rica,Veracruz,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Reynosa,,,,Reynosa,Tamaulipas,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Salamanca,,,,Salamanca,Guanajuato,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé San Juan del Río,,,,San Juan del Río,Querétaro,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Tapachula,,,,Tapachula,Chiapas,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Tehuacán,,,,Tehuacán,Puebla,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Tulancingo,,,,Tulancingo,Hidalgo,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Uruapan,,,,Uruapan,Michoacán,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Tejido / macramé Zamora,,,,Zamora,Michoacán,México,Regional,Baja,1,Kits y ovillos,research
-Merceria,Hilos y estambre,Temporada invierno extra,,,,México,México,México,Temporada,Baja,0,Estambre lana,research
-Merceria,Hilos y estambre,Trapillo extra,,,,México,México,México,Producto,Baja,0,Reciclado,research
-Merceria,Hilos y estambre,YouTube tejido extra,,,,México,México,México,Canal,Baja,0,Tutoriales,research
+Merceria,Hilos y estambre,Lana Sube Lana Baja,https://www.lanasubelanabaja.mx/,,,México,México,México,Ecom,Media,3,"Hilos y estambres en línea desde $30; lana mexa, happy cotton",research
+Merceria,Hilos y estambre,Mercería AMB,https://www.merceriaamb.com.mx/,,,CDMX,CDMX,México,Mayoreo,Media,4,Hilos por mayoreo en el centro; envío gratis desde $799; Hilos Omega y Seralon,research
+Merceria,Hilos y estambre,TejeManía,https://www.tejemania.com/,,,México,México,México,Ecom,Media,3,Tienda en línea de estambres y tejido,research
+Merceria,Hilos y estambre,Coats,,,,,,México,Marca,Baja,1,"Hilos de coser y bordar, distribución MX",brand
+Merceria,Hilos y estambre,DMC,,,,,,México,Marca,Baja,1,"Hilos de bordar mouliné, 4.9★ vía ML",brand
+Merceria,Hilos y estambre,Estambres Filatti,,,,CDMX,CDMX,México,Mercería,Baja,1,Mercería en el Centro de CDMX con estambres y ofertas,research
+Merceria,Hilos y estambre,Hilaza La Abuelita,,,,México,México,México,Marca,Baja,1,Hilaza amigurumi mayoreo 100 pzas vía ML,brand
+Merceria,Hilos y estambre,Izumi,,,,,,México,Marca,Baja,1,"Portaconos y hilos de coser, vía mayoristas MX",brand
+Merceria,Hilos y estambre,Modiz,,,,México,México,México,Marca,Baja,1,"Hilos de bordar y metalizados en conos, vía ML",brand
+Merceria,Hilos y estambre,Ventronic,,,,México,México,México,Distribuidor,Baja,1,Estambre mayoreo hilaza algodón 50/100g vía ML,research

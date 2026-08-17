@@ -1094,30 +1094,6 @@
       "estado": "NL"
     },
     {
-      "empresa": "Maquillaje artístico Querétaro",
-      "tipo": "Cluster regional",
-      "notas": "Artistas y tiendas",
-      "fuente": "research",
-      "ciudad": "Querétaro",
-      "estado": "Querétaro"
-    },
-    {
-      "empresa": "Maquillaje artístico León",
-      "tipo": "Cluster regional",
-      "notas": "Artistas y tiendas",
-      "fuente": "research",
-      "ciudad": "León",
-      "estado": "Guanajuato"
-    },
-    {
-      "empresa": "Maquillaje artístico Mérida",
-      "tipo": "Cluster regional",
-      "notas": "Carnaval y teatral",
-      "fuente": "research",
-      "ciudad": "Mérida",
-      "estado": "Yucatán"
-    },
-    {
       "empresa": "Maquillaje artístico Veracruz carnaval",
       "tipo": "Cluster carnaval",
       "notas": "Body paint y comparsas",
@@ -1141,22 +1117,6 @@
       "telefono": "6646217442",
       "ciudad": "Tijuana",
       "estado": "BC"
-    },
-    {
-      "empresa": "Insumos FX Guadalajara",
-      "tipo": "Distribuidor regional",
-      "notas": "Látex, sangre, prostéticos",
-      "fuente": "research",
-      "ciudad": "Guadalajara",
-      "estado": "Jalisco"
-    },
-    {
-      "empresa": "Insumos FX Monterrey",
-      "tipo": "Distribuidor regional",
-      "notas": "Caracterización cine/teatro",
-      "fuente": "research",
-      "ciudad": "Monterrey",
-      "estado": "NL"
     },
     {
       "empresa": "Tu Maquillaje México",
@@ -1351,54 +1311,6 @@
       "estado": "Jalisco"
     },
     {
-      "empresa": "Academia de maquillaje Puebla",
-      "tipo": "Academia",
-      "notas": "Complemento TMC Zavaleta",
-      "fuente": "research",
-      "ciudad": "Puebla",
-      "estado": "Puebla"
-    },
-    {
-      "empresa": "Academia de maquillaje Querétaro",
-      "tipo": "Academia",
-      "notas": "Bajío",
-      "fuente": "research",
-      "ciudad": "Querétaro",
-      "estado": "Querétaro"
-    },
-    {
-      "empresa": "Academia de maquillaje León",
-      "tipo": "Academia",
-      "notas": "Bajío",
-      "fuente": "research",
-      "ciudad": "León",
-      "estado": "Guanajuato"
-    },
-    {
-      "empresa": "Academia de maquillaje Tijuana",
-      "tipo": "Academia",
-      "notas": "Frontera",
-      "fuente": "research",
-      "ciudad": "Tijuana",
-      "estado": "BC"
-    },
-    {
-      "empresa": "Academia de maquillaje Mérida",
-      "tipo": "Academia",
-      "notas": "Sureste / carnaval",
-      "fuente": "research",
-      "ciudad": "Mérida",
-      "estado": "Yucatán"
-    },
-    {
-      "empresa": "Academia de maquillaje Cancún",
-      "tipo": "Academia",
-      "notas": "Turismo y editorial",
-      "fuente": "research",
-      "ciudad": "Cancún",
-      "estado": "Q. Roo"
-    },
-    {
       "empresa": "Academia de maquillaje Puebla centro histórico",
       "tipo": "Academia",
       "notas": "Social + artístico",
@@ -1429,14 +1341,6 @@
       "fuente": "research",
       "ciudad": "Puebla",
       "estado": "Puebla"
-    },
-    {
-      "empresa": "Body paint Oaxaca",
-      "tipo": "Servicio artístico",
-      "notas": "Editorial y festivales",
-      "fuente": "research",
-      "ciudad": "Oaxaca",
-      "estado": "Oaxaca"
     },
     {
       "empresa": "Body paint Veracruz carnaval",
@@ -1615,22 +1519,6 @@
       "estado": "NL"
     },
     {
-      "empresa": "Cosplay makeup Puebla",
-      "tipo": "Canal cosplay",
-      "notas": "Convenciones",
-      "fuente": "research",
-      "ciudad": "Puebla",
-      "estado": "Puebla"
-    },
-    {
-      "empresa": "Maquillaje cine Guadalajara",
-      "tipo": "Cluster cine",
-      "notas": "Producciones occidente",
-      "fuente": "research",
-      "ciudad": "Guadalajara",
-      "estado": "Jalisco"
-    },
-    {
       "empresa": "Maquillaje teatro UNAM más foros",
       "tipo": "Cluster teatro",
       "notas": "Compañías y foros",
@@ -1653,30 +1541,6 @@
       "fuente": "brand",
       "ciudad": "México",
       "estado": "México"
-    },
-    {
-      "empresa": "Beauty Supply Monterrey",
-      "tipo": "Mayoreo beauty",
-      "notas": "Insumos maquilladores",
-      "fuente": "research",
-      "ciudad": "Monterrey",
-      "estado": "NL"
-    },
-    {
-      "empresa": "Beauty Supply Guadalajara",
-      "tipo": "Mayoreo beauty",
-      "notas": "Insumos maquilladores",
-      "fuente": "research",
-      "ciudad": "Guadalajara",
-      "estado": "Jalisco"
-    },
-    {
-      "empresa": "Beauty Supply Puebla",
-      "tipo": "Mayoreo beauty",
-      "notas": "Insumos",
-      "fuente": "research",
-      "ciudad": "Puebla",
-      "estado": "Puebla"
     },
     {
       "empresa": "Mercado de Sonora glitter y aqua",
@@ -1840,75 +1704,10 @@
       "estado": "México"
     },
     {
-      "empresa": "Mehron Paradise retailers extra",
-      "tipo": "Distribución",
-      "notas": "Face paint",
-      "fuente": "research",
-      "url": "https://www.bondsboutique.com.mx/",
-      "email": "ventas@bondsboutique.com.mx",
-      "telefono": "5555585862",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Kryolan Aquacolor extra puntos venta",
-      "tipo": "Distribución",
-      "notas": "Body paint",
-      "fuente": "research",
-      "url": "https://www.artistcity.com.mx/",
-      "telefono": "(55) 3547-6444",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "ProAiir extra puntos venta",
-      "tipo": "Distribución",
-      "notas": "Aerógrafo",
-      "fuente": "research",
-      "url": "https://www.bondsboutique.com.mx/",
-      "telefono": "5555585862",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Silly Farm extra puntos venta",
-      "tipo": "Distribución",
-      "notas": "Cakes",
-      "fuente": "research",
-      "url": "https://www.bondsboutique.com.mx/",
-      "telefono": "5555585862",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Wolfe / Superstar / Tag extra MX",
-      "tipo": "Marcas face paint",
-      "notas": "Importación vía boutiques",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "European Body Art extra MX",
-      "tipo": "Marca alcohol",
-      "notas": "Hybrid paints",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
       "empresa": "RCMA / Cinema Secrets MX",
       "tipo": "Marca cine",
       "notas": "No-color powder",
       "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Snazaroo retail infantil extra",
-      "tipo": "Marca kids",
-      "notas": "Pinta caritas",
-      "fuente": "brand",
       "ciudad": "México",
       "estado": "México"
     },
@@ -1983,78 +1782,6 @@
       "fuente": "research",
       "ciudad": "Aguascalientes",
       "estado": "Aguascalientes"
-    },
-    {
-      "empresa": "Maquillaje artístico Chihuahua",
-      "tipo": "Cluster norte",
-      "notas": "Artistas y tiendas",
-      "fuente": "research",
-      "ciudad": "Chihuahua",
-      "estado": "Chihuahua"
-    },
-    {
-      "empresa": "Maquillaje artístico Hermosillo",
-      "tipo": "Cluster noroeste",
-      "notas": "Artistas y tiendas",
-      "fuente": "research",
-      "ciudad": "Hermosillo",
-      "estado": "Sonora"
-    },
-    {
-      "empresa": "Maquillaje artístico Tijuana extra",
-      "tipo": "Cluster frontera",
-      "notas": "FX y social",
-      "fuente": "research",
-      "ciudad": "Tijuana",
-      "estado": "BC"
-    },
-    {
-      "empresa": "Maquillaje artístico Mexicali",
-      "tipo": "Cluster frontera",
-      "notas": "Artistas",
-      "fuente": "research",
-      "ciudad": "Mexicali",
-      "estado": "BC"
-    },
-    {
-      "empresa": "Maquillaje artístico Cancún extra",
-      "tipo": "Cluster turismo",
-      "notas": "Editorial / hotel",
-      "fuente": "research",
-      "ciudad": "Cancún",
-      "estado": "Q. Roo"
-    },
-    {
-      "empresa": "Maquillaje artístico Mérida extra",
-      "tipo": "Cluster sureste",
-      "notas": "Carnaval / editorial",
-      "fuente": "research",
-      "ciudad": "Mérida",
-      "estado": "Yucatán"
-    },
-    {
-      "empresa": "Insumos FX Puebla",
-      "tipo": "Distribuidor regional",
-      "notas": "Halloween",
-      "fuente": "research",
-      "ciudad": "Puebla",
-      "estado": "Puebla"
-    },
-    {
-      "empresa": "Insumos FX Querétaro",
-      "tipo": "Distribuidor regional",
-      "notas": "Teatro / Halloween",
-      "fuente": "research",
-      "ciudad": "Querétaro",
-      "estado": "Querétaro"
-    },
-    {
-      "empresa": "Insumos FX León",
-      "tipo": "Distribuidor regional",
-      "notas": "Feria / Halloween",
-      "fuente": "research",
-      "ciudad": "León",
-      "estado": "Guanajuato"
     }
   ]
 }

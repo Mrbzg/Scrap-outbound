@@ -1,0 +1,448 @@
+{
+  "lote": "42",
+  "slug": "articulos_para_adultos",
+  "description": "Artículos para adultos MX",
+  "leads": [
+    {
+      "empresa": "Tienda Venus",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — sex shop en línea",
+      "fuente": "ejemplo_cliente",
+      "url": "https://www.tiendavenus.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Love & Toys CDMX",
+      "tipo": "Sex shop",
+      "notas": "500+ productos; showroom con cita; Ignacio Ramos Praslow 171, Iztapalapa",
+      "fuente": "research",
+      "url": "https://loveandtoys.com.mx/",
+      "telefono": "5657538385",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "ToLove Sex Shop",
+      "tipo": "Sex shop",
+      "notas": "Eje 5 Sur Ramos Millán 65, Benito Juárez; envíos nacionales",
+      "fuente": "research",
+      "url": "https://tolove.mx/",
+      "telefono": "5564338669",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Mi Pasión SexShop",
+      "tipo": "Sex shop",
+      "notas": "Juguetes eróticos; venta mayoreo; envíos a todo México y USA",
+      "fuente": "research",
+      "url": "https://www.mipasion.com.mx/",
+      "telefono": "3326467132",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Boners Sex Shop",
+      "tipo": "Sex shop",
+      "notas": "Especializada en juguetes para hombres gay; envío discreto nacional",
+      "fuente": "research",
+      "url": "https://boners.com.mx/",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Inttimus Sex Shop",
+      "tipo": "Sex shop",
+      "notas": "Boutique erótica: vibradores, dildos, lubricantes, BDSM; envíos",
+      "fuente": "research",
+      "url": "https://www.inttimus.com.mx/",
+      "ciudad": "Mazatlán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Secreto Amor MX",
+      "tipo": "Mayoreo",
+      "notas": "Distribuidor mayorista líder; mín. $10,000; marcas reconocidas; envíos nacionales",
+      "fuente": "research",
+      "url": "https://secretoamormx.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Bunny Brand Love Toys",
+      "tipo": "Mayoreo",
+      "notas": "Mayorista para sex shops; Calz. Tlalpan 2905 of 100, Coyoacán",
+      "fuente": "research",
+      "url": "https://www.sexshopmayoreo.mx/",
+      "telefono": "5610442123",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Varta Mayoreo",
+      "tipo": "Mayoreo",
+      "notas": "Distribuidora de artículos para adulto; marcas internacionales; envíos MX",
+      "fuente": "research",
+      "url": "https://vartamayoreo.mx/",
+      "email": "ventas@vartamayoreo.mx",
+      "telefono": "5525695800",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "La Manzana de Eva",
+      "tipo": "Cadena",
+      "notas": "Cadena mexicana de sex shops con varias sucursales",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Satisfyer",
+      "tipo": "Marca",
+      "notas": "Succionadores; distribución y venta en México",
+      "fuente": "brand",
+      "ciudad": "Alemania"
+    },
+    {
+      "empresa": "LELO",
+      "tipo": "Marca",
+      "notas": "Vibradores premium; se vende en MX",
+      "fuente": "brand",
+      "ciudad": "Suecia"
+    },
+    {
+      "empresa": "We-Vibe",
+      "tipo": "Marca",
+      "notas": "Juguetes en pareja con app; venta MX",
+      "fuente": "brand",
+      "ciudad": "Canadá"
+    },
+    {
+      "empresa": "Womanizer",
+      "tipo": "Marca",
+      "notas": "Tecnología Pleasure Air; venta MX",
+      "fuente": "brand",
+      "ciudad": "Alemania"
+    },
+    {
+      "empresa": "Lovense",
+      "tipo": "Marca",
+      "notas": "Juguetes control remoto vía app; venta MX",
+      "fuente": "brand",
+      "ciudad": "China"
+    },
+    {
+      "empresa": "Doc Johnson",
+      "tipo": "Marca",
+      "notas": "Juguetes clásicos; distribución MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Pipedream Products",
+      "tipo": "Marca",
+      "notas": "Juguetes y novedades; distribución MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Jimmy Jane",
+      "tipo": "Marca",
+      "notas": "Juguetes de diseño; venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Kamasutra",
+      "tipo": "Marca",
+      "notas": "Lubricantes y cosmética íntima mexicana",
+      "fuente": "brand",
+      "ciudad": "México"
+    },
+    {
+      "empresa": "JO Lubricants",
+      "tipo": "Marca",
+      "notas": "Lubricantes; distribución MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "ID Lubricants",
+      "tipo": "Marca",
+      "notas": "Lubricantes; vía mayoristas MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Sliquid",
+      "tipo": "Marca",
+      "notas": "Lubricantes naturales; venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Tenga",
+      "tipo": "Marca",
+      "notas": "Masturbadores desechables; venta MX",
+      "fuente": "brand",
+      "ciudad": "Japón"
+    },
+    {
+      "empresa": "Fleshlight",
+      "tipo": "Marca",
+      "notas": "Masturbadores; venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Fun Factory",
+      "tipo": "Marca",
+      "notas": "Juguetes de silicona; venta MX",
+      "fuente": "brand",
+      "ciudad": "Alemania"
+    },
+    {
+      "empresa": "Magic Motion",
+      "tipo": "Marca",
+      "notas": "Juguetes con app; distribución Latam",
+      "fuente": "brand",
+      "ciudad": "China"
+    },
+    {
+      "empresa": "Svakom",
+      "tipo": "Marca",
+      "notas": "Juguetes premium; venta MX",
+      "fuente": "brand",
+      "ciudad": "China"
+    },
+    {
+      "empresa": "Kiiroo",
+      "tipo": "Marca",
+      "notas": "Juguetes interactivos; distribución Latam",
+      "fuente": "brand",
+      "ciudad": "Holanda"
+    },
+    {
+      "empresa": "OhMiBod",
+      "tipo": "Marca",
+      "notas": "Juguetes con música/app; venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Nasstoys",
+      "tipo": "Marca",
+      "notas": "Juguetes económicos; distribución MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Trojan",
+      "tipo": "Marca",
+      "notas": "Condones y lubricantes; retail MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Durex",
+      "tipo": "Marca",
+      "notas": "Condones y lubricantes; retail MX",
+      "fuente": "brand",
+      "ciudad": "UK"
+    },
+    {
+      "empresa": "Sico",
+      "tipo": "Marca",
+      "notas": "Condones mexicanos; retail",
+      "fuente": "brand",
+      "ciudad": "México"
+    },
+    {
+      "empresa": "Prudence",
+      "tipo": "Marca",
+      "notas": "Condones mexicanos; retail",
+      "fuente": "brand",
+      "ciudad": "México"
+    },
+    {
+      "empresa": "Control",
+      "tipo": "Marca",
+      "notas": "Condones mexicanos; retail",
+      "fuente": "brand",
+      "ciudad": "México"
+    },
+    {
+      "empresa": "Lifestyles",
+      "tipo": "Marca",
+      "notas": "Condones; retail MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Farmacias del Ahorro",
+      "tipo": "Retail",
+      "notas": "Vende condones y lubricantes",
+      "fuente": "brand",
+      "url": "https://www.fahorro.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Farmacias Guadalajara",
+      "tipo": "Retail",
+      "notas": "Vende condones y lubricantes",
+      "fuente": "brand",
+      "url": "https://www.farmaciasguadalajara.com.mx/",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Farmacias San Pablo",
+      "tipo": "Retail",
+      "notas": "Vende condones y lubricantes",
+      "fuente": "brand",
+      "url": "https://farmaciasanpablo.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Farmacias Benavides",
+      "tipo": "Retail",
+      "notas": "Vende condones y lubricantes",
+      "fuente": "brand",
+      "url": "https://www.benavides.com.mx/",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Erotika Love Store",
+      "tipo": "Sex shop",
+      "notas": "Hamburgo 105, Col. Juárez; juguetes, lubricantes y lencería; envíos",
+      "fuente": "research",
+      "url": "https://www.erotikalovestore.mx/",
+      "email": "hola@erotikalovestore.mx",
+      "telefono": "5621690379",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "SexyShop CDMX",
+      "tipo": "Sex shop",
+      "notas": "Calz. Acoxpa 566 local 1B, Prados Coapa, Tlalpan; WA 55 3031 2857",
+      "fuente": "research",
+      "url": "https://sexyshop.mx/",
+      "telefono": "5592455592",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Gold Dreams",
+      "tipo": "Sex shop",
+      "notas": "Hamburgo 165, Zona Rosa; 15+ años; artículos de piel, arneses y dildos",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Diversex Condonería",
+      "tipo": "Sex shop",
+      "notas": "Regina 72, Centro; lubricantes, vibradores, arneses, talleres y asesorías",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Vainilla Condonería",
+      "tipo": "Sex shop",
+      "notas": "Belisario Domínguez 15, Coyoacán; enfoque divertido y saludable",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "BeHappy Sex Store",
+      "tipo": "Sex shop",
+      "notas": "Sex shop discreta en CDMX; vibradores, dildos y lencería",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Sex Capital",
+      "tipo": "Sex shop",
+      "notas": "16 de Septiembre 11, Centro; juguetes y cabinas de cine",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Cake Sex Shop",
+      "tipo": "Sex shop",
+      "notas": "Más de 2,500 productos; blog de salud sexual",
+      "fuente": "research",
+      "url": "https://cake.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Fantasías Boutique Tijuana",
+      "tipo": "Sex shop",
+      "notas": "Blvd. Gustavo Díaz Ordaz 13391, Plaza Bonita; envíos y recolección",
+      "fuente": "research",
+      "url": "https://fantasiasboutique.com/",
+      "email": "info@fantasiasboutique.com",
+      "telefono": "6643825677",
+      "ciudad": "Tijuana",
+      "estado": "Baja California"
+    },
+    {
+      "empresa": "Sex Shop Sin Filtros Mérida",
+      "tipo": "Sex shop",
+      "notas": "Tienda ONLINE con entregas discretas a domicilio en Mérida",
+      "fuente": "research",
+      "url": "https://www.facebook.com/SinFiltrosmerida/",
+      "email": "sexshopsinfiltrosmerida@gmail.com",
+      "telefono": "9995323488",
+      "ciudad": "Mérida",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "Walmart México",
+      "tipo": "Retail",
+      "notas": "Sección de condones y lubricantes",
+      "fuente": "brand",
+      "url": "https://www.walmart.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Soriana",
+      "tipo": "Retail",
+      "notas": "Sección de condones y lubricantes",
+      "fuente": "brand",
+      "url": "https://www.soriana.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Amazon MX juguetes eróticos",
+      "tipo": "Marketplace",
+      "notas": "Sellers de juguetes eróticos",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=juguetes+eroticos",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mercado Libre sex shop",
+      "tipo": "Marketplace",
+      "notas": "Tiendas de artículos para adultos en ML",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/sex-shop",
+      "ciudad": "México",
+      "estado": "México"
+    }
+  ]
+}

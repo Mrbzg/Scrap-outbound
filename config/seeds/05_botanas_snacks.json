@@ -1567,38 +1567,6 @@
       "estado": "Hidalgo"
     },
     {
-      "empresa": "Botanas extruidas Ecatepec cluster",
-      "tipo": "Cluster industrial",
-      "notas": "Chetos y extruidos oriente",
-      "fuente": "research",
-      "ciudad": "Ecatepec",
-      "estado": "EdoMex"
-    },
-    {
-      "empresa": "Botanas Iztapalapa cluster",
-      "tipo": "Cluster industrial",
-      "notas": "Fábricas oriente CDMX",
-      "fuente": "research",
-      "ciudad": "Iztapalapa",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Botanas Neza cluster",
-      "tipo": "Cluster",
-      "notas": "Frituras populares",
-      "fuente": "research",
-      "ciudad": "Nezahualcóyotl",
-      "estado": "EdoMex"
-    },
-    {
-      "empresa": "Botanas Tláhuac / Milpa Alta",
-      "tipo": "Cluster",
-      "notas": "Tostadas y maíz",
-      "fuente": "research",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
       "empresa": "Totopos Guerrero",
       "tipo": "Marca totopos",
       "notas": "Canal abarrotes",
@@ -2099,55 +2067,7 @@
       "estado": "Hidalgo"
     },
     {
-      "empresa": "Botanas Yucatán charritos cluster",
-      "tipo": "Cluster regional",
-      "notas": "Charritos, tostadas chaya",
-      "fuente": "research",
-      "ciudad": "Mérida",
-      "estado": "Yucatán"
-    },
-    {
-      "empresa": "Botanas Jalisco cluster",
-      "tipo": "Cluster regional",
-      "notas": "WIPO, Lily, Ávila, Galfra",
-      "fuente": "research",
-      "ciudad": "Guadalajara",
-      "estado": "Jalisco"
-    },
-    {
-      "empresa": "Botanas Nuevo León cluster",
-      "tipo": "Cluster regional",
-      "notas": "Kande, BYDSA, Friconsel, Bokados",
-      "fuente": "research",
-      "ciudad": "Monterrey",
-      "estado": "NL"
-    },
-    {
-      "empresa": "Botanas SLP cluster",
-      "tipo": "Cluster regional",
-      "notas": "Don Tacho, RIC, Provi, Rosasnack",
-      "fuente": "research",
-      "ciudad": "San Luis Potosí",
-      "estado": "SLP"
-    },
-    {
-      "empresa": "Botanas Hidalgo cluster",
-      "tipo": "Cluster regional",
-      "notas": "Totis, Arran, K-Botanas",
-      "fuente": "research",
-      "ciudad": "Hidalgo",
-      "estado": "Hidalgo"
-    },
-    {
-      "empresa": "Botanas Sonora cluster",
-      "tipo": "Cluster regional",
-      "notas": "Kris, Diana, El Azteca",
-      "fuente": "research",
-      "ciudad": "Sonora",
-      "estado": "Sonora"
-    },
-    {
-      "empresa": "Aceites para freír Oleofinos canal botana",
+      "empresa": "Oleofinos",
       "tipo": "Insumo industria",
       "notas": "Easy Fried — proveedores de fábricas",
       "fuente": "dirind",

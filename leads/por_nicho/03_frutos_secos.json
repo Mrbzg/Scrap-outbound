@@ -12,8 +12,8 @@
     "tipo": "Fabricante",
     "notas": "Nuez análoga soya panificación",
     "fuente": "dirind",
-    "score_contacto": 9,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 9
   },
   {
     "giro": "Alimentos",
@@ -28,8 +28,8 @@
     "tipo": "Marca granola/snacks",
     "notas": "Granola + arándanos snacks",
     "fuente": "dirind",
-    "score_contacto": 8,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 9
   },
   {
     "giro": "Alimentos",
@@ -44,8 +44,8 @@
     "tipo": "Frutas deshidratadas",
     "notas": "Confitería artesanal",
     "fuente": "dirind",
-    "score_contacto": 6,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 6
   },
   {
     "giro": "Alimentos",
@@ -60,8 +60,8 @@
     "tipo": "Productor pecana",
     "notas": "40+ años Wichita Western",
     "fuente": "dirind",
-    "score_contacto": 7,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 7
   },
   {
     "giro": "Alimentos",
@@ -76,8 +76,8 @@
     "tipo": "Beneficio frutos secos",
     "notas": "Nuez almendra pistache avellana",
     "fuente": "dirind",
-    "score_contacto": 6,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 6
   },
   {
     "giro": "Alimentos",
@@ -92,8 +92,8 @@
     "tipo": "Distribuidor nueces",
     "notas": "Sucursal CDMX Granjas México",
     "fuente": "dirind",
-    "score_contacto": 9,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 9
   },
   {
     "giro": "Alimentos",
@@ -108,8 +108,8 @@
     "tipo": "Insumos panadería",
     "notas": "Nuez granillo + insumos",
     "fuente": "dirind",
-    "score_contacto": 5,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 5
   },
   {
     "giro": "Alimentos",
@@ -124,8 +124,8 @@
     "tipo": "Distribuidor",
     "notas": "Almendras avellanas pasta frutas secas",
     "fuente": "dirind",
-    "score_contacto": 7,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 7
   },
   {
     "giro": "Alimentos",
@@ -140,8 +140,8 @@
     "tipo": "Insumos Horeca",
     "notas": "Nuez almendra pistache arándano",
     "fuente": "dirind",
-    "score_contacto": 8,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 8
   },
   {
     "giro": "Alimentos",
@@ -156,8 +156,8 @@
     "tipo": "Empacadora mayoreo",
     "notas": "CDMX/Edomex repostería abarrotes",
     "fuente": "research",
-    "score_contacto": 9,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 9
   },
   {
     "giro": "Alimentos",
@@ -172,8 +172,8 @@
     "tipo": "Mayoreo Central Abastos",
     "notas": "Nueces pistache almendra uva pasa",
     "fuente": "dirind",
-    "score_contacto": 9,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 9
   },
   {
     "giro": "Alimentos",
@@ -188,8 +188,8 @@
     "tipo": "Ingredientes industria",
     "notas": "Frutos secos granos semillas deshidratados",
     "fuente": "dirind",
-    "score_contacto": 8,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 8
   },
   {
     "giro": "Alimentos",
@@ -204,8 +204,8 @@
     "tipo": "Mayoreo B2B",
     "notas": "Mayoreo semillas y frutos secos envíos nacionales",
     "fuente": "research",
-    "score_contacto": 7,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 7
   },
   {
     "giro": "Alimentos",
@@ -220,8 +220,8 @@
     "tipo": "Fabricante marca GOLDEN",
     "notas": "Almendra pistache nuez botanas maquila",
     "fuente": "dirind",
-    "score_contacto": 9,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 9
   },
   {
     "giro": "Alimentos",
@@ -236,8 +236,8 @@
     "tipo": "Granola fabricante",
     "notas": "Cereales + frutos secos desde 1986",
     "fuente": "dirind",
-    "score_contacto": 9,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 9
   },
   {
     "giro": "Alimentos",
@@ -252,8 +252,8 @@
     "tipo": "Mayorista nacional",
     "notas": "Semillas frutos secos especias centrales abasto",
     "fuente": "research",
-    "score_contacto": 5,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 5
   },
   {
     "giro": "Alimentos",
@@ -268,8 +268,8 @@
     "tipo": "Mayoreo pecanas",
     "notas": "Nacionales e internacionales",
     "fuente": "dirind",
-    "score_contacto": 9,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 9
   },
   {
     "giro": "Alimentos",
@@ -284,8 +284,8 @@
     "tipo": "Mayoreo CEDA",
     "notas": "Semillas nuez pistache almendra dulces",
     "fuente": "research",
-    "score_contacto": 7,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 7
   },
   {
     "giro": "Alimentos",
@@ -300,8 +300,8 @@
     "tipo": "Selección semillas",
     "notas": "Pistache nueces almendras maquila",
     "fuente": "dirind",
-    "score_contacto": 6,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 6
   },
   {
     "giro": "Alimentos",
@@ -316,8 +316,8 @@
     "tipo": "Marca gourmet D2C",
     "notas": "Cacahuates japoneses almendras tablas",
     "fuente": "dirind",
-    "score_contacto": 8,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 9
   },
   {
     "giro": "Alimentos",
@@ -332,8 +332,8 @@
     "tipo": "Frutas secas",
     "notas": "Almendras pistaches nueces pasas piñones",
     "fuente": "dirind",
-    "score_contacto": 8,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 8
   },
   {
     "giro": "Alimentos",
@@ -348,8 +348,8 @@
     "tipo": "Fabricante macadamia",
     "notas": "Nuez macadamia",
     "fuente": "dirind",
-    "score_contacto": 7,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 7
   },
   {
     "giro": "Alimentos",
@@ -364,8 +364,8 @@
     "tipo": "Distribuidor Abastos GDL",
     "notas": "Nueces almendras pistaches arándanos",
     "fuente": "dirind",
-    "score_contacto": 9,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 9
   },
   {
     "giro": "Alimentos",
@@ -380,8 +380,8 @@
     "tipo": "Mayoreo industria",
     "notas": "Cacahuate almendra pepita pistache nuez",
     "fuente": "dirind",
-    "score_contacto": 9,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 9
   },
   {
     "giro": "Alimentos",
@@ -396,8 +396,8 @@
     "tipo": "Marca snack barras",
     "notas": "Barras frutos secos veganas",
     "fuente": "dirind",
-    "score_contacto": 8,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 9
   },
   {
     "giro": "Alimentos",
@@ -412,8 +412,8 @@
     "tipo": "Procesador nuez",
     "notas": "Mitades pedazo granito",
     "fuente": "dirind",
-    "score_contacto": 9,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 8
   },
   {
     "giro": "Alimentos",
@@ -428,8 +428,8 @@
     "tipo": "Productor/distribuidor",
     "notas": "Nuez almendras uva pasa + Nestlé cover",
     "fuente": "dirind",
-    "score_contacto": 9,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 9
   },
   {
     "giro": "Alimentos",
@@ -444,8 +444,8 @@
     "tipo": "Productor/procesador",
     "notas": "Descascaradores pecana",
     "fuente": "dirind",
-    "score_contacto": 6,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 6
   },
   {
     "giro": "Alimentos",
@@ -460,8 +460,8 @@
     "tipo": "Productor/procesador nuez",
     "notas": "Western y Wichita; SQF HACCP FDA",
     "fuente": "dirind",
-    "score_contacto": 9,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 9
   },
   {
     "giro": "Alimentos",
@@ -476,8 +476,8 @@
     "tipo": "Procesadora",
     "notas": "Mitad pedacería almendra frutas secas",
     "fuente": "dirind",
-    "score_contacto": 7,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 6
   },
   {
     "giro": "Alimentos",
@@ -492,8 +492,8 @@
     "tipo": "Procesadora",
     "notas": "Nuez natural descascarada",
     "fuente": "dirind",
-    "score_contacto": 8,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 7
   },
   {
     "giro": "Alimentos",
@@ -508,8 +508,8 @@
     "tipo": "Orgánico regional",
     "notas": "Piñón nuez orgánica calabaza",
     "fuente": "dirind",
-    "score_contacto": 6,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 6
   },
   {
     "giro": "Alimentos",
@@ -524,8 +524,8 @@
     "tipo": "Maquila nuez",
     "notas": "Compra-venta maquila frutas secas",
     "fuente": "dirind",
-    "score_contacto": 8,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 8
   },
   {
     "giro": "Alimentos",
@@ -540,8 +540,8 @@
     "tipo": "Productor pecan",
     "notas": "Wichita y Western",
     "fuente": "dirind",
-    "score_contacto": 9,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 9
   },
   {
     "giro": "Alimentos",
@@ -556,8 +556,8 @@
     "tipo": "Productor nuez",
     "notas": "Maquila selección cuartos fríos",
     "fuente": "dirind",
-    "score_contacto": 6,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 6
   },
   {
     "giro": "Alimentos",
@@ -572,8 +572,8 @@
     "tipo": "Servicio industrial",
     "notas": "Esterilización frutos secos ISO HACCP",
     "fuente": "dirind",
-    "score_contacto": 8,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 8
   },
   {
     "giro": "Alimentos",
@@ -588,8 +588,8 @@
     "tipo": "Import/export",
     "notas": "Pecanera almendras castilla",
     "fuente": "dirind",
-    "score_contacto": 8,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 8
   },
   {
     "giro": "Alimentos",
@@ -604,8 +604,8 @@
     "tipo": "Comercializador nuez",
     "notas": "Mercado Abastos Pte",
     "fuente": "dirind",
-    "score_contacto": 8,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 8
   },
   {
     "giro": "Alimentos",
@@ -620,8 +620,8 @@
     "tipo": "Mayoreo nacional",
     "notas": "Semillas frutos secos deshidratados B2B",
     "fuente": "dirind",
-    "score_contacto": 9,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 9
   },
   {
     "giro": "Alimentos",
@@ -636,8 +636,8 @@
     "tipo": "Granel + marca propia",
     "notas": "Nuez india macadamia golden berries",
     "fuente": "dirind",
-    "score_contacto": 8,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 9
   },
   {
     "giro": "Alimentos",
@@ -652,8 +652,8 @@
     "tipo": "Mayorista CEDA",
     "notas": "Semillas frutos secos especias Iztapalapa",
     "fuente": "research",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Alimentos",
@@ -668,8 +668,8 @@
     "tipo": "Mayoreo vegano",
     "notas": "Mix nueces",
     "fuente": "research",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Alimentos",
@@ -684,1544 +684,8 @@
     "tipo": "Orgánico premium",
     "notas": "Retail",
     "fuente": "brand",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Balance Natural de México",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Jaloxtoc",
-    "estado": "Morelos",
-    "pais": "México",
-    "tipo": "Fabricante/distribuidor",
-    "notas": "Frutos secos Cosmos",
-    "fuente": "research",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Barcel cacahuates/botanas",
-    "url": "https://www.barcel.com.mx/",
-    "email": "",
-    "telefono": "",
-    "ciudad": "México",
-    "estado": "México",
-    "pais": "México",
-    "tipo": "Marca botana",
-    "notas": "Grupo Bimbo",
-    "fuente": "brand",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Brokimex Services",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Guadalajara",
-    "estado": "Jalisco",
-    "pais": "México",
-    "tipo": "Distribuidor",
-    "notas": "Semilla fina",
-    "fuente": "research",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Carmeluz",
-    "url": "https://www.carmeluz.com/",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Monterrey",
-    "estado": "NL",
-    "pais": "México",
-    "tipo": "Granel zero waste",
-    "notas": "Nueces frutas secas envíos MX",
-    "fuente": "research",
-    "score_contacto": 3,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Central de Abastos León frutos secos",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "León",
-    "estado": "Guanajuato",
-    "pais": "México",
-    "tipo": "Mayoreo",
-    "notas": "Regional",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Central de Abastos Mérida frutos secos",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Mérida",
-    "estado": "Yucatán",
-    "pais": "México",
-    "tipo": "Mayoreo",
-    "notas": "Regional",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Central de Abastos Puebla frutos secos",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Puebla",
-    "estado": "Puebla",
-    "pais": "México",
-    "tipo": "Mayoreo",
-    "notas": "Regional",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Central de Abastos Querétaro frutos secos",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Querétaro",
-    "estado": "Qro",
-    "pais": "México",
-    "tipo": "Mayoreo",
-    "notas": "Regional",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Central de Abastos Tijuana frutos secos",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Tijuana",
-    "estado": "BC",
-    "pais": "México",
-    "tipo": "Mayoreo",
-    "notas": "Regional",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Central de Abastos Toluca frutos secos",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Toluca",
-    "estado": "EdoMex",
-    "pais": "México",
-    "tipo": "Mayoreo",
-    "notas": "Regional",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "City Market bulk / La Comer",
-    "url": "https://www.lacomer.com.mx/",
-    "email": "",
-    "telefono": "",
-    "ciudad": "México",
-    "estado": "México",
-    "pais": "México",
-    "tipo": "Supermercado premium",
-    "notas": "Granel gourmet",
-    "fuente": "brand",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Comercializadora LumaWer",
-    "url": "",
-    "email": "",
-    "telefono": "55 9721 9660",
-    "ciudad": "México",
-    "estado": "EdoMex",
-    "pais": "México",
-    "tipo": "Distribuidor",
-    "notas": "Pistaches",
-    "fuente": "research",
-    "score_contacto": 3,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Deleite de Cielo",
-    "url": "http://deleitedecielo.com/",
-    "email": "",
-    "telefono": "",
-    "ciudad": "México",
-    "estado": "México",
-    "pais": "México",
-    "tipo": "Ecom kilo",
-    "notas": "Nuez almendra cacahuate fruta seca",
-    "fuente": "research",
-    "score_contacto": 3,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Acapulco",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Acapulco",
-    "estado": "Guerrero",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Turismo",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Aguascalientes",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Aguascalientes",
-    "estado": "Ags",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Bajío",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Cancún",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Cancún",
-    "estado": "QRoo",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Turismo/Horeca",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos CDMX Norte",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "CDMX",
-    "estado": "CDMX",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo zona norte",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos CDMX Sur",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "CDMX",
-    "estado": "CDMX",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo zona sur",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Chihuahua capital",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Chihuahua",
-    "estado": "Chihuahua",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Norte",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Cuernavaca",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Cuernavaca",
-    "estado": "Morelos",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Centro",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Culiacán",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Culiacán",
-    "estado": "Sinaloa",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Pacífico",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Estado de México",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Toluca",
-    "estado": "EdoMex",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Guadalajara",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Guadalajara",
-    "estado": "Jalisco",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo occidente",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Hermosillo",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Hermosillo",
-    "estado": "Sonora",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Noroeste",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Juárez",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Cd. Juárez",
-    "estado": "Chihuahua",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Frontera",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos León",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "León",
-    "estado": "Guanajuato",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Bajío",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Mazatlán",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Mazatlán",
-    "estado": "Sinaloa",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Pacífico",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Mexicali",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Mexicali",
-    "estado": "BC",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Frontera",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Monterrey",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Monterrey",
-    "estado": "NL",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo norte",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Morelia",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Morelia",
-    "estado": "Michoacán",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Mérida",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Mérida",
-    "estado": "Yucatán",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Sureste",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Oaxaca",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Oaxaca",
-    "estado": "Oaxaca",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Sur",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Pachuca",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Pachuca",
-    "estado": "Hidalgo",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Centro",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Puebla",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Puebla",
-    "estado": "Puebla",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Querétaro",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Querétaro",
-    "estado": "Qro",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Bajío",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Reynosa",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Reynosa",
-    "estado": "Tamaulipas",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Frontera",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Saltillo",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Saltillo",
-    "estado": "Coahuila",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos San Luis Potosí",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "San Luis Potosí",
-    "estado": "SLP",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos San Pedro NL",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "San Pedro",
-    "estado": "NL",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Premium",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Tampico",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Tampico",
-    "estado": "Tamaulipas",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Golfo",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Tijuana",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Tijuana",
-    "estado": "BC",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Frontera",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Tlaxcala",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Tlaxcala",
-    "estado": "Tlaxcala",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Centro",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Torreón",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Torreón",
-    "estado": "Coahuila",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "La Laguna",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Tuxtla",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Tuxtla Gutiérrez",
-    "estado": "Chiapas",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Sur",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Veracruz puerto",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Veracruz",
-    "estado": "Veracruz",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Golfo",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Villahermosa",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Villahermosa",
-    "estado": "Tabasco",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Sureste",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Xalapa",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Xalapa",
-    "estado": "Veracruz",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Golfo",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora frutos secos Zapopan",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Zapopan",
-    "estado": "Jalisco",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Distribuidora Naucalpan frutos secos",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Naucalpan",
-    "estado": "EdoMex",
-    "pais": "México",
-    "tipo": "Distribuidor",
-    "notas": "San Luis Tlatilco",
-    "fuente": "research",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "El Eden MX",
-    "url": "https://eledenmx.com/",
-    "email": "",
-    "telefono": "",
-    "ciudad": "México",
-    "estado": "México",
-    "pais": "México",
-    "tipo": "Ejemplo original",
-    "notas": "Ejemplo del cliente",
-    "fuente": "ejemplo",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Empacadoras pecan Cd Juárez cluster",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Cd. Juárez",
-    "estado": "Chihuahua",
-    "pais": "México",
-    "tipo": "Empaque/export",
-    "notas": "Frontera",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Empacadoras pecan Torreón cluster",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Torreón",
-    "estado": "Coahuila",
-    "pais": "México",
-    "tipo": "Empaque/export",
-    "notas": "La Laguna",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "GPO Premier",
-    "url": "https://gpopremier.com/",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Zapopan",
-    "estado": "Jalisco",
-    "pais": "México",
-    "tipo": "Importador/procesador líder",
-    "notas": "+50 años frutos secos México",
-    "fuente": "research",
-    "score_contacto": 4,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Great Value nueces Walmart",
-    "url": "https://www.walmart.com.mx/",
-    "email": "",
-    "telefono": "",
-    "ciudad": "México",
-    "estado": "México",
-    "pais": "México",
-    "tipo": "Private label",
-    "notas": "Canal",
-    "fuente": "brand",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Grupo Comercial Guajardo",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Monterrey",
-    "estado": "NL",
-    "pais": "México",
-    "tipo": "Distribuidor",
-    "notas": "Semilla fina",
-    "fuente": "research",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "HEB bulk nuts",
-    "url": "https://www.heb.com.mx/",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Monterrey",
-    "estado": "NL",
-    "pais": "México",
-    "tipo": "Supermercado",
-    "notas": "Norte",
-    "fuente": "brand",
-    "score_contacto": 3,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "HOA Guadalajara",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Guadalajara",
-    "estado": "Jalisco",
-    "pais": "México",
-    "tipo": "Distribuidor",
-    "notas": "Semilla fina Jardines de la Cruz",
-    "fuente": "research",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Kirkland nueces Costco canal",
-    "url": "https://www.costco.com.mx/",
-    "email": "",
-    "telefono": "",
-    "ciudad": "México",
-    "estado": "México",
-    "pais": "México",
-    "tipo": "Retail club",
-    "notas": "Canal mayoreo consumidor",
-    "fuente": "brand",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "La Casa del Bacalao frutos secos",
-    "url": "https://lacasadelbacalao.com.mx/",
-    "email": "",
-    "telefono": "",
-    "ciudad": "México",
-    "estado": "México",
-    "pais": "México",
-    "tipo": "Gourmet ecom",
-    "notas": "Nueces semillas gourmet",
-    "fuente": "research",
-    "score_contacto": 3,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "La Mejicana granel",
-    "url": "https://lamejicana.mx/",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Guadalajara",
-    "estado": "Jalisco",
-    "pais": "México",
-    "tipo": "Ecom granel",
-    "notas": "Frutos secos granos especias envíos",
-    "fuente": "research",
-    "score_contacto": 4,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "La Molinera de Abastos",
-    "url": "http://www.lamolinera.com.mx/",
-    "email": "",
-    "telefono": "",
-    "ciudad": "México",
-    "estado": "México",
-    "pais": "México",
-    "tipo": "Mayoreo/menudeo",
-    "notas": "Pistache almendra avellana nuez india",
-    "fuente": "research",
-    "score_contacto": 3,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Mafer cacahuates",
-    "url": "https://www.mafer.com.mx/",
-    "email": "",
-    "telefono": "",
-    "ciudad": "México",
-    "estado": "México",
-    "pais": "México",
-    "tipo": "Marca botana",
-    "notas": "Cacahuate líder",
-    "fuente": "brand",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Mayoreo La Tapatia",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Sinaloa",
-    "estado": "Sinaloa",
-    "pais": "México",
-    "tipo": "Mayoreo abastos",
-    "notas": "Frutos secos",
-    "fuente": "research",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Mayoreo Online Ruiseñor",
-    "url": "https://mayoreo.online/",
-    "email": "",
-    "telefono": "",
-    "ciudad": "CDMX",
-    "estado": "CDMX",
-    "pais": "México",
-    "tipo": "Ecom mayoreo",
-    "notas": "Cajas 10-22kg almendras nuez",
-    "fuente": "research",
-    "score_contacto": 4,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Member's Mark nueces Sam's",
-    "url": "https://www.sams.com.mx/",
-    "email": "",
-    "telefono": "",
-    "ciudad": "México",
-    "estado": "México",
-    "pais": "México",
-    "tipo": "Retail club",
-    "notas": "Canal",
-    "fuente": "brand",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Mercanto",
-    "url": "https://mercanto.mx/",
-    "email": "",
-    "telefono": "",
-    "ciudad": "México",
-    "estado": "México",
-    "pais": "México",
-    "tipo": "Mayoreo foodservice",
-    "notas": "Restaurantes frutos secos granel",
-    "fuente": "research",
-    "score_contacto": 3,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Nature's Heart snacks nueces",
-    "url": "https://naturesheart.com.mx/",
-    "email": "",
-    "telefono": "",
-    "ciudad": "México",
-    "estado": "México",
-    "pais": "México",
-    "tipo": "Marca healthy",
-    "notas": "Retail moderno",
-    "fuente": "brand",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Productores nuez pecanera Aldama Chih",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Aldama",
-    "estado": "Chihuahua",
-    "pais": "México",
-    "tipo": "Productor regional",
-    "notas": "Cinturón pecanero",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Productores nuez pecanera Camargo Chih",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Camargo",
-    "estado": "Chihuahua",
-    "pais": "México",
-    "tipo": "Productor regional",
-    "notas": "Cinturón pecanero",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Productores nuez pecanera Delicias Chih",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Delicias",
-    "estado": "Chihuahua",
-    "pais": "México",
-    "tipo": "Productor regional",
-    "notas": "Cinturón pecanero",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Productores nuez pecanera Flores Magón Chih",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Buenaventura",
-    "estado": "Chihuahua",
-    "pais": "México",
-    "tipo": "Productor regional",
-    "notas": "Norte",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Productores nuez pecanera Gómez Palacio",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Gómez Palacio",
-    "estado": "Durango",
-    "pais": "México",
-    "tipo": "Productor/cluster",
-    "notas": "La Laguna",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Productores nuez pecanera Hermosillo Son",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Hermosillo",
-    "estado": "Sonora",
-    "pais": "México",
-    "tipo": "Productor regional",
-    "notas": "Noroeste",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Productores nuez pecanera Jiménez Chih",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Jiménez",
-    "estado": "Chihuahua",
-    "pais": "México",
-    "tipo": "Productor regional",
-    "notas": "Cinturón pecanero",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Productores nuez pecanera Lerdo Dgo",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Lerdo",
-    "estado": "Durango",
-    "pais": "México",
-    "tipo": "Productor/cluster",
-    "notas": "La Laguna",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Productores nuez pecanera Monclova zona",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Monclova",
-    "estado": "Coahuila",
-    "pais": "México",
-    "tipo": "Productor/comercial",
-    "notas": "Centro-norte",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Productores nuez pecanera Navajoa Son",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Navojoa",
-    "estado": "Sonora",
-    "pais": "México",
-    "tipo": "Productor regional",
-    "notas": "Noroeste",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Productores nuez pecanera Nuevo Casas Grandes",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Nuevo Casas Grandes",
-    "estado": "Chihuahua",
-    "pais": "México",
-    "tipo": "Productor regional",
-    "notas": "Norte",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Productores nuez pecanera Obregón Son",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Cd. Obregón",
-    "estado": "Sonora",
-    "pais": "México",
-    "tipo": "Productor regional",
-    "notas": "Noroeste",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Productores nuez pecanera Parras Coah",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Parras",
-    "estado": "Coahuila",
-    "pais": "México",
-    "tipo": "Productor regional",
-    "notas": "Centro-norte",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Productores nuez pecanera Saltillo zona",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Saltillo",
-    "estado": "Coahuila",
-    "pais": "México",
-    "tipo": "Productor/comercial",
-    "notas": "Centro-norte",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Productores nuez pecanera Torreón La Laguna",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Torreón",
-    "estado": "Coahuila",
-    "pais": "México",
-    "tipo": "Productor/cluster",
-    "notas": "La Laguna",
-    "fuente": "regional",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Rikanuez CDMX",
-    "url": "https://www.rikanuez.com/",
-    "email": "",
-    "telefono": "",
-    "ciudad": "CDMX",
-    "estado": "CDMX",
-    "pais": "México",
-    "tipo": "Ecom + mayoreo",
-    "notas": "Almendra nuez pecana botana premium",
-    "fuente": "research",
-    "score_contacto": 4,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Señor Pistacho",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "CDMX",
-    "estado": "CDMX",
-    "pais": "México",
-    "tipo": "Superfoods retail/mayoreo",
-    "notas": "Pistache almendras nueces dátiles",
-    "fuente": "research",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Venta de Nuez Almendra y Granos / REMANU",
-    "url": "https://ventadenuezalmendraygranos.com/",
-    "email": "",
-    "telefono": "",
-    "ciudad": "CDMX",
-    "estado": "CDMX",
-    "pais": "México",
-    "tipo": "Mayoreo 1kg-toneladas",
-    "notas": "Comercio justo campo mexicano",
-    "fuente": "research",
-    "score_contacto": 4,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "A-Verfrut",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "CDMX",
-    "estado": "CDMX",
-    "pais": "México",
-    "tipo": "Central Abastos",
-    "notas": "Frutos secos",
-    "fuente": "research",
-    "score_contacto": 1,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Abasto Latino Americano ALA",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "CDMX",
-    "estado": "CDMX",
-    "pais": "México",
-    "tipo": "CEDA abarrotes",
-    "notas": "Frutos secos pasillo 2",
-    "fuente": "research",
-    "score_contacto": 1,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Agronuez / cooperativas nogaleras multi",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Norte",
-    "estado": "México",
-    "pais": "México",
-    "tipo": "Cooperativa",
-    "notas": "Pecan",
-    "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Ajonjolí MX/import multi",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "México",
-    "estado": "México",
-    "pais": "México",
-    "tipo": "Commodity",
-    "notas": "Ajonjolí",
-    "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Almendra California importadores MX multi",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "México",
-    "estado": "México",
-    "pais": "México",
-    "tipo": "Importadores",
-    "notas": "Almond USA",
-    "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Alpura / lácteos no",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "México",
-    "estado": "México",
-    "pais": "México",
-    "tipo": "—",
-    "notas": "Skip soft",
-    "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Amaranto MX productores multi",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "México",
-    "estado": "México",
-    "pais": "México",
-    "tipo": "Superfood nacional",
-    "notas": "Amaranto",
-    "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Amazon MX sellers frutos secos multi",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "México",
-    "estado": "México",
-    "pais": "México",
-    "tipo": "Marketplace",
-    "notas": "Multi sellers",
-    "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Anacardo/India cashew importadores MX multi",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "México",
-    "estado": "México",
-    "pais": "México",
-    "tipo": "Importadores",
-    "notas": "Cashew",
-    "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Arándano USA/Chile importadores MX multi",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "México",
-    "estado": "México",
-    "pais": "México",
-    "tipo": "Importadores",
-    "notas": "Cranberry",
-    "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Asociación de nogaleros Chihuahua",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Chihuahua",
-    "estado": "Chihuahua",
-    "pais": "México",
-    "tipo": "Asociación productor",
-    "notas": "Cluster pecanero",
-    "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Alimentos",
@@ -2236,8 +700,8 @@
     "tipo": "Asociación productor",
     "notas": "Cluster pecanero",
     "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Alimentos",
@@ -2252,8 +716,1016 @@
     "tipo": "Asociación productor",
     "notas": "Cluster pecanero",
     "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Balance Natural de México",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Jaloxtoc",
+    "estado": "Morelos",
+    "pais": "México",
+    "tipo": "Fabricante/distribuidor",
+    "notas": "Frutos secos Cosmos",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Barcel cacahuates/botanas",
+    "url": "https://www.barcel.com.mx/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Marca botana",
+    "notas": "Grupo Bimbo",
+    "fuente": "brand",
+    "prioridad": "Media",
+    "score_contacto": 3
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Brokimex Services",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Guadalajara",
+    "estado": "Jalisco",
+    "pais": "México",
+    "tipo": "Distribuidor",
+    "notas": "Semilla fina",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Carmeluz",
+    "url": "https://www.carmeluz.com/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Monterrey",
+    "estado": "NL",
+    "pais": "México",
+    "tipo": "Granel zero waste",
+    "notas": "Nueces frutas secas envíos MX",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 3
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Central de Abastos León frutos secos",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "León",
+    "estado": "Guanajuato",
+    "pais": "México",
+    "tipo": "Mayoreo",
+    "notas": "Regional",
+    "fuente": "regional",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Central de Abastos Mérida frutos secos",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Mérida",
+    "estado": "Yucatán",
+    "pais": "México",
+    "tipo": "Mayoreo",
+    "notas": "Regional",
+    "fuente": "regional",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Central de Abastos Puebla frutos secos",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Puebla",
+    "estado": "Puebla",
+    "pais": "México",
+    "tipo": "Mayoreo",
+    "notas": "Regional",
+    "fuente": "regional",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Central de Abastos Querétaro frutos secos",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Querétaro",
+    "estado": "Qro",
+    "pais": "México",
+    "tipo": "Mayoreo",
+    "notas": "Regional",
+    "fuente": "regional",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Central de Abastos Tijuana frutos secos",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Tijuana",
+    "estado": "BC",
+    "pais": "México",
+    "tipo": "Mayoreo",
+    "notas": "Regional",
+    "fuente": "regional",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Central de Abastos Toluca frutos secos",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Toluca",
+    "estado": "EdoMex",
+    "pais": "México",
+    "tipo": "Mayoreo",
+    "notas": "Regional",
+    "fuente": "regional",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "City Market bulk / La Comer",
+    "url": "https://www.lacomer.com.mx/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Supermercado premium",
+    "notas": "Granel gourmet",
+    "fuente": "brand",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Comercializadora LumaWer",
+    "url": "",
+    "email": "",
+    "telefono": "55 9721 9660",
+    "ciudad": "México",
+    "estado": "EdoMex",
+    "pais": "México",
+    "tipo": "Distribuidor",
+    "notas": "Pistaches",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 3
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Deleite de Cielo",
+    "url": "http://deleitedecielo.com/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Ecom kilo",
+    "notas": "Nuez almendra cacahuate fruta seca",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 3
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Distribuidora frutos secos CDMX Norte",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "CDMX",
+    "estado": "CDMX",
+    "pais": "México",
+    "tipo": "Distribuidor regional",
+    "notas": "Mayoreo zona norte",
+    "fuente": "regional",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Distribuidora frutos secos CDMX Sur",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "CDMX",
+    "estado": "CDMX",
+    "pais": "México",
+    "tipo": "Distribuidor regional",
+    "notas": "Mayoreo zona sur",
+    "fuente": "regional",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Distribuidora frutos secos Chihuahua capital",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Chihuahua",
+    "estado": "Chihuahua",
+    "pais": "México",
+    "tipo": "Distribuidor regional",
+    "notas": "Norte",
+    "fuente": "regional",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Distribuidora frutos secos Estado de México",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Toluca",
+    "estado": "EdoMex",
+    "pais": "México",
+    "tipo": "Distribuidor regional",
+    "notas": "Mayoreo",
+    "fuente": "regional",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Distribuidora frutos secos San Pedro NL",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "San Pedro",
+    "estado": "NL",
+    "pais": "México",
+    "tipo": "Distribuidor regional",
+    "notas": "Premium",
+    "fuente": "regional",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Distribuidora frutos secos Tuxtla",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Tuxtla Gutiérrez",
+    "estado": "Chiapas",
+    "pais": "México",
+    "tipo": "Distribuidor regional",
+    "notas": "Sur",
+    "fuente": "regional",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Distribuidora frutos secos Veracruz puerto",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Veracruz",
+    "estado": "Veracruz",
+    "pais": "México",
+    "tipo": "Distribuidor regional",
+    "notas": "Golfo",
+    "fuente": "regional",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Distribuidora Naucalpan frutos secos",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Naucalpan",
+    "estado": "EdoMex",
+    "pais": "México",
+    "tipo": "Distribuidor",
+    "notas": "San Luis Tlatilco",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "El Eden MX",
+    "url": "https://eledenmx.com/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "fuente": "ejemplo",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "GPO Premier",
+    "url": "https://gpopremier.com/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Zapopan",
+    "estado": "Jalisco",
+    "pais": "México",
+    "tipo": "Importador/procesador líder",
+    "notas": "+50 años frutos secos México",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 3
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Great Value nueces Walmart",
+    "url": "https://www.walmart.com.mx/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Private label",
+    "notas": "Canal",
+    "fuente": "brand",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Grupo Comercial Guajardo",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Monterrey",
+    "estado": "NL",
+    "pais": "México",
+    "tipo": "Distribuidor",
+    "notas": "Semilla fina",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "HEB bulk nuts",
+    "url": "https://www.heb.com.mx/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Monterrey",
+    "estado": "NL",
+    "pais": "México",
+    "tipo": "Supermercado",
+    "notas": "Norte",
+    "fuente": "brand",
+    "prioridad": "Media",
+    "score_contacto": 3
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Kirkland nueces Costco canal",
+    "url": "https://www.costco.com.mx/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Retail club",
+    "notas": "Canal mayoreo consumidor",
+    "fuente": "brand",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "La Casa del Bacalao frutos secos",
+    "url": "https://lacasadelbacalao.com.mx/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Gourmet ecom",
+    "notas": "Nueces semillas gourmet",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 3
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "La Mejicana granel",
+    "url": "https://lamejicana.mx/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Guadalajara",
+    "estado": "Jalisco",
+    "pais": "México",
+    "tipo": "Ecom granel",
+    "notas": "Frutos secos granos especias envíos",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 4
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "La Molinera de Abastos",
+    "url": "http://www.lamolinera.com.mx/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Mayoreo/menudeo",
+    "notas": "Pistache almendra avellana nuez india",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 3
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Mafer cacahuates",
+    "url": "https://www.mafer.com.mx/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Marca botana",
+    "notas": "Cacahuate líder",
+    "fuente": "brand",
+    "prioridad": "Media",
+    "score_contacto": 3
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Mayoreo La Tapatia",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Sinaloa",
+    "estado": "Sinaloa",
+    "pais": "México",
+    "tipo": "Mayoreo abastos",
+    "notas": "Frutos secos",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Mayoreo Online Ruiseñor",
+    "url": "https://mayoreo.online/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "CDMX",
+    "estado": "CDMX",
+    "pais": "México",
+    "tipo": "Ecom mayoreo",
+    "notas": "Cajas 10-22kg almendras nuez",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 4
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Member's Mark nueces Sam's",
+    "url": "https://www.sams.com.mx/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Retail club",
+    "notas": "Canal",
+    "fuente": "brand",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Mercanto",
+    "url": "https://mercanto.mx/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Mayoreo foodservice",
+    "notas": "Restaurantes frutos secos granel",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 3
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Nature's Heart snacks nueces",
+    "url": "https://naturesheart.com.mx/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Marca healthy",
+    "notas": "Retail moderno",
+    "fuente": "brand",
+    "prioridad": "Media",
+    "score_contacto": 3
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Productores nuez pecanera Aldama Chih",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Aldama",
+    "estado": "Chihuahua",
+    "pais": "México",
+    "tipo": "Productor regional",
+    "notas": "Cinturón pecanero",
+    "fuente": "regional",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Productores nuez pecanera Camargo Chih",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Camargo",
+    "estado": "Chihuahua",
+    "pais": "México",
+    "tipo": "Productor regional",
+    "notas": "Cinturón pecanero",
+    "fuente": "regional",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Productores nuez pecanera Delicias Chih",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Delicias",
+    "estado": "Chihuahua",
+    "pais": "México",
+    "tipo": "Productor regional",
+    "notas": "Cinturón pecanero",
+    "fuente": "regional",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Productores nuez pecanera Flores Magón Chih",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Buenaventura",
+    "estado": "Chihuahua",
+    "pais": "México",
+    "tipo": "Productor regional",
+    "notas": "Norte",
+    "fuente": "regional",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Productores nuez pecanera Hermosillo Son",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Hermosillo",
+    "estado": "Sonora",
+    "pais": "México",
+    "tipo": "Productor regional",
+    "notas": "Noroeste",
+    "fuente": "regional",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Productores nuez pecanera Jiménez Chih",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Jiménez",
+    "estado": "Chihuahua",
+    "pais": "México",
+    "tipo": "Productor regional",
+    "notas": "Cinturón pecanero",
+    "fuente": "regional",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Productores nuez pecanera Lerdo Dgo",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Lerdo",
+    "estado": "Durango",
+    "pais": "México",
+    "tipo": "Productor/cluster",
+    "notas": "La Laguna",
+    "fuente": "regional",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Productores nuez pecanera Monclova zona",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Monclova",
+    "estado": "Coahuila",
+    "pais": "México",
+    "tipo": "Productor/comercial",
+    "notas": "Centro-norte",
+    "fuente": "regional",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Productores nuez pecanera Navajoa Son",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Navojoa",
+    "estado": "Sonora",
+    "pais": "México",
+    "tipo": "Productor regional",
+    "notas": "Noroeste",
+    "fuente": "regional",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Productores nuez pecanera Nuevo Casas Grandes",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Nuevo Casas Grandes",
+    "estado": "Chihuahua",
+    "pais": "México",
+    "tipo": "Productor regional",
+    "notas": "Norte",
+    "fuente": "regional",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Productores nuez pecanera Obregón Son",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Cd. Obregón",
+    "estado": "Sonora",
+    "pais": "México",
+    "tipo": "Productor regional",
+    "notas": "Noroeste",
+    "fuente": "regional",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Productores nuez pecanera Parras Coah",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Parras",
+    "estado": "Coahuila",
+    "pais": "México",
+    "tipo": "Productor regional",
+    "notas": "Centro-norte",
+    "fuente": "regional",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Productores nuez pecanera Saltillo zona",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Saltillo",
+    "estado": "Coahuila",
+    "pais": "México",
+    "tipo": "Productor/comercial",
+    "notas": "Centro-norte",
+    "fuente": "regional",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Productores nuez pecanera Torreón La Laguna",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Torreón",
+    "estado": "Coahuila",
+    "pais": "México",
+    "tipo": "Productor/cluster",
+    "notas": "La Laguna",
+    "fuente": "regional",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Rikanuez CDMX",
+    "url": "https://www.rikanuez.com/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "CDMX",
+    "estado": "CDMX",
+    "pais": "México",
+    "tipo": "Ecom + mayoreo",
+    "notas": "Almendra nuez pecana botana premium",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 4
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Señor Pistacho",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "CDMX",
+    "estado": "CDMX",
+    "pais": "México",
+    "tipo": "Superfoods retail/mayoreo",
+    "notas": "Pistache almendras nueces dátiles",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Venta de Nuez Almendra y Granos / REMANU",
+    "url": "https://ventadenuezalmendraygranos.com/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "CDMX",
+    "estado": "CDMX",
+    "pais": "México",
+    "tipo": "Mayoreo 1kg-toneladas",
+    "notas": "Comercio justo campo mexicano",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 4
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "A-Verfrut",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "CDMX",
+    "estado": "CDMX",
+    "pais": "México",
+    "tipo": "Central Abastos",
+    "notas": "Frutos secos",
+    "fuente": "research",
+    "prioridad": "Baja",
+    "score_contacto": 1
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Abasto Latino Americano ALA",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "CDMX",
+    "estado": "CDMX",
+    "pais": "México",
+    "tipo": "CEDA abarrotes",
+    "notas": "Frutos secos pasillo 2",
+    "fuente": "research",
+    "prioridad": "Baja",
+    "score_contacto": 1
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Agronuez / cooperativas nogaleras multi",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Norte",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Cooperativa",
+    "notas": "Pecan",
+    "fuente": "extra",
+    "prioridad": "Baja",
+    "score_contacto": 0
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Ajonjolí MX/import multi",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Commodity",
+    "notas": "Ajonjolí",
+    "fuente": "brand",
+    "prioridad": "Baja",
+    "score_contacto": 0
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Almendra California importadores MX multi",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Importadores",
+    "notas": "Almond USA",
+    "fuente": "brand",
+    "prioridad": "Baja",
+    "score_contacto": 0
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Alpura / lácteos no",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "—",
+    "notas": "Skip soft",
+    "fuente": "extra",
+    "prioridad": "Baja",
+    "score_contacto": 0
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Amaranto MX productores multi",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Superfood nacional",
+    "notas": "Amaranto",
+    "fuente": "brand",
+    "prioridad": "Baja",
+    "score_contacto": 0
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Amazon MX sellers frutos secos multi",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Marketplace",
+    "notas": "Multi sellers",
+    "fuente": "brand",
+    "prioridad": "Baja",
+    "score_contacto": 0
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Anacardo/India cashew importadores MX multi",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Importadores",
+    "notas": "Cashew",
+    "fuente": "brand",
+    "prioridad": "Baja",
+    "score_contacto": 0
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Arándano USA/Chile importadores MX multi",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Importadores",
+    "notas": "Cranberry",
+    "fuente": "brand",
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2268,8 +1740,8 @@
     "tipo": "Importadores",
     "notas": "Hazelnut",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2284,8 +1756,8 @@
     "tipo": "Marca botana",
     "notas": "Canal retail adyacente",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Alimentos",
@@ -2300,8 +1772,8 @@
     "tipo": "Marca regional",
     "notas": "Cacahuate",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Alimentos",
@@ -2316,8 +1788,8 @@
     "tipo": "Botanas",
     "notas": "Pistaches Taller Balbuena",
     "fuente": "research",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Alimentos",
@@ -2332,8 +1804,8 @@
     "tipo": "Fabricante",
     "notas": "Botanas semillas",
     "fuente": "extra",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Alimentos",
@@ -2348,8 +1820,8 @@
     "tipo": "Trading",
     "notas": "Import containers",
     "fuente": "regional",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2364,8 +1836,8 @@
     "tipo": "Productor nacional",
     "notas": "Cacahuate",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2380,8 +1852,8 @@
     "tipo": "Cluster botana",
     "notas": "Japonés enchilado",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2396,8 +1868,8 @@
     "tipo": "Marca",
     "notas": "Japonés",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Alimentos",
@@ -2412,8 +1884,8 @@
     "tipo": "Chocolate",
     "notas": "Tabasco",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2428,8 +1900,8 @@
     "tipo": "Marca botana",
     "notas": "Surtido",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Alimentos",
@@ -2444,8 +1916,8 @@
     "tipo": "Chocolate",
     "notas": "Canal",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2460,8 +1932,8 @@
     "tipo": "Mayoreo CEDA",
     "notas": "Múltiples locatarios",
     "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Alimentos",
@@ -2476,8 +1948,8 @@
     "tipo": "Certificación",
     "notas": "Orgánico",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2492,8 +1964,8 @@
     "tipo": "Marca",
     "notas": "Totopos snacks",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Alimentos",
@@ -2508,8 +1980,8 @@
     "tipo": "Supermercado",
     "notas": "Canal",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2524,8 +1996,8 @@
     "tipo": "Chocolate MX",
     "notas": "Oaxaca",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2540,8 +2012,8 @@
     "tipo": "Chocolate MX",
     "notas": "Posible uso nuez",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2556,8 +2028,8 @@
     "tipo": "Superfood nacional",
     "notas": "Chía",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2572,8 +2044,8 @@
     "tipo": "Importadores",
     "notas": "Prunes",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2588,8 +2060,8 @@
     "tipo": "Cámara/asociación",
     "notas": "Representación sector",
     "fuente": "regional",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2604,8 +2076,8 @@
     "tipo": "Importadores",
     "notas": "Coconut",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2620,8 +2092,8 @@
     "tipo": "Procesado",
     "notas": "Untables",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2636,8 +2108,8 @@
     "tipo": "Procesado",
     "notas": "Untables",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2652,8 +2124,8 @@
     "tipo": "Industrial",
     "notas": "Uso industrial",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2668,8 +2140,8 @@
     "tipo": "Servicio",
     "notas": "Branding",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2684,8 +2156,8 @@
     "tipo": "CEDA",
     "notas": "Frutos secos chiles",
     "fuente": "research",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Alimentos",
@@ -2700,8 +2172,8 @@
     "tipo": "Importadores",
     "notas": "Dates",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2716,8 +2188,8 @@
     "tipo": "Marca abarrotes",
     "notas": "Canal tradicional",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Alimentos",
@@ -2732,8 +2204,8 @@
     "tipo": "Cluster empaque",
     "notas": "Pecan",
     "fuente": "extra",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2748,8 +2220,40 @@
     "tipo": "Cluster empaque",
     "notas": "Pecan",
     "fuente": "extra",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Empacadoras pecan Cd Juárez cluster",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Cd. Juárez",
+    "estado": "Chihuahua",
+    "pais": "México",
+    "tipo": "Empaque/export",
+    "notas": "Frontera",
+    "fuente": "regional",
+    "prioridad": "Baja",
+    "score_contacto": 0
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Empacadoras pecan Torreón cluster",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Torreón",
+    "estado": "Coahuila",
+    "pais": "México",
+    "tipo": "Empaque/export",
+    "notas": "La Laguna",
+    "fuente": "regional",
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2764,8 +2268,8 @@
     "tipo": "Empaque",
     "notas": "Insumo packaging",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2780,8 +2284,8 @@
     "tipo": "Servicio",
     "notas": "Marca propia",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2796,8 +2300,8 @@
     "tipo": "Export",
     "notas": "Pecan belt export",
     "fuente": "regional",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2812,8 +2316,8 @@
     "tipo": "Import premium",
     "notas": "Almendra avellana",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2828,8 +2332,8 @@
     "tipo": "Almacenamiento frío",
     "notas": "Pecan",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2844,8 +2348,8 @@
     "tipo": "Marca mix",
     "notas": "Mix frutos secos retail",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Alimentos",
@@ -2860,8 +2364,8 @@
     "tipo": "Industrial galleta",
     "notas": "Uso industrial",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2876,8 +2380,8 @@
     "tipo": "Import premium",
     "notas": "Retail",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2892,8 +2396,8 @@
     "tipo": "Marca",
     "notas": "Snacks nuez",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Alimentos",
@@ -2908,8 +2412,8 @@
     "tipo": "Marca cereal",
     "notas": "Breakfast",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2924,8 +2428,8 @@
     "tipo": "Industrial pan",
     "notas": "Uso industrial nuez",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2940,8 +2444,8 @@
     "tipo": "Procesado",
     "notas": "Repostería keto",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2956,8 +2460,8 @@
     "tipo": "Marca",
     "notas": "Botanas",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Alimentos",
@@ -2972,8 +2476,8 @@
     "tipo": "Chocolate gourmet",
     "notas": "Yucatán",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -2988,8 +2492,8 @@
     "tipo": "Servicio QA",
     "notas": "Export USA",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3004,8 +2508,8 @@
     "tipo": "Proveedora botana",
     "notas": "Semilla fina pistache almendra nuez",
     "fuente": "research",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Alimentos",
@@ -3020,8 +2524,8 @@
     "tipo": "Commodity",
     "notas": "Linaza",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3036,8 +2540,8 @@
     "tipo": "Import premium",
     "notas": "Retail",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3052,8 +2556,8 @@
     "tipo": "Proveedor",
     "notas": "Frutos secos",
     "fuente": "research",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Alimentos",
@@ -3068,8 +2572,8 @@
     "tipo": "Logística",
     "notas": "Cadena frío",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3084,8 +2588,8 @@
     "tipo": "Importadores",
     "notas": "Macadamia",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3100,8 +2604,8 @@
     "tipo": "Import retail",
     "notas": "Untables",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3116,8 +2620,8 @@
     "tipo": "Maquila",
     "notas": "Private label",
     "fuente": "regional",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3132,8 +2636,8 @@
     "tipo": "Private label",
     "notas": "Retail chains",
     "fuente": "regional",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3148,8 +2652,8 @@
     "tipo": "Mayoreo abastos",
     "notas": "Múltiples locatarios",
     "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Alimentos",
@@ -3164,8 +2668,8 @@
     "tipo": "Mayoreo abastos",
     "notas": "Múltiples locatarios",
     "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Alimentos",
@@ -3180,8 +2684,8 @@
     "tipo": "Marketplace",
     "notas": "Multi sellers",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3196,8 +2700,8 @@
     "tipo": "Marca barras",
     "notas": "Retail",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Alimentos",
@@ -3212,8 +2716,8 @@
     "tipo": "Industrial",
     "notas": "Coberturas/insumos",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3228,8 +2732,8 @@
     "tipo": "Marca botana",
     "notas": "Japonés",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Alimentos",
@@ -3244,24 +2748,8 @@
     "tipo": "Importadores",
     "notas": "Walnut import",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "Nutella / Ferrero canal avellana",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "México",
-    "estado": "México",
-    "pais": "México",
-    "tipo": "Import",
-    "notas": "Avellana",
-    "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3276,8 +2764,8 @@
     "tipo": "Logística",
     "notas": "Envíos",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3292,8 +2780,8 @@
     "tipo": "Productor nacional",
     "notas": "Pepita",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3308,8 +2796,8 @@
     "tipo": "Importadores",
     "notas": "Pistachio",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3324,8 +2812,8 @@
     "tipo": "Importadores",
     "notas": "Pine nut",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3340,8 +2828,8 @@
     "tipo": "Orgánico",
     "notas": "Frutos secos org",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3356,8 +2844,8 @@
     "tipo": "Fabricante botana",
     "notas": "Cacahuate",
     "fuente": "extra",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Alimentos",
@@ -3372,8 +2860,8 @@
     "tipo": "Foodservice",
     "notas": "Cafés",
     "fuente": "regional",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3388,8 +2876,8 @@
     "tipo": "Industrial",
     "notas": "Chocolate",
     "fuente": "regional",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3404,8 +2892,8 @@
     "tipo": "Foodservice",
     "notas": "Helados",
     "fuente": "regional",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3420,8 +2908,8 @@
     "tipo": "Foodservice",
     "notas": "Hoteles restaurantes",
     "fuente": "regional",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3436,8 +2924,8 @@
     "tipo": "Foodservice",
     "notas": "Repostería",
     "fuente": "regional",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3452,8 +2940,8 @@
     "tipo": "Mayoreo canal",
     "notas": "Naturistas",
     "fuente": "regional",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3468,8 +2956,8 @@
     "tipo": "Marca cereal",
     "notas": "Retail",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Alimentos",
@@ -3484,24 +2972,8 @@
     "tipo": "Marca botana",
     "notas": "Retail",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Alimentos",
-    "nicho": "Frutos secos",
-    "empresa": "See's Candies / similares import",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "México",
-    "estado": "México",
-    "pais": "México",
-    "tipo": "Import",
-    "notas": "Retail",
-    "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Alimentos",
@@ -3516,8 +2988,8 @@
     "tipo": "Commodity",
     "notas": "Girasol",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3532,8 +3004,8 @@
     "tipo": "Supermercado",
     "notas": "Canal",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3548,8 +3020,8 @@
     "tipo": "Marca",
     "notas": "Retail",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Alimentos",
@@ -3564,8 +3036,8 @@
     "tipo": "Retail naturista",
     "notas": "Granel",
     "fuente": "brand",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Alimentos",
@@ -3580,8 +3052,8 @@
     "tipo": "Marca healthy",
     "notas": "Snacks",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Alimentos",
@@ -3596,8 +3068,8 @@
     "tipo": "Retail orgánico",
     "notas": "Granel",
     "fuente": "brand",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Alimentos",
@@ -3612,8 +3084,8 @@
     "tipo": "Retail valor",
     "notas": "Canal",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3628,8 +3100,8 @@
     "tipo": "Marca",
     "notas": "Botanas maíz",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Alimentos",
@@ -3644,8 +3116,8 @@
     "tipo": "Chocolate",
     "notas": "Uso industrial almendra",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3660,8 +3132,8 @@
     "tipo": "Unión productor",
     "notas": "Pecan belt",
     "fuente": "extra",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3676,8 +3148,8 @@
     "tipo": "Importadores",
     "notas": "Raisins",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Alimentos",
@@ -3692,7 +3164,7 @@
     "tipo": "Supermercado",
     "notas": "Canal",
     "fuente": "brand",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   }
 ]

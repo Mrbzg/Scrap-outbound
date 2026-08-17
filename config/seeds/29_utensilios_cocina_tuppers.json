@@ -1,0 +1,318 @@
+{
+  "lote": "29",
+  "slug": "utensilios_cocina_tuppers",
+  "description": "Utensilios de cocina, tuppers y menaje MX",
+  "leads": [
+    {
+      "empresa": "Surtiloza",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — loza, utensilios y equipo de cocina; ventas@surtiloza.com",
+      "fuente": "ejemplo_cliente",
+      "url": "https://surtiloza.mx/",
+      "email": "ventas@surtiloza.com",
+      "telefono": "3323851294",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Surtiloza WhatsApp",
+      "tipo": "Canal",
+      "notas": "WhatsApp ventas empresas (33) 2385 1294",
+      "fuente": "research",
+      "url": "https://surtiloza.mx/",
+      "telefono": "3323851294",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "MAHA Food Service",
+      "tipo": "Mayoreo",
+      "notas": "Food service: vajillas, cristalería, tuppers y desechables para restaurantes",
+      "fuente": "research",
+      "url": "https://maha.com.mx/",
+      "email": "hola@maha.com.mx",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "MAHA Instagram",
+      "tipo": "Canal",
+      "notas": "@MAHA_FOODSERVICE",
+      "fuente": "research",
+      "url": "https://www.instagram.com/MAHA_FOODSERVICE",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "ACMA Plastics",
+      "tipo": "Fabricante",
+      "notas": "Fabricante PP: cubetas, tuppers, tazas, palanganas; mayoreo directo de fábrica",
+      "fuente": "research",
+      "url": "https://acmaplastics.com/",
+      "email": "hola@acmaplastics.com",
+      "telefono": "5561063801",
+      "ciudad": "Nextlalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Tupperware México",
+      "tipo": "Marca",
+      "notas": "Paseo de los Laureles 458, Cuajimalpa; 55+ años en MX",
+      "fuente": "brand",
+      "url": "https://www.tupperware.com.mx/",
+      "email": "ecommerce@tupperware.com",
+      "telefono": "5525577600",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Tupperware Amanecer",
+      "tipo": "Distribuidor",
+      "notas": "Catálogo GAM, 35 años, venta a domicilio",
+      "fuente": "research",
+      "url": "https://www.tupperwareamanecer.com/",
+      "email": "haydeeunasconestilo@gmail.com",
+      "telefono": "5528949718",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Anforama",
+      "tipo": "Cadena",
+      "notas": "5000+ artículos cocina y comedor; 34 sucursales CDMX/metro/Bajío",
+      "fuente": "research",
+      "url": "https://anforama.com/",
+      "email": "contacto@anforama.com",
+      "telefono": "5555108826",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Anforama WhatsApp",
+      "tipo": "Canal",
+      "notas": "WhatsApp 55 3855 9676",
+      "fuente": "research",
+      "url": "https://anforama.com/",
+      "telefono": "5538559676",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Almacenes Anfora",
+      "tipo": "Cadena",
+      "notas": "85+ años; fábrica Camino a Pozos Téllez km 1.5, HGO",
+      "fuente": "research",
+      "url": "https://anfora.com/",
+      "email": "ventas@anfora.com",
+      "telefono": "7717163100",
+      "ciudad": "Mineral de la Reforma",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Anfora tienda fábrica CDMX",
+      "tipo": "Sucursal",
+      "notas": "Dr. Lucio 181, Col. Doctores; 55 5588 5426",
+      "fuente": "research",
+      "url": "https://anfora.com/",
+      "telefono": "5555885426",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Anfora showroom Constituyentes",
+      "tipo": "Sucursal",
+      "notas": "Av. Constituyentes 345, Daniel Garza; cita 55 6800 4839",
+      "fuente": "research",
+      "url": "https://anfora.com/",
+      "telefono": "5568004839",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Vencort",
+      "tipo": "Mayoreo",
+      "notas": "Av. Plutarco Elías Calles 816A, Iztacalco; utensilios y menaje",
+      "fuente": "research",
+      "url": "https://vencort.mx/",
+      "email": "oscar@vencort.mx",
+      "telefono": "5591554381",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Vencort preguntas",
+      "tipo": "Canal",
+      "notas": "WhatsApp 56 2624 9961; respuesta <24h",
+      "fuente": "research",
+      "url": "https://vencort.mx/contacto/",
+      "email": "preguntas@vencort.mx",
+      "telefono": "5626249961",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Menaje.com.mx",
+      "tipo": "Ecom",
+      "notas": "Guillermo González Camarena 59, Industrial Cuamatla; artículos hogar",
+      "fuente": "research",
+      "url": "https://menaje.com.mx/",
+      "ciudad": "Cuautitlán Izcalli",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Cooking Menaje",
+      "tipo": "Ecom",
+      "notas": "Menaje del hogar y pequeño electrodoméstico",
+      "fuente": "research",
+      "url": "https://cookingmenaje.com/"
+    },
+    {
+      "empresa": "CINSA",
+      "tipo": "Fabricante",
+      "notas": "Grupo Industrial Saltillo, 90+ años: ollas, cacerolas, sartenes y arroceras",
+      "fuente": "brand",
+      "url": "http://cinsa.com.mx/",
+      "ciudad": "Saltillo",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Vasconia",
+      "tipo": "Marca",
+      "notas": "Ollas y baterías de cocina, fabricante MX",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Lamex",
+      "tipo": "Marca",
+      "notas": "Cristalería y menaje, grupo regiomontano",
+      "fuente": "brand",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Tramontina México",
+      "tipo": "Marca",
+      "notas": "Baterías de cocina y utensilios, operación MX",
+      "fuente": "brand",
+      "url": "https://www.tramontina.com.mx/"
+    },
+    {
+      "empresa": "T-fal México",
+      "tipo": "Marca",
+      "notas": "Groupe SEB: sartenes y ollas",
+      "fuente": "brand",
+      "url": "https://www.tfal.com.mx/"
+    },
+    {
+      "empresa": "Abasteo.mx",
+      "tipo": "Marketplace",
+      "notas": "Precios por volumen con factura",
+      "fuente": "research",
+      "url": "https://www.abasteo.mx/Fabricante/CINSA/2/"
+    },
+    {
+      "empresa": "Amazon MX utensilios",
+      "tipo": "Marketplace",
+      "notas": "Sellers utensilios y tuppers",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=utensilios+de+cocina",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mercado Libre cocina mayoreo",
+      "tipo": "Marketplace",
+      "notas": "Mayoreo utensilios y menaje",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/utensilios-de-cocina-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Liverpool Hogar",
+      "tipo": "Retail",
+      "notas": "Cadenas: menaje y electrodomésticos",
+      "fuente": "brand",
+      "url": "https://www.liverpool.com.mx/tienda/hogar",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Sears Hogar",
+      "tipo": "Retail",
+      "notas": "Línea hogar",
+      "fuente": "brand",
+      "url": "https://www.sears.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Home Depot México",
+      "tipo": "Retail",
+      "notas": "Línea cocina y almacenaje",
+      "fuente": "brand",
+      "url": "https://www.homedepot.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Coppel Hogar",
+      "tipo": "Retail",
+      "notas": "Hogar y electrodomésticos",
+      "fuente": "brand",
+      "url": "https://www.coppel.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Mayoreo Vip hogar",
+      "tipo": "Mayoreo",
+      "notas": "Centro CDMX, categorías hogar y cocina",
+      "fuente": "research",
+      "url": "https://mayoreo.vip/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Tuppers herméticos producto",
+      "tipo": "Producto",
+      "notas": "Contenedores y tuppers para food service",
+      "fuente": "research",
+      "url": "https://maha.com.mx/collections/tuppers-contenedores",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Vajillas melamina producto",
+      "tipo": "Producto",
+      "notas": "Vajillas de melamina para restaurante",
+      "fuente": "research",
+      "url": "https://anforama.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Cubetas y palanganas producto",
+      "tipo": "Producto",
+      "notas": "Plásticos PP para hogar y ferretería",
+      "fuente": "research",
+      "url": "https://acmaplastics.com/"
+    },
+    {
+      "empresa": "Baterías de cocina producto",
+      "tipo": "Producto",
+      "notas": "Ollas y cacerolas CINSA",
+      "fuente": "research",
+      "url": "http://cinsa.com.mx/",
+      "ciudad": "Saltillo",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Cristalería y copas producto",
+      "tipo": "Producto",
+      "notas": "Cristalería para mesa",
+      "fuente": "research",
+      "url": "https://almacenesanfora.com/"
+    }
+  ]
+}

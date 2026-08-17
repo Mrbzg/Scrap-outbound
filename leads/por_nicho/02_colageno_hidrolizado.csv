@@ -1,22 +1,21 @@
 giro,nicho,empresa,url,email,telefono,ciudad,estado,pais,tipo,prioridad,score_contacto,notas,fuente
 Salud,Colágeno hidrolizado,Grenetina Andrade / PIASA,http://www.grenetina.mx/,,(477) 763-6312,León,Guanajuato,México,Fabricante,Alta,6,Colágeno medio mayoreo desde 20kg,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,PROSA Productos Naturales,https://www.prosaproductosnaturales.mx,prosa@prosaenlinea.com.mx,(55) 5741-2966,CDMX,CDMX,México,Naturales,Alta,8,Cápsulas y naturales,b2b_quiminet_dirind
-Salud,Colágeno hidrolizado,Prosperidad Vital NeoLife,https://www.prosperidadvital.com.mx,prosperidad.vital@gmail.com,(55) 8580-7013,CDMX,CDMX,México,Distribuidor MLM,Alta,8,NeoLife,retail_ecom
+Salud,Colágeno hidrolizado,Prosperidad Vital NeoLife,https://www.prosperidadvital.com.mx,prosperidad.vital@gmail.com,(55) 8580-7013,CDMX,CDMX,México,Distribuidor MLM,Alta,9,NeoLife,retail_ecom
 Salud,Colágeno hidrolizado,Sesén Company / Sesén Colágeno,https://sesencompany.com/,servicioalcliente@sesencolageno.com,(238) 241-1090,Santiago Miahuatlán,Puebla,México,Marca D2C / fabricante,Alta,9,Top Profeco; péptidos bioactivos; matcha/silver,marcas_d2c
 Salud,Colágeno hidrolizado,Suplementos de Colágeno S.A. de C.V.,,suplementosdecolageno@gmail.com,(477) 781-2762,León,Guanajuato,México,Fabricante B2B,Alta,7,Colágeno bovino polvo + grenetina; WA 4776487025,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,Tecnua Tecnología y Nutrición,https://www.soyamix.com.mx,alberto_perez@tecnua.com,800-500-4567,León,Guanajuato,México,Nutrición aplicada,Alta,8,Proteínas y nutracéuticos,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,Ultra Soya,https://www.ultrasoya.com.mx,ultrasoya85@hotmail.com,(33) 3694-4103,Guadalajara,Jalisco,México,Vitaminas naturales,Alta,8,Distribuidor,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,Vivalvia / Vivalvia SAS,https://www.vivalvia.com,contacto@vivalvia.com,55 5692 3893,CDMX,CDMX,México,B2B péptidos,Alta,9,Distribución péptidos,b2b_quiminet_dirind
-Salud,Colágeno hidrolizado,Vivalvia S.A.S. de C.V.,https://www.vivalvia.com,contacto@vivalvia.com,(55) 5692-3893,CDMX,CDMX,México,Distribuidor péptidos,Alta,8,Materia prima péptidos bioactivos mayoreo,b2b_quiminet_dirind
+Salud,Colágeno hidrolizado,Vivalvia S.A.S. de C.V.,https://www.vivalvia.com,contacto@vivalvia.com,(55) 5692-3893,CDMX,CDMX,México,Distribuidor péptidos,Alta,9,Materia prima péptidos bioactivos mayoreo,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,Welbing Inc / Welbing México,https://www.welbingmexico.com,equipodeventas@welbingmexico.com,(55) 5360-4763,CDMX,CDMX,México,Superfoods granel,Alta,8,Marca propia + granel,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,A&G Persea,https://agpersea.mx/,,,México,México,México,Marca,Media,3,Colágeno arándano 1.2kg,marcas_d2c
 Salud,Colágeno hidrolizado,Al Natural Colágeno,https://alnatural.mx/,,,México,México,México,Marca D2C,Media,3,10g porción,marcas_d2c
 Salud,Colágeno hidrolizado,Altagamma Colágeno Marino,https://altagamma.mx/,,,México,México,México,Marca,Media,3,Origen marino,marcas_d2c
 Salud,Colágeno hidrolizado,AMARU Colágeno,,,,Ecatepec,EdoMex,México,Mayoreo,Media,2,Polvo 25kg,b2b_quiminet_dirind
-Salud,Colágeno hidrolizado,Amazon México sellers colágeno,https://www.amazon.com.mx/,,,México,México,México,Marketplace,Media,2,Canal multiproducto,retail_ecom
 Salud,Colágeno hidrolizado,AMINOVITA Y QUIMICOS,,,55 8920 2387,EdoMex,EdoMex,México,Químicos,Media,3,Colágeno San Mateo Nopala,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,Amway Nutrilite MX,https://www.amway.com.mx/,,,México,México,México,MLM,Media,2,Nutrilite,retail_ecom
-Salud,Colágeno hidrolizado,Azelis México,https://www.azelis.com/,,,México,México,México,Distribuidor,Media,2,Life sciences,b2b_quiminet_dirind
+Salud,Colágeno hidrolizado,Azelis México,https://www.azelis.com/,,,México,México,México,Distribuidor,Media,3,Life sciences,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,B Life,https://www.blife.mx/,,,México,México,México,Marca D2C,Media,3,Collagen blend I-II-III-V-X; fuerte ecom,marcas_d2c
 Salud,Colágeno hidrolizado,Barosa Labs,https://barosalabs.com/,,,México,México,México,Maquila suplementos,Media,2,Fabrica colágeno+HA marca propia,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,Bayer Consumer MX,https://www.bayer.com.mx/,,,México,México,México,Farmacéutica,Media,2,Consumer health,labs_pharma
@@ -25,7 +24,7 @@ Salud,Colágeno hidrolizado,BHP Colágeno,https://bhp.mx/,,,México,México,Méx
 Salud,Colágeno hidrolizado,Biomiral / Colagener,https://biomiral.mx/,,,México,México,México,Marca D2C,Media,3,COLAGENER Tipo I,marcas_d2c
 Salud,Colágeno hidrolizado,Birdman plant protein + colágeno?,https://birdman.com.mx/,,,México,México,México,Marca plant,Media,3,Proteínas MX,extra_marcas
 Salud,Colágeno hidrolizado,Bodega Aurrera,https://www.bodegaaurrera.com.mx/,,,México,México,México,Retail,Media,2,Suplementos,retail_ecom
-Salud,Colágeno hidrolizado,Brenntag México,https://www.brenntag.com/,,,México,México,México,Distribuidor químico,Media,2,Ingredientes,b2b_quiminet_dirind
+Salud,Colágeno hidrolizado,Brenntag México,https://www.brenntag.com/,,,México,México,México,Distribuidor químico,Media,3,Ingredientes,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,Caalfrabet mayoreo,https://caalfrabet.com.mx/,,,México,México,México,Mayoreo,Media,3,Pretty Bee y más,extra_marcas
 Salud,Colágeno hidrolizado,Cahuenga,https://cahuenga.mx/,,,México,México,México,Marca mexicana,Media,3,Colágeno avalado Profeco,marcas_d2c
 Salud,Colágeno hidrolizado,Carticap,https://carticap.mx/,,,México,México,México,Marca articular,Media,3,Glucosamina + condroitina,marcas_d2c
@@ -36,7 +35,7 @@ Salud,Colágeno hidrolizado,Collagen Labores Nutrition,https://laboresnutrition.
 Salud,Colágeno hidrolizado,Colnatur MX,https://colnatur.mx/,,,México,México,México,Marca EU,Media,3,Farmacia,marcas_d2c
 Salud,Colágeno hidrolizado,Costco México,https://www.costco.com.mx/,,,México,México,México,Club mayoreo,Media,3,Sesén Entera Vital Proteins,retail_ecom
 Salud,Colágeno hidrolizado,Darling Ingredients / Rousselot,https://www.rousselot.com/,,,México,México,México,Industrial,Media,2,Peptan,b2b_quiminet_dirind
-Salud,Colágeno hidrolizado,Drogas Tacuba SA de CV,,,55 4172 5953,CDMX,CDMX,México,Distribuidor farmacéutico,Media,3,Colágeno a granel grado,b2b_quiminet_dirind
+Salud,Colágeno hidrolizado,Drogas Tacuba SA de CV,,,55 4172 5953,CDMX,CDMX,México,Distribuidor farmacéutico,Media,4,Colágeno a granel grado,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,Enature,https://enature.mx/,,,México,México,México,Marca natural,Media,3,Suplementos,extra_marcas
 Salud,Colágeno hidrolizado,Energeios,https://energeios.mx/,,,México,México,México,Marca,Media,3,Kit antiedad 2 meses,marcas_d2c
 Salud,Colágeno hidrolizado,Entera Pharma,https://enterapharma.mx/,,,México,México,México,Marca farmacéutica,Media,3,Colágeno puro sin azúcar; Costco,marcas_d2c
@@ -60,7 +59,6 @@ Salud,Colágeno hidrolizado,Gelita México,https://www.gelita.com/,,,México,Mé
 Salud,Colágeno hidrolizado,Genomma Lab,https://www.genommalab.com/,,,México,México,México,Farmacéutica OTC,Media,2,Wellness brands,labs_pharma
 Salud,Colágeno hidrolizado,Genové Fluidbase,https://genove.mx/,,,México,México,México,Marca dermato,Media,3,Rederm sobres,marcas_d2c
 Salud,Colágeno hidrolizado,Gibanibb,,,,Guadalajara,Jalisco,México,Marca/sabor,Media,2,Colágeno durazno,b2b_quiminet_dirind
-Salud,Colágeno hidrolizado,GNC Franchisees MX multi,https://www.gnc.com.mx/,,,México,México,México,Franquicias,Media,2,Múltiples puntos,retail_ecom
 Salud,Colágeno hidrolizado,GNC México,https://www.gnc.com.mx/,,,México,México,México,Cadena suplementos,Media,2,Retail colágeno,retail_ecom
 Salud,Colágeno hidrolizado,Green Corner,https://greencorner.mx/,,,CDMX,CDMX,México,Tienda orgánica,Media,3,Retail,retail_ecom
 Salud,Colágeno hidrolizado,Greenside Resveratrol,https://greenside.mx/,,,México,México,México,Marca,Media,3,Complemento antiedad,marcas_d2c
@@ -70,7 +68,7 @@ Salud,Colágeno hidrolizado,HEB México,https://www.heb.com.mx/,,,Monterrey,NL,M
 Salud,Colágeno hidrolizado,Herbalife México,https://www.herbalife.com.mx/,,,México,México,México,MLM,Media,2,Suplementos red,retail_ecom
 Salud,Colágeno hidrolizado,Hierbas Medicinales Puebla,,,22 2968 8438,Puebla,Puebla,México,Mayoreo naturista,Media,4,Colágeno y pescado 90%,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,iHerb México envíos,https://www.iherb.com/,,,México,México,México,Ecom internacional,Media,3,Canal import,retail_ecom
-Salud,Colágeno hidrolizado,IMCD México,https://www.imcdgroup.com/,,,México,México,México,Distribuidor,Media,2,Ingredientes especialidad,b2b_quiminet_dirind
+Salud,Colágeno hidrolizado,IMCD México,https://www.imcdgroup.com/,,,México,México,México,Distribuidor,Media,3,Ingredientes especialidad,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,Jafra MX,https://www.jafra.com.mx/,,,México,México,México,MLM belleza,Media,2,Algunos nutricosméticos,retail_ecom
 Salud,Colágeno hidrolizado,Kilani Colágeno,https://kilani.mx/,,,México,México,México,Marca,Media,3,HA + biotina + vit C,marcas_d2c
 Salud,Colágeno hidrolizado,Krystal Nutrition / Kali Natura,https://krystalnutrition.mx/,,,México,México,México,Marca D2C,Media,3,Colágeno hidrolizado,marcas_d2c
@@ -151,6 +149,7 @@ Salud,Colágeno hidrolizado,AGROMASTER SA DE CV,,,,México,México,México,Veter
 Salud,Colágeno hidrolizado,ALEPHQUIM,,,,CDMX,CDMX,México,Químicos,Baja,1,Colágeno grado alimenticio,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,Alpharma México,,,,México,México,México,Farmacéutica,Baja,0,Genéricos,labs_pharma
 Salud,Colágeno hidrolizado,Alta Potencia Nutrición Ortomolecular,,,,CDMX,CDMX,México,Ortomolecular,Baja,1,Colágeno + vit C,b2b_quiminet_dirind
+Salud,Colágeno hidrolizado,Amazon México sellers colágeno,https://www.amazon.com.mx/,,,México,México,México,Marketplace,Baja,1,Canal multiproducto,retail_ecom
 Salud,Colágeno hidrolizado,AMFHER FOODS,,,,México,México,México,Food ingredients,Baja,0,Colágeno,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,América Alimentos,,,,México,México,México,Alimentos,Baja,0,Colágeno QuimiNet,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,Ashland México,,,,México,México,México,Ingredientes,Baja,0,Farmacéutico,b2b_quiminet_dirind
@@ -162,7 +161,7 @@ Salud,Colágeno hidrolizado,BHN Ingredients,,,,México,México,México,Ingredien
 Salud,Colágeno hidrolizado,BioNutrex International,,,,México,México,México,Nutracéuticos,Baja,0,Colágeno,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,Bodybalance sellers,,,,México,México,México,Ingrediente branded,Baja,0,Gelita body,ingredients_sellers
 Salud,Colágeno hidrolizado,Bruluart,,,,México,México,México,Farmacéutica,Baja,0,OTC,labs_pharma
-Salud,Colágeno hidrolizado,BSN MX dist,,,,México,México,México,Distribuidor,Baja,0,Import,extra_marcas
+Salud,Colágeno hidrolizado,BSN MX dist,,,,México,México,México,Distribuidor,Baja,1,Import,extra_marcas
 Salud,Colágeno hidrolizado,Carnot Laboratorios,,,,México,México,México,Farmacéutica,Baja,0,OTC,labs_pharma
 Salud,Colágeno hidrolizado,Centrum colágeno líneas,,,,México,México,México,OTC,Baja,0,Haleon,extra_marcas
 Salud,Colágeno hidrolizado,Clínicas estéticas insumos colágeno oral,,,,México,México,México,Clínicas,Baja,0,Canal profesional,regional
@@ -176,7 +175,6 @@ Salud,Colágeno hidrolizado,Colágeno + Vitamina C sellers,,,,México,México,M�
 Salud,Colágeno hidrolizado,Colágeno de Pescado MX marcas locales,,,,México,México,México,Subnicho marino,Baja,0,Varias marcas,extra_marcas
 Salud,Colágeno hidrolizado,Colágeno deportivo gym brands MX,,,,México,México,México,Deportivo,Baja,0,Cluster,extra_marcas
 Salud,Colágeno hidrolizado,Colágeno Japonés sellers MX,,,,México,México,México,Import sellers,Baja,0,Marketplace,ingredients_sellers
-Salud,Colágeno hidrolizado,Colágeno Marino Chile sellers,,,,México,México,México,Import,Baja,0,Marketplace,ingredients_sellers
 Salud,Colágeno hidrolizado,Colágeno nocturno sellers,,,,México,México,México,Seller formula,Baja,0,Marketplace,extra_marcas
 Salud,Colágeno hidrolizado,Colágeno Premium Alemania sellers,,,,México,México,México,Import sellers,Baja,0,Marketplace,ingredients_sellers
 Salud,Colágeno hidrolizado,Colágeno Pure Gold MX seller,,,,México,México,México,Seller ecom,Baja,1,Marketplace,ingredients_sellers
@@ -189,31 +187,11 @@ Salud,Colágeno hidrolizado,CP Kelco MX,,,,México,México,México,Hidrocoloides
 Salud,Colágeno hidrolizado,Cyzone Belcorp,,,,México,México,México,MLM,Baja,0,Belleza,retail_ecom
 Salud,Colágeno hidrolizado,Dax / Beauty supply,,,,México,México,México,Belleza,Baja,0,Algunos suplementos,retail_ecom
 Salud,Colágeno hidrolizado,Delicias Especiales de México,,,,México,México,México,Proveedor,Baja,0,Colágeno,b2b_quiminet_dirind
-Salud,Colágeno hidrolizado,Distribuidora Naturista Aguascalientes,,,,Aguascalientes,Ags,México,Distribuidor regional,Baja,1,Mayoreo,regional
-Salud,Colágeno hidrolizado,Distribuidora Naturista Cancún,,,,Cancún,QRoo,México,Distribuidor regional,Baja,1,Mayoreo,regional
-Salud,Colágeno hidrolizado,Distribuidora Naturista Chihuahua,,,,Chihuahua,Chihuahua,México,Distribuidor regional,Baja,1,Mayoreo,regional
-Salud,Colágeno hidrolizado,Distribuidora Naturista Culiacán,,,,Culiacán,Sinaloa,México,Distribuidor regional,Baja,1,Mayoreo,regional
-Salud,Colágeno hidrolizado,Distribuidora Naturista Guadalajara,,,,Guadalajara,Jalisco,México,Distribuidor regional,Baja,1,Mayoreo occidente,regional
-Salud,Colágeno hidrolizado,Distribuidora Naturista Hermosillo,,,,Hermosillo,Sonora,México,Distribuidor regional,Baja,1,Mayoreo,regional
-Salud,Colágeno hidrolizado,Distribuidora Naturista León,,,,León,Guanajuato,México,Distribuidor regional,Baja,1,Mayoreo Bajío,regional
-Salud,Colágeno hidrolizado,Distribuidora Naturista Monterrey,,,,Monterrey,NL,México,Distribuidor regional,Baja,1,Mayoreo norte,regional
-Salud,Colágeno hidrolizado,Distribuidora Naturista Morelia,,,,Morelia,Michoacán,México,Distribuidor regional,Baja,1,Mayoreo,regional
-Salud,Colágeno hidrolizado,Distribuidora Naturista Mérida,,,,Mérida,Yucatán,México,Distribuidor regional,Baja,1,Mayoreo SE,regional
-Salud,Colágeno hidrolizado,Distribuidora Naturista Oaxaca,,,,Oaxaca,Oaxaca,México,Distribuidor regional,Baja,1,Mayoreo,regional
-Salud,Colágeno hidrolizado,Distribuidora Naturista Puebla,,,,Puebla,Puebla,México,Distribuidor regional,Baja,1,Mayoreo,regional
-Salud,Colágeno hidrolizado,Distribuidora Naturista Querétaro,,,,Querétaro,Qro,México,Distribuidor regional,Baja,1,Mayoreo Bajío,regional
-Salud,Colágeno hidrolizado,Distribuidora Naturista San Luis Potosí,,,,San Luis Potosí,SLP,México,Distribuidor regional,Baja,1,Mayoreo,regional
-Salud,Colágeno hidrolizado,Distribuidora Naturista Tampico,,,,Tampico,Tamaulipas,México,Distribuidor regional,Baja,1,Mayoreo,regional
-Salud,Colágeno hidrolizado,Distribuidora Naturista Tijuana,,,,Tijuana,BC,México,Distribuidor regional,Baja,1,Mayoreo frontera,regional
-Salud,Colágeno hidrolizado,Distribuidora Naturista Toluca,,,,Toluca,EdoMex,México,Distribuidor regional,Baja,1,Mayoreo,regional
-Salud,Colágeno hidrolizado,Distribuidora Naturista Torreón,,,,Torreón,Coahuila,México,Distribuidor regional,Baja,1,Mayoreo,regional
-Salud,Colágeno hidrolizado,Distribuidora Naturista Veracruz,,,,Veracruz,Veracruz,México,Distribuidor regional,Baja,1,Mayoreo,regional
-Salud,Colágeno hidrolizado,Distribuidora Naturista Villahermosa,,,,Villahermosa,Tabasco,México,Distribuidor regional,Baja,1,Mayoreo,regional
 Salud,Colágeno hidrolizado,Doctor Absolute,,,,Puebla,Puebla,México,Import alemán,Baja,1,Colágeno alemán puro,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,Doctoralia marketplace wellness,,,,México,México,México,Marketplace salud,Baja,0,Canal,retail_ecom
 Salud,Colágeno hidrolizado,DPS Mexicana,,,,CDMX,CDMX,México,Proveedor,Baja,1,Anáhuac,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,DSM-Firmenich MX,,,,México,México,México,Ingredientes,Baja,0,Nutrición,b2b_quiminet_dirind
-Salud,Colágeno hidrolizado,Dymatize MX dist,,,,México,México,México,Distribuidor,Baja,0,Import,extra_marcas
+Salud,Colágeno hidrolizado,Dymatize MX dist,,,,México,México,México,Distribuidor,Baja,1,Import,extra_marcas
 Salud,Colágeno hidrolizado,Ewald Gelatine,,,,México,México,México,Industrial,Baja,0,Gelatina,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,Farmacias del Dr. Ahorro wellness,,,,México,México,México,Cadena,Baja,0,Retail,retail_ecom
 Salud,Colágeno hidrolizado,Fortigel sellers,,,,México,México,México,Ingrediente branded,Baja,0,Gelita articular,ingredients_sellers
@@ -221,10 +199,10 @@ Salud,Colágeno hidrolizado,Fuente Química,,,,Tonalá,Jalisco,México,Grado ali
 Salud,Colágeno hidrolizado,G-Lyco Péptidos de Colágeno,,,,León,Guanajuato,México,Proveedor granel,Baja,1,Polvo 100% puro Santa Rosa,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,Ganozulumm,,,,Guadalajara,Jalisco,México,Proveedor,Baja,1,Colágeno Oblatos,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,Gelnex,,,,México,México,México,Industrial BR/MX,Baja,0,Colágeno,b2b_quiminet_dirind
+Salud,Colágeno hidrolizado,GNC Franchisees MX multi,https://www.gnc.com.mx/,,,México,México,México,Franquicias,Baja,1,Múltiples puntos,retail_ecom
 Salud,Colágeno hidrolizado,Greka Colágeno y sus Derivados,,,,León,Guanajuato,México,Proveedor,Baja,1,Colágeno para perros y derivados,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,Grupo Celeos,,,,Querétaro,Querétaro,México,Proveedor,Baja,1,Colágeno pescado,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,Grupo Gavotte,,,,México,México,México,Proveedor,Baja,0,Colágeno,b2b_quiminet_dirind
-Salud,Colágeno hidrolizado,GRUPO MORATO,,,,México,México,México,Grupo,Baja,0,Colágeno,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,GSK Consumer MX,,,,México,México,México,Farmacéutica,Baja,0,Consumer,labs_pharma
 Salud,Colágeno hidrolizado,Healthy People MX,,,,México,México,México,Marca,Baja,1,Suplementos,extra_marcas
 Salud,Colágeno hidrolizado,Hormona,,,,México,México,México,Farmacéutica,Baja,0,OTC,labs_pharma
@@ -242,7 +220,7 @@ Salud,Colágeno hidrolizado,Laboratorio maquila León Gto colágeno,,,,León,Gua
 Salud,Colágeno hidrolizado,Laboratorios Best,,,,México,México,México,Farmacéutica,Baja,0,OTC,labs_pharma
 Salud,Colágeno hidrolizado,Laboratorios Collins,,,,México,México,México,Farmacéutica,Baja,0,OTC,labs_pharma
 Salud,Colágeno hidrolizado,Laboratorios Grossman,,,,México,México,México,Farmacéutica,Baja,0,OTC,labs_pharma
-Salud,Colágeno hidrolizado,Laboratorios maquila suplementos CDMX cluster,,,,CDMX,CDMX,México,Maquila,Baja,1,Cluster Iztapalapa/Ecatepec,labs_pharma
+Salud,Colágeno hidrolizado,Laboratorios maquila suplementos CDMX cluster,,,,CDMX,CDMX,México,Maquila,Baja,0,Cluster Iztapalapa/Ecatepec,labs_pharma
 Salud,Colágeno hidrolizado,Landsteiner Scientific,,,,México,México,México,Farmacéutica,Baja,0,Especialidad,labs_pharma
 Salud,Colágeno hidrolizado,Lapi Gelatine,,,,México,México,México,Industrial,Baja,0,Gelatina,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,LINDY PHARMA,,,,Zapopan,Jalisco,México,Farmacéutica,Baja,1,Colágeno 500g polvo,b2b_quiminet_dirind
@@ -256,29 +234,28 @@ Salud,Colágeno hidrolizado,Miind Brands / Life360 seller,,,,México,México,Mé
 Salud,Colágeno hidrolizado,Mixup / iShop wellness no,,,,México,México,México,Retail,Baja,0,Limitado,retail_ecom
 Salud,Colágeno hidrolizado,Multi colágeno type 1-5 sellers,,,,México,México,México,Seller formula,Baja,0,Marketplace,extra_marcas
 Salud,Colágeno hidrolizado,Naticol colágeno marino,,,,México,México,México,Ingrediente branded,Baja,0,Marino,ingredients_sellers
-Salud,Colágeno hidrolizado,Nature Made MX,,,,México,México,México,Import,Baja,0,VMS,extra_marcas
 Salud,Colágeno hidrolizado,Nature's Life Colágeno,,,,México,México,México,Import caps,Baja,0,Retail,marcas_d2c
 Salud,Colágeno hidrolizado,Naturex Colágeno,,,,México,México,México,Marca farmacia,Baja,1,Tabletas farmacia emergencias,marcas_d2c
 Salud,Colágeno hidrolizado,NBD PROTEINS,,,,León,Guanajuato,México,Proteínas,Baja,1,Extracto 40% y 90%,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,Nitta Gelatin,,,,México,México,México,Industrial,Baja,0,Colágeno,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,NOVA ORGANICA,,,,León,Guanajuato,México,Orgánicos,Baja,1,Colágeno,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,NOVATEK FOODS,,,,Guadalajara,Jalisco,México,Ingredientes,Baja,1,Colágeno bovino francés / pescado,b2b_quiminet_dirind
-Salud,Colágeno hidrolizado,Now Foods MX dist,,,,México,México,México,Distribuidor,Baja,0,Import VMS,extra_marcas
+Salud,Colágeno hidrolizado,Now Foods MX dist,,,,México,México,México,Distribuidor,Baja,1,Import VMS,extra_marcas
 Salud,Colágeno hidrolizado,Nucleox,,,,San Luis Potosí,SLP,México,Proveedor,Baja,1,Colágeno,b2b_quiminet_dirind
-Salud,Colágeno hidrolizado,Nutramerican,,,,México,México,México,Distribuidor,Baja,0,Import suplementos,extra_marcas
+Salud,Colágeno hidrolizado,Nutramerican,,,,México,México,México,Distribuidor,Baja,1,Import suplementos,extra_marcas
 Salud,Colágeno hidrolizado,NUTRAZE SC DE RL DE CV,,,,Metepec,EdoMex,México,Proveedor,Baja,1,Colágeno Gelicar polvo,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,Nutrición Centro ML full shops,,,,México,México,México,Seller pro,Baja,0,Marketplace,extra_marcas
 Salud,Colágeno hidrolizado,Nutrición Deportiva MX tiendas,,,,México,México,México,Retail,Baja,0,Cluster gym,retail_ecom
 Salud,Colágeno hidrolizado,Nutriólogos marca propia maquila,,,,México,México,México,Profesional,Baja,0,Canal B2B,regional
 Salud,Colágeno hidrolizado,OPS extracciones,,,,México,México,México,Extractos,Baja,0,Colágeno,b2b_quiminet_dirind
-Salud,Colágeno hidrolizado,Optimum Nutrition MX dist,,,,México,México,México,Distribuidor,Baja,0,Import gym,extra_marcas
+Salud,Colágeno hidrolizado,Optimum Nutrition MX dist,,,,México,México,México,Distribuidor,Baja,1,Import gym,extra_marcas
 Salud,Colágeno hidrolizado,P&G Health MX,,,,México,México,México,Consumer,Baja,0,VMS,labs_pharma
 Salud,Colágeno hidrolizado,PB Leiner / Tessenderlo,,,,México,México,México,Industrial,Baja,0,Gelatina/colágeno,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,Peptan sellers MX,,,,México,México,México,Ingrediente branded,Baja,0,Rousselot,ingredients_sellers
 Salud,Colágeno hidrolizado,Peptidos MX marca,,,,México,México,México,Seller,Baja,0,Marketplace,ingredients_sellers
 Salud,Colágeno hidrolizado,Pfizer Consumer MX,,,,México,México,México,Farmacéutica,Baja,0,Consumer,labs_pharma
 Salud,Colágeno hidrolizado,Power Club suplementos,,,,México,México,México,Retail gym,Baja,0,Suplementos,retail_ecom
-Salud,Colágeno hidrolizado,Prinova México,,,,México,México,México,Distribuidor ingredientes,Baja,0,Nutracéuticos,b2b_quiminet_dirind
+Salud,Colágeno hidrolizado,Prinova México,,,,México,México,México,Distribuidor ingredientes,Baja,1,Nutracéuticos,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,Productos Naturistas El Herbolario,,,,México,México,México,Cadena/local,Baja,0,Naturista,retail_ecom
 Salud,Colágeno hidrolizado,Protake,,,,México,México,México,Ingrediente,Baja,0,Colágeno,ingredients_sellers
 Salud,Colágeno hidrolizado,Quifaest,,,,México,México,México,Farmacéutico,Baja,0,Colágeno cápsulas,b2b_quiminet_dirind
@@ -289,9 +266,9 @@ Salud,Colágeno hidrolizado,Sanofi Consumer MX,,,,México,México,México,Consum
 Salud,Colágeno hidrolizado,SAPRIQUIM,,,,CDMX,CDMX,México,Químicos,Baja,1,Extracto 40%/90%,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,Scanpro,,,,México,México,México,Ingrediente,Baja,0,Colágeno,ingredients_sellers
 Salud,Colágeno hidrolizado,Smart Nutrition MX,,,,México,México,México,Marca,Baja,1,Suplementos,extra_marcas
-Salud,Colágeno hidrolizado,Solgar MX dist,,,,México,México,México,Distribuidor,Baja,0,Import premium,extra_marcas
+Salud,Colágeno hidrolizado,Solgar MX dist,,,,México,México,México,Distribuidor,Baja,1,Import premium,extra_marcas
 Salud,Colágeno hidrolizado,Solugel,,,,México,México,México,Ingrediente,Baja,0,PB Leiner,ingredients_sellers
-Salud,Colágeno hidrolizado,Spa + retail colágeno CDMX multi,,,,CDMX,CDMX,México,Spa retail,Baja,1,Canal belleza,regional
+Salud,Colágeno hidrolizado,Spa + retail colágeno CDMX multi,,,,CDMX,CDMX,México,Spa retail,Baja,0,Canal belleza,regional
 Salud,Colágeno hidrolizado,Sportium / suplementos gym,,,,México,México,México,Retail deportivo,Baja,0,Colágeno deportivo,retail_ecom
 Salud,Colágeno hidrolizado,Spring Valley Colágeno,,,,México,México,México,Marca Walmart,Baja,1,Retail privado,marcas_d2c
 Salud,Colágeno hidrolizado,Super Natural CDMX,,,,CDMX,CDMX,México,Tienda naturista,Baja,1,Retail local,retail_ecom
@@ -312,13 +289,13 @@ Salud,Colágeno hidrolizado,Tienda Naturista Santa Fe,,,,CDMX,CDMX,México,Retai
 Salud,Colágeno hidrolizado,Tienda Naturista Satélite,,,,Naucalpan,EdoMex,México,Retail local,Baja,1,Menudeo,regional
 Salud,Colágeno hidrolizado,Tienda Naturista Valle Oriente MTY,,,,Monterrey,NL,México,Retail local,Baja,1,Menudeo,regional
 Salud,Colágeno hidrolizado,Tienda Naturista Zapopan Centro,,,,Zapopan,Jalisco,México,Retail local,Baja,1,Menudeo,regional
-Salud,Colágeno hidrolizado,Tiendas naturistas Independencia CDMX cluster,,,,CDMX,CDMX,México,Cluster retail,Baja,1,Centro histórico,retail_ecom
+Salud,Colágeno hidrolizado,Tiendas naturistas Independencia CDMX cluster,,,,CDMX,CDMX,México,Cluster retail,Baja,0,Centro histórico,retail_ecom
 Salud,Colágeno hidrolizado,Toroza Química,,,,León,Guanajuato,México,Químicos/agro,Baja,1,Colágeno agro industria,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,Trivance Gelicart,,,,México,México,México,Marca,Baja,1,30 sobres 10g,marcas_d2c
 Salud,Colágeno hidrolizado,Trobas Gelatine,,,,México,México,México,Industrial,Baja,0,Gelatina,b2b_quiminet_dirind
-Salud,Colágeno hidrolizado,Ultimate Nutrition MX dist,,,,México,México,México,Distribuidor,Baja,0,Import,extra_marcas
-Salud,Colágeno hidrolizado,Univar Solutions MX,,,,México,México,México,Distribuidor,Baja,0,Ingredientes,b2b_quiminet_dirind
-Salud,Colágeno hidrolizado,Universal Nutrition MX,,,,México,México,México,Distribuidor,Baja,0,Import,extra_marcas
+Salud,Colágeno hidrolizado,Ultimate Nutrition MX dist,,,,México,México,México,Distribuidor,Baja,1,Import,extra_marcas
+Salud,Colágeno hidrolizado,Univar Solutions MX,,,,México,México,México,Distribuidor,Baja,1,Ingredientes,b2b_quiminet_dirind
+Salud,Colágeno hidrolizado,Universal Nutrition MX,,,,México,México,México,Distribuidor,Baja,1,Import,extra_marcas
 Salud,Colágeno hidrolizado,Verisol colágeno sellers,,,,México,México,México,Ingrediente branded,Baja,0,Gelita ingredient,ingredients_sellers
 Salud,Colágeno hidrolizado,Weishardt,,,,México,México,México,Industrial,Baja,0,Colágeno marino,b2b_quiminet_dirind
 Salud,Colágeno hidrolizado,Wellnex collagens,,,,México,México,México,Ingrediente,Baja,0,Nitta,ingredients_sellers

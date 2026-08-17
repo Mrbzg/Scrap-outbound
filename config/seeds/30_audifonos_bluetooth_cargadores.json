@@ -1,0 +1,259 @@
+{
+  "lote": "30",
+  "slug": "audifonos_bluetooth_cargadores",
+  "description": "Audífonos bluetooth, cargadores y fundas MX",
+  "leads": [
+    {
+      "empresa": "Ele-Gate",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — accesorios electrónicos",
+      "fuente": "ejemplo_cliente",
+      "url": "https://www.ele-gate.com/"
+    },
+    {
+      "empresa": "Moreka Shop",
+      "tipo": "Fabricante",
+      "notas": "Fabricante MX de accesorios celular: cargadores, bocinas, audífonos; Ramón Corona 196 Centro",
+      "fuente": "research",
+      "url": "https://www.moreka.tienda/",
+      "email": "sales@morekashop.com",
+      "telefono": "3344980702",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Moreka BL019 audífonos",
+      "tipo": "Producto",
+      "notas": "Audífonos TWS BL019 ANC 19hrs, BT 5.3",
+      "fuente": "research",
+      "url": "https://www.moreka.tienda/",
+      "telefono": "3344980702",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Moreka E605 audífonos",
+      "tipo": "Producto",
+      "notas": "E605 TWS BT 5.3, 25hrs Hi-Fi",
+      "fuente": "research",
+      "url": "https://www.moreka.tienda/",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Moreka bocina 406",
+      "tipo": "Producto",
+      "notas": "Bocina 406 RGB, TF, Radio FM",
+      "fuente": "research",
+      "url": "https://www.moreka.tienda/",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Moreka ventas 5 líneas",
+      "tipo": "Canal",
+      "notas": "(33) 4498-0702 con 5 líneas; L-D 10:00-19:30",
+      "fuente": "research",
+      "url": "https://www.moreka.tienda/",
+      "telefono": "3344980702",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "MayoreoTotal",
+      "tipo": "Mayoreo",
+      "notas": "Contra entrega; audífonos, cargadores y accesorios",
+      "fuente": "research",
+      "url": "https://www.mayoreototal.mx/",
+      "email": "info@mayoreototal.mx",
+      "telefono": "5512486231",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Keiz.mx",
+      "tipo": "Mayoreo",
+      "notas": "Plaza Mayoreo del Celular; cajas por mayoreo",
+      "fuente": "research",
+      "url": "https://keiz.mx/",
+      "email": "ventas@keiz.mx",
+      "telefono": "8122235059",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Keiz cargadores",
+      "tipo": "Producto",
+      "notas": "Cargadores Tipo C/V8 por caja de 200 pzs",
+      "fuente": "research",
+      "url": "https://keiz.mx/",
+      "email": "ventas@keiz.mx",
+      "telefono": "8122235059",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Keiz power bank",
+      "tipo": "Producto",
+      "notas": "GAR117 20000mAh caja 50 pzs",
+      "fuente": "research",
+      "url": "https://keiz.mx/",
+      "email": "ventas@keiz.mx",
+      "telefono": "8122235059",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Mayoreando",
+      "tipo": "Ecom",
+      "notas": "Sur 73 228, Iztapalapa; audífonos y accesorios",
+      "fuente": "research",
+      "url": "https://mayoreando.mx/",
+      "telefono": "5525952700",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Unicell México",
+      "tipo": "Mayoreo",
+      "notas": "Eje Central Lázaro Cárdenas 76 Local 3; envíos 2-5 días",
+      "fuente": "research",
+      "url": "https://unicell.com.mx/",
+      "telefono": "5621399879",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Unicell accesorios",
+      "tipo": "Canal",
+      "notas": "Audífonos, cargadores, cables, power banks, smart watches",
+      "fuente": "research",
+      "url": "https://unicell.com.mx/accesorios-para-celular-por-mayoreo/",
+      "telefono": "5621399879",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Distribuidora OEM",
+      "tipo": "Mayoreo",
+      "notas": "Hidalgo 116 Local A8 Centro; stock para revendedores",
+      "fuente": "research",
+      "url": "https://distribuidoraoem.mx/",
+      "email": "info@distribuidoraoem.com",
+      "telefono": "8180751009",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Mayoreo Vip",
+      "tipo": "Mayoreo",
+      "notas": "Centro CDMX; mínimos 40-100 pzs",
+      "fuente": "research",
+      "url": "https://mayoreo.vip/",
+      "email": "ventas@mayoreo.vip",
+      "telefono": "5591706245",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Cabocel Mayoristas",
+      "tipo": "Mayoreo",
+      "notas": "10+ años, accesorios para celular",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Centro Case GDL",
+      "tipo": "Distribuidor",
+      "notas": "Fundas y accesorios mayoreo GDL",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Xtassis Mobile",
+      "tipo": "Mayoreo",
+      "notas": "Andrade 47, fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Steren",
+      "tipo": "Retail",
+      "notas": "Cadena de electrónica y accesorios",
+      "fuente": "brand",
+      "url": "https://www.steren.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Amazon MX audífonos",
+      "tipo": "Marketplace",
+      "notas": "Sellers audífonos TWS",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=audifonos+bluetooth",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "ML audífonos mayoreo",
+      "tipo": "Marketplace",
+      "notas": "Kits y paquetes mayoreo",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/auriculares-bluetooth-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "JBL México",
+      "tipo": "Marca",
+      "notas": "Bocinas y audífonos",
+      "fuente": "brand",
+      "url": "https://www.jbl.com.mx/"
+    },
+    {
+      "empresa": "Anker México",
+      "tipo": "Marca",
+      "notas": "Soundcore, cargadores y power banks",
+      "fuente": "brand",
+      "url": "https://www.anker.com/"
+    },
+    {
+      "empresa": "Baseus / Ugreen",
+      "tipo": "Marca",
+      "notas": "Cargadores y cables vía ecom MX",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Cargador tipo C 20W",
+      "tipo": "Producto",
+      "notas": "Combo cargador tipo C",
+      "fuente": "research",
+      "url": "https://keiz.mx/",
+      "email": "ventas@keiz.mx",
+      "telefono": "8122235059",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Power bank 10000mAh",
+      "tipo": "Producto",
+      "notas": "Batería portátil caja 50 pzs",
+      "fuente": "research",
+      "url": "https://keiz.mx/",
+      "email": "ventas@keiz.mx",
+      "telefono": "8122235059",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Bocina bluetooth",
+      "tipo": "Producto",
+      "notas": "Bocina BT portátil con FM/USB",
+      "fuente": "research",
+      "url": "https://www.morekashop.com/"
+    }
+  ]
+}

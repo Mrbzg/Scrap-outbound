@@ -1,0 +1,23 @@
+giro,nicho,empresa,url,email,telefono,ciudad,estado,pais,tipo,prioridad,score_contacto,notas,fuente
+Libros,Libros de coleccion,Librero en Andanzas,https://libreroenandanzas.com/,contacto@libreroenandanzas.com,5580820431,CDMX,CDMX,México,Ecom,Alta,9,"Libros raros, usados y de colección; CDMX/GDL/Pachuca; compra bibliotecas",research
+Libros,Libros de coleccion,Valis Libros Raros,https://valislibrosraros.com/,librosvalis@gmail.com,5579627932,CDMX,CDMX,México,Ecom,Alta,9,"Libros raros, antiguos y firmados; envíos nacionales e internacionales",research
+Libros,Libros de coleccion,Amazon MX libros colección,https://www.amazon.com.mx/s?k=libros+de+coleccion,,,México,México,México,Marketplace,Media,2,Sellers de libros de colección,research
+Libros,Libros de coleccion,Buscalibre México,https://www.buscalibre.com.mx/,,,CDMX,CDMX,México,Ecom,Media,4,"Libros nuevos y usados, marketplace editorial",research
+Libros,Libros de coleccion,eBay libros colección,https://www.ebay.com/b/Antiquarian-Collectible-Books-in-Spanish/29223/bn_43492545,,,,,México,Marketplace,Media,2,Vendedores de libros antiguos en español,research
+Libros,Libros de coleccion,Educal,https://www.educal.com.mx/,,,CDMX,CDMX,México,Retail,Media,3,Red de librerías del Estado,brand
+Libros,Libros de coleccion,El Péndulo,https://pendulo.com/,,,CDMX,CDMX,México,Retail,Media,3,"Librerías con cafetería, CDMX",brand
+Libros,Libros de coleccion,El Sótano,https://www.elsotano.com/,,,CDMX,CDMX,México,Retail,Media,3,Librería y papelería,brand
+Libros,Libros de coleccion,Fondo de Cultura Económica,https://www.fondodeculturaeconomica.com/,,,CDMX,CDMX,México,Editorial,Media,3,Editorial estatal con librerías propias,brand
+Libros,Libros de coleccion,Gandhi,https://www.gandhi.com.mx/,,,CDMX,CDMX,México,Retail,Media,3,Cadena de librerías y edición,brand
+Libros,Libros de coleccion,Iberlibro,https://www.iberlibro.com/,,,,,México,Marketplace,Media,2,Marketplace de libros raros y usados (vendedores MX),research
+Libros,Libros de coleccion,Librero en Andanzas GDL,https://libreroenandanzas.com/,,,Guadalajara,Jalisco,México,Sucursal,Media,3,"López Cotilla 805 esq. Rayón, Americana",research
+Libros,Libros de coleccion,Librero en Andanzas Pachuca,https://libreroenandanzas.com/,,,Pachuca,Hidalgo,México,Sucursal,Media,3,"Av. Juárez 102, Centro",research
+Libros,Libros de coleccion,Librerías Gonvill,https://gonvill.com.mx/,,,Guadalajara,Jalisco,México,Retail,Media,3,Cadena de librerías del occidente,brand
+Libros,Libros de coleccion,Libros de coleccion (ejemplo original),https://www.penguinlibros.com/mx/,,,,,México,Ejemplo original,Media,2,Seed del cliente,ejemplo_cliente
+Libros,Libros de coleccion,Mercado Libre libros usados,https://listado.mercadolibre.com.mx/libros-usados,,,México,México,México,Marketplace,Media,2,Libros usados y de colección,research
+Libros,Libros de coleccion,Penguin Libros MX (ejemplo),https://www.penguinlibros.com/mx/,,,CDMX,CDMX,México,Ejemplo original,Media,3,Ejemplo del cliente — editorial y librería en línea,ejemplo_cliente
+Libros,Libros de coleccion,Porrúa,https://porrua.mx/,,,CDMX,CDMX,México,Retail,Media,3,Librería y editorial histórica,brand
+Libros,Libros de coleccion,Subastas Morton,https://morton.com.mx/,,,CDMX,CDMX,México,Subasta,Media,3,"Subastas de arte, libros y piezas de colección",research
+Libros,Libros de coleccion,Librería El Hallazgo,,,,CDMX,CDMX,México,Librería de viejo,Baja,1,"Libros raros, usados, nuevos y de ocasión; desde 1996, Col. Roma",research
+Libros,Libros de coleccion,Librería Jorge Cuesta,,,,CDMX,CDMX,México,Librería de viejo,Baja,1,Del mismo fundador de El Hallazgo; compra/venta de libros,research
+Libros,Libros de coleccion,Libros Prohibidos,,,,CDMX,CDMX,México,Librería de viejo,Baja,1,"Librería de usados y curiosidades editoriales, CDMX",research

@@ -145,22 +145,6 @@
       "estado": "Yucatán"
     },
     {
-      "empresa": "Guayaberas Parque Eulogio Rosado",
-      "tipo": "Cluster",
-      "notas": "Varias tiendas",
-      "fuente": "research",
-      "ciudad": "Mérida",
-      "estado": "Yucatán"
-    },
-    {
-      "empresa": "Guayaberas Parque Santa Ana",
-      "tipo": "Cluster",
-      "notas": "C. 45 y 60",
-      "fuente": "research",
-      "ciudad": "Mérida",
-      "estado": "Yucatán"
-    },
-    {
       "empresa": "Guayaberas Izamal",
       "tipo": "Cluster pueblo",
       "notas": "Varias tiendas",
@@ -169,38 +153,12 @@
       "estado": "Yucatán"
     },
     {
-      "empresa": "Guayaberas Valladolid",
-      "tipo": "Cluster",
-      "notas": "Plaza principal",
-      "fuente": "research",
-      "ciudad": "Valladolid",
-      "estado": "Yucatán"
-    },
-    {
-      "empresa": "Guayaberas Campeche",
-      "tipo": "Cluster",
-      "notas": "Mejores precios que Valladolid",
-      "fuente": "research",
-      "ciudad": "Campeche",
-      "estado": "Campeche"
-    },
-    {
       "empresa": "Productos Regionales CT Tabasco",
       "tipo": "Tienda",
       "notas": "Plaza Campestre / Galerías",
       "fuente": "research",
       "ciudad": "Villahermosa",
       "estado": "Tabasco"
-    },
-    {
-      "empresa": "Trajes Tehuana Juchitán extra",
-      "tipo": "Línea istmo",
-      "notas": "Huipil y enagua",
-      "fuente": "research",
-      "url": "https://trajesartesanales.com/juchitan-ropa-artesanal/",
-      "telefono": "9711164783",
-      "ciudad": "Juchitán",
-      "estado": "Oaxaca"
     },
     {
       "empresa": "Huipiles Oaxaca mayoreo",
@@ -216,14 +174,6 @@
       "notas": "Región",
       "fuente": "research",
       "ciudad": "Tehuacán",
-      "estado": "Puebla"
-    },
-    {
-      "empresa": "China Poblana Puebla tiendas",
-      "tipo": "Regional",
-      "notas": "Traje típico Puebla",
-      "fuente": "research",
-      "ciudad": "Puebla",
       "estado": "Puebla"
     },
     {
@@ -269,28 +219,12 @@
       "estado": "CDMX"
     },
     {
-      "empresa": "Botas charro León",
-      "tipo": "Calzado",
-      "notas": "Cluster cuero",
-      "fuente": "research",
-      "ciudad": "León",
-      "estado": "Guanajuato"
-    },
-    {
       "empresa": "Cintos piteados mayoreo",
       "tipo": "Accesorio",
       "notas": "Piteado tradicional",
       "fuente": "research",
       "ciudad": "Colotlán",
       "estado": "Jalisco"
-    },
-    {
-      "empresa": "Sarapes Saltillo",
-      "tipo": "Textil",
-      "notas": "Sarape típico",
-      "fuente": "research",
-      "ciudad": "Saltillo",
-      "estado": "Coahuila"
     },
     {
       "empresa": "Rebozos Tenancingo",
@@ -309,36 +243,12 @@
       "estado": "SLP"
     },
     {
-      "empresa": "Quechquémitl Hidalgo / Puebla",
-      "tipo": "Artesanal",
-      "notas": "Sierra",
-      "fuente": "research",
-      "ciudad": "Hidalgo",
-      "estado": "Hidalgo"
-    },
-    {
-      "empresa": "Trajes de chinelo Morelos",
-      "tipo": "Regional",
-      "notas": "Carnaval",
-      "fuente": "research",
-      "ciudad": "Tlayacapan",
-      "estado": "Morelos"
-    },
-    {
       "empresa": "Trajes de concheros CDMX",
       "tipo": "Danza ritual",
       "notas": "Insumos",
       "fuente": "research",
       "ciudad": "CDMX",
       "estado": "CDMX"
-    },
-    {
-      "empresa": "Trajes yaquis / pascola Sonora",
-      "tipo": "Regional",
-      "notas": "Noroeste",
-      "fuente": "research",
-      "ciudad": "Hermosillo",
-      "estado": "Sonora"
     },
     {
       "empresa": "Trajes tarahumara / rarámuri",
@@ -373,30 +283,6 @@
       "estado": "EdoMex"
     },
     {
-      "empresa": "Trajes totonacos Veracruz",
-      "tipo": "Regional",
-      "notas": "Voladores / fiesta",
-      "fuente": "research",
-      "ciudad": "Papantla",
-      "estado": "Veracruz"
-    },
-    {
-      "empresa": "Trajes jarocho Veracruz",
-      "tipo": "Regional",
-      "notas": "Fandango",
-      "fuente": "research",
-      "ciudad": "Veracruz",
-      "estado": "Veracruz"
-    },
-    {
-      "empresa": "Trajes chiapanecos / chiapaneca",
-      "tipo": "Regional",
-      "notas": "Enagua y blusa",
-      "fuente": "research",
-      "ciudad": "Tuxtla Gutiérrez",
-      "estado": "Chiapas"
-    },
-    {
       "empresa": "Trajes Chamula / Zinacantán",
       "tipo": "Artesanal",
       "notas": "Lana y brocado",
@@ -405,140 +291,12 @@
       "estado": "Chiapas"
     },
     {
-      "empresa": "Trajes Yucatán terno",
-      "tipo": "Regional",
-      "notas": "Terno y hipil",
-      "fuente": "research",
-      "ciudad": "Mérida",
-      "estado": "Yucatán"
-    },
-    {
       "empresa": "Hipiles mayas Quintana Roo",
       "tipo": "Artesanal",
       "notas": "Turismo + local",
       "fuente": "research",
       "ciudad": "Cancún",
       "estado": "Q. Roo"
-    },
-    {
-      "empresa": "Trajes Campeche regional",
-      "tipo": "Regional",
-      "notas": "Guayabera y terno",
-      "fuente": "research",
-      "ciudad": "Campeche",
-      "estado": "Campeche"
-    },
-    {
-      "empresa": "Trajes tabasqueños",
-      "tipo": "Regional",
-      "notas": "Feria",
-      "fuente": "research",
-      "ciudad": "Villahermosa",
-      "estado": "Tabasco"
-    },
-    {
-      "empresa": "Trajes guerrerenses / chilena",
-      "tipo": "Regional",
-      "notas": "Costa chica",
-      "fuente": "research",
-      "ciudad": "Acapulco",
-      "estado": "Guerrero"
-    },
-    {
-      "empresa": "Trajes tlaxcaltecas",
-      "tipo": "Regional",
-      "notas": "Carnaval",
-      "fuente": "research",
-      "ciudad": "Tlaxcala",
-      "estado": "Tlaxcala"
-    },
-    {
-      "empresa": "Trajes hidalguenses",
-      "tipo": "Regional",
-      "notas": "Sierra y valle",
-      "fuente": "research",
-      "ciudad": "Pachuca",
-      "estado": "Hidalgo"
-    },
-    {
-      "empresa": "Trajes queretanos",
-      "tipo": "Regional",
-      "notas": "Sierra gorda",
-      "fuente": "research",
-      "ciudad": "Querétaro",
-      "estado": "Querétaro"
-    },
-    {
-      "empresa": "Trajes guanajuatenses",
-      "tipo": "Regional",
-      "notas": "Fiestas",
-      "fuente": "research",
-      "ciudad": "Guanajuato",
-      "estado": "Guanajuato"
-    },
-    {
-      "empresa": "Trajes zacatecanos",
-      "tipo": "Regional",
-      "notas": "Charro norteño",
-      "fuente": "research",
-      "ciudad": "Zacatecas",
-      "estado": "Zacatecas"
-    },
-    {
-      "empresa": "Trajes duranguenses",
-      "tipo": "Regional",
-      "notas": "Norte",
-      "fuente": "research",
-      "ciudad": "Durango",
-      "estado": "Durango"
-    },
-    {
-      "empresa": "Trajes sinaloenses / banda",
-      "tipo": "Regional",
-      "notas": "Occidente norte",
-      "fuente": "research",
-      "ciudad": "Culiacán",
-      "estado": "Sinaloa"
-    },
-    {
-      "empresa": "Trajes nayaritas",
-      "tipo": "Regional",
-      "notas": "Costa + wixárika",
-      "fuente": "research",
-      "ciudad": "Tepic",
-      "estado": "Nayarit"
-    },
-    {
-      "empresa": "Trajes colimenses",
-      "tipo": "Regional",
-      "notas": "Pequeño mercado",
-      "fuente": "research",
-      "ciudad": "Colima",
-      "estado": "Colima"
-    },
-    {
-      "empresa": "Trajes morelenses extra",
-      "tipo": "Regional",
-      "notas": "Chinelo + fiesta",
-      "fuente": "research",
-      "ciudad": "Cuernavaca",
-      "estado": "Morelos"
-    },
-    {
-      "empresa": "Trajes mexiquenses extra",
-      "tipo": "Regional",
-      "notas": "Mazahua/otomí",
-      "fuente": "research",
-      "ciudad": "Toluca",
-      "estado": "EdoMex"
-    },
-    {
-      "empresa": "Trajes CDMX / chinampa / Xochimilco",
-      "tipo": "Regional",
-      "notas": "Embarcadero / fiesta",
-      "fuente": "research",
-      "ciudad": "Xochimilco",
-      "estado": "CDMX"
     },
     {
       "empresa": "Trajes Baja California folklórico",
@@ -557,40 +315,6 @@
       "estado": "NL"
     },
     {
-      "empresa": "Trajes Coahuila folklórico",
-      "tipo": "Regional",
-      "notas": "Sarape + danza",
-      "fuente": "research",
-      "ciudad": "Saltillo",
-      "estado": "Coahuila"
-    },
-    {
-      "empresa": "Mercado de Sonora regionales extra",
-      "tipo": "Mayoreo mercado",
-      "notas": "Trajes y accesorios",
-      "fuente": "research",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Mercado Lagunilla charro extra",
-      "tipo": "Mayoreo",
-      "notas": "Comonfort",
-      "fuente": "research",
-      "telefono": "5511353982",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Centro Histórico CDMX artesanías extra",
-      "tipo": "Mayoreo centro",
-      "notas": "Salvador / Palma",
-      "fuente": "research",
-      "telefono": "5534516463",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
       "empresa": "La Ciudadela artesanías CDMX",
       "tipo": "Mercado artesanal",
       "notas": "Textiles y trajes",
@@ -606,22 +330,6 @@
       "url": "https://www.gob.mx/fonart",
       "ciudad": "CDMX",
       "estado": "CDMX"
-    },
-    {
-      "empresa": "Casa de las Artesanías Puebla",
-      "tipo": "Institucional",
-      "notas": "Trajes y textiles",
-      "fuente": "research",
-      "ciudad": "Puebla",
-      "estado": "Puebla"
-    },
-    {
-      "empresa": "Casa de las Artesanías Oaxaca",
-      "tipo": "Institucional",
-      "notas": "Huipiles",
-      "fuente": "research",
-      "ciudad": "Oaxaca",
-      "estado": "Oaxaca"
     },
     {
       "empresa": "Casa de las Artesanías Michoacán",
@@ -655,30 +363,6 @@
       "telefono": "2283062367",
       "ciudad": "CDMX",
       "estado": "CDMX"
-    },
-    {
-      "empresa": "Renta trajes regionales Oaxaca",
-      "tipo": "Renta",
-      "notas": "Guelaguetza",
-      "fuente": "research",
-      "ciudad": "Oaxaca",
-      "estado": "Oaxaca"
-    },
-    {
-      "empresa": "Renta trajes Guelaguetza",
-      "tipo": "Temporada",
-      "notas": "Julio",
-      "fuente": "research",
-      "ciudad": "Oaxaca",
-      "estado": "Oaxaca"
-    },
-    {
-      "empresa": "Renta china poblana Puebla",
-      "tipo": "Renta",
-      "notas": "Escuelas",
-      "fuente": "research",
-      "ciudad": "Puebla",
-      "estado": "Puebla"
     },
     {
       "empresa": "Renta charro GDL",
@@ -739,36 +423,6 @@
       "estado": "CDMX"
     },
     {
-      "empresa": "El Charro sucursal GDL extra",
-      "tipo": "Sucursal",
-      "notas": "Matriz histórica",
-      "fuente": "research",
-      "url": "https://www.elcharro1.com/",
-      "email": "sales@elcharro1.com",
-      "ciudad": "Guadalajara",
-      "estado": "Jalisco"
-    },
-    {
-      "empresa": "El Charro El Paso extra",
-      "tipo": "Sucursal US",
-      "notas": "Wyoming 2509 — export",
-      "fuente": "research",
-      "url": "https://www.elcharro1.com/",
-      "email": "sales@elcharro1.com",
-      "telefono": "8779801248",
-      "ciudad": "El Paso",
-      "estado": "TX"
-    },
-    {
-      "empresa": "Wrangler / western Toluca extra",
-      "tipo": "Western + charro",
-      "notas": "Mayoreo lives",
-      "fuente": "research",
-      "telefono": "7223579599",
-      "ciudad": "Toluca",
-      "estado": "EdoMex"
-    },
-    {
       "empresa": "Ropa vaquera mayoreo Bajío",
       "tipo": "Western",
       "notas": "Adyacente charro",
@@ -823,14 +477,6 @@
       "fuente": "research",
       "ciudad": "Tenango de Doria",
       "estado": "Hidalgo"
-    },
-    {
-      "empresa": "Bordadoras San Antonino Oaxaca",
-      "tipo": "Artesanal",
-      "notas": "San Antonino Castillo Velasco",
-      "fuente": "research",
-      "ciudad": "Ocotlán",
-      "estado": "Oaxaca"
     },
     {
       "empresa": "Agujas de oro / filigrana textil",
@@ -921,109 +567,12 @@
       "estado": "México"
     },
     {
-      "empresa": "Mayoreo Centro GDL típicos",
-      "tipo": "Cluster",
-      "notas": "San Juan de Dios adyacente",
-      "fuente": "research",
-      "ciudad": "Guadalajara",
-      "estado": "Jalisco"
-    },
-    {
       "empresa": "Tlaquepaque artesanías trajes",
       "tipo": "Turismo + local",
       "notas": "Textil",
       "fuente": "research",
       "ciudad": "Tlaquepaque",
       "estado": "Jalisco"
-    },
-    {
-      "empresa": "Tonalá artesanías textil",
-      "tipo": "Cluster",
-      "notas": "Complemento",
-      "fuente": "research",
-      "ciudad": "Tonalá",
-      "estado": "Jalisco"
-    },
-    {
-      "empresa": "San Juan de Dios textiles extra",
-      "tipo": "Mayoreo popular",
-      "notas": "Típicos",
-      "fuente": "research",
-      "ciudad": "Guadalajara",
-      "estado": "Jalisco"
-    },
-    {
-      "empresa": "Mercado 20 de Noviembre Oaxaca extra",
-      "tipo": "Mercado",
-      "notas": "Huipiles",
-      "fuente": "research",
-      "ciudad": "Oaxaca",
-      "estado": "Oaxaca"
-    },
-    {
-      "empresa": "Mercado de Abastos Oaxaca extra",
-      "tipo": "Mayoreo",
-      "notas": "Textil",
-      "fuente": "research",
-      "ciudad": "Oaxaca",
-      "estado": "Oaxaca"
-    },
-    {
-      "empresa": "Mercado Lucas de Gálvez Mérida extra",
-      "tipo": "Mercado",
-      "notas": "Hipiles",
-      "fuente": "research",
-      "ciudad": "Mérida",
-      "estado": "Yucatán"
-    },
-    {
-      "empresa": "Bazar García Rejón extra",
-      "tipo": "Bazar",
-      "notas": "JBO y vecinos",
-      "fuente": "research",
-      "url": "https://www.jbolino.com/",
-      "ciudad": "Mérida",
-      "estado": "Yucatán"
-    },
-    {
-      "empresa": "Plaza Campestre Tabasco extra",
-      "tipo": "Plaza",
-      "notas": "Regionales CT",
-      "fuente": "research",
-      "ciudad": "Villahermosa",
-      "estado": "Tabasco"
-    },
-    {
-      "empresa": "Turismo Cancún hipiles extra",
-      "tipo": "Turismo",
-      "notas": "Souvenir + real",
-      "fuente": "research",
-      "ciudad": "Cancún",
-      "estado": "Q. Roo"
-    },
-    {
-      "empresa": "Turismo Los Cabos típicos extra",
-      "tipo": "Turismo",
-      "notas": "Souvenir",
-      "fuente": "research",
-      "ciudad": "Los Cabos",
-      "estado": "BCS"
-    },
-    {
-      "empresa": "Turismo Puerto Vallarta típicos extra",
-      "tipo": "Turismo",
-      "notas": "Huichol + charro",
-      "fuente": "research",
-      "ciudad": "Puerto Vallarta",
-      "estado": "Jalisco"
-    },
-    {
-      "empresa": "Turismo San Miguel Allende extra",
-      "tipo": "Turismo",
-      "notas": "Textil boutique",
-      "fuente": "research",
-      "ciudad": "San Miguel de Allende",
-      "estado": "Guanajuato"
     },
     {
       "empresa": "Boutique típicos Roma / Condesa",
@@ -1048,56 +597,6 @@
       "fuente": "research",
       "ciudad": "CDMX",
       "estado": "CDMX"
-    },
-    {
-      "empresa": "Dos Malinches ecom extra",
-      "tipo": "Ecom",
-      "notas": "Huipiles y vestidos",
-      "fuente": "research",
-      "url": "https://dosmalinches.com/",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Mayakim ecom extra",
-      "tipo": "Ecom",
-      "notas": "Envíos nacionales",
-      "fuente": "research",
-      "url": "https://www.mayakim.com.mx/",
-      "ciudad": "Mérida",
-      "estado": "Yucatán"
-    },
-    {
-      "empresa": "El Charro ecom extra",
-      "tipo": "Ecom US/MX",
-      "notas": "Mayoreo",
-      "fuente": "research",
-      "url": "https://www.elcharro1.com/",
-      "email": "sales@elcharro1.com",
-      "telefono": "9155347956",
-      "ciudad": "Guadalajara",
-      "estado": "Jalisco"
-    },
-    {
-      "empresa": "Gabrieles ecom extra",
-      "tipo": "Ecom",
-      "notas": "Mayoreo/menudeo",
-      "fuente": "research",
-      "url": "https://fabricadetrajesdecharrogabrieles.com/",
-      "email": "ventas@fabricadetrajesdecharrogabrieles.com",
-      "telefono": "(55) 6794-1664",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Isa y Alex ecom extra",
-      "tipo": "Ecom mayoreo",
-      "notas": "Istmo",
-      "fuente": "research",
-      "url": "https://trajesartesanales.com/",
-      "telefono": "9711164783",
-      "ciudad": "Juchitán",
-      "estado": "Oaxaca"
     },
     {
       "empresa": "ML vestidos típicos sellers",
@@ -1136,164 +635,7 @@
       "estado": "CDMX"
     },
     {
-      "empresa": "FONART ecom extra",
-      "tipo": "Institucional",
-      "notas": "Catálogo",
-      "fuente": "brand",
-      "url": "https://www.gob.mx/fonart",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Cooperativa textil Chiapas extra",
-      "tipo": "Cooperativa",
-      "notas": "Mujeres tejedoras",
-      "fuente": "research",
-      "ciudad": "San Cristóbal",
-      "estado": "Chiapas"
-    },
-    {
-      "empresa": "Cooperativa textil Oaxaca extra",
-      "tipo": "Cooperativa",
-      "notas": "Telar de cintura",
-      "fuente": "research",
-      "ciudad": "Oaxaca",
-      "estado": "Oaxaca"
-    },
-    {
-      "empresa": "Cooperativa textil Yucatán extra",
-      "tipo": "Cooperativa",
-      "notas": "Bordado maya",
-      "fuente": "research",
-      "ciudad": "Mérida",
-      "estado": "Yucatán"
-    },
-    {
-      "empresa": "Taller charro Azcapotzalco extra",
-      "tipo": "Taller",
-      "notas": "Gabrieles",
-      "fuente": "research",
-      "url": "https://fabricadetrajesdecharrogabrieles.com/",
-      "telefono": "(55) 2631-6476",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Villa Charra Toluca extra",
-      "tipo": "Punto venta",
-      "notas": "González y Pichardo 123",
-      "fuente": "research",
-      "telefono": "7223579599",
-      "ciudad": "Toluca",
-      "estado": "EdoMex"
-    },
-    {
-      "empresa": "Lives mayoreo charro Toluca extra",
-      "tipo": "Canal digital",
-      "notas": "5:30 PM",
-      "fuente": "research",
-      "telefono": "7221603175",
-      "ciudad": "Toluca",
-      "estado": "EdoMex"
-    },
-    {
-      "empresa": "Envíos nacionales típicos extra",
-      "tipo": "Logística",
-      "notas": "Mayoreo",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Personalización bordado logo extra",
-      "tipo": "Servicio",
-      "notas": "Escuelas de danza",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Trajes de gala folklor extra",
-      "tipo": "Gala",
-      "notas": "Competencias",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Trajes de ensayo folklor extra",
-      "tipo": "Ensayo",
-      "notas": "Escuelas",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Polleras y enaguas extra",
-      "tipo": "Prenda",
-      "notas": "Folklor",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Camisas de manta extra",
-      "tipo": "Prenda",
-      "notas": "Campesino / danza",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Calzones de manta extra",
-      "tipo": "Prenda",
-      "notas": "Folklor varonil",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Jorongos y gabanes extra",
-      "tipo": "Abrigo típico",
-      "notas": "Norte/centro",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Ponchos y gabanes norte extra",
-      "tipo": "Norte",
-      "notas": "Frío",
-      "fuente": "research",
-      "ciudad": "Chihuahua",
-      "estado": "Chihuahua"
-    },
-    {
-      "empresa": "Fajas y ceñidores extra",
-      "tipo": "Accesorio",
-      "notas": "Folklor",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Collares y chaquiras huichol extra",
-      "tipo": "Accesorio",
-      "notas": "Wixárika",
-      "fuente": "research",
-      "ciudad": "Tepic",
-      "estado": "Nayarit"
-    },
-    {
-      "empresa": "Huaraches de pita extra",
-      "tipo": "Calzado",
-      "notas": "Complemento",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Zapatos folklóricos Manzano canal traje",
+      "empresa": "Calzado Manzano (trajes típicos)",
       "tipo": "Calzado adyacente",
       "notas": "Pareja del traje",
       "fuente": "research",
@@ -1304,667 +646,11 @@
       "estado": "EdoMex"
     },
     {
-      "empresa": "El Charro zapatos folklor extra",
-      "tipo": "Calzado adyacente",
-      "notas": "Misma marca",
-      "fuente": "research",
-      "url": "https://www.elcharro1.com/",
-      "email": "sales@elcharro1.com",
-      "ciudad": "Guadalajara",
-      "estado": "Jalisco"
-    },
-    {
-      "empresa": "Escuelas de danza folklórica CDMX cluster",
-      "tipo": "Canal B2B",
-      "notas": "Compran trajes",
-      "fuente": "research",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Escuelas folklor GDL cluster",
-      "tipo": "Canal B2B",
-      "notas": "Compran trajes",
-      "fuente": "research",
-      "ciudad": "Guadalajara",
-      "estado": "Jalisco"
-    },
-    {
-      "empresa": "Escuelas folklor MTY cluster",
-      "tipo": "Canal B2B",
-      "notas": "Compran trajes",
-      "fuente": "research",
-      "ciudad": "Monterrey",
-      "estado": "NL"
-    },
-    {
-      "empresa": "Ballet folklórico institucional extra",
-      "tipo": "Canal institucional",
-      "notas": "Compañías",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Municipios / casas de cultura extra",
-      "tipo": "Canal gobierno",
-      "notas": "Eventos cívicos",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "XV años típico / charro extra",
-      "tipo": "Canal eventos",
-      "notas": "Renta y venta",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Bodas típicas / charro extra",
-      "tipo": "Canal eventos",
-      "notas": "A la medida",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Carnaval regionales extra",
-      "tipo": "Temporada",
-      "notas": "Veracruz / Morelos",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Fiestas patrias temporada extra",
-      "tipo": "Temporada sep",
-      "notas": "Pico de venta",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Día de Muertos textil extra",
-      "tipo": "Temporada",
-      "notas": "Oaxaca / Mixquic",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Navidad pastorela típicos extra",
-      "tipo": "Temporada",
-      "notas": "Adyacente disfraz",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Export US folklórico extra",
-      "tipo": "Export",
-      "notas": "Comunidades MX-US",
-      "fuente": "research",
-      "url": "https://www.elcharro1.com/",
-      "email": "sales@elcharro1.com",
-      "telefono": "8779801248",
-      "ciudad": "El Paso",
-      "estado": "TX"
-    },
-    {
-      "empresa": "Cinco de Mayo export extra",
-      "tipo": "Export temporada",
-      "notas": "US retail",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Mayoreo Centro León cuero+charro extra",
-      "tipo": "Cluster",
-      "notas": "Gabrieles + talleres",
-      "fuente": "research",
-      "ciudad": "León",
-      "estado": "Guanajuato"
-    },
-    {
-      "empresa": "Mayoreo Azcapotzalco charro extra",
-      "tipo": "Cluster",
-      "notas": "Porvenir",
-      "fuente": "research",
-      "url": "https://fabricadetrajesdecharrogabrieles.com/",
-      "telefono": "(55) 6794-1664",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Mayoreo Toluca charro extra",
-      "tipo": "Cluster",
-      "notas": "Cowboys + Villa Charra",
-      "fuente": "research",
-      "telefono": "7223579599",
-      "ciudad": "Toluca",
-      "estado": "EdoMex"
-    },
-    {
-      "empresa": "Mayoreo Mérida guayabera extra",
-      "tipo": "Cluster",
-      "notas": "Varias fábricas",
-      "fuente": "research",
-      "url": "https://www.mayakim.com.mx/",
-      "ciudad": "Mérida",
-      "estado": "Yucatán"
-    },
-    {
-      "empresa": "Mayoreo Juchitán extra",
-      "tipo": "Cluster istmo",
-      "notas": "Isa y Alex + talleres",
-      "fuente": "research",
-      "url": "https://trajesartesanales.com/",
-      "telefono": "9711164783",
-      "ciudad": "Juchitán",
-      "estado": "Oaxaca"
-    },
-    {
-      "empresa": "Mayoreo Oaxaca centro extra",
-      "tipo": "Cluster",
-      "notas": "Huipil",
-      "fuente": "research",
-      "ciudad": "Oaxaca",
-      "estado": "Oaxaca"
-    },
-    {
-      "empresa": "Mayoreo San Cristóbal extra",
-      "tipo": "Cluster",
-      "notas": "Lana",
-      "fuente": "research",
-      "ciudad": "San Cristóbal",
-      "estado": "Chiapas"
-    },
-    {
-      "empresa": "Taller Los Gabrieles extra",
-      "tipo": "Taller",
-      "notas": "WhatsApp",
-      "fuente": "research",
-      "url": "https://fabricadetrajesdecharrogabrieles.com/",
-      "email": "ventas@fabricadetrajesdecharrogabrieles.com",
-      "telefono": "(55) 3701-5964",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Oficina central Gabrieles extra",
-      "tipo": "Oficina",
-      "notas": "CP 02940",
-      "fuente": "research",
-      "url": "https://fabricadetrajesdecharrogabrieles.com/",
-      "telefono": "(55) 6794-1664",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Plaza La Esperanza León extra",
-      "tipo": "Punto venta",
-      "notas": "Justo Sierra 224",
-      "fuente": "research",
-      "url": "https://fabricadetrajesdecharrogabrieles.com/",
-      "ciudad": "León",
-      "estado": "Guanajuato"
-    },
-    {
-      "empresa": "Mayakim Los Pinos extra",
-      "tipo": "Tienda",
-      "notas": "Estacionamiento",
-      "fuente": "research",
-      "url": "https://www.mayakim.com.mx/",
-      "ciudad": "Mérida",
-      "estado": "Yucatán"
-    },
-    {
-      "empresa": "JBO Lino extra",
-      "tipo": "Marca lino",
-      "notas": "Calidad local",
-      "fuente": "research",
-      "url": "https://www.jbolino.com/",
-      "ciudad": "Mérida",
-      "estado": "Yucatán"
-    },
-    {
-      "empresa": "Dos Malinches vestidos extra",
-      "tipo": "Línea vestido",
-      "notas": "Ana, Roberta, Catalina",
-      "fuente": "research",
-      "url": "https://dosmalinches.com/",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "El Charro blusa Chiapas extra",
-      "tipo": "SKU",
-      "notas": "Regionales por estado",
-      "fuente": "research",
-      "url": "https://www.elcharro1.com/",
-      "email": "sales@elcharro1.com",
-      "ciudad": "Guadalajara",
-      "estado": "Jalisco"
-    },
-    {
-      "empresa": "El Charro catálogo estados extra",
-      "tipo": "Catálogo",
-      "notas": "Guerrero, Tamaulipas, Oaxaca…",
-      "fuente": "research",
-      "url": "https://www.elcharro1.com/",
-      "email": "sales@elcharro1.com",
-      "ciudad": "Guadalajara",
-      "estado": "Jalisco"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Aguascalientes",
-      "ciudad": "Aguascalientes",
-      "estado": "Aguascalientes",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Aguascalientes",
-      "ciudad": "Aguascalientes",
-      "estado": "Aguascalientes",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Tepic",
-      "ciudad": "Tepic",
-      "estado": "Nayarit",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Tepic",
-      "ciudad": "Tepic",
-      "estado": "Nayarit",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Colima",
-      "ciudad": "Colima",
-      "estado": "Colima",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Colima",
-      "ciudad": "Colima",
-      "estado": "Colima",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor La Paz",
-      "ciudad": "La Paz",
-      "estado": "BCS",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales La Paz",
-      "ciudad": "La Paz",
-      "estado": "BCS",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Mexicali",
-      "ciudad": "Mexicali",
-      "estado": "BC",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Mexicali",
-      "ciudad": "Mexicali",
-      "estado": "BC",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Cd. Juárez",
-      "ciudad": "Cd. Juárez",
-      "estado": "Chihuahua",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Cd. Juárez",
-      "ciudad": "Cd. Juárez",
-      "estado": "Chihuahua",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Torreón",
-      "ciudad": "Torreón",
-      "estado": "Coahuila",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Torreón",
-      "ciudad": "Torreón",
-      "estado": "Coahuila",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Tampico",
-      "ciudad": "Tampico",
-      "estado": "Tamaulipas",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Tampico",
-      "ciudad": "Tampico",
-      "estado": "Tamaulipas",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Reynosa",
-      "ciudad": "Reynosa",
-      "estado": "Tamaulipas",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Reynosa",
-      "ciudad": "Reynosa",
-      "estado": "Tamaulipas",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Nuevo Laredo",
-      "ciudad": "Nuevo Laredo",
-      "estado": "Tamaulipas",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Nuevo Laredo",
-      "ciudad": "Nuevo Laredo",
-      "estado": "Tamaulipas",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Matamoros",
-      "ciudad": "Matamoros",
-      "estado": "Tamaulipas",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Matamoros",
-      "ciudad": "Matamoros",
-      "estado": "Tamaulipas",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Victoria",
-      "ciudad": "Victoria",
-      "estado": "Tamaulipas",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
       "empresa": "Renta trajes regionales Victoria",
       "ciudad": "Victoria",
       "estado": "Tamaulipas",
       "tipo": "Renta",
       "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Culiacán",
-      "ciudad": "Culiacán",
-      "estado": "Sinaloa",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Culiacán",
-      "ciudad": "Culiacán",
-      "estado": "Sinaloa",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Mazatlán",
-      "ciudad": "Mazatlán",
-      "estado": "Sinaloa",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Mazatlán",
-      "ciudad": "Mazatlán",
-      "estado": "Sinaloa",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Los Mochis",
-      "ciudad": "Los Mochis",
-      "estado": "Sinaloa",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Los Mochis",
-      "ciudad": "Los Mochis",
-      "estado": "Sinaloa",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Hermosillo",
-      "ciudad": "Hermosillo",
-      "estado": "Sonora",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Hermosillo",
-      "ciudad": "Hermosillo",
-      "estado": "Sonora",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Ciudad Obregón",
-      "ciudad": "Ciudad Obregón",
-      "estado": "Sonora",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Ciudad Obregón",
-      "ciudad": "Ciudad Obregón",
-      "estado": "Sonora",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Nogales",
-      "ciudad": "Nogales",
-      "estado": "Sonora",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Nogales",
-      "ciudad": "Nogales",
-      "estado": "Sonora",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Chetumal",
-      "ciudad": "Chetumal",
-      "estado": "Q. Roo",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Chetumal",
-      "ciudad": "Chetumal",
-      "estado": "Q. Roo",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Playa del Carmen",
-      "ciudad": "Playa del Carmen",
-      "estado": "Q. Roo",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Playa del Carmen",
-      "ciudad": "Playa del Carmen",
-      "estado": "Q. Roo",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Campeche",
-      "ciudad": "Campeche",
-      "estado": "Campeche",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Campeche",
-      "ciudad": "Campeche",
-      "estado": "Campeche",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Zacatecas",
-      "ciudad": "Zacatecas",
-      "estado": "Zacatecas",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Zacatecas",
-      "ciudad": "Zacatecas",
-      "estado": "Zacatecas",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Fresnillo",
-      "ciudad": "Fresnillo",
-      "estado": "Zacatecas",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Fresnillo",
-      "ciudad": "Fresnillo",
-      "estado": "Zacatecas",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Durango",
-      "ciudad": "Durango",
-      "estado": "Durango",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Durango",
-      "ciudad": "Durango",
-      "estado": "Durango",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Gómez Palacio",
-      "ciudad": "Gómez Palacio",
-      "estado": "Durango",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Gómez Palacio",
-      "ciudad": "Gómez Palacio",
-      "estado": "Durango",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Apatzingán",
-      "ciudad": "Apatzingán",
-      "estado": "Michoacán",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
       "fuente": "research"
     },
     {
@@ -1976,75 +662,11 @@
       "fuente": "research"
     },
     {
-      "empresa": "Trajes típicos / folklor Uruapan",
-      "ciudad": "Uruapan",
-      "estado": "Michoacán",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Uruapan",
-      "ciudad": "Uruapan",
-      "estado": "Michoacán",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Zamora",
-      "ciudad": "Zamora",
-      "estado": "Michoacán",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Zamora",
-      "ciudad": "Zamora",
-      "estado": "Michoacán",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Chilpancingo",
-      "ciudad": "Chilpancingo",
-      "estado": "Guerrero",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Chilpancingo",
-      "ciudad": "Chilpancingo",
-      "estado": "Guerrero",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Taxco",
-      "ciudad": "Taxco",
-      "estado": "Guerrero",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
       "empresa": "Renta trajes regionales Taxco",
       "ciudad": "Taxco",
       "estado": "Guerrero",
       "tipo": "Renta",
       "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Iguala",
-      "ciudad": "Iguala",
-      "estado": "Guerrero",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
       "fuente": "research"
     },
     {
@@ -2056,155 +678,11 @@
       "fuente": "research"
     },
     {
-      "empresa": "Trajes típicos / folklor Tlaxcala",
-      "ciudad": "Tlaxcala",
-      "estado": "Tlaxcala",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Tlaxcala",
-      "ciudad": "Tlaxcala",
-      "estado": "Tlaxcala",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Apizaco",
-      "ciudad": "Apizaco",
-      "estado": "Tlaxcala",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Apizaco",
-      "ciudad": "Apizaco",
-      "estado": "Tlaxcala",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Pachuca",
-      "ciudad": "Pachuca",
-      "estado": "Hidalgo",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Pachuca",
-      "ciudad": "Pachuca",
-      "estado": "Hidalgo",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Tulancingo",
-      "ciudad": "Tulancingo",
-      "estado": "Hidalgo",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Tulancingo",
-      "ciudad": "Tulancingo",
-      "estado": "Hidalgo",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Tula",
-      "ciudad": "Tula",
-      "estado": "Hidalgo",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
       "empresa": "Renta trajes regionales Tula",
       "ciudad": "Tula",
       "estado": "Hidalgo",
       "tipo": "Renta",
       "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Celaya",
-      "ciudad": "Celaya",
-      "estado": "Guanajuato",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Celaya",
-      "ciudad": "Celaya",
-      "estado": "Guanajuato",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Irapuato",
-      "ciudad": "Irapuato",
-      "estado": "Guanajuato",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Irapuato",
-      "ciudad": "Irapuato",
-      "estado": "Guanajuato",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Salamanca",
-      "ciudad": "Salamanca",
-      "estado": "Guanajuato",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Salamanca",
-      "ciudad": "Salamanca",
-      "estado": "Guanajuato",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor San Juan del Río",
-      "ciudad": "San Juan del Río",
-      "estado": "Querétaro",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales San Juan del Río",
-      "ciudad": "San Juan del Río",
-      "estado": "Querétaro",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Tequisquiapan",
-      "ciudad": "Tequisquiapan",
-      "estado": "Querétaro",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
       "fuente": "research"
     },
     {
@@ -2216,171 +694,11 @@
       "fuente": "research"
     },
     {
-      "empresa": "Trajes típicos / folklor Cuautla",
-      "ciudad": "Cuautla",
-      "estado": "Morelos",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Cuautla",
-      "ciudad": "Cuautla",
-      "estado": "Morelos",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Jiutepec",
-      "ciudad": "Jiutepec",
-      "estado": "Morelos",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Jiutepec",
-      "ciudad": "Jiutepec",
-      "estado": "Morelos",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Xalapa",
-      "ciudad": "Xalapa",
-      "estado": "Veracruz",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Xalapa",
-      "ciudad": "Xalapa",
-      "estado": "Veracruz",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Córdoba",
-      "ciudad": "Córdoba",
-      "estado": "Veracruz",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Córdoba",
-      "ciudad": "Córdoba",
-      "estado": "Veracruz",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Orizaba",
-      "ciudad": "Orizaba",
-      "estado": "Veracruz",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Orizaba",
-      "ciudad": "Orizaba",
-      "estado": "Veracruz",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Coatzacoalcos",
-      "ciudad": "Coatzacoalcos",
-      "estado": "Veracruz",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Coatzacoalcos",
-      "ciudad": "Coatzacoalcos",
-      "estado": "Veracruz",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Poza Rica",
-      "ciudad": "Poza Rica",
-      "estado": "Veracruz",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Poza Rica",
-      "ciudad": "Poza Rica",
-      "estado": "Veracruz",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Tapachula",
-      "ciudad": "Tapachula",
-      "estado": "Chiapas",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Tapachula",
-      "ciudad": "Tapachula",
-      "estado": "Chiapas",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Comitán",
-      "ciudad": "Comitán",
-      "estado": "Chiapas",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Renta trajes regionales Comitán",
-      "ciudad": "Comitán",
-      "estado": "Chiapas",
-      "tipo": "Renta",
-      "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Palenque",
-      "ciudad": "Palenque",
-      "estado": "Chiapas",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
       "empresa": "Renta trajes regionales Palenque",
       "ciudad": "Palenque",
       "estado": "Chiapas",
       "tipo": "Renta",
       "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Huatulco",
-      "ciudad": "Huatulco",
-      "estado": "Oaxaca",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
       "fuente": "research"
     },
     {
@@ -2392,27 +710,11 @@
       "fuente": "research"
     },
     {
-      "empresa": "Trajes típicos / folklor Puerto Escondido",
-      "ciudad": "Puerto Escondido",
-      "estado": "Oaxaca",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
       "empresa": "Renta trajes regionales Puerto Escondido",
       "ciudad": "Puerto Escondido",
       "estado": "Oaxaca",
       "tipo": "Renta",
       "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Tehuantepec",
-      "ciudad": "Tehuantepec",
-      "estado": "Oaxaca",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
       "fuente": "research"
     },
     {
@@ -2424,27 +726,11 @@
       "fuente": "research"
     },
     {
-      "empresa": "Trajes típicos / folklor Salina Cruz",
-      "ciudad": "Salina Cruz",
-      "estado": "Oaxaca",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
-      "fuente": "research"
-    },
-    {
       "empresa": "Renta trajes regionales Salina Cruz",
       "ciudad": "Salina Cruz",
       "estado": "Oaxaca",
       "tipo": "Renta",
       "notas": "Eventos escolares y cívicos",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Trajes típicos / folklor Tuxtepec",
-      "ciudad": "Tuxtepec",
-      "estado": "Oaxaca",
-      "tipo": "Regional",
-      "notas": "Escuelas y tiendas de danza folklórica",
       "fuente": "research"
     },
     {

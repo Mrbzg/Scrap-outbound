@@ -483,7 +483,427 @@ lotes:
       - pegamento uñas piedritas strass .mx
       - Miss Cherry Nail Factory mayoreo
 
-# Plantilla para lotes futuros (29+)
+  "29":
+    slug: utensilios_cocina_tuppers
+    giro: Hogar
+    nicho: Utensilios de cocina, tuppers
+    ejemplo: https://surtiloza.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/29_utensilios_cocina_tuppers.json
+    search_queries:
+      - utensilios de cocina mayoreo México tuppers
+      - fábrica plásticos hogar tuppers México
+      - vajillas menaje mayoreo CDMX Guadalajara Monterrey
+
+  "30":
+    slug: audifonos_bluetooth_cargadores
+    giro: Electronica
+    nicho: Audifonos bluetooth, cargadores, fundas
+    ejemplo: https://www.ele-gate.com/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/30_audifonos_bluetooth_cargadores.json
+    search_queries:
+      - audífonos bluetooth mayoreo México .mx
+      - accesorios celular mayoreo cargadores power bank México
+      - mayorista accesorios electrónicos Monterrey Guadalajara CDMX
+
+  "31":
+    slug: fundas_personalizadas_celular
+    giro: Electronica
+    nicho: Fundas personalizadas y soporte para celular
+    ejemplo: https://funcases.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/31_fundas_personalizadas_celular.json
+    search_queries:
+      - fundas personalizadas celular México tienda .mx
+      - fundas celular mayoreo CDMX Izazaga Plaza de la Tecnología
+      - soporte celular personalizado fundas fotos México
+
+  "32":
+    slug: aromatizantes_para_autos
+    giro: Autos
+    nicho: Aromatizantes para autos
+    ejemplo: https://olfativahome.com/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/32_aromatizantes_para_autos.json
+    search_queries:
+      - aromatizantes para auto mayoreo México .mx
+      - ambientadores automotriz fabricante México
+      - aromatizante colgante gel auto mayoreo CDMX
+
+  "33":
+    slug: mochilas_utiles_escolares
+    giro: Papeleria
+    nicho: Mochilas y utiles escolares
+    ejemplo: https://samsonite.com.mx/collections/mochilas-escolares
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/33_mochilas_utiles_escolares.json
+    search_queries:
+      - mochilas escolares mayoreo México fábrica .mx
+      - mochilas y útiles escolares por mayoreo CDMX Monterrey Guadalajara
+      - loncheras mochilas marca mexicana Ducas Carsa
+
+  "34":
+    slug: skincare_maquillaje
+    giro: Belleza
+    nicho: Skincare y maquillaje
+    ejemplo: https://beautycarelatam.com.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/34_skincare_maquillaje.json
+    search_queries:
+      - maquillaje skincare mayoreo México distribuidor .mx
+      - cosméticos mayoreo CDMX sin mínimo
+      - Beauty Creations Arantza Pink Up mayoreo México
+
+  "35":
+    slug: refacciones_automotrices
+    giro: Refaccionaria
+    nicho: Refacciones automotrices
+    ejemplo: https://motorstore.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/35_refacciones_automotrices.json
+    search_queries:
+      - refacciones automotrices mayoreo México distribuidor .mx
+      - autopartes mayoreo Monterrey Guadalajara CDMX
+      - refaccionarias proveedor mayorista México
+
+  "36":
+    slug: vitaminas_plantas_abono
+    giro: Jardin
+    nicho: Vitaminas para plantas y abono
+    ejemplo: https://mexico.nucle.ag/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/36_vitaminas_plantas_abono.json
+    search_queries:
+      - vitaminas para plantas fertilizante México tienda .mx
+      - abonos biofertilizantes mayoreo México
+      - nutrición vegetal viveros jardinería México
+
+  "37":
+    slug: gomitas_vitaminas
+    giro: Alimentos
+    nicho: Gomitas de vitaminas
+    ejemplo: https://vitalsuplementosmex.com/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/37_gomitas_vitaminas.json
+    search_queries:
+      - gomitas de vitaminas México marca .mx
+      - gomitas vitamínicas mayoreo México
+      - vitaminas en gomitas COFEPRIS tienda online
+
+  "38":
+    slug: libros_coleccion
+    giro: Libros
+    nicho: Libros de coleccion
+    ejemplo: https://www.penguinlibros.com/mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/38_libros_coleccion.json
+    search_queries:
+      - libros de colección raros México librería .mx
+      - libros antiguos usados tienda CDMX Guadalajara
+      - libros raros firmados México coleccionista
+
+  "39":
+    slug: articulos_limpieza
+    giro: Hogar
+    nicho: Articulos de limpieza
+    ejemplo: https://es.uline.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/39_articulos_limpieza.json
+    search_queries:
+      - artículos de limpieza mayoreo México fabricante .mx
+      - productos de limpieza granel Monterrey CDMX
+      - escobas cepillos jarciería fabricante México
+
+  "40":
+    slug: perfumes
+    giro: Belleza
+    nicho: Perfumes
+    ejemplo: https://arome.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/40_perfumes.json
+    search_queries:
+      - perfumes mayoreo México originales .mx
+      - perfumes árabes mayoreo México distribuidor
+      - perfumería mayorista CDMX Guadalajara
+
+  "41":
+    slug: scoops_sorpresas
+    giro: Regalos
+    nicho: Scoops / sorpresas
+    ejemplo: https://www.facebook.com/p/Scoops-Sorpresas-Mx-61574706583273/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/41_scoops_sorpresas.json
+    search_queries:
+      - scoop orders México tienda tiktok instagram sorpresa
+      - caja sorpresa misteriosa México negocio kawaii
+      - papelería kawaii Sanrio tienda México
+
+  "42":
+    slug: articulos_para_adultos
+    giro: Adultos
+    nicho: Articulos para adultos
+    ejemplo: https://www.tiendavenus.com/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/42_articulos_para_adultos.json
+    search_queries:
+      - sex shop México tienda en línea juguetes eróticos .mx
+      - juguetes sexuales mayoreo México distribuidor
+      - sex shop CDMX Guadalajara Monterrey Tijuana tienda física
+
+  "43":
+    slug: vitaminas_suplementos
+    giro: Salud
+    nicho: Vitaminas y suplementos
+    ejemplo: https://www.blife.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/43_vitaminas_suplementos.json
+    search_queries:
+      - vitaminas suplementos tienda México .mx
+      - suplementos alimenticios mayoreo México farmacias
+      - marcas de suplementos México laboratorios
+
+  "44":
+    slug: productos_cabello_keratina
+    giro: Belleza
+    nicho: Productos para el cabello (keratina, cremas, ampolletas)
+    ejemplo: https://donjuan.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/44_productos_cabello_keratina.json
+    search_queries:
+      - keratina productos capilares mayoreo México .mx
+      - productos para el cabello marca mexicana tienda
+      - ampolletas queratina salón belleza México
+
+  "45":
+    slug: extensiones_de_pelo
+    giro: Belleza
+    nicho: Extensiones de pelo para salon
+    ejemplo: https://shop.beautyart.com.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/45_extensiones_de_pelo.json
+    search_queries:
+      - extensiones de cabello mayoreo México tienda .mx
+      - extensiones de pelo humano CDMX Guadalajara salón
+      - pelucas extensiones mayoreo Centro CDMX
+
+  "46":
+    slug: cortinas
+    giro: Hogar
+    nicho: Cortinas
+    ejemplo: https://cortinas.com/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/46_cortinas.json
+    search_queries:
+      - cortinas blackout tienda México fábrica .mx
+      - persianas cortinas a medida CDMX Guadalajara Monterrey
+      - fábrica cortinas enrollables México
+
+  "47":
+    slug: juguetes_sensoriales_mayoreo
+    giro: Juguetes
+    nicho: Juguetes sensoriales mayoreo
+    ejemplo: https://www.mayoreodidactico.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/47_juguetes_sensoriales_mayoreo.json
+    search_queries:
+      - juguetes didácticos mayoreo México distribuidor .mx
+      - fidget toys mayoreo México pop it squishy
+      - juguetes educativos por mayoreo fábrica México
+
+  "48":
+    slug: botellas_tapas_personalizados
+    giro: Proveedores
+    nicho: Botellas y tapas personalizados
+    ejemplo: https://escowill.com/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/48_botellas_tapas_personalizados.json
+    search_queries:
+      - botellas PET mayoreo México fábrica tapas
+      - termos tazas personalizados mayoreo México
+      - envases personalizados fábrica México
+
+  "49":
+    slug: accesorios_para_autos
+    giro: Autos
+    nicho: Accesorios para autos (luces y refacciones pequeñas)
+    ejemplo: https://www.masrefacciones.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/49_accesorios_para_autos.json
+    search_queries:
+      - accesorios autos luces LED México tienda .mx
+      - focos LED automotriz mayoreo México
+      - accesorios automotrices CDMX Guadalajara mayoreo
+
+  "50":
+    slug: pelucas_de_colores
+    giro: Belleza
+    nicho: Pelucas de colores
+    ejemplo: https://www.elfamundi.com.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/50_pelucas_de_colores.json
+    search_queries:
+      - pelucas de colores México tienda .mx mayoreo
+      - pelucas fantasía cosplay disfraz CDMX mayoreo
+      - pelucas de colores venta por mayoreo México
+
+  "51":
+    slug: jabones_shampoos
+    giro: Belleza
+    nicho: Jabones y shampoos
+    ejemplo: https://www.rizosmexicanos.com/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/51_jabones_shampoos.json
+    search_queries:
+      - jabones artesanales mayoreo México tienda .mx
+      - shampoo sólido natural México marca
+      - jabonería artesanal mexicana CDMX Guadalajara Puebla
+
+  "52":
+    slug: skincare_coreano
+    giro: Belleza
+    nicho: Skincare Coreano
+    ejemplo: https://haloskin.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/52_skincare_coreano.json
+    search_queries:
+      - skincare coreano México tienda .mx K-beauty
+      - mayoreo K-beauty México proveedor
+      - COSRX Anua Beauty of Joseon tienda México
+
+  "53":
+    slug: papeleria_mayoreo
+    giro: Comercializadora
+    nicho: Articulos de papeleria en mayoreo
+    ejemplo: https://es.uline.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/53_papeleria_mayoreo.json
+    search_queries:
+      - papelería mayoreo México distribuidor útiles escolares
+      - marcas mexicanas de papelería Scribe Barrilito BACO
+      - papelería al mayoreo CDMX Guadalajara Monterrey
+
+  "54":
+    slug: equipo_iluminacion
+    giro: Comercializadora
+    nicho: Equipo de iluminacion
+    ejemplo: https://vyorsa.com.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/54_equipo_iluminacion.json
+    search_queries:
+      - equipo de iluminación mayoreo México distribuidor .mx
+      - Tecnolite Construlita Ledvance iluminación México
+      - lámparas LED mayoreo CDMX Guadalajara
+
+  "55":
+    slug: envios_de_tarjetas
+    giro: Fintech
+    nicho: Servicio de envios de tarjetas
+    ejemplo: https://bancoplata.mx/es
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/55_envios_de_tarjetas.json
+    search_queries:
+      - banco digital México envío tarjetas Nu Klar Stori Albo
+      - fintech tarjetas de crédito México neobancos
+      - tarjeta física envío domicilio México fintech
+
+  "56":
+    slug: suministros_medicos_farmaceuticos
+    giro: MedTech
+    nicho: Suministros medicos / farmaceuticos
+    ejemplo: https://www.pisa.com.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/56_suministros_medicos_farmaceuticos.json
+    search_queries:
+      - suministros médicos mayoreo México distribuidor .mx
+      - material de curación mayoreo hospitales México
+      - farmacéutica mexicana laboratorios PiSA Genomma
+
+  "57":
+    slug: barberia_cuidado_masculino
+    giro: Grooming
+    nicho: Barberia y cuidado masculino
+    ejemplo: https://www.sensabien.com/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/57_barberia_cuidado_masculino.json
+    search_queries:
+      - barbería cuidado masculino México marcas Kiss Bígaro
+      - productos barbería mayoreo México
+      - barber shop México tienda en línea
+
+  "58":
+    slug: insumos_tattoo_body_art
+    giro: Suministros Profesionales
+    nicho: Insumos para Tattoo y Body Art
+    ejemplo: https://soulflower.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/58_insumos_tattoo_body_art.json
+    search_queries:
+      - tattoo supply México insumos tatuar mayoreo .mx
+      - tintas máquinas cartuchos tatuaje México
+      - body art suministros profesionales México
+
+# Plantilla para lotes futuros (59+)
 # Copiar bloque y llenar sources + seeds
 template_lote:
   slug: ""

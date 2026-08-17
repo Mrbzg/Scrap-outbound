@@ -12,8 +12,8 @@
     "tipo": "Tienda TCG + grading",
     "notas": "R. de la Plata 203 Plaza Alejandria Piso 2",
     "fuente": "main_ecom",
-    "score_contacto": 9,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 9
   },
   {
     "giro": "Coleccionables",
@@ -28,8 +28,8 @@
     "tipo": "Tienda oficial Bandai/WPN",
     "notas": "Aquiles Serdan 10875 Libertad; OP Pokémon MTG YGO Digimon",
     "fuente": "main_ecom",
-    "score_contacto": 6,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 5
   },
   {
     "giro": "Coleccionables",
@@ -44,8 +44,8 @@
     "tipo": "Tienda TCG + figuras",
     "notas": "YGO Pokémon Digimon; Hacienda San Nicolás 159",
     "fuente": "main_ecom",
-    "score_contacto": 6,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 6
   },
   {
     "giro": "Coleccionables",
@@ -60,8 +60,8 @@
     "tipo": "Ecom TCG",
     "notas": "Pokémon YGO OP DB Digimon Lorcana; soporte@procardsmexico.com.mx",
     "fuente": "main_ecom",
-    "score_contacto": 9,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 9
   },
   {
     "giro": "Coleccionables",
@@ -76,8 +76,8 @@
     "tipo": "Geek + TCG ecom",
     "notas": "Pokémon YGO Digimon DB; envíos nacionales",
     "fuente": "main_ecom",
-    "score_contacto": 4,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 4
   },
   {
     "giro": "Coleccionables",
@@ -92,8 +92,8 @@
     "tipo": "Tienda TCG",
     "notas": "Eje Central 10 2do piso Local 5",
     "fuente": "digimon_auth_list",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Coleccionables",
@@ -108,8 +108,8 @@
     "tipo": "Tienda TCG",
     "notas": "Morelos 133 Int 8 Centro",
     "fuente": "digimon_auth_list",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Coleccionables",
@@ -124,8 +124,8 @@
     "tipo": "Tienda TCG",
     "notas": "Benito Juárez 911",
     "fuente": "digimon_auth_list",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Coleccionables",
@@ -140,8 +140,8 @@
     "tipo": "Tienda TCG",
     "notas": "Beethoven 5162 La Estancia",
     "fuente": "digimon_auth_list",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Coleccionables",
@@ -156,8 +156,8 @@
     "tipo": "Ecom singles Pokémon",
     "notas": "Singles competitivos; pickup Plaza del Sol",
     "fuente": "main_ecom",
-    "score_contacto": 4,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 4
   },
   {
     "giro": "Coleccionables",
@@ -172,8 +172,8 @@
     "tipo": "Tienda TCG",
     "notas": "Pokémon YGO OP Lorcana MTG desde 2023",
     "fuente": "main_ecom",
-    "score_contacto": 4,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 4
   },
   {
     "giro": "Coleccionables",
@@ -188,8 +188,8 @@
     "tipo": "Social + tienda",
     "notas": "Comunidad MTY",
     "fuente": "extra",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Coleccionables",
@@ -204,8 +204,8 @@
     "tipo": "Ecom TCG",
     "notas": "Pokémon MTG OP Lorcana YGO Gundam SWU",
     "fuente": "main_ecom",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Coleccionables",
@@ -220,8 +220,8 @@
     "tipo": "Tienda TCG",
     "notas": "Comunidad MTG/Pokémon CDMX",
     "fuente": "cdmx_scene",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Coleccionables",
@@ -236,8 +236,8 @@
     "tipo": "Tienda TCG oriente",
     "notas": "Comunidad Pokémon grande",
     "fuente": "cdmx_scene",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Coleccionables",
@@ -252,8 +252,8 @@
     "tipo": "Mayoreo TCG",
     "notas": "Mayoreo para tiendas/negocios",
     "fuente": "online",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Coleccionables",
@@ -268,8 +268,8 @@
     "tipo": "Retail + mayoreo TCG",
     "notas": "Distribuidor autorizado Pokémon; Av de los Aztecas 8020",
     "fuente": "main_ecom",
-    "score_contacto": 4,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 4
   },
   {
     "giro": "Coleccionables",
@@ -284,40 +284,8 @@
     "tipo": "Coleccionismo + TCG",
     "notas": "OP MTG Lorcana línea",
     "fuente": "extra",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Gamesmart",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "CDMX",
-    "estado": "CDMX",
-    "pais": "México",
-    "tipo": "WPN store",
-    "notas": "Insurgentes mall; MTG community",
-    "fuente": "cdmx_scene",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Gamesmart online contact",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "CDMX",
-    "estado": "CDMX",
-    "pais": "México",
-    "tipo": "WPN físico",
-    "notas": "Insurgentes",
-    "fuente": "extra",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Coleccionables",
@@ -332,8 +300,8 @@
     "tipo": "Tienda grande + mayoreo",
     "notas": "Desde 2007; catálogo singles grande; Rio Nilo 7906",
     "fuente": "main_ecom",
-    "score_contacto": 4,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 4
   },
   {
     "giro": "Coleccionables",
@@ -348,24 +316,8 @@
     "tipo": "Mayoreo coleccionables",
     "notas": "Canal B2B Hidralistico",
     "fuente": "gdl_scene",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby Quest",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Monterrey",
-    "estado": "NL",
-    "pais": "México",
-    "tipo": "Tienda grande multi-TCG",
-    "notas": "Av Francisco I Madero 302 A esq Galeana Centro",
-    "fuente": "digimon_auth_list",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Coleccionables",
@@ -380,8 +332,8 @@
     "tipo": "Tienda TCG",
     "notas": "Rangel Frias 231A Cumbres 2do sector",
     "fuente": "digimon_auth_list",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Coleccionables",
@@ -396,8 +348,8 @@
     "tipo": "Tienda TCG",
     "notas": "Área GDL",
     "fuente": "gdl_scene",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Coleccionables",
@@ -412,8 +364,8 @@
     "tipo": "Tienda TCG + torneos",
     "notas": "Pokémon YGO One Piece Magic; Av Universidad 790 local 11",
     "fuente": "main_ecom",
-    "score_contacto": 4,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 4
   },
   {
     "giro": "Coleccionables",
@@ -428,8 +380,8 @@
     "tipo": "Buy/sell/trade",
     "notas": "Pokémon MTG YGO bulk",
     "fuente": "main_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Coleccionables",
@@ -444,8 +396,8 @@
     "tipo": "Tienda TCG",
     "notas": "Calle 2da Benito Juarez 7971 Plaza Tecnologia L-135",
     "fuente": "digimon_auth_list",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Coleccionables",
@@ -460,8 +412,8 @@
     "tipo": "Ecom multi-TCG",
     "notas": "MTG Pokémon YGO OP Lorcana singles",
     "fuente": "main_ecom",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Coleccionables",
@@ -476,8 +428,8 @@
     "tipo": "Ecom/singles MTG",
     "notas": "Latin CardKingdom style; 2 locales",
     "fuente": "main_ecom",
-    "score_contacto": 4,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 4
   },
   {
     "giro": "Coleccionables",
@@ -492,8 +444,8 @@
     "tipo": "Figuras + TCG torneos",
     "notas": "Pokémon OP Lorcana Gundam Riftbound DB",
     "fuente": "main_ecom",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Coleccionables",
@@ -508,8 +460,8 @@
     "tipo": "Ecom Pokémon",
     "notas": "Singles y sellado con garantía autenticidad",
     "fuente": "main_ecom",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Coleccionables",
@@ -524,8 +476,8 @@
     "tipo": "Tienda TCG",
     "notas": "Plaza de la Tecnologia",
     "fuente": "mty_scene",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Coleccionables",
@@ -540,24 +492,8 @@
     "tipo": "Cadena TCG GDL/CDMX",
     "notas": "Av Moctezuma 6484 Hacienda del Tepeyac",
     "fuente": "main_ecom",
-    "score_contacto": 4,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "TCG Empire CDMX sucursal",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "CDMX",
-    "estado": "CDMX",
-    "pais": "México",
-    "tipo": "Cadena TCG",
-    "notas": "Sucursal CDMX de TCG Empire",
-    "fuente": "online",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Coleccionables",
@@ -572,8 +508,8 @@
     "tipo": "Ecom TCG",
     "notas": "YGO Magic Pokémon envíos MX",
     "fuente": "main_ecom",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Coleccionables",
@@ -588,8 +524,8 @@
     "tipo": "Marketplace TCG",
     "notas": "Compra/venta Pokémon MTG YGO OP",
     "fuente": "main_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Coleccionables",
@@ -604,8 +540,8 @@
     "tipo": "Tienda TCG",
     "notas": "3era Carrillo Puerto 8012 Zona Centro",
     "fuente": "digimon_auth_list",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Coleccionables",
@@ -620,8 +556,8 @@
     "tipo": "Tienda TCG",
     "notas": "Calle 6 #325 x19 y 23 Jardines Vista Alegre II",
     "fuente": "digimon_auth_list",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Coleccionables",
@@ -636,8 +572,8 @@
     "tipo": "Ejemplo original / editorial",
     "notas": "Álbumes y cartas Panini - ejemplo del cliente",
     "fuente": "ejemplo",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Coleccionables",
@@ -652,8 +588,8 @@
     "tipo": "Multi-TCG",
     "notas": "Pokémon MTG OP Lorcana",
     "fuente": "main_ecom",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Coleccionables",
@@ -668,8 +604,8 @@
     "tipo": "Tienda regional",
     "notas": "Bajío",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -684,8 +620,8 @@
     "tipo": "Centro geek",
     "notas": "TCG y cultura pop",
     "fuente": "mty_scene",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -700,8 +636,8 @@
     "tipo": "Marketplace multi",
     "notas": "Sellado y singles",
     "fuente": "acc_market",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -716,8 +652,8 @@
     "tipo": "Tienda regional",
     "notas": "ZMM",
     "fuente": "second_cities",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -732,8 +668,8 @@
     "tipo": "Distribuidor juegos",
     "notas": "Board games + TCG adyacente",
     "fuente": "publishers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -748,8 +684,8 @@
     "tipo": "Tiendas autorizadas Bandai",
     "notas": "OP Digimon events",
     "fuente": "events",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -764,8 +700,8 @@
     "tipo": "Publisher Bandai",
     "notas": "One Piece Digimon Gundam",
     "fuente": "publishers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -780,8 +716,8 @@
     "tipo": "TCG",
     "notas": "Battle Spirits",
     "fuente": "adjacent_tcg",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -796,8 +732,8 @@
     "tipo": "Accesorios",
     "notas": "Storage grading prep",
     "fuente": "acc_market",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -812,8 +748,8 @@
     "tipo": "Publisher",
     "notas": "Weiss Schwarz Vanguard",
     "fuente": "publishers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -828,8 +764,8 @@
     "tipo": "Tienda regional",
     "notas": "Sureste",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -844,8 +780,8 @@
     "tipo": "Tienda regional",
     "notas": "Turismo",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -860,8 +796,8 @@
     "tipo": "Tienda TCG",
     "notas": "Lista Digimon authorized MX",
     "fuente": "digimon_auth_list",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -876,8 +812,8 @@
     "tipo": "TCG",
     "notas": "Vanguard",
     "fuente": "adjacent_tcg",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -892,8 +828,8 @@
     "tipo": "Tienda regional",
     "notas": "Frontera",
     "fuente": "second_cities",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -908,8 +844,8 @@
     "tipo": "Tienda regional",
     "notas": "Ya Digimon list",
     "fuente": "second_cities",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -924,8 +860,8 @@
     "tipo": "Tienda física Plaza Garibaldi",
     "notas": "Locales 337-338 Jose Garibaldi 437",
     "fuente": "digimon_auth_list",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -940,8 +876,8 @@
     "tipo": "Servicio grading",
     "notas": "Cartas",
     "fuente": "acc_market",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -956,8 +892,8 @@
     "tipo": "Tienda regional",
     "notas": "Frontera sur",
     "fuente": "second_cities",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -972,8 +908,8 @@
     "tipo": "Tienda regional",
     "notas": "Norte",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -988,8 +924,8 @@
     "tipo": "Hub eventos TCG",
     "notas": "Zona Bellas Artes",
     "fuente": "cdmx_scene",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -1004,8 +940,8 @@
     "tipo": "Tienda regional",
     "notas": "Ya en lista Digimon",
     "fuente": "second_cities",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -1020,8 +956,8 @@
     "tipo": "Tienda regional",
     "notas": "Pacífico",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -1036,8 +972,8 @@
     "tipo": "Tienda regional",
     "notas": "Centro",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -1052,8 +988,8 @@
     "tipo": "Tienda regional",
     "notas": "Pacífico",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -1068,8 +1004,8 @@
     "tipo": "Tienda geek/TCG",
     "notas": "Pedro Rosales de Leon 6326",
     "fuente": "digimon_auth_list",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -1084,8 +1020,8 @@
     "tipo": "Tienda hobbies/TCG",
     "notas": "Eje Central #10 1er piso local 3-C",
     "fuente": "digimon_auth_list",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -1100,8 +1036,8 @@
     "tipo": "Distribuidor juegos mesa",
     "notas": "Board games",
     "fuente": "publishers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -1116,8 +1052,8 @@
     "tipo": "Tienda geek/TCG",
     "notas": "Plaza Fiesta San Agustín; Magic+Pokémon",
     "fuente": "mty_scene",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -1132,8 +1068,8 @@
     "tipo": "TCG anime",
     "notas": "DBS",
     "fuente": "adjacent_tcg",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -1148,8 +1084,8 @@
     "tipo": "Accesorios",
     "notas": "Sleeves",
     "fuente": "acc_market",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -1164,8 +1100,8 @@
     "tipo": "Tienda física TCG",
     "notas": "Eje Central #10 2do piso Local 3 Centro",
     "fuente": "digimon_auth_list",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -1180,8 +1116,8 @@
     "tipo": "Tienda regional",
     "notas": "Norte",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -1196,8 +1132,8 @@
     "tipo": "Tienda regional",
     "notas": "ZMVM",
     "fuente": "second_cities",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -1212,8 +1148,8 @@
     "tipo": "Edificio multi-tiendas",
     "notas": "Draner Andy Dark Knight etc",
     "fuente": "cdmx_scene",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -1228,8 +1164,8 @@
     "tipo": "Tienda TCG",
     "notas": "Lista Digimon authorized MX",
     "fuente": "digimon_auth_list",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -1244,8 +1180,8 @@
     "tipo": "Tienda geek/TCG",
     "notas": "Lopez Cotilla 373 Local 260",
     "fuente": "digimon_auth_list",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -1260,8 +1196,8 @@
     "tipo": "Tienda regional",
     "notas": "BC costa",
     "fuente": "second_cities",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -1276,8 +1212,8 @@
     "tipo": "Tienda Pokémon",
     "notas": "Coapa hub Pokémon",
     "fuente": "cdmx_scene",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -1292,8 +1228,8 @@
     "tipo": "Publisher/distrib",
     "notas": "Star Wars Unlimited",
     "fuente": "publishers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -1308,8 +1244,8 @@
     "tipo": "TCG",
     "notas": "FaB",
     "fuente": "adjacent_tcg",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -1324,8 +1260,8 @@
     "tipo": "Plaza multi-tiendas",
     "notas": "Hub coleccionables",
     "fuente": "cdmx_scene",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -1340,8 +1276,8 @@
     "tipo": "Plaza multi-tiendas",
     "notas": "Hub friki GDL",
     "fuente": "gdl_scene",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -1356,8 +1292,8 @@
     "tipo": "Plaza friki",
     "notas": "Múltiples sellers TCG",
     "fuente": "mty_scene",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -1372,8 +1308,40 @@
     "tipo": "Accesorios",
     "notas": "Deckboxes",
     "fuente": "acc_market",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
+  },
+  {
+    "giro": "Coleccionables",
+    "nicho": "Cartas/tarjetas de coleccion",
+    "empresa": "Gamesmart",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "CDMX",
+    "estado": "CDMX",
+    "pais": "México",
+    "tipo": "WPN store",
+    "notas": "Insurgentes mall; MTG community",
+    "fuente": "cdmx_scene",
+    "prioridad": "Baja",
+    "score_contacto": 1
+  },
+  {
+    "giro": "Coleccionables",
+    "nicho": "Cartas/tarjetas de coleccion",
+    "empresa": "Gamesmart online contact",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "CDMX",
+    "estado": "CDMX",
+    "pais": "México",
+    "tipo": "WPN físico",
+    "notas": "Insurgentes",
+    "fuente": "extra",
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -1388,8 +1356,8 @@
     "tipo": "Evento gaming",
     "notas": "Presencia TCG",
     "fuente": "events",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -1404,72 +1372,8 @@
     "tipo": "Tienda Magic focused",
     "notas": "Cumbres; singles MTG top recomendada",
     "fuente": "mty_scene",
-    "score_contacto": 1,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Acapulco",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Acapulco",
-    "estado": "Guerrero",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Aguascalientes",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Aguascalientes",
-    "estado": "Aguascalientes",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Campeche",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Campeche",
-    "estado": "Campeche",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Cancún",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Cancún",
-    "estado": "Quintana Roo",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -1484,440 +1388,8 @@
     "tipo": "Comunidad local",
     "notas": "Grupo compra/venta local TCG",
     "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Chihuahua",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Chihuahua",
-    "estado": "Chihuahua",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Colima",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Colima",
-    "estado": "Colima",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Cuernavaca",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Cuernavaca",
-    "estado": "Morelos",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Culiacán",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Culiacán",
-    "estado": "Sinaloa",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Durango",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Durango",
-    "estado": "Durango",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Guadalajara",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Guadalajara",
-    "estado": "Jalisco",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Hermosillo",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Hermosillo",
-    "estado": "Sonora",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG La Paz",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "La Paz",
-    "estado": "Baja California Sur",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG León",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "León",
-    "estado": "Guanajuato",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Monterrey",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Monterrey",
-    "estado": "Nuevo León",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Morelia",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Morelia",
-    "estado": "Michoacán",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Mérida",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Mérida",
-    "estado": "Yucatán",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Oaxaca",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Oaxaca",
-    "estado": "Oaxaca",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Pachuca",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Pachuca",
-    "estado": "Hidalgo",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Puebla",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Puebla",
-    "estado": "Puebla",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Querétaro",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Querétaro",
-    "estado": "Querétaro",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Saltillo",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Saltillo",
-    "estado": "Coahuila",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG San Luis Potosí",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "San Luis Potosí",
-    "estado": "San Luis Potosí",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Tampico",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Tampico",
-    "estado": "Tamaulipas",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Tepic",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Tepic",
-    "estado": "Nayarit",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Tijuana",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Tijuana",
-    "estado": "Baja California",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Tlaxcala",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Tlaxcala",
-    "estado": "Tlaxcala",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Toluca",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Toluca",
-    "estado": "EdoMex",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Tuxtla Gutiérrez",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Tuxtla Gutiérrez",
-    "estado": "Chiapas",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Veracruz",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Veracruz",
-    "estado": "Veracruz",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Villahermosa",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Villahermosa",
-    "estado": "Tabasco",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Grupo Facebook TCG Zacatecas",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Zacatecas",
-    "estado": "Zacatecas",
-    "pais": "México",
-    "tipo": "Comunidad local",
-    "notas": "Grupo compra/venta local TCG",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -1932,8 +1404,8 @@
     "tipo": "Tienda regional",
     "notas": "ZMM",
     "fuente": "second_cities",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -1948,8 +1420,8 @@
     "tipo": "TCG Bandai",
     "notas": "Gundam",
     "fuente": "adjacent_tcg",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -1964,8 +1436,8 @@
     "tipo": "Tienda Pokémon",
     "notas": "Plaza Tecnologia; singles Pokémon",
     "fuente": "mty_scene",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -1980,72 +1452,24 @@
     "tipo": "Tienda regional",
     "notas": "Noroeste",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
     "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Acapulco",
+    "empresa": "Hobby Quest",
     "url": "",
     "email": "",
     "telefono": "",
-    "ciudad": "Acapulco",
-    "estado": "Guerrero",
+    "ciudad": "Monterrey",
+    "estado": "NL",
     "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Aguascalientes",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Aguascalientes",
-    "estado": "Aguascalientes",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Campeche",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Campeche",
-    "estado": "Campeche",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Cancún",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Cancún",
-    "estado": "Quintana Roo",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "tipo": "Tienda grande multi-TCG",
+    "notas": "Av Francisco I Madero 302 A esq Galeana Centro",
+    "fuente": "digimon_auth_list",
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -2060,440 +1484,8 @@
     "tipo": "Hub regional friki/TCG",
     "notas": "Punto de entrada para mapear tiendas TCG locales",
     "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Chihuahua",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Chihuahua",
-    "estado": "Chihuahua",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Colima",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Colima",
-    "estado": "Colima",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Cuernavaca",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Cuernavaca",
-    "estado": "Morelos",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Culiacán",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Culiacán",
-    "estado": "Sinaloa",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Durango",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Durango",
-    "estado": "Durango",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Guadalajara",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Guadalajara",
-    "estado": "Jalisco",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Hermosillo",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Hermosillo",
-    "estado": "Sonora",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub La Paz",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "La Paz",
-    "estado": "Baja California Sur",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub León",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "León",
-    "estado": "Guanajuato",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Monterrey",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Monterrey",
-    "estado": "Nuevo León",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Morelia",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Morelia",
-    "estado": "Michoacán",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Mérida",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Mérida",
-    "estado": "Yucatán",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Oaxaca",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Oaxaca",
-    "estado": "Oaxaca",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Pachuca",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Pachuca",
-    "estado": "Hidalgo",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Puebla",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Puebla",
-    "estado": "Puebla",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Querétaro",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Querétaro",
-    "estado": "Querétaro",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Saltillo",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Saltillo",
-    "estado": "Coahuila",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub San Luis Potosí",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "San Luis Potosí",
-    "estado": "San Luis Potosí",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Tampico",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Tampico",
-    "estado": "Tamaulipas",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Tepic",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Tepic",
-    "estado": "Nayarit",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Tijuana",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Tijuana",
-    "estado": "Baja California",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Tlaxcala",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Tlaxcala",
-    "estado": "Tlaxcala",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Toluca",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Toluca",
-    "estado": "EdoMex",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Tuxtla Gutiérrez",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Tuxtla Gutiérrez",
-    "estado": "Chiapas",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Veracruz",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Veracruz",
-    "estado": "Veracruz",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Villahermosa",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Villahermosa",
-    "estado": "Tabasco",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Hobby shop / Frikiplaza TCG hub Zacatecas",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Zacatecas",
-    "estado": "Zacatecas",
-    "pais": "México",
-    "tipo": "Hub regional friki/TCG",
-    "notas": "Punto de entrada para mapear tiendas TCG locales",
-    "fuente": "hubs",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -2508,8 +1500,8 @@
     "tipo": "TCG",
     "notas": "Hololive",
     "fuente": "adjacent_tcg",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -2524,8 +1516,8 @@
     "tipo": "Evento cards",
     "notas": "Card shows",
     "fuente": "events",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -2540,8 +1532,8 @@
     "tipo": "Tienda TCG",
     "notas": "Diego Ruiz 12 col Emiliano Zapata",
     "fuente": "digimon_auth_list",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -2556,8 +1548,8 @@
     "tipo": "Tienda regional",
     "notas": "Bajío",
     "fuente": "second_cities",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -2572,8 +1564,8 @@
     "tipo": "Tienda Pokémon top",
     "notas": "Zona Tec; sellado y torneos",
     "fuente": "mty_scene",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -2588,8 +1580,8 @@
     "tipo": "Tienda multi-TCG",
     "notas": "Magic fuerte + Pokémon YGO Flesh and Blood",
     "fuente": "mty_scene",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -2604,8 +1596,8 @@
     "tipo": "Tienda TCG",
     "notas": "Padre Larios 326",
     "fuente": "digimon_auth_list",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -2620,8 +1612,8 @@
     "tipo": "Publisher YGO",
     "notas": "OTS stores",
     "fuente": "publishers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -2636,8 +1628,8 @@
     "tipo": "Evento/convención",
     "notas": "Vendors TCG masivos",
     "fuente": "events",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -2652,8 +1644,8 @@
     "tipo": "Tienda regional",
     "notas": "BCS",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -2668,8 +1660,8 @@
     "tipo": "Tienda regional",
     "notas": "Bajío",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -2684,8 +1676,8 @@
     "tipo": "Sports cards",
     "notas": "Fútbol MX",
     "fuente": "adjacent_tcg",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -2700,8 +1692,8 @@
     "tipo": "Tienda regional",
     "notas": "Turismo BCS",
     "fuente": "second_cities",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -2716,8 +1708,8 @@
     "tipo": "Tienda coleccionables",
     "notas": "Corina 15 Col Del Carmen",
     "fuente": "cdmx_scene",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -2732,8 +1724,8 @@
     "tipo": "Singles TCG",
     "notas": "Garibaldi 437 Local 303 3er piso",
     "fuente": "digimon_auth_list",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -2748,8 +1740,8 @@
     "tipo": "Tienda regional",
     "notas": "Frontera",
     "fuente": "second_cities",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -2764,8 +1756,8 @@
     "tipo": "Tienda regional",
     "notas": "Pacífico",
     "fuente": "second_cities",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -2780,8 +1772,8 @@
     "tipo": "Marketplace multi",
     "notas": "Miles de sellers",
     "fuente": "acc_market",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -2796,8 +1788,8 @@
     "tipo": "Tienda regional",
     "notas": "BC norte",
     "fuente": "second_cities",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -2812,8 +1804,8 @@
     "tipo": "TCG LATAM",
     "notas": "MyL",
     "fuente": "adjacent_tcg",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -2828,8 +1820,8 @@
     "tipo": "Tienda MTG eventos",
     "notas": "Draft y ligas Standard",
     "fuente": "mty_scene",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -2844,8 +1836,8 @@
     "tipo": "Tienda regional",
     "notas": "Occidente",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -2860,8 +1852,8 @@
     "tipo": "Tienda TCG",
     "notas": "Calle Zaragoza 470",
     "fuente": "digimon_auth_list",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -2876,8 +1868,8 @@
     "tipo": "Tienda regional",
     "notas": "Sureste",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -2892,8 +1884,8 @@
     "tipo": "Social commerce",
     "notas": "Sábados Blanquita",
     "fuente": "extra",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -2908,8 +1900,8 @@
     "tipo": "Compra/venta sábado",
     "notas": "Teatro Blanquita Eje Central 10-16h",
     "fuente": "cdmx_scene",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -2924,8 +1916,8 @@
     "tipo": "Tienda regional",
     "notas": "ZMVM",
     "fuente": "second_cities",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -2940,8 +1932,8 @@
     "tipo": "Tienda regional",
     "notas": "ZMVM",
     "fuente": "second_cities",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -2956,8 +1948,8 @@
     "tipo": "Tienda regional",
     "notas": "Frontera",
     "fuente": "second_cities",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -2972,72 +1964,8 @@
     "tipo": "Tienda regional",
     "notas": "Sur",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Acapulco",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Acapulco",
-    "estado": "Guerrero",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Aguascalientes",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Aguascalientes",
-    "estado": "Aguascalientes",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Campeche",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Campeche",
-    "estado": "Campeche",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Cancún",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Cancún",
-    "estado": "Quintana Roo",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -3052,440 +1980,8 @@
     "tipo": "Organizador",
     "notas": "Ligas locales Pokémon/MTG/YGO",
     "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Chihuahua",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Chihuahua",
-    "estado": "Chihuahua",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Colima",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Colima",
-    "estado": "Colima",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Cuernavaca",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Cuernavaca",
-    "estado": "Morelos",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Culiacán",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Culiacán",
-    "estado": "Sinaloa",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Durango",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Durango",
-    "estado": "Durango",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Guadalajara",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Guadalajara",
-    "estado": "Jalisco",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Hermosillo",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Hermosillo",
-    "estado": "Sonora",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales La Paz",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "La Paz",
-    "estado": "Baja California Sur",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales León",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "León",
-    "estado": "Guanajuato",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Monterrey",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Monterrey",
-    "estado": "Nuevo León",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Morelia",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Morelia",
-    "estado": "Michoacán",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Mérida",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Mérida",
-    "estado": "Yucatán",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Oaxaca",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Oaxaca",
-    "estado": "Oaxaca",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Pachuca",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Pachuca",
-    "estado": "Hidalgo",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Puebla",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Puebla",
-    "estado": "Puebla",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Querétaro",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Querétaro",
-    "estado": "Querétaro",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Saltillo",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Saltillo",
-    "estado": "Coahuila",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales San Luis Potosí",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "San Luis Potosí",
-    "estado": "San Luis Potosí",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Tampico",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Tampico",
-    "estado": "Tamaulipas",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Tepic",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Tepic",
-    "estado": "Nayarit",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Tijuana",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Tijuana",
-    "estado": "Baja California",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Tlaxcala",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Tlaxcala",
-    "estado": "Tlaxcala",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Toluca",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Toluca",
-    "estado": "EdoMex",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Tuxtla Gutiérrez",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Tuxtla Gutiérrez",
-    "estado": "Chiapas",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Veracruz",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Veracruz",
-    "estado": "Veracruz",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Villahermosa",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Villahermosa",
-    "estado": "Tabasco",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Organizador torneos locales Zacatecas",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Zacatecas",
-    "estado": "Zacatecas",
-    "pais": "México",
-    "tipo": "Organizador",
-    "notas": "Ligas locales Pokémon/MTG/YGO",
-    "fuente": "community",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -3500,8 +1996,8 @@
     "tipo": "Tienda regional",
     "notas": "Centro",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -3516,8 +2012,8 @@
     "tipo": "Tienda TCG",
     "notas": "Avenida Juarez 1217 Local-C",
     "fuente": "digimon_auth_list",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -3532,8 +2028,8 @@
     "tipo": "Hub TCG",
     "notas": "CardTemple pickup point",
     "fuente": "gdl_scene",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -3548,8 +2044,8 @@
     "tipo": "Organizador torneos",
     "notas": "Red tiendas autorizadas",
     "fuente": "events",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -3564,8 +2060,8 @@
     "tipo": "Tienda regional",
     "notas": "Riviera Maya",
     "fuente": "second_cities",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -3580,8 +2076,8 @@
     "tipo": "Plaza multi-tiendas",
     "notas": "Centro/varios",
     "fuente": "cdmx_scene",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -3596,8 +2092,8 @@
     "tipo": "Plaza multi-tiendas",
     "notas": "Hub TCG",
     "fuente": "mty_scene",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -3612,8 +2108,8 @@
     "tipo": "Tienda física",
     "notas": "Cartas coleccionables",
     "fuente": "mty_scene",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -3628,8 +2124,8 @@
     "tipo": "Plaza multi-tiendas",
     "notas": "Centro hub TCG MTY",
     "fuente": "mty_scene",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -3644,8 +2140,8 @@
     "tipo": "Ecom Pokémon",
     "notas": "Premium graded PSA special orders",
     "fuente": "online",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -3660,8 +2156,8 @@
     "tipo": "Ecom",
     "notas": "Cartas graded y pedidos especiales",
     "fuente": "extra",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -3676,8 +2172,8 @@
     "tipo": "Ecom Pokémon",
     "notas": "Productos Pokémon online",
     "fuente": "online",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -3692,8 +2188,8 @@
     "tipo": "Tienda + torneos",
     "notas": "Play! Pokémon weekly",
     "fuente": "cdmx_scene",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -3708,8 +2204,8 @@
     "tipo": "Servicio grading",
     "notas": "Submission centers",
     "fuente": "acc_market",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -3724,8 +2220,8 @@
     "tipo": "Tienda regional",
     "notas": "Centro",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -3740,8 +2236,8 @@
     "tipo": "Tienda regional",
     "notas": "Bajío",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -3756,8 +2252,8 @@
     "tipo": "Publisher Lorcana",
     "notas": "Disney Lorcana",
     "fuente": "publishers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -3772,8 +2268,8 @@
     "tipo": "Tienda regional",
     "notas": "Frontera",
     "fuente": "second_cities",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -3788,8 +2284,8 @@
     "tipo": "TCG",
     "notas": "LoL Riftbound",
     "fuente": "adjacent_tcg",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -3804,8 +2300,8 @@
     "tipo": "Publisher",
     "notas": "Riftbound LoL TCG",
     "fuente": "publishers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -3820,8 +2316,8 @@
     "tipo": "Plaza geek multi-tiendas",
     "notas": "Centro; varios locales TCG",
     "fuente": "mty_scene",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -3836,8 +2332,8 @@
     "tipo": "Tienda regional",
     "notas": "Bajío",
     "fuente": "second_cities",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -3852,8 +2348,8 @@
     "tipo": "Tienda regional",
     "notas": "Norte",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -3868,8 +2364,8 @@
     "tipo": "Tienda regional",
     "notas": "Ya Mithrandir",
     "fuente": "second_cities",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -3884,8 +2380,8 @@
     "tipo": "Tienda regional",
     "notas": "Centro",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -3900,8 +2396,8 @@
     "tipo": "Tienda regional",
     "notas": "ZMM",
     "fuente": "second_cities",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -3916,8 +2412,8 @@
     "tipo": "Cromos/álbumes",
     "notas": "Panini soccer",
     "fuente": "adjacent_tcg",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -3932,8 +2428,8 @@
     "tipo": "Sports cards",
     "notas": "Béisbol",
     "fuente": "adjacent_tcg",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -3948,8 +2444,8 @@
     "tipo": "Sports cards",
     "notas": "Basquetbol",
     "fuente": "adjacent_tcg",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -3964,8 +2460,8 @@
     "tipo": "Sports cards",
     "notas": "Fútbol americano",
     "fuente": "adjacent_tcg",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -3980,8 +2476,8 @@
     "tipo": "Tienda MTG stock grande",
     "notas": "Casa particular; singles masivos",
     "fuente": "cdmx_scene",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -3996,8 +2492,8 @@
     "tipo": "TCG",
     "notas": "Sorcery",
     "fuente": "adjacent_tcg",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4012,8 +2508,8 @@
     "tipo": "TCG",
     "notas": "SWU",
     "fuente": "adjacent_tcg",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4028,8 +2524,8 @@
     "tipo": "Servicio grading",
     "notas": "Monterrey",
     "fuente": "acc_market",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -4044,8 +2540,24 @@
     "tipo": "Tienda regional",
     "notas": "Golfo",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
+  },
+  {
+    "giro": "Coleccionables",
+    "nicho": "Cartas/tarjetas de coleccion",
+    "empresa": "TCG Empire CDMX sucursal",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "CDMX",
+    "estado": "CDMX",
+    "pais": "México",
+    "tipo": "Cadena TCG",
+    "notas": "Sucursal CDMX de TCG Empire",
+    "fuente": "online",
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -4060,8 +2572,8 @@
     "tipo": "Tienda regional",
     "notas": "Pacífico",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4076,8 +2588,8 @@
     "tipo": "Publisher/licencia",
     "notas": "Producto oficial vía distribuidores",
     "fuente": "publishers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4092,8 +2604,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4108,8 +2620,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4124,8 +2636,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4140,8 +2652,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4156,8 +2668,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4172,8 +2684,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4188,8 +2700,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4204,8 +2716,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4220,8 +2732,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4236,8 +2748,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4252,8 +2764,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4268,8 +2780,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4284,8 +2796,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4300,8 +2812,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4316,8 +2828,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4332,8 +2844,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4348,8 +2860,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4364,8 +2876,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4380,8 +2892,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4396,8 +2908,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4412,8 +2924,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4428,8 +2940,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4444,8 +2956,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4460,8 +2972,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4476,8 +2988,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4492,8 +3004,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4508,8 +3020,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4524,8 +3036,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4540,8 +3052,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4556,8 +3068,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4572,8 +3084,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4588,8 +3100,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4604,8 +3116,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4620,8 +3132,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4636,8 +3148,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4652,8 +3164,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4668,8 +3180,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4684,8 +3196,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4700,8 +3212,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4716,8 +3228,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4732,8 +3244,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4748,8 +3260,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4764,8 +3276,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4780,8 +3292,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4796,8 +3308,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4812,8 +3324,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4828,8 +3340,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4844,8 +3356,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4860,8 +3372,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4876,8 +3388,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4892,8 +3404,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4908,8 +3420,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4924,8 +3436,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4940,8 +3452,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4956,8 +3468,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4972,8 +3484,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -4988,8 +3500,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -5004,8 +3516,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -5020,8 +3532,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -5036,8 +3548,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -5052,8 +3564,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -5068,8 +3580,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -5084,8 +3596,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -5100,24 +3612,8 @@
     "tipo": "Tienda regional",
     "notas": "Lead seed ciudad - validar Maps",
     "fuente": "regional_seed",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Coleccionables",
-    "nicho": "Cartas/tarjetas de coleccion",
-    "empresa": "Tienda TCG Plaza Tecnologia Acapulco",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Acapulco",
-    "estado": "Guerrero",
-    "pais": "México",
-    "tipo": "Tienda física",
-    "notas": "Av Cuautemoc 502 local 249 Plaza Tecnologia",
-    "fuente": "digimon_auth_list",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -5132,8 +3628,8 @@
     "tipo": "Cluster frontera",
     "notas": "Segunda ola tiendas",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -5148,8 +3644,8 @@
     "tipo": "Tienda regional",
     "notas": "ZMVM",
     "fuente": "second_cities",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -5164,8 +3660,8 @@
     "tipo": "Tienda regional",
     "notas": "ZMG",
     "fuente": "second_cities",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -5180,8 +3676,8 @@
     "tipo": "Tienda regional",
     "notas": "Centro",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -5196,8 +3692,8 @@
     "tipo": "Tienda regional",
     "notas": "Centro",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -5212,8 +3708,8 @@
     "tipo": "Tienda regional",
     "notas": "ZMG",
     "fuente": "second_cities",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -5228,8 +3724,8 @@
     "tipo": "Tienda MTG",
     "notas": "Cerca Zócalo; vertical mall/bazaar",
     "fuente": "cdmx_scene",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -5244,8 +3740,8 @@
     "tipo": "Publisher sports cards",
     "notas": "Béisbol y más",
     "fuente": "publishers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -5260,8 +3756,8 @@
     "tipo": "Tienda regional",
     "notas": "La Laguna",
     "fuente": "second_cities",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -5276,8 +3772,8 @@
     "tipo": "Compra/venta sábado",
     "notas": "Teatro Blanquita Pokémon",
     "fuente": "cdmx_scene",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -5292,8 +3788,8 @@
     "tipo": "Tienda regional",
     "notas": "Sur",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -5308,8 +3804,8 @@
     "tipo": "Accesorios",
     "notas": "Premium protection",
     "fuente": "acc_market",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -5324,8 +3820,8 @@
     "tipo": "Accesorios",
     "notas": "Sleeves binders",
     "fuente": "acc_market",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -5340,8 +3836,8 @@
     "tipo": "Tienda TCG",
     "notas": "Rio Panuco 209 planta alta",
     "fuente": "digimon_auth_list",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -5356,8 +3852,8 @@
     "tipo": "TCG",
     "notas": "UniVersus",
     "fuente": "adjacent_tcg",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -5372,8 +3868,8 @@
     "tipo": "Publisher",
     "notas": "Sports/TCG cards",
     "fuente": "publishers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -5388,8 +3884,8 @@
     "tipo": "Accesorios",
     "notas": "Binders",
     "fuente": "acc_market",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -5404,8 +3900,8 @@
     "tipo": "Tienda regional",
     "notas": "Golfo",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -5420,8 +3916,8 @@
     "tipo": "Tienda regional",
     "notas": "Sureste",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -5436,8 +3932,8 @@
     "tipo": "Magic + Warhammer",
     "notas": "MTG y wargames",
     "fuente": "mty_scene",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -5452,8 +3948,8 @@
     "tipo": "Publisher MTG",
     "notas": "Red WPN stores",
     "fuente": "publishers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -5468,8 +3964,8 @@
     "tipo": "Organizador torneos",
     "notas": "Red WPN",
     "fuente": "events",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -5484,8 +3980,8 @@
     "tipo": "Tienda regional",
     "notas": "Golfo",
     "fuente": "second_cities",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Coleccionables",
@@ -5500,8 +3996,8 @@
     "tipo": "Tiendas OTS",
     "notas": "Konami official tournament stores",
     "fuente": "events",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -5516,8 +4012,8 @@
     "tipo": "Tienda YGO/TCG",
     "notas": "Ave Adolfo Lopez Mateos Piso 2 local 9",
     "fuente": "digimon_auth_list",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -5532,8 +4028,8 @@
     "tipo": "Tienda regional",
     "notas": "Centro-norte",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Coleccionables",
@@ -5548,7 +4044,7 @@
     "tipo": "Tienda regional",
     "notas": "ZMG",
     "fuente": "second_cities",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   }
 ]

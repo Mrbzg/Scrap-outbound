@@ -1,0 +1,258 @@
+{
+  "lote": "34",
+  "slug": "skincare_maquillaje",
+  "description": "Skincare y maquillaje MX",
+  "leads": [
+    {
+      "empresa": "Beauty Care Latam (ejemplo)",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — skincare y maquillaje; Reforma 1015 P.5 Santa Fe",
+      "fuente": "ejemplo_cliente",
+      "url": "https://beautycarelatam.com.mx/",
+      "telefono": "5591382000",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "MAKEUPMX Distribuidora",
+      "tipo": "Mayoreo",
+      "notas": "Campo Real 1402 local 4, El Refugio; K-beauty y cosmética",
+      "fuente": "research",
+      "url": "https://makeupmx.com/",
+      "email": "contacto@makeupmxdistribuidora.com",
+      "telefono": "4424673394",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "MAKEUPMX soporte",
+      "tipo": "Canal",
+      "notas": "Soporte / ATC",
+      "fuente": "research",
+      "url": "https://makeupmx.com/",
+      "email": "equipomakeupmx@gmail.com",
+      "telefono": "4424673394",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "ML Beauty Trend",
+      "tipo": "Mayoreo",
+      "notas": "Beauty Creations, Arantza, Pink Up, Moira +20 marcas; mín. $1,490",
+      "fuente": "research",
+      "url": "https://mlbeautytrend.mx/",
+      "email": "hola@mlbeautytrend.mx",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Bamboo Store Cosméticos",
+      "tipo": "Mayoreo",
+      "notas": "Calz. Tlalpan 1074 local C, Benito Juárez; originales y chinos",
+      "fuente": "research",
+      "url": "https://www.bamboocosmeticos.com/",
+      "email": "contacto@bamboocosmeticos.com",
+      "telefono": "5568303103",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Bamboo WA",
+      "tipo": "Canal",
+      "notas": "WhatsApp +52 55 1382 2468",
+      "fuente": "research",
+      "url": "https://www.bamboocosmeticos.com/",
+      "telefono": "5513822468",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Cosmétics mayoreo CDMX",
+      "tipo": "Mayoreo",
+      "notas": "Transvaal 531 int 1; sin mínimo, envíos República",
+      "fuente": "research",
+      "url": "https://www.facebook.com/cdmxcosmeticosmayoreo/",
+      "telefono": "5577619644",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "SANMAR Tienda de cosméticos",
+      "tipo": "Mayoreo",
+      "notas": "Cosméticos de mayoreo CDMX/Cancún",
+      "fuente": "research",
+      "telefono": "9984240133",
+      "ciudad": "Cancún",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Melón Bombón Shop",
+      "tipo": "Mayoreo",
+      "notas": "Distribuidor mayorista de cosméticos sin mínimo de compra",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Mega Bodega Soluna",
+      "tipo": "Mayoreo",
+      "notas": "Bodega de maquillaje y cosméticos CDMX",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "House of Beauty",
+      "tipo": "Mayoreo",
+      "notas": "Adara Paris, Beauty Creations, La Girl, La Colors, Pink Up, Rude…",
+      "fuente": "research",
+      "url": "https://www.housebeauty.mx/mayoreo/",
+      "telefono": "5575227542",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Zelar Shop Mayoreo",
+      "tipo": "Mayoreo",
+      "notas": "Oscar Wilde 5895A, Lomas Universidad; Beauty Creations",
+      "fuente": "research",
+      "url": "https://mayoreo.zelarshop.com/",
+      "email": "ventas@zelarshop.com",
+      "telefono": "3319462952",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Beauty Creations",
+      "tipo": "Marca",
+      "notas": "Maquillaje mayoreo, distribución MX",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Arantza Cosmetics",
+      "tipo": "Marca",
+      "notas": "Maquillaje mexicano",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Pink Up Cosmetics",
+      "tipo": "Marca",
+      "notas": "Maquillaje mayoreo MX",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Moira Beauty",
+      "tipo": "Marca",
+      "notas": "Maquillaje profesional",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Italia Deluxe",
+      "tipo": "Marca",
+      "notas": "Cosméticos",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Rude Cosmetics",
+      "tipo": "Marca",
+      "notas": "Maquillaje",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "La Girl / La Colors",
+      "tipo": "Marca",
+      "notas": "Maquillaje",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Prosa / Kevin & Coco",
+      "tipo": "Marca",
+      "notas": "Cosméticos mayoreo",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Sephora México",
+      "tipo": "Retail",
+      "notas": "Cadenas de belleza",
+      "fuente": "brand",
+      "url": "https://www.sephora.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Liverpool Belleza",
+      "tipo": "Retail",
+      "notas": "Cosmética y perfumería",
+      "fuente": "brand",
+      "url": "https://www.liverpool.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "El Palacio de Hierro",
+      "tipo": "Retail",
+      "notas": "Belleza premium",
+      "fuente": "brand",
+      "url": "https://www.elpalaciodehierro.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Farmacias del Ahorro",
+      "tipo": "Retail",
+      "notas": "Dermocosmética en farmacias",
+      "fuente": "brand",
+      "url": "https://www.fahorro.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Amazon MX cosméticos",
+      "tipo": "Marketplace",
+      "notas": "Sellers de maquillaje y skincare",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=maquillaje+mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "ML cosméticos mayoreo",
+      "tipo": "Marketplace",
+      "notas": "Kits y lotes de maquillaje",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/maquillaje-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Sérum vitamina C producto",
+      "tipo": "Producto",
+      "notas": "Skincare activos",
+      "fuente": "research",
+      "url": "https://makeupmx.com/",
+      "telefono": "4424673394",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Protector solar producto",
+      "tipo": "Producto",
+      "notas": "SPF en mayoreo",
+      "fuente": "research",
+      "url": "https://mlbeautytrend.mx/",
+      "email": "hola@mlbeautytrend.mx",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Paletas de sombras producto",
+      "tipo": "Producto",
+      "notas": "Paletas Beauty Creations / Moira",
+      "fuente": "research",
+      "url": "https://www.housebeauty.mx/mayoreo/",
+      "telefono": "5575227542",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    }
+  ]
+}

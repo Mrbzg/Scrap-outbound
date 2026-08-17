@@ -1,0 +1,195 @@
+{
+  "lote": "36",
+  "slug": "vitaminas_plantas_abono",
+  "description": "Vitaminas para plantas y abono MX",
+  "leads": [
+    {
+      "empresa": "Nucle.ag México (ejemplo)",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — nutrición vegetal y abonos",
+      "fuente": "ejemplo_cliente",
+      "url": "https://mexico.nucle.ag/"
+    },
+    {
+      "empresa": "Vinde",
+      "tipo": "Mayoreo",
+      "notas": "Módulos fertilizantes en pastilla (NPK); tienda física norte CDMX",
+      "fuente": "research",
+      "url": "https://vinde.com.mx/",
+      "email": "ventas@vinde.com.mx",
+      "telefono": "5547121065",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Vinde 2o tel",
+      "tipo": "Canal",
+      "notas": "55 3040 5164",
+      "fuente": "research",
+      "url": "https://vinde.com.mx/",
+      "email": "ventas@vinde.com.mx",
+      "telefono": "5530405164",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Vitabloom",
+      "tipo": "Marca",
+      "notas": "10 Norte 603, Cholula; biofertilizantes orgánicos y vitamínicos",
+      "fuente": "research",
+      "url": "https://vitabloom.mx/",
+      "email": "vidaqueflorece@vitabloom.mx",
+      "telefono": "2228048419",
+      "ciudad": "Cholula",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Vitabloom 2o tel",
+      "tipo": "Canal",
+      "notas": "+52 222 910 2821",
+      "fuente": "research",
+      "url": "https://vitabloom.mx/contacto/",
+      "email": "vidaqueflorece@vitabloom.mx",
+      "telefono": "2229102821",
+      "ciudad": "Cholula",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Vitabloom WA",
+      "tipo": "Canal",
+      "notas": "WhatsApp 221 581 6358",
+      "fuente": "research",
+      "url": "https://vitabloom.mx/producto/vitalawn/",
+      "telefono": "2215816358",
+      "ciudad": "Cholula",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Grow Shop México",
+      "tipo": "Ecom",
+      "notas": "Tienda online de cultivo: BioBizz, nutrientes orgánicos, hidroponía",
+      "fuente": "research",
+      "url": "https://growshopmexico.com/"
+    },
+    {
+      "empresa": "AgroGenial",
+      "tipo": "Marketplace",
+      "notas": "Fitobolic, Grofol, Nitrofoska vía ML",
+      "fuente": "research"
+    },
+    {
+      "empresa": "CRONOS AGRO",
+      "tipo": "Marketplace",
+      "notas": "Agromil V potenciador de crecimiento",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Campo Divino",
+      "tipo": "Marketplace",
+      "notas": "Bayfolan sólido y foliares",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Agroservicios Nacionales",
+      "tipo": "Distribuidor",
+      "notas": "Lázaro Cárdenas 2390, Col. Del Fresno; distribuidor Envu",
+      "fuente": "research",
+      "telefono": "3338113203",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Agroquímicos JAM",
+      "tipo": "Distribuidor",
+      "notas": "Carretera a Ortiz y Emiliano Zapata; distribuidor Envu",
+      "fuente": "research",
+      "telefono": "6222248244",
+      "ciudad": "Empalme",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Ferlin",
+      "tipo": "Marca",
+      "notas": "Bioestimulante hormonal vitaminado",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Bayfolan (Bayer)",
+      "tipo": "Marca",
+      "notas": "Fertilizante foliar vitamínico",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Econofibras",
+      "tipo": "Marca",
+      "notas": "Fertilizante 20-20-20 para plantas",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Orquidium / Anthurium vitaminas",
+      "tipo": "Marca",
+      "notas": "Vitaminas líquidas para plantas de ornato",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "BioBizz",
+      "tipo": "Marca",
+      "notas": "Nutrientes orgánicos importados",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "GrowTech",
+      "tipo": "Marca",
+      "notas": "Nutrición vegetal importada",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Amazon MX fertilizantes",
+      "tipo": "Marketplace",
+      "notas": "Sellers de fertilizantes",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=fertilizante+vitaminas+plantas",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "ML fertilizantes y vitaminas",
+      "tipo": "Marketplace",
+      "notas": "Vitaminas Anthurium, Fitobolic, Bayfolan…",
+      "fuente": "research",
+      "url": "https://hogar.mercadolibre.com.mx/jardines-exteriores/fertilizantes-y-vitaminas-para-plantas",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Módulos fertilizantes NPK producto",
+      "tipo": "Producto",
+      "notas": "Pastillas verde/amarillo/café, NPK + ácidos fúlvicos",
+      "fuente": "research",
+      "url": "https://vinde.com.mx/product/modulos-fertilizantes/",
+      "email": "ventas@vinde.com.mx",
+      "telefono": "5547121065",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "VitaHuertos Dúo producto",
+      "tipo": "Producto",
+      "notas": "Biofertilizante orgánico para huertos y frutales",
+      "fuente": "research",
+      "url": "https://vitabloom.mx/producto/vitahuertos/",
+      "telefono": "2228048419",
+      "ciudad": "Cholula",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "VitaLawn producto",
+      "tipo": "Producto",
+      "notas": "Fertilizante para pastos verdes",
+      "fuente": "research",
+      "url": "https://vitabloom.mx/producto/vitalawn/",
+      "ciudad": "Cholula",
+      "estado": "Puebla"
+    }
+  ]
+}

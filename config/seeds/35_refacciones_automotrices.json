@@ -1,0 +1,199 @@
+{
+  "lote": "35",
+  "slug": "refacciones_automotrices",
+  "description": "Refacciones automotrices MX",
+  "leads": [
+    {
+      "empresa": "MotorStore (ejemplo)",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — refacciones automotrices",
+      "fuente": "ejemplo_cliente",
+      "url": "https://motorstore.mx/"
+    },
+    {
+      "empresa": "Dago Refacciones",
+      "tipo": "Mayoreo",
+      "notas": "15+ años; Toluca, Querétaro, Pachuca y Puebla; catálogos NGK/filtros",
+      "fuente": "research",
+      "url": "https://dago.com.mx/",
+      "email": "toluca@dago.com.mx",
+      "ciudad": "Toluca",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Dago Hidalgo",
+      "tipo": "Sucursal",
+      "notas": "Río Tamazula 223, Issste, Pachuca",
+      "fuente": "research",
+      "url": "https://dago.com.mx/",
+      "email": "hidalgo@dago.com.mx",
+      "ciudad": "Pachuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Nikko Autoparts",
+      "tipo": "Mayoreo",
+      "notas": "50+ años; 15,000 productos; Av. Javier Rojo Gómez 1201, Iztapalapa",
+      "fuente": "research",
+      "url": "https://www.nikkoauto.mx/",
+      "telefono": "5557161400",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Master Autopartes",
+      "tipo": "Mayoreo",
+      "notas": "45+ años, 25,000 productos; Central 115 Col. Atlántida; distribuidor Nikko",
+      "fuente": "research",
+      "url": "https://www.masterautopartes.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Mayoreo Continental (MACOSA)",
+      "tipo": "Mayoreo",
+      "notas": "Desde 1977, distribución al mayoreo, Sureste Mexicano",
+      "fuente": "research",
+      "url": "https://www.mayoreocontinental.com.mx/"
+    },
+    {
+      "empresa": "Todo Refacciones",
+      "tipo": "Mayoreo",
+      "notas": "Arteaga 948 Centro, MTY; mayoreo, distribución e importación",
+      "fuente": "research",
+      "url": "https://todorefacciones.mx/",
+      "email": "ventas@todorefacciones.mx",
+      "telefono": "8134407739",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Mayoreo Automotriz ML",
+      "tipo": "Mayoreo",
+      "notas": "Béjar 1667, Sta. Elena de la Cruz; BAW, CAP, Cauplas, Profilter",
+      "fuente": "research",
+      "url": "https://www.mayoreoautomotrizml.com.mx/",
+      "email": "mayoreomlventas@gmail.com",
+      "telefono": "3331124080",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Mayoreo ML 2o tel",
+      "tipo": "Canal",
+      "notas": "33 3450 0960",
+      "fuente": "research",
+      "url": "https://www.mayoreoautomotrizml.com.mx/",
+      "telefono": "3334500960",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "NGK México",
+      "tipo": "Marca",
+      "notas": "Bujías y filtros",
+      "fuente": "brand",
+      "url": "https://www.ngkntk.com.mx/"
+    },
+    {
+      "empresa": "Bosch México",
+      "tipo": "Marca",
+      "notas": "Autopartes",
+      "fuente": "brand",
+      "url": "https://www.bosch.com.mx/"
+    },
+    {
+      "empresa": "Continental / VDO",
+      "tipo": "Marca",
+      "notas": "Electrónica automotriz",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Brembo",
+      "tipo": "Marca",
+      "notas": "Frenos",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Denso México",
+      "tipo": "Marca",
+      "notas": "Partes eléctricas y encendido",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "ELCA / NSB",
+      "tipo": "Marca",
+      "notas": "Partes eléctricas, vía Master Autopartes",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "AutoZone México",
+      "tipo": "Retail",
+      "notas": "Refaccionarias de autoservicio",
+      "fuente": "brand",
+      "url": "https://www.autozone.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "O'Reilly Auto Parts MX",
+      "tipo": "Retail",
+      "notas": "Refaccionarias",
+      "fuente": "brand",
+      "url": "https://www.oreillyauto.com.mx/"
+    },
+    {
+      "empresa": "NAPA México",
+      "tipo": "Retail",
+      "notas": "Refaccionarias",
+      "fuente": "brand",
+      "url": "https://www.napaautopartes.mx/"
+    },
+    {
+      "empresa": "Amazon MX autopartes",
+      "tipo": "Marketplace",
+      "notas": "Sellers de autopartes",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=refacciones+automotrices",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "ML refacciones mayoreo",
+      "tipo": "Marketplace",
+      "notas": "Mayoreo de refacciones",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/refacciones-automotrices-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Baleros y rodamientos producto",
+      "tipo": "Producto",
+      "notas": "Línea baleros y rodamientos",
+      "fuente": "research",
+      "url": "https://www.masterautopartes.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Clutch y frenos producto",
+      "tipo": "Producto",
+      "notas": "Línea clutch y frenos",
+      "fuente": "research",
+      "url": "https://www.masterautopartes.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Filtros producto",
+      "tipo": "Producto",
+      "notas": "Catálogo de filtros 2025",
+      "fuente": "research",
+      "url": "https://dago.com.mx/",
+      "email": "toluca@dago.com.mx",
+      "ciudad": "Toluca",
+      "estado": "EdoMex"
+    }
+  ]
+}

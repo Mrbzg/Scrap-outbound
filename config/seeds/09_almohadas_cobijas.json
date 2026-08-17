@@ -571,14 +571,6 @@
       "estado": "Puebla"
     },
     {
-      "empresa": "Cluster textiles Guadalajara",
-      "tipo": "Cluster",
-      "notas": "Blancolor, Perla, Galicia",
-      "fuente": "research",
-      "ciudad": "Guadalajara",
-      "estado": "Jalisco"
-    },
-    {
       "empresa": "Cluster textiles Vallejo CDMX",
       "tipo": "Cluster",
       "notas": "Fábricas oriente/norte",
@@ -587,14 +579,6 @@
       "telefono": "5555221017",
       "ciudad": "CDMX",
       "estado": "CDMX"
-    },
-    {
-      "empresa": "Cluster textiles Toluca",
-      "tipo": "Cluster",
-      "notas": "Confección EdoMex",
-      "fuente": "research",
-      "ciudad": "Toluca",
-      "estado": "EdoMex"
     },
     {
       "empresa": "Cluster textiles San Juan del Río",
@@ -612,22 +596,6 @@
       "fuente": "research",
       "ciudad": "Cancún",
       "estado": "Q. Roo"
-    },
-    {
-      "empresa": "Blancos hotel Los Cabos",
-      "tipo": "Canal hotelero",
-      "notas": "VIP",
-      "fuente": "research",
-      "ciudad": "Los Cabos",
-      "estado": "BCS"
-    },
-    {
-      "empresa": "Blancos hotel Puerto Vallarta",
-      "tipo": "Canal hotelero",
-      "notas": "Occidente",
-      "fuente": "research",
-      "ciudad": "Puerto Vallarta",
-      "estado": "Jalisco"
     },
     {
       "empresa": "Blancos hotel CDMX boutique",
@@ -744,46 +712,6 @@
       "estado": "Aguascalientes"
     },
     {
-      "empresa": "Fábricas colchón Monterrey",
-      "tipo": "Cluster norte",
-      "notas": "Descanso NL",
-      "fuente": "research",
-      "ciudad": "Monterrey",
-      "estado": "NL"
-    },
-    {
-      "empresa": "Fábricas colchón Guadalajara",
-      "tipo": "Cluster occidente",
-      "notas": "Descanso Jal",
-      "fuente": "research",
-      "ciudad": "Guadalajara",
-      "estado": "Jalisco"
-    },
-    {
-      "empresa": "Fábricas colchón Puebla",
-      "tipo": "Cluster",
-      "notas": "Descanso",
-      "fuente": "research",
-      "ciudad": "Puebla",
-      "estado": "Puebla"
-    },
-    {
-      "empresa": "Fábricas colchón León",
-      "tipo": "Cluster Bajío",
-      "notas": "Descanso",
-      "fuente": "research",
-      "ciudad": "León",
-      "estado": "Guanajuato"
-    },
-    {
-      "empresa": "Fábricas colchón Tijuana",
-      "tipo": "Cluster frontera",
-      "notas": "Descanso",
-      "fuente": "research",
-      "ciudad": "Tijuana",
-      "estado": "BC"
-    },
-    {
       "empresa": "Almohadas cervicales MX",
       "tipo": "Línea ortopédica",
       "notas": "D2C y farmacia",
@@ -855,14 +783,6 @@
       "empresa": "Blancos infantiles / cunas",
       "tipo": "Línea kids",
       "notas": "Retail",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Blancos mascotas cama",
-      "tipo": "Adyacente",
-      "notas": "Pet beds",
       "fuente": "research",
       "ciudad": "México",
       "estado": "México"
@@ -1002,14 +922,6 @@
       "estado": "Jalisco"
     },
     {
-      "empresa": "Outlet blancos Puebla",
-      "tipo": "Outlet",
-      "notas": "Textil",
-      "fuente": "research",
-      "ciudad": "Puebla",
-      "estado": "Puebla"
-    },
-    {
       "empresa": "Mayoreo Mercado de la Merced textiles",
       "tipo": "Mayoreo popular",
       "notas": "Cobijas y sábanas",
@@ -1048,78 +960,6 @@
       "fuente": "research",
       "ciudad": "Monterrey",
       "estado": "NL"
-    },
-    {
-      "empresa": "Tiendas de blancos centro Puebla",
-      "tipo": "Retail centro",
-      "notas": "Mayoreo",
-      "fuente": "research",
-      "ciudad": "Puebla",
-      "estado": "Puebla"
-    },
-    {
-      "empresa": "Tiendas de blancos León",
-      "tipo": "Retail",
-      "notas": "Bajío",
-      "fuente": "research",
-      "ciudad": "León",
-      "estado": "Guanajuato"
-    },
-    {
-      "empresa": "Tiendas de blancos Querétaro",
-      "tipo": "Retail",
-      "notas": "Bajío",
-      "fuente": "research",
-      "ciudad": "Querétaro",
-      "estado": "Querétaro"
-    },
-    {
-      "empresa": "Tiendas de blancos Mérida",
-      "tipo": "Retail",
-      "notas": "Sureste",
-      "fuente": "research",
-      "ciudad": "Mérida",
-      "estado": "Yucatán"
-    },
-    {
-      "empresa": "Tiendas de blancos Tijuana",
-      "tipo": "Retail",
-      "notas": "Frontera",
-      "fuente": "research",
-      "ciudad": "Tijuana",
-      "estado": "BC"
-    },
-    {
-      "empresa": "Tiendas de blancos Chihuahua",
-      "tipo": "Retail",
-      "notas": "Norte — temporada frío",
-      "fuente": "research",
-      "ciudad": "Chihuahua",
-      "estado": "Chihuahua"
-    },
-    {
-      "empresa": "Tiendas de blancos Toluca",
-      "tipo": "Retail",
-      "notas": "Frío EdoMex",
-      "fuente": "research",
-      "ciudad": "Toluca",
-      "estado": "EdoMex"
-    },
-    {
-      "empresa": "Tiendas de blancos Pachuca",
-      "tipo": "Retail",
-      "notas": "Frío",
-      "fuente": "research",
-      "ciudad": "Pachuca",
-      "estado": "Hidalgo"
-    },
-    {
-      "empresa": "Tiendas de blancos Xalapa",
-      "tipo": "Retail",
-      "notas": "Clima templado",
-      "fuente": "research",
-      "ciudad": "Xalapa",
-      "estado": "Veracruz"
     },
     {
       "empresa": "Ecom almohadas Shopify MX",
@@ -1339,87 +1179,6 @@
       "estado": "México"
     },
     {
-      "empresa": "IKEA textiles cama extra",
-      "tipo": "Retail",
-      "notas": "Fundas y edredones",
-      "fuente": "brand",
-      "url": "https://www.ikea.com/mx/es/",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Costco colchones extra",
-      "tipo": "Club",
-      "notas": "Sealy / propios",
-      "fuente": "brand",
-      "url": "https://www.costco.com.mx/",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Sam's colchones extra",
-      "tipo": "Club",
-      "notas": "Member's Mark",
-      "fuente": "brand",
-      "url": "https://www.sams.com.mx/",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Walmart colchones extra",
-      "tipo": "Retail",
-      "notas": "Precio",
-      "fuente": "brand",
-      "url": "https://www.walmart.com.mx/",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Coppel colchones extra",
-      "tipo": "Crédito",
-      "notas": "Volumen",
-      "fuente": "brand",
-      "url": "https://www.coppel.com/",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Elektra descanso extra",
-      "tipo": "Crédito",
-      "notas": "Volumen",
-      "fuente": "brand",
-      "url": "https://www.elektra.mx/",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Liverpool colchones extra",
-      "tipo": "Departamental",
-      "notas": "Premium mid",
-      "fuente": "brand",
-      "url": "https://www.liverpool.com.mx/",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Palacio colchones extra",
-      "tipo": "Departamental",
-      "notas": "Premium",
-      "fuente": "brand",
-      "url": "https://www.elpalaciodehierro.com/",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Home Depot descanso extra",
-      "tipo": "Home improvement",
-      "notas": "Colchón",
-      "fuente": "brand",
-      "url": "https://www.homedepot.com.mx/",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
       "empresa": "Blancos Casa Linda WhatsApp",
       "tipo": "Canal WA",
       "notas": "Mayoreo",
@@ -1448,17 +1207,6 @@
       "url": "https://lanuevaperla.com/",
       "telefono": "3338015019",
       "ciudad": "Guadalajara",
-      "estado": "Jalisco"
-    },
-    {
-      "empresa": "Blancolor fábrica Tlajomulco extra",
-      "tipo": "Fábrica",
-      "notas": "6 líneas tel",
-      "fuente": "research",
-      "url": "https://blancolor.com.mx/",
-      "email": "info@blancolor.com.mx",
-      "telefono": "(33) 3827-1170",
-      "ciudad": "Tlajomulco",
       "estado": "Jalisco"
     },
     {
@@ -1502,27 +1250,6 @@
       "estado": "CDMX"
     },
     {
-      "empresa": "Hotelería 48 años Blancolor extra",
-      "tipo": "Especialista hotel",
-      "notas": "Alta durabilidad",
-      "fuente": "research",
-      "url": "https://blancolor.com.mx/",
-      "email": "info@blancolor.com.mx",
-      "telefono": "(33) 3827-1170",
-      "ciudad": "Jalisco",
-      "estado": "Jalisco"
-    },
-    {
-      "empresa": "Airbnb paquetes Casa Linda extra",
-      "tipo": "Paquete host",
-      "notas": "Sobre pedido",
-      "fuente": "research",
-      "url": "https://blancoscasalinda.com.mx/",
-      "telefono": "(55) 5395-2526",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
       "empresa": "Gobierno y empresas Casa Linda",
       "tipo": "B2G/B2B",
       "notas": "Institucional",
@@ -1531,16 +1258,6 @@
       "telefono": "(55) 5395-5362",
       "ciudad": "CDMX",
       "estado": "CDMX"
-    },
-    {
-      "empresa": "90 años Perla extra",
-      "tipo": "Tradición",
-      "notas": "Textil GDL",
-      "fuente": "research",
-      "url": "https://lanuevaperla.com/",
-      "telefono": "3336145388",
-      "ciudad": "Guadalajara",
-      "estado": "Jalisco"
     },
     {
       "empresa": "Fibras regeneradas cobijas",
@@ -1583,46 +1300,6 @@
       "estado": "CDMX"
     },
     {
-      "empresa": "Vallejo fábrica Blancos MX extra",
-      "tipo": "Planta",
-      "notas": "CP 02300",
-      "fuente": "research",
-      "url": "https://www.blancosmexicanos.com/",
-      "email": "blancosmexico@hotmail.com",
-      "telefono": "5555221017",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Santa Anita planta Blancolor extra",
-      "tipo": "Planta",
-      "notas": "Col. Santa Anita",
-      "fuente": "research",
-      "url": "https://blancolor.com.mx/",
-      "email": "info@blancolor.com.mx",
-      "telefono": "(33) 3827-1170",
-      "ciudad": "Tlajomulco",
-      "estado": "Jalisco"
-    },
-    {
-      "empresa": "Puebla mayoreo Munditelas extra",
-      "tipo": "Mayoreo",
-      "notas": "Hoteles y talleres",
-      "fuente": "research",
-      "url": "https://www.munditelas.com/",
-      "ciudad": "Puebla",
-      "estado": "Puebla"
-    },
-    {
-      "empresa": "Multiblancos Puebla extra",
-      "tipo": "Mayoreo blancos",
-      "notas": "Disponibilidad inmediata",
-      "fuente": "research",
-      "url": "https://www.munditelas.com/",
-      "ciudad": "Puebla",
-      "estado": "Puebla"
-    },
-    {
       "empresa": "Confeccionistas deportivos Dyexsa",
       "tipo": "Telas",
       "notas": "Pijamas y toallas",
@@ -1647,70 +1324,6 @@
       "url": "https://www.kaltex.com.mx/",
       "ciudad": "Querétaro",
       "estado": "Querétaro"
-    },
-    {
-      "empresa": "Nezt Original extra",
-      "tipo": "D2C",
-      "notas": "Ranking colchones",
-      "fuente": "research",
-      "url": "https://nezt.mx/",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Nooz Original extra",
-      "tipo": "D2C",
-      "notas": "Ranking",
-      "fuente": "research",
-      "url": "https://nooz.mx/",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Emma Hybrid Active Cooling extra",
-      "tipo": "D2C",
-      "notas": "Cooling",
-      "fuente": "brand",
-      "url": "https://www.emma-colchon.mx/",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Luuna Original Cooling extra",
-      "tipo": "D2C",
-      "notas": "Mejor calificado MX",
-      "fuente": "research",
-      "url": "https://luuna.mx/",
-      "email": "hola@luuna.mx",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Sognare Sense extra",
-      "tipo": "Marca",
-      "notas": "Sense",
-      "fuente": "research",
-      "url": "https://www.sognare.com.mx/",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Sealy Posturepedic extra",
-      "tipo": "Marca",
-      "notas": "Clásico",
-      "fuente": "brand",
-      "url": "https://www.sealy.com.mx/",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "IKEA Ånneland extra",
-      "tipo": "Retail",
-      "notas": "Precio",
-      "fuente": "brand",
-      "url": "https://www.ikea.com/mx/es/",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
     },
     {
       "empresa": "Reforma 296 Luuna HQ",
@@ -1753,33 +1366,6 @@
       "estado": "CDMX"
     },
     {
-      "empresa": "Colchas Del Valle Neza extra",
-      "tipo": "Retail oriente",
-      "notas": "Entrega Mexibús",
-      "fuente": "research",
-      "telefono": "5574217685",
-      "ciudad": "Nezahualcóyotl",
-      "estado": "EdoMex"
-    },
-    {
-      "empresa": "Blancos Azteca ML extra",
-      "tipo": "Ecom ML",
-      "notas": "Volumen",
-      "fuente": "research",
-      "url": "https://listado.mercadolibre.com.mx/almohadas_Store_blancos-azteca",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Mint and Lime ecom extra",
-      "tipo": "Ecom",
-      "notas": "Ejemplo",
-      "fuente": "research",
-      "url": "https://mintandlime.mx/",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
       "empresa": "Colchones a medida CDMX",
       "ciudad": "CDMX",
       "estado": "CDMX",
@@ -1817,30 +1403,6 @@
       "estado": "Jalisco",
       "tipo": "Outlet",
       "notas": "Fábrica",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Blancos hospital Puebla",
-      "ciudad": "Puebla",
-      "estado": "Puebla",
-      "tipo": "Hospital",
-      "notas": "Sábanas clínicas",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Blancos hotel Mérida",
-      "ciudad": "Mérida",
-      "estado": "Yucatán",
-      "tipo": "Canal hotelero",
-      "notas": "Sureste",
-      "fuente": "research"
-    },
-    {
-      "empresa": "Blancos hotel Tijuana",
-      "ciudad": "Tijuana",
-      "estado": "BC",
-      "tipo": "Canal hotelero",
-      "notas": "Frontera",
       "fuente": "research"
     },
     {

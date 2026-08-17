@@ -1,0 +1,256 @@
+{
+  "lote": "48",
+  "slug": "botellas_tapas_personalizados",
+  "description": "Botellas y tapas personalizados MX",
+  "leads": [
+    {
+      "empresa": "Escowill (ejemplo)",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — fabricante de botellas PET y tapas para salud y belleza; 250+ modelos",
+      "fuente": "ejemplo_cliente",
+      "url": "https://escowill.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Industrias Bogri",
+      "tipo": "Fabricante",
+      "notas": "33 años; botellas, tarros, pomaderas y tapas PET/HDPE/PP/PVC; Sto. Tomás 29, Azcapotzalco",
+      "fuente": "research",
+      "url": "https://www.bogri.com.mx/",
+      "telefono": "5567206820",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Plastika",
+      "tipo": "Fabricante",
+      "notas": "Desde 2000; envases y tapas de plástico ISO 9001; sectores farmacéutico, alimenticio y químico",
+      "fuente": "research",
+      "url": "https://www.plastika.com.mx/",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Envases La Merced",
+      "tipo": "Fabricante",
+      "notas": "Envases PET al mayoreo; botellas, frascos y tapas; 5 sucursales y stock inmediato",
+      "fuente": "research",
+      "url": "https://envaseslamerced.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "TEGSA Tapas y Envases",
+      "tipo": "Fabricante",
+      "notas": "Desde 2015; tapas y envases de plástico, metal y vidrio; WA 3314230801",
+      "fuente": "research",
+      "url": "https://tegsa.mx/",
+      "email": "ventas@tegsa.mx",
+      "telefono": "3313065957",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "MAHA Food Service",
+      "tipo": "Mayoreo",
+      "notas": "Vasos personalizados con logo para cafeterías y eventos; papel y PET; tinta grado alimenticio",
+      "fuente": "research",
+      "url": "https://maha.com.mx/collections/vasos-personalizables",
+      "email": "hola@maha.com.mx",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Kupp Termos y Vasos",
+      "tipo": "Mayoreo",
+      "notas": "Termos, vasos y cilindros personalizados; desde 30 pzs; +2,400 eventos; 4.8★",
+      "fuente": "research",
+      "url": "https://tustermospersonalizados.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Impressline",
+      "tipo": "Mayoreo",
+      "notas": "Artículos promocionales: termos, tazas, vasos y botellas personalizados con logo",
+      "fuente": "research",
+      "url": "https://www.impressline.com.mx/termos-personalizados",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Calate Taller Creativo",
+      "tipo": "Personalización",
+      "notas": "Termos con grabado láser, DTF UV y serigrafía; playeras y tote bags; envíos MX",
+      "fuente": "research",
+      "url": "https://calate.com.mx/",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "TUYO.MX",
+      "tipo": "Personalización",
+      "notas": "Termos personalizados con impresión UV; precios de mayoreo",
+      "fuente": "research",
+      "url": "https://www.tuyo.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Escowill tapas y atomizadores",
+      "tipo": "Producto",
+      "notas": "Tapas y atomizadores para el mercado de salud y belleza",
+      "fuente": "research",
+      "url": "https://escowill.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "ALPLA México",
+      "tipo": "Fabricante",
+      "notas": "Fabricante global de envases plásticos con plantas en México",
+      "fuente": "brand",
+      "url": "https://www.alpla.com/mx",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Envases Universales",
+      "tipo": "Fabricante",
+      "notas": "Envases y empaques para la industria",
+      "fuente": "brand",
+      "url": "https://www.envasesuniversales.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Vidriera Los Reyes",
+      "tipo": "Fabricante",
+      "notas": "Fabricante de envases de vidrio",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Envases del Norte",
+      "tipo": "Fabricante",
+      "notas": "Envases y tapas para industria",
+      "fuente": "brand",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Plásticos Técnicos de México",
+      "tipo": "Fabricante",
+      "notas": "Fabricación de envases y piezas plásticas",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "TLP (tazas personalizadas)",
+      "tipo": "Marca",
+      "notas": "Taza personalizada económica mayoreo, 4.9★ vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Termos personalizados ML",
+      "tipo": "Marketplace",
+      "notas": "Mayoreo de termos y tazas personalizados",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/termos-personalizados-economicos-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Amazon MX botellas personalizadas",
+      "tipo": "Marketplace",
+      "notas": "Sellers de botellas y termos personalizados",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=botellas+personalizadas",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Botella Vertis (Bogri)",
+      "tipo": "Producto",
+      "notas": "Modelo de botella de plástico de línea",
+      "fuente": "research",
+      "url": "https://www.bogri.com.mx/fabricacion/botellas-de-plastico/",
+      "telefono": "5567206820",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Tarros y pomaderas Bogri",
+      "tipo": "Producto",
+      "notas": "Tarros, pomaderas y talqueras de plástico",
+      "fuente": "research",
+      "url": "https://www.bogri.com.mx/fabricacion/botellas-de-plastico/",
+      "telefono": "5567206820",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Tapas dosificadoras TEGSA",
+      "tipo": "Producto",
+      "notas": "Flip top, disc top y tapas dosificadoras",
+      "fuente": "research",
+      "url": "https://tegsa.mx/",
+      "email": "ventas@tegsa.mx",
+      "telefono": "3313065957",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Tapas metálicas twist TEGSA",
+      "tipo": "Producto",
+      "notas": "Tapas metálicas de medio giro para frascos",
+      "fuente": "research",
+      "url": "https://tegsa.mx/",
+      "email": "ventas@tegsa.mx",
+      "telefono": "3313065957",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Goteros y bombas Plastika",
+      "tipo": "Producto",
+      "notas": "Goteros, vasos dosificadores y bombas atomizadoras",
+      "fuente": "research",
+      "url": "https://www.plastika.com.mx/",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Garrafas Plastika",
+      "tipo": "Producto",
+      "notas": "Garrafas de plástico para industria",
+      "fuente": "research",
+      "url": "https://www.plastika.com.mx/",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Vaso cafetero personalizado MAHA",
+      "tipo": "Producto",
+      "notas": "Vasos de papel 10-20oz con logo",
+      "fuente": "research",
+      "url": "https://maha.com.mx/collections/vasos-personalizables",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Fajilla de cartón personalizada MAHA",
+      "tipo": "Producto",
+      "notas": "Fajillas full color para vasos de café",
+      "fuente": "research",
+      "url": "https://maha.com.mx/collections/vasos-personalizables",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    }
+  ]
+}

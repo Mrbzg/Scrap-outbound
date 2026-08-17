@@ -1,8 +1,8 @@
 # Lote 01 — Distribuidor de café / Granos de café
 
 **Slug:** `cafe_granos`  
-**Total leads:** 321  
-**Alta:** 102 · **Media:** 194 · **Baja:** 25  
+**Total leads:** 319  
+**Alta:** 102 · **Media:** 194 · **Baja:** 23  
 **Con email:** 88 · **Con teléfono:** 107 · **Con URL:** 273
 
 ## Alta prioridad
@@ -418,22 +418,20 @@
 | 300 | Beneficio Primero de Mayo |  |  |  | Veracruz | Baja |  |
 | 301 | CAFE SUPERIOR |  |  |  | Celaya | Baja |  |
 | 302 | Café Chiapas DO |  |  |  | Chiapas | Baja |  |
-| 303 | Café Colón Xalapa |  |  |  | Xalapa | Baja |  |
-| 304 | Café de Altura Coatepec Mercado |  |  |  | Coatepec | Baja |  |
-| 305 | Café El Emporio |  |  |  | Xalapa | Baja |  |
-| 306 | Café La Habana |  |  |  | CDMX | Baja |  |
-| 307 | CALUFE |  |  |  | México | Baja |  |
-| 308 | Consejo Regulador Café Veracruz |  |  |  | Veracruz | Baja |  |
-| 309 | DIRECTO AL ORIGEN |  |  |  | México | Baja |  |
-| 310 | Dobie Café |  |  |  | México | Baja |  |
-| 311 | DOS CULTURAS |  |  |  | México | Baja |  |
-| 312 | El Jarocho Coyoacán |  |  |  | CDMX | Baja |  |
-| 313 | GOBAK |  |  |  | México | Baja |  |
-| 314 | Italian Coffee Company MX |  |  |  | México | Baja |  |
-| 315 | Mercado de Café Coatepec productores |  |  |  | Coatepec | Baja |  |
-| 316 | Molino El Viejo |  |  |  | CDMX | Baja |  |
-| 317 | Pluma Hidalgo DO productores |  |  |  | Oaxaca | Baja |  |
-| 318 | The Italian Coffee Company |  |  |  | México | Baja |  |
-| 319 | Tim Hortons MX |  |  |  | México | Baja |  |
-| 320 | TOSTADORES Y MOLINOS |  |  |  | México | Baja |  |
-| 321 | TOSTADORES Y MOLINOS DE CAFÉ COSTEÑITO |  |  |  | México | Baja |  |
+| 303 | Café de Altura Coatepec Mercado |  |  |  | Coatepec | Baja |  |
+| 304 | Café El Emporio |  |  |  | Xalapa | Baja |  |
+| 305 | Café La Habana |  |  |  | CDMX | Baja |  |
+| 306 | CALUFE |  |  |  | México | Baja |  |
+| 307 | DIRECTO AL ORIGEN |  |  |  | México | Baja |  |
+| 308 | Dobie Café |  |  |  | México | Baja |  |
+| 309 | DOS CULTURAS |  |  |  | México | Baja |  |
+| 310 | El Jarocho Coyoacán |  |  |  | CDMX | Baja |  |
+| 311 | GOBAK |  |  |  | México | Baja |  |
+| 312 | Italian Coffee Company MX |  |  |  | México | Baja |  |
+| 313 | Mercado de Café Coatepec productores |  |  |  | Coatepec | Baja |  |
+| 314 | Molino El Viejo |  |  |  | CDMX | Baja |  |
+| 315 | Pluma Hidalgo DO productores |  |  |  | Oaxaca | Baja |  |
+| 316 | The Italian Coffee Company |  |  |  | México | Baja |  |
+| 317 | Tim Hortons MX |  |  |  | México | Baja |  |
+| 318 | TOSTADORES Y MOLINOS |  |  |  | México | Baja |  |
+| 319 | TOSTADORES Y MOLINOS DE CAFÉ COSTEÑITO |  |  |  | México | Baja |  |

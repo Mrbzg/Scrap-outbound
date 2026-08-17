@@ -12,8 +12,8 @@
     "tipo": "Fabricante",
     "notas": "Colágeno medio mayoreo desde 20kg",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 6,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 6
   },
   {
     "giro": "Salud",
@@ -28,8 +28,8 @@
     "tipo": "Naturales",
     "notas": "Cápsulas y naturales",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 8,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 8
   },
   {
     "giro": "Salud",
@@ -44,8 +44,8 @@
     "tipo": "Distribuidor MLM",
     "notas": "NeoLife",
     "fuente": "retail_ecom",
-    "score_contacto": 8,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 9
   },
   {
     "giro": "Salud",
@@ -60,8 +60,8 @@
     "tipo": "Marca D2C / fabricante",
     "notas": "Top Profeco; péptidos bioactivos; matcha/silver",
     "fuente": "marcas_d2c",
-    "score_contacto": 9,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 9
   },
   {
     "giro": "Salud",
@@ -76,8 +76,8 @@
     "tipo": "Fabricante B2B",
     "notas": "Colágeno bovino polvo + grenetina; WA 4776487025",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 7,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 7
   },
   {
     "giro": "Salud",
@@ -92,8 +92,8 @@
     "tipo": "Nutrición aplicada",
     "notas": "Proteínas y nutracéuticos",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 8,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 8
   },
   {
     "giro": "Salud",
@@ -108,8 +108,8 @@
     "tipo": "Vitaminas naturales",
     "notas": "Distribuidor",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 8,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 8
   },
   {
     "giro": "Salud",
@@ -124,8 +124,8 @@
     "tipo": "B2B péptidos",
     "notas": "Distribución péptidos",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 9,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 9
   },
   {
     "giro": "Salud",
@@ -140,8 +140,8 @@
     "tipo": "Distribuidor péptidos",
     "notas": "Materia prima péptidos bioactivos mayoreo",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 8,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 9
   },
   {
     "giro": "Salud",
@@ -156,8 +156,8 @@
     "tipo": "Superfoods granel",
     "notas": "Marca propia + granel",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 8,
-    "prioridad": "Alta"
+    "prioridad": "Alta",
+    "score_contacto": 8
   },
   {
     "giro": "Salud",
@@ -172,8 +172,8 @@
     "tipo": "Marca",
     "notas": "Colágeno arándano 1.2kg",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -188,8 +188,8 @@
     "tipo": "Marca D2C",
     "notas": "10g porción",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -204,8 +204,8 @@
     "tipo": "Marca",
     "notas": "Origen marino",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -220,24 +220,8 @@
     "tipo": "Mayoreo",
     "notas": "Polvo 25kg",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Salud",
-    "nicho": "Colágeno hidrolizado",
-    "empresa": "Amazon México sellers colágeno",
-    "url": "https://www.amazon.com.mx/",
-    "email": "",
-    "telefono": "",
-    "ciudad": "México",
-    "estado": "México",
-    "pais": "México",
-    "tipo": "Marketplace",
-    "notas": "Canal multiproducto",
-    "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -252,8 +236,8 @@
     "tipo": "Químicos",
     "notas": "Colágeno San Mateo Nopala",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -268,8 +252,8 @@
     "tipo": "MLM",
     "notas": "Nutrilite",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -284,8 +268,8 @@
     "tipo": "Distribuidor",
     "notas": "Life sciences",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -300,8 +284,8 @@
     "tipo": "Marca D2C",
     "notas": "Collagen blend I-II-III-V-X; fuerte ecom",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -316,8 +300,8 @@
     "tipo": "Maquila suplementos",
     "notas": "Fabrica colágeno+HA marca propia",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -332,8 +316,8 @@
     "tipo": "Farmacéutica",
     "notas": "Consumer health",
     "fuente": "labs_pharma",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -348,8 +332,8 @@
     "tipo": "Marca gomitas",
     "notas": "Colágeno + biotina gomitas",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -364,8 +348,8 @@
     "tipo": "Marca deportiva",
     "notas": "Alto en proteínas",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -380,8 +364,8 @@
     "tipo": "Marca D2C",
     "notas": "COLAGENER Tipo I",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -396,8 +380,8 @@
     "tipo": "Marca plant",
     "notas": "Proteínas MX",
     "fuente": "extra_marcas",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -412,8 +396,8 @@
     "tipo": "Retail",
     "notas": "Suplementos",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -428,8 +412,8 @@
     "tipo": "Distribuidor químico",
     "notas": "Ingredientes",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -444,8 +428,8 @@
     "tipo": "Mayoreo",
     "notas": "Pretty Bee y más",
     "fuente": "extra_marcas",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -460,8 +444,8 @@
     "tipo": "Marca mexicana",
     "notas": "Colágeno avalado Profeco",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -476,8 +460,8 @@
     "tipo": "Marca articular",
     "notas": "Glucosamina + condroitina",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -492,8 +476,8 @@
     "tipo": "Supermercado",
     "notas": "Retail",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -508,8 +492,8 @@
     "tipo": "Farmacéutica MX",
     "notas": "OTC",
     "fuente": "labs_pharma",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -524,8 +508,8 @@
     "tipo": "Marca/sabor",
     "notas": "Polvo fresa",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -540,8 +524,8 @@
     "tipo": "Marca (import/EUA)",
     "notas": "Top Profeco concentración",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -556,8 +540,8 @@
     "tipo": "Marca EU",
     "notas": "Farmacia",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -572,8 +556,8 @@
     "tipo": "Club mayoreo",
     "notas": "Sesén Entera Vital Proteins",
     "fuente": "retail_ecom",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -588,8 +572,8 @@
     "tipo": "Industrial",
     "notas": "Peptan",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -604,8 +588,8 @@
     "tipo": "Distribuidor farmacéutico",
     "notas": "Colágeno a granel grado",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 4
   },
   {
     "giro": "Salud",
@@ -620,8 +604,8 @@
     "tipo": "Marca natural",
     "notas": "Suplementos",
     "fuente": "extra_marcas",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -636,8 +620,8 @@
     "tipo": "Marca",
     "notas": "Kit antiedad 2 meses",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -652,8 +636,8 @@
     "tipo": "Marca farmacéutica",
     "notas": "Colágeno puro sin azúcar; Costco",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -668,8 +652,8 @@
     "tipo": "MLM",
     "notas": "Belleza",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -684,8 +668,8 @@
     "tipo": "Marca",
     "notas": "Puro 450g",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -700,8 +684,8 @@
     "tipo": "Ecom farmacia",
     "notas": "Comparativas colágeno",
     "fuente": "retail_ecom",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -716,8 +700,8 @@
     "tipo": "Farmacia ecom",
     "notas": "Naturex colágeno",
     "fuente": "retail_ecom",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -732,8 +716,8 @@
     "tipo": "Cadena",
     "notas": "Retail",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -748,8 +732,8 @@
     "tipo": "Cadena farmacia",
     "notas": "Retail norte",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -764,8 +748,8 @@
     "tipo": "Cadena farmacia",
     "notas": "Retail colágeno",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -780,8 +764,8 @@
     "tipo": "Retail",
     "notas": "Multi SKU",
     "fuente": "extra_marcas",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -796,8 +780,8 @@
     "tipo": "Cadena farmacia",
     "notas": "Retail",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -812,8 +796,8 @@
     "tipo": "Cadena farmacia",
     "notas": "Retail",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -828,8 +812,8 @@
     "tipo": "Cadena",
     "notas": "Retail genéricos",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -844,8 +828,8 @@
     "tipo": "Proveedor",
     "notas": "Colágeno",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -860,8 +844,8 @@
     "tipo": "Marca mujer",
     "notas": "Péptidos bioactivos",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -876,8 +860,8 @@
     "tipo": "MLM",
     "notas": "Aloe + suplementos",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -892,8 +876,8 @@
     "tipo": "Ingredientes",
     "notas": "Colágeno pescado 90%",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -908,8 +892,8 @@
     "tipo": "Marca farmacéutica",
     "notas": "Sobres 10g/20g",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -924,8 +908,8 @@
     "tipo": "Fabricante global",
     "notas": "Péptidos colágeno industrial",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -940,8 +924,8 @@
     "tipo": "Farmacéutica OTC",
     "notas": "Wellness brands",
     "fuente": "labs_pharma",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -956,8 +940,8 @@
     "tipo": "Marca dermato",
     "notas": "Rederm sobres",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -972,24 +956,8 @@
     "tipo": "Marca/sabor",
     "notas": "Colágeno durazno",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 2,
-    "prioridad": "Media"
-  },
-  {
-    "giro": "Salud",
-    "nicho": "Colágeno hidrolizado",
-    "empresa": "GNC Franchisees MX multi",
-    "url": "https://www.gnc.com.mx/",
-    "email": "",
-    "telefono": "",
-    "ciudad": "México",
-    "estado": "México",
-    "pais": "México",
-    "tipo": "Franquicias",
-    "notas": "Múltiples puntos",
-    "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -1004,8 +972,8 @@
     "tipo": "Cadena suplementos",
     "notas": "Retail colágeno",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -1020,8 +988,8 @@
     "tipo": "Tienda orgánica",
     "notas": "Retail",
     "fuente": "retail_ecom",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1036,8 +1004,8 @@
     "tipo": "Marca",
     "notas": "Complemento antiedad",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1052,8 +1020,8 @@
     "tipo": "Consumer health",
     "notas": "OTC",
     "fuente": "extra_marcas",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -1068,8 +1036,8 @@
     "tipo": "Marca",
     "notas": "Polvo sin gluten",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1084,8 +1052,8 @@
     "tipo": "Supermercado",
     "notas": "Vidanat retail",
     "fuente": "retail_ecom",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1100,8 +1068,8 @@
     "tipo": "MLM",
     "notas": "Suplementos red",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -1116,8 +1084,8 @@
     "tipo": "Mayoreo naturista",
     "notas": "Colágeno y pescado 90%",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 4,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 4
   },
   {
     "giro": "Salud",
@@ -1132,8 +1100,8 @@
     "tipo": "Ecom internacional",
     "notas": "Canal import",
     "fuente": "retail_ecom",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1148,8 +1116,8 @@
     "tipo": "Distribuidor",
     "notas": "Ingredientes especialidad",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1164,8 +1132,8 @@
     "tipo": "MLM belleza",
     "notas": "Algunos nutricosméticos",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -1180,8 +1148,8 @@
     "tipo": "Marca",
     "notas": "HA + biotina + vit C",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1196,8 +1164,8 @@
     "tipo": "Marca D2C",
     "notas": "Colágeno hidrolizado",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1212,8 +1180,8 @@
     "tipo": "Supermercado premium",
     "notas": "Wellness",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -1228,8 +1196,8 @@
     "tipo": "Laboratorio",
     "notas": "Colágeno + HA",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1244,8 +1212,8 @@
     "tipo": "Farmacéutica",
     "notas": "Posible línea",
     "fuente": "labs_pharma",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -1260,8 +1228,8 @@
     "tipo": "Farmacéutica",
     "notas": "Ejemplo medtech cliente",
     "fuente": "labs_pharma",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1276,8 +1244,8 @@
     "tipo": "Farmacéutica",
     "notas": "OTC",
     "fuente": "labs_pharma",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -1292,8 +1260,8 @@
     "tipo": "Marca D2C",
     "notas": "Colágeno + HA frutos rojos",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1308,8 +1276,8 @@
     "tipo": "Marca D2C",
     "notas": "Línea Life360 colágeno y multis",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1324,8 +1292,8 @@
     "tipo": "Marca D2C",
     "notas": "Colágeno + glucosamina + condroitina",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1340,8 +1308,8 @@
     "tipo": "Department store",
     "notas": "Life360 B Life Pronat",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -1356,8 +1324,8 @@
     "tipo": "Comparador precios",
     "notas": "No lead venta directa",
     "fuente": "extra_marcas",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -1372,8 +1340,8 @@
     "tipo": "Marca",
     "notas": "Tipo II no hidrolizado",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1388,8 +1356,8 @@
     "tipo": "MLM",
     "notas": "Belleza",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -1404,8 +1372,8 @@
     "tipo": "Mayoreo naturista",
     "notas": "Colágeno varias marcas; envíos MX/USA",
     "fuente": "retail_ecom",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1420,8 +1388,8 @@
     "tipo": "Marketplace",
     "notas": "Canal multiproducto",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -1436,8 +1404,8 @@
     "tipo": "Retail",
     "notas": "Accesorios belleza",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -1452,8 +1420,8 @@
     "tipo": "Ecom suplementos",
     "notas": "+105 productos colágeno",
     "fuente": "retail_ecom",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1468,8 +1436,8 @@
     "tipo": "Marca",
     "notas": "Línea belleza",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1484,8 +1452,8 @@
     "tipo": "Marca internacional",
     "notas": "Cápsulas 1000mg",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1500,8 +1468,8 @@
     "tipo": "Marca/retail",
     "notas": "Healthy foods",
     "fuente": "retail_ecom",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1516,8 +1484,8 @@
     "tipo": "Import",
     "notas": "Retail MX",
     "fuente": "marcas_d2c",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -1532,8 +1500,8 @@
     "tipo": "MLM",
     "notas": "Prosperidad Vital distrib",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -1548,8 +1516,8 @@
     "tipo": "Marca",
     "notas": "Colágeno 90 caps",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1564,8 +1532,8 @@
     "tipo": "Cadena healthy",
     "notas": "Retail/franquicia",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -1580,8 +1548,8 @@
     "tipo": "Marca D2C",
     "notas": "Colágeno premium",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1596,8 +1564,8 @@
     "tipo": "Marca",
     "notas": "Complex 4 tipos colágeno",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1612,8 +1580,8 @@
     "tipo": "Marca D2C",
     "notas": "Profeco favorable",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1628,8 +1596,8 @@
     "tipo": "MLM",
     "notas": "Suplementos",
     "fuente": "retail_ecom",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1644,8 +1612,8 @@
     "tipo": "Marca",
     "notas": "Colágeno 200mg caps",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1660,8 +1628,8 @@
     "tipo": "Department store",
     "notas": "Premium wellness",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -1676,8 +1644,8 @@
     "tipo": "Marca mayoreo",
     "notas": "Colágeno tipo 2 y 3",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1692,8 +1660,8 @@
     "tipo": "Marca/retail",
     "notas": "Colágeno 1kg mayoreo-friendly",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1708,8 +1676,8 @@
     "tipo": "Químicos naturistas",
     "notas": "Proveedor colágeno",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -1724,8 +1692,8 @@
     "tipo": "Marca naturista",
     "notas": "Colagen + HA caps",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1740,8 +1708,8 @@
     "tipo": "Mayoreo sabores",
     "notas": "Colágeno piña granel",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -1756,8 +1724,8 @@
     "tipo": "Marca",
     "notas": "Profeco favorable",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1772,8 +1740,8 @@
     "tipo": "Fabricante global",
     "notas": "Gelatina/colágeno industrial Satélite",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 4,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 4
   },
   {
     "giro": "Salud",
@@ -1788,8 +1756,8 @@
     "tipo": "Marca herbal",
     "notas": "Colágeno marino",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1804,8 +1772,8 @@
     "tipo": "Belleza",
     "notas": "Retail belleza",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -1820,8 +1788,8 @@
     "tipo": "Marca D2C + mayoreo",
     "notas": "Péptidos colágeno; programa mayoreo",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1836,8 +1804,8 @@
     "tipo": "Club mayoreo",
     "notas": "Suplementos",
     "fuente": "retail_ecom",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1852,8 +1820,8 @@
     "tipo": "Retail",
     "notas": "Suplementos",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -1868,8 +1836,8 @@
     "tipo": "Fabricante D2C+mayoreo",
     "notas": "Dueños de marca; farmacias/spas",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1884,8 +1852,8 @@
     "tipo": "Department store",
     "notas": "Cahuenga etc",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -1900,8 +1868,8 @@
     "tipo": "Marca",
     "notas": "HA + colágeno tubos",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1916,8 +1884,8 @@
     "tipo": "Farmacéutica",
     "notas": "OTC",
     "fuente": "labs_pharma",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -1932,8 +1900,8 @@
     "tipo": "Farmacéutica",
     "notas": "OTC",
     "fuente": "labs_pharma",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -1948,8 +1916,8 @@
     "tipo": "Marca",
     "notas": "60 caps",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1964,8 +1932,8 @@
     "tipo": "Marca D2C",
     "notas": "Colágeno + vitaminas Belabear",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -1980,8 +1948,8 @@
     "tipo": "Supermercado",
     "notas": "Retail",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -1996,8 +1964,8 @@
     "tipo": "Ingredientes",
     "notas": "Colágeno ingredientes",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -2012,8 +1980,8 @@
     "tipo": "Supermercado",
     "notas": "Retail",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -2028,8 +1996,8 @@
     "tipo": "Mayoreo",
     "notas": "Tipo A/B polvo",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -2044,8 +2012,8 @@
     "tipo": "Ecom naturista",
     "notas": "Vidanat Pronat Ypenza",
     "fuente": "retail_ecom",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -2060,8 +2028,8 @@
     "tipo": "Químicos",
     "notas": "Colágeno proteína polvo",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -2076,8 +2044,8 @@
     "tipo": "Marca D2C",
     "notas": "Ejemplo original del cliente",
     "fuente": "ejemplo",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -2092,8 +2060,8 @@
     "tipo": "Orgánico",
     "notas": "Retail",
     "fuente": "retail_ecom",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -2108,8 +2076,8 @@
     "tipo": "Químicos",
     "notas": "Colágeno",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -2124,8 +2092,8 @@
     "tipo": "Marca D2C",
     "notas": "Colágeno puro; Profeco positivo",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -2140,8 +2108,8 @@
     "tipo": "Ecom superfoods",
     "notas": "Colágeno sabores",
     "fuente": "retail_ecom",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -2156,8 +2124,8 @@
     "tipo": "Marca internacional",
     "notas": "Péptidos bovino Costco",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -2172,8 +2140,8 @@
     "tipo": "Ecom",
     "notas": "Gomitas vitaminas (nicho hermano)",
     "fuente": "extra_marcas",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -2188,8 +2156,8 @@
     "tipo": "Marca mujer",
     "notas": "Colágeno + HA + biotina",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -2204,8 +2172,8 @@
     "tipo": "Marca",
     "notas": "Profeco observó",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -2220,8 +2188,8 @@
     "tipo": "Retail",
     "notas": "Ypenza Spring Valley",
     "fuente": "retail_ecom",
-    "score_contacto": 2,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Salud",
@@ -2236,8 +2204,8 @@
     "tipo": "Marca",
     "notas": "Colágeno + biotina 1kg",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -2252,8 +2220,8 @@
     "tipo": "Marca D2C mujer",
     "notas": "Colágeno + electrolitos",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -2268,8 +2236,8 @@
     "tipo": "Marca",
     "notas": "Colágeno + HA + biotina",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -2284,8 +2252,8 @@
     "tipo": "Marca internacional",
     "notas": "6000mg tabletas Costco",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -2300,8 +2268,8 @@
     "tipo": "Marca suplementos",
     "notas": "Colágeno 1.1kg sabores",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -2316,8 +2284,8 @@
     "tipo": "Marca",
     "notas": "HA + colágeno 1.1kg",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -2332,8 +2300,8 @@
     "tipo": "Marca D2C",
     "notas": "Colágeno 10g + HA; COA verificado",
     "fuente": "marcas_d2c",
-    "score_contacto": 3,
-    "prioridad": "Media"
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Salud",
@@ -2348,8 +2316,8 @@
     "tipo": "Químicos",
     "notas": "Colágeno",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -2364,8 +2332,8 @@
     "tipo": "Proveedor",
     "notas": "Tenayuca",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -2380,8 +2348,8 @@
     "tipo": "Veterinario",
     "notas": "Colágeno para caballos",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2396,8 +2364,8 @@
     "tipo": "Químicos",
     "notas": "Colágeno grado alimenticio",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -2412,8 +2380,8 @@
     "tipo": "Farmacéutica",
     "notas": "Genéricos",
     "fuente": "labs_pharma",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2428,8 +2396,24 @@
     "tipo": "Ortomolecular",
     "notas": "Colágeno + vit C",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
+  },
+  {
+    "giro": "Salud",
+    "nicho": "Colágeno hidrolizado",
+    "empresa": "Amazon México sellers colágeno",
+    "url": "https://www.amazon.com.mx/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Marketplace",
+    "notas": "Canal multiproducto",
+    "fuente": "retail_ecom",
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -2444,8 +2428,8 @@
     "tipo": "Food ingredients",
     "notas": "Colágeno",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2460,8 +2444,8 @@
     "tipo": "Alimentos",
     "notas": "Colágeno QuimiNet",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2476,8 +2460,8 @@
     "tipo": "Ingredientes",
     "notas": "Farmacéutico",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2492,8 +2476,8 @@
     "tipo": "Natural",
     "notas": "Colágeno",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2508,8 +2492,8 @@
     "tipo": "Ingredientes",
     "notas": "Nutrición humana",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2524,8 +2508,8 @@
     "tipo": "Seller",
     "notas": "Marketplace",
     "fuente": "ingredients_sellers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2540,8 +2524,8 @@
     "tipo": "Catálogo",
     "notas": "Canal",
     "fuente": "retail_ecom",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2556,8 +2540,8 @@
     "tipo": "Ingredientes",
     "notas": "Colágeno",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2572,8 +2556,8 @@
     "tipo": "Nutracéuticos",
     "notas": "Colágeno",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2588,8 +2572,8 @@
     "tipo": "Ingrediente branded",
     "notas": "Gelita body",
     "fuente": "ingredients_sellers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2604,8 +2588,8 @@
     "tipo": "Farmacéutica",
     "notas": "OTC",
     "fuente": "labs_pharma",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2620,8 +2604,8 @@
     "tipo": "Distribuidor",
     "notas": "Import",
     "fuente": "extra_marcas",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -2636,8 +2620,8 @@
     "tipo": "Farmacéutica",
     "notas": "OTC",
     "fuente": "labs_pharma",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2652,8 +2636,8 @@
     "tipo": "OTC",
     "notas": "Haleon",
     "fuente": "extra_marcas",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2668,8 +2652,8 @@
     "tipo": "Clínicas",
     "notas": "Canal profesional",
     "fuente": "regional",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2684,8 +2668,8 @@
     "tipo": "Proveedor",
     "notas": "Mayoreo colágeno",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2700,8 +2684,8 @@
     "tipo": "Ingrediente",
     "notas": "Colágeno",
     "fuente": "ingredients_sellers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2716,8 +2700,8 @@
     "tipo": "Ingrediente",
     "notas": "Industrial",
     "fuente": "ingredients_sellers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2732,8 +2716,8 @@
     "tipo": "Seller",
     "notas": "Marketplace",
     "fuente": "ingredients_sellers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2748,8 +2732,8 @@
     "tipo": "Seller",
     "notas": "Marketplace",
     "fuente": "ingredients_sellers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2764,8 +2748,8 @@
     "tipo": "Seller formula",
     "notas": "Marketplace",
     "fuente": "extra_marcas",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2780,8 +2764,8 @@
     "tipo": "Seller formula",
     "notas": "Marketplace",
     "fuente": "extra_marcas",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2796,8 +2780,8 @@
     "tipo": "Subnicho marino",
     "notas": "Varias marcas",
     "fuente": "extra_marcas",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2812,8 +2796,8 @@
     "tipo": "Deportivo",
     "notas": "Cluster",
     "fuente": "extra_marcas",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2828,24 +2812,8 @@
     "tipo": "Import sellers",
     "notas": "Marketplace",
     "fuente": "ingredients_sellers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Salud",
-    "nicho": "Colágeno hidrolizado",
-    "empresa": "Colágeno Marino Chile sellers",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "México",
-    "estado": "México",
-    "pais": "México",
-    "tipo": "Import",
-    "notas": "Marketplace",
-    "fuente": "ingredients_sellers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2860,8 +2828,8 @@
     "tipo": "Seller formula",
     "notas": "Marketplace",
     "fuente": "extra_marcas",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2876,8 +2844,8 @@
     "tipo": "Import sellers",
     "notas": "Marketplace",
     "fuente": "ingredients_sellers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2892,8 +2860,8 @@
     "tipo": "Seller ecom",
     "notas": "Marketplace",
     "fuente": "ingredients_sellers",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -2908,8 +2876,8 @@
     "tipo": "Alternativa",
     "notas": "Amino plant-based",
     "fuente": "extra_marcas",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2924,8 +2892,8 @@
     "tipo": "Marca",
     "notas": "Colágeno",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -2940,8 +2908,8 @@
     "tipo": "Trading",
     "notas": "Colágeno aislado",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2956,8 +2924,8 @@
     "tipo": "Central Abastos",
     "notas": "Colágeno",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -2972,8 +2940,8 @@
     "tipo": "Profesional",
     "notas": "Canal médico",
     "fuente": "regional",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -2988,8 +2956,8 @@
     "tipo": "Hidrocoloides",
     "notas": "Texturizantes",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3004,8 +2972,8 @@
     "tipo": "MLM",
     "notas": "Belleza",
     "fuente": "retail_ecom",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3020,8 +2988,8 @@
     "tipo": "Belleza",
     "notas": "Algunos suplementos",
     "fuente": "retail_ecom",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3036,328 +3004,8 @@
     "tipo": "Proveedor",
     "notas": "Colágeno",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Salud",
-    "nicho": "Colágeno hidrolizado",
-    "empresa": "Distribuidora Naturista Aguascalientes",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Aguascalientes",
-    "estado": "Ags",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo",
-    "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Salud",
-    "nicho": "Colágeno hidrolizado",
-    "empresa": "Distribuidora Naturista Cancún",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Cancún",
-    "estado": "QRoo",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo",
-    "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Salud",
-    "nicho": "Colágeno hidrolizado",
-    "empresa": "Distribuidora Naturista Chihuahua",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Chihuahua",
-    "estado": "Chihuahua",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo",
-    "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Salud",
-    "nicho": "Colágeno hidrolizado",
-    "empresa": "Distribuidora Naturista Culiacán",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Culiacán",
-    "estado": "Sinaloa",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo",
-    "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Salud",
-    "nicho": "Colágeno hidrolizado",
-    "empresa": "Distribuidora Naturista Guadalajara",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Guadalajara",
-    "estado": "Jalisco",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo occidente",
-    "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Salud",
-    "nicho": "Colágeno hidrolizado",
-    "empresa": "Distribuidora Naturista Hermosillo",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Hermosillo",
-    "estado": "Sonora",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo",
-    "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Salud",
-    "nicho": "Colágeno hidrolizado",
-    "empresa": "Distribuidora Naturista León",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "León",
-    "estado": "Guanajuato",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo Bajío",
-    "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Salud",
-    "nicho": "Colágeno hidrolizado",
-    "empresa": "Distribuidora Naturista Monterrey",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Monterrey",
-    "estado": "NL",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo norte",
-    "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Salud",
-    "nicho": "Colágeno hidrolizado",
-    "empresa": "Distribuidora Naturista Morelia",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Morelia",
-    "estado": "Michoacán",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo",
-    "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Salud",
-    "nicho": "Colágeno hidrolizado",
-    "empresa": "Distribuidora Naturista Mérida",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Mérida",
-    "estado": "Yucatán",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo SE",
-    "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Salud",
-    "nicho": "Colágeno hidrolizado",
-    "empresa": "Distribuidora Naturista Oaxaca",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Oaxaca",
-    "estado": "Oaxaca",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo",
-    "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Salud",
-    "nicho": "Colágeno hidrolizado",
-    "empresa": "Distribuidora Naturista Puebla",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Puebla",
-    "estado": "Puebla",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo",
-    "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Salud",
-    "nicho": "Colágeno hidrolizado",
-    "empresa": "Distribuidora Naturista Querétaro",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Querétaro",
-    "estado": "Qro",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo Bajío",
-    "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Salud",
-    "nicho": "Colágeno hidrolizado",
-    "empresa": "Distribuidora Naturista San Luis Potosí",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "San Luis Potosí",
-    "estado": "SLP",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo",
-    "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Salud",
-    "nicho": "Colágeno hidrolizado",
-    "empresa": "Distribuidora Naturista Tampico",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Tampico",
-    "estado": "Tamaulipas",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo",
-    "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Salud",
-    "nicho": "Colágeno hidrolizado",
-    "empresa": "Distribuidora Naturista Tijuana",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Tijuana",
-    "estado": "BC",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo frontera",
-    "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Salud",
-    "nicho": "Colágeno hidrolizado",
-    "empresa": "Distribuidora Naturista Toluca",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Toluca",
-    "estado": "EdoMex",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo",
-    "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Salud",
-    "nicho": "Colágeno hidrolizado",
-    "empresa": "Distribuidora Naturista Torreón",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Torreón",
-    "estado": "Coahuila",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo",
-    "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Salud",
-    "nicho": "Colágeno hidrolizado",
-    "empresa": "Distribuidora Naturista Veracruz",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Veracruz",
-    "estado": "Veracruz",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo",
-    "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Salud",
-    "nicho": "Colágeno hidrolizado",
-    "empresa": "Distribuidora Naturista Villahermosa",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "Villahermosa",
-    "estado": "Tabasco",
-    "pais": "México",
-    "tipo": "Distribuidor regional",
-    "notas": "Mayoreo",
-    "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3372,8 +3020,8 @@
     "tipo": "Import alemán",
     "notas": "Colágeno alemán puro",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -3388,8 +3036,8 @@
     "tipo": "Marketplace salud",
     "notas": "Canal",
     "fuente": "retail_ecom",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3404,8 +3052,8 @@
     "tipo": "Proveedor",
     "notas": "Anáhuac",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -3420,8 +3068,8 @@
     "tipo": "Ingredientes",
     "notas": "Nutrición",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3436,8 +3084,8 @@
     "tipo": "Distribuidor",
     "notas": "Import",
     "fuente": "extra_marcas",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -3452,8 +3100,8 @@
     "tipo": "Industrial",
     "notas": "Gelatina",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3468,8 +3116,8 @@
     "tipo": "Cadena",
     "notas": "Retail",
     "fuente": "retail_ecom",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3484,8 +3132,8 @@
     "tipo": "Ingrediente branded",
     "notas": "Gelita articular",
     "fuente": "ingredients_sellers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3500,8 +3148,8 @@
     "tipo": "Grado alimenticio",
     "notas": "Colágeno alimenticio",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -3516,8 +3164,8 @@
     "tipo": "Proveedor granel",
     "notas": "Polvo 100% puro Santa Rosa",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -3532,8 +3180,8 @@
     "tipo": "Proveedor",
     "notas": "Colágeno Oblatos",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -3548,8 +3196,24 @@
     "tipo": "Industrial BR/MX",
     "notas": "Colágeno",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
+  },
+  {
+    "giro": "Salud",
+    "nicho": "Colágeno hidrolizado",
+    "empresa": "GNC Franchisees MX multi",
+    "url": "https://www.gnc.com.mx/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Franquicias",
+    "notas": "Múltiples puntos",
+    "fuente": "retail_ecom",
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -3564,8 +3228,8 @@
     "tipo": "Proveedor",
     "notas": "Colágeno para perros y derivados",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -3580,8 +3244,8 @@
     "tipo": "Proveedor",
     "notas": "Colágeno pescado",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -3596,24 +3260,8 @@
     "tipo": "Proveedor",
     "notas": "Colágeno",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Salud",
-    "nicho": "Colágeno hidrolizado",
-    "empresa": "GRUPO MORATO",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "México",
-    "estado": "México",
-    "pais": "México",
-    "tipo": "Grupo",
-    "notas": "Colágeno",
-    "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3628,8 +3276,8 @@
     "tipo": "Farmacéutica",
     "notas": "Consumer",
     "fuente": "labs_pharma",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3644,8 +3292,8 @@
     "tipo": "Marca",
     "notas": "Suplementos",
     "fuente": "extra_marcas",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -3660,8 +3308,8 @@
     "tipo": "Farmacéutica",
     "notas": "OTC",
     "fuente": "labs_pharma",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3676,8 +3324,8 @@
     "tipo": "Ingredientes",
     "notas": "Colágeno porcino puro",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3692,8 +3340,8 @@
     "tipo": "Ingredientes",
     "notas": "Food",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3708,8 +3356,8 @@
     "tipo": "MLM",
     "notas": "Suplementos",
     "fuente": "retail_ecom",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3724,8 +3372,8 @@
     "tipo": "Industrial",
     "notas": "Gelatina",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3740,8 +3388,8 @@
     "tipo": "Farmacéutica",
     "notas": "OTC",
     "fuente": "labs_pharma",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3756,8 +3404,8 @@
     "tipo": "Industrial",
     "notas": "Gelatina",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3772,8 +3420,8 @@
     "tipo": "Industrial marino",
     "notas": "Colágeno pescado",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3788,8 +3436,8 @@
     "tipo": "Food tech",
     "notas": "Proteínas",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3804,8 +3452,8 @@
     "tipo": "Proveedor",
     "notas": "San Isidro León",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -3820,8 +3468,8 @@
     "tipo": "MLM",
     "notas": "Belleza premium",
     "fuente": "retail_ecom",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3836,8 +3484,8 @@
     "tipo": "Maquila",
     "notas": "Cluster grenetina/colágeno",
     "fuente": "labs_pharma",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -3852,8 +3500,8 @@
     "tipo": "Farmacéutica",
     "notas": "OTC",
     "fuente": "labs_pharma",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3868,8 +3516,8 @@
     "tipo": "Farmacéutica",
     "notas": "OTC",
     "fuente": "labs_pharma",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3884,8 +3532,8 @@
     "tipo": "Farmacéutica",
     "notas": "OTC",
     "fuente": "labs_pharma",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3900,8 +3548,8 @@
     "tipo": "Maquila",
     "notas": "Cluster Iztapalapa/Ecatepec",
     "fuente": "labs_pharma",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3916,8 +3564,8 @@
     "tipo": "Farmacéutica",
     "notas": "Especialidad",
     "fuente": "labs_pharma",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3932,8 +3580,8 @@
     "tipo": "Industrial",
     "notas": "Gelatina",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3948,8 +3596,8 @@
     "tipo": "Farmacéutica",
     "notas": "Colágeno 500g polvo",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -3964,8 +3612,8 @@
     "tipo": "Ingredientes",
     "notas": "Activos belleza",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3980,8 +3628,8 @@
     "tipo": "Private label",
     "notas": "Walmart canal",
     "fuente": "marcas_d2c",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -3996,8 +3644,8 @@
     "tipo": "Químicos",
     "notas": "General Anaya",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4012,8 +3660,8 @@
     "tipo": "Farmacéutica",
     "notas": "OTC",
     "fuente": "labs_pharma",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4028,8 +3676,8 @@
     "tipo": "Farmacéutica",
     "notas": "OTC",
     "fuente": "labs_pharma",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4044,8 +3692,8 @@
     "tipo": "Ingredientes",
     "notas": "Zona Industrial",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4060,8 +3708,8 @@
     "tipo": "Seller Amazon",
     "notas": "Distribuye Life360",
     "fuente": "marcas_d2c",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4076,8 +3724,8 @@
     "tipo": "Retail",
     "notas": "Limitado",
     "fuente": "retail_ecom",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4092,8 +3740,8 @@
     "tipo": "Seller formula",
     "notas": "Marketplace",
     "fuente": "extra_marcas",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4108,24 +3756,8 @@
     "tipo": "Ingrediente branded",
     "notas": "Marino",
     "fuente": "ingredients_sellers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
-  },
-  {
-    "giro": "Salud",
-    "nicho": "Colágeno hidrolizado",
-    "empresa": "Nature Made MX",
-    "url": "",
-    "email": "",
-    "telefono": "",
-    "ciudad": "México",
-    "estado": "México",
-    "pais": "México",
-    "tipo": "Import",
-    "notas": "VMS",
-    "fuente": "extra_marcas",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4140,8 +3772,8 @@
     "tipo": "Import caps",
     "notas": "Retail",
     "fuente": "marcas_d2c",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4156,8 +3788,8 @@
     "tipo": "Marca farmacia",
     "notas": "Tabletas farmacia emergencias",
     "fuente": "marcas_d2c",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4172,8 +3804,8 @@
     "tipo": "Proteínas",
     "notas": "Extracto 40% y 90%",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4188,8 +3820,8 @@
     "tipo": "Industrial",
     "notas": "Colágeno",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4204,8 +3836,8 @@
     "tipo": "Orgánicos",
     "notas": "Colágeno",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4220,8 +3852,8 @@
     "tipo": "Ingredientes",
     "notas": "Colágeno bovino francés / pescado",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4236,8 +3868,8 @@
     "tipo": "Distribuidor",
     "notas": "Import VMS",
     "fuente": "extra_marcas",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4252,8 +3884,8 @@
     "tipo": "Proveedor",
     "notas": "Colágeno",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4268,8 +3900,8 @@
     "tipo": "Distribuidor",
     "notas": "Import suplementos",
     "fuente": "extra_marcas",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4284,8 +3916,8 @@
     "tipo": "Proveedor",
     "notas": "Colágeno Gelicar polvo",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4300,8 +3932,8 @@
     "tipo": "Seller pro",
     "notas": "Marketplace",
     "fuente": "extra_marcas",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4316,8 +3948,8 @@
     "tipo": "Retail",
     "notas": "Cluster gym",
     "fuente": "retail_ecom",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4332,8 +3964,8 @@
     "tipo": "Profesional",
     "notas": "Canal B2B",
     "fuente": "regional",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4348,8 +3980,8 @@
     "tipo": "Extractos",
     "notas": "Colágeno",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4364,8 +3996,8 @@
     "tipo": "Distribuidor",
     "notas": "Import gym",
     "fuente": "extra_marcas",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4380,8 +4012,8 @@
     "tipo": "Consumer",
     "notas": "VMS",
     "fuente": "labs_pharma",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4396,8 +4028,8 @@
     "tipo": "Industrial",
     "notas": "Gelatina/colágeno",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4412,8 +4044,8 @@
     "tipo": "Ingrediente branded",
     "notas": "Rousselot",
     "fuente": "ingredients_sellers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4428,8 +4060,8 @@
     "tipo": "Seller",
     "notas": "Marketplace",
     "fuente": "ingredients_sellers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4444,8 +4076,8 @@
     "tipo": "Farmacéutica",
     "notas": "Consumer",
     "fuente": "labs_pharma",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4460,8 +4092,8 @@
     "tipo": "Retail gym",
     "notas": "Suplementos",
     "fuente": "retail_ecom",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4476,8 +4108,8 @@
     "tipo": "Distribuidor ingredientes",
     "notas": "Nutracéuticos",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4492,8 +4124,8 @@
     "tipo": "Cadena/local",
     "notas": "Naturista",
     "fuente": "retail_ecom",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4508,8 +4140,8 @@
     "tipo": "Ingrediente",
     "notas": "Colágeno",
     "fuente": "ingredients_sellers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4524,8 +4156,8 @@
     "tipo": "Farmacéutico",
     "notas": "Colágeno cápsulas",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4540,8 +4172,8 @@
     "tipo": "Cosmética/ingredientes",
     "notas": "Activos",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4556,8 +4188,8 @@
     "tipo": "Consumer",
     "notas": "OTC",
     "fuente": "extra_marcas",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4572,8 +4204,8 @@
     "tipo": "Proveedor",
     "notas": "Simón Bolívar",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4588,8 +4220,8 @@
     "tipo": "Consumer",
     "notas": "OTC",
     "fuente": "extra_marcas",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4604,8 +4236,8 @@
     "tipo": "Químicos",
     "notas": "Extracto 40%/90%",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4620,8 +4252,8 @@
     "tipo": "Ingrediente",
     "notas": "Colágeno",
     "fuente": "ingredients_sellers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4636,8 +4268,8 @@
     "tipo": "Marca",
     "notas": "Suplementos",
     "fuente": "extra_marcas",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4652,8 +4284,8 @@
     "tipo": "Distribuidor",
     "notas": "Import premium",
     "fuente": "extra_marcas",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4668,8 +4300,8 @@
     "tipo": "Ingrediente",
     "notas": "PB Leiner",
     "fuente": "ingredients_sellers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4684,8 +4316,8 @@
     "tipo": "Spa retail",
     "notas": "Canal belleza",
     "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4700,8 +4332,8 @@
     "tipo": "Retail deportivo",
     "notas": "Colágeno deportivo",
     "fuente": "retail_ecom",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4716,8 +4348,8 @@
     "tipo": "Marca Walmart",
     "notas": "Retail privado",
     "fuente": "marcas_d2c",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4732,8 +4364,8 @@
     "tipo": "Tienda naturista",
     "notas": "Retail local",
     "fuente": "retail_ecom",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4748,8 +4380,8 @@
     "tipo": "Seller ML",
     "notas": "Colágeno fresa 1kg",
     "fuente": "marcas_d2c",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4764,8 +4396,8 @@
     "tipo": "Ecom multi",
     "notas": "Marketplace",
     "fuente": "extra_marcas",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4780,8 +4412,8 @@
     "tipo": "Industrial",
     "notas": "Parque Nexxus",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4796,8 +4428,8 @@
     "tipo": "Ingrediente branded",
     "notas": "Gelita",
     "fuente": "ingredients_sellers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4812,8 +4444,8 @@
     "tipo": "Maquila",
     "notas": "Suplementos",
     "fuente": "labs_pharma",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -4828,8 +4460,8 @@
     "tipo": "Retail local",
     "notas": "Menudeo",
     "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4844,8 +4476,8 @@
     "tipo": "Retail local",
     "notas": "Menudeo",
     "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4860,8 +4492,8 @@
     "tipo": "Retail local",
     "notas": "Menudeo",
     "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4876,8 +4508,8 @@
     "tipo": "Retail local",
     "notas": "Menudeo",
     "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4892,8 +4524,8 @@
     "tipo": "Retail local",
     "notas": "Menudeo premium",
     "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4908,8 +4540,8 @@
     "tipo": "Retail local",
     "notas": "Menudeo",
     "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4924,8 +4556,8 @@
     "tipo": "Retail local",
     "notas": "Menudeo premium",
     "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4940,8 +4572,8 @@
     "tipo": "Retail local",
     "notas": "Menudeo premium",
     "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4956,8 +4588,8 @@
     "tipo": "Retail local",
     "notas": "Menudeo",
     "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4972,8 +4604,8 @@
     "tipo": "Retail local",
     "notas": "Menudeo",
     "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -4988,8 +4620,8 @@
     "tipo": "Retail local",
     "notas": "Menudeo",
     "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -5004,8 +4636,8 @@
     "tipo": "Retail local",
     "notas": "Menudeo",
     "fuente": "regional",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -5020,8 +4652,8 @@
     "tipo": "Cluster retail",
     "notas": "Centro histórico",
     "fuente": "retail_ecom",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -5036,8 +4668,8 @@
     "tipo": "Químicos/agro",
     "notas": "Colágeno agro industria",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -5052,8 +4684,8 @@
     "tipo": "Marca",
     "notas": "30 sobres 10g",
     "fuente": "marcas_d2c",
-    "score_contacto": 1,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -5068,8 +4700,8 @@
     "tipo": "Industrial",
     "notas": "Gelatina",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -5084,8 +4716,8 @@
     "tipo": "Distribuidor",
     "notas": "Import",
     "fuente": "extra_marcas",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -5100,8 +4732,8 @@
     "tipo": "Distribuidor",
     "notas": "Ingredientes",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -5116,8 +4748,8 @@
     "tipo": "Distribuidor",
     "notas": "Import",
     "fuente": "extra_marcas",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 1
   },
   {
     "giro": "Salud",
@@ -5132,8 +4764,8 @@
     "tipo": "Ingrediente branded",
     "notas": "Gelita ingredient",
     "fuente": "ingredients_sellers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -5148,8 +4780,8 @@
     "tipo": "Industrial",
     "notas": "Colágeno marino",
     "fuente": "b2b_quiminet_dirind",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -5164,8 +4796,8 @@
     "tipo": "Ingrediente",
     "notas": "Nitta",
     "fuente": "ingredients_sellers",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   },
   {
     "giro": "Salud",
@@ -5180,7 +4812,7 @@
     "tipo": "MLM",
     "notas": "Belleza",
     "fuente": "retail_ecom",
-    "score_contacto": 0,
-    "prioridad": "Baja"
+    "prioridad": "Baja",
+    "score_contacto": 0
   }
 ]
