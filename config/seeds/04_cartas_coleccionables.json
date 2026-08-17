@@ -1,0 +1,249 @@
+{
+  "lote": "04",
+  "slug": "cartas_coleccionables",
+  "description": "Semillas manuales / curadas para lote 04",
+  "leads": [
+    {
+      "empresa": "Lofty TCG",
+      "url": "https://loftytcg.com/",
+      "email": "contacto@loftytcg.com",
+      "telefono": "8124161170",
+      "ciudad": "San Pedro Garza García",
+      "estado": "NL",
+      "tipo": "Tienda TCG + grading",
+      "notas": "R. de la Plata 203 Plaza Alejandria Piso 2",
+      "fuente": "seed_from_export|main_ecom"
+    },
+    {
+      "empresa": "Mexplay",
+      "url": "https://www.mexplay.com/",
+      "email": "",
+      "telefono": "+526648664124",
+      "ciudad": "Tijuana",
+      "estado": "BC",
+      "tipo": "Tienda oficial Bandai/WPN",
+      "notas": "Aquiles Serdan 10875 Libertad; OP Pokémon MTG YGO Digimon",
+      "fuente": "seed_from_export|main_ecom"
+    },
+    {
+      "empresa": "Mithrandir Store",
+      "url": "https://www.mithrandirstore.com/",
+      "email": "",
+      "telefono": "4272265432",
+      "ciudad": "San Juan del Río",
+      "estado": "Querétaro",
+      "tipo": "Tienda TCG + figuras",
+      "notas": "YGO Pokémon Digimon; Hacienda San Nicolás 159",
+      "fuente": "seed_from_export|main_ecom"
+    },
+    {
+      "empresa": "ProCards México",
+      "url": "https://procardsmexico.com.mx/",
+      "email": "procardsmexico@gmail.com",
+      "telefono": "7444894283",
+      "ciudad": "Acapulco",
+      "estado": "Guerrero",
+      "tipo": "Ecom TCG",
+      "notas": "Pokémon YGO OP DB Digimon Lorcana; soporte@procardsmexico.com.mx",
+      "fuente": "seed_from_export|main_ecom"
+    },
+    {
+      "empresa": "Akibara Xpress",
+      "url": "https://akibaraxpress.com/",
+      "email": "",
+      "telefono": "",
+      "ciudad": "Monterrey",
+      "estado": "NL",
+      "tipo": "Geek + TCG ecom",
+      "notas": "Pokémon YGO Digimon DB; envíos nacionales",
+      "fuente": "seed_from_export|main_ecom"
+    },
+    {
+      "empresa": "CardTemple",
+      "url": "https://cardtemple.com.mx/",
+      "email": "",
+      "telefono": "",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco",
+      "tipo": "Ecom singles Pokémon",
+      "notas": "Singles competitivos; pickup Plaza del Sol",
+      "fuente": "seed_from_export|main_ecom"
+    },
+    {
+      "empresa": "Cartoncito Cards",
+      "url": "https://cartoncitocards.com/",
+      "email": "",
+      "telefono": "",
+      "ciudad": "Monterrey",
+      "estado": "NL",
+      "tipo": "Tienda TCG",
+      "notas": "Pokémon YGO OP Lorcana MTG desde 2023",
+      "fuente": "seed_from_export|main_ecom"
+    },
+    {
+      "empresa": "Cartoncito Cards Facebook",
+      "url": "https://www.facebook.com/CartoncitoCards",
+      "email": "",
+      "telefono": "",
+      "ciudad": "Monterrey",
+      "estado": "NL",
+      "tipo": "Social + tienda",
+      "notas": "Comunidad MTY",
+      "fuente": "seed_from_export|extra"
+    },
+    {
+      "empresa": "Colecciona MX",
+      "url": "https://colecciona.mx/",
+      "email": "",
+      "telefono": "",
+      "ciudad": "",
+      "estado": "México",
+      "tipo": "Ecom TCG",
+      "notas": "Pokémon MTG OP Lorcana YGO Gundam SWU",
+      "fuente": "seed_from_export|main_ecom"
+    },
+    {
+      "empresa": "Explosion Shops",
+      "url": "https://explosionshops.com.mx/",
+      "email": "",
+      "telefono": "",
+      "ciudad": "Cd. Juárez",
+      "estado": "Chihuahua",
+      "tipo": "Retail + mayoreo TCG",
+      "notas": "Distribuidor autorizado Pokémon; Av de los Aztecas 8020",
+      "fuente": "seed_from_export|main_ecom"
+    },
+    {
+      "empresa": "Freak Corp",
+      "url": "https://freakcorp.com/",
+      "email": "",
+      "telefono": "",
+      "ciudad": "",
+      "estado": "México",
+      "tipo": "Coleccionismo + TCG",
+      "notas": "OP MTG Lorcana línea",
+      "fuente": "seed_from_export|extra"
+    },
+    {
+      "empresa": "Hidralistico",
+      "url": "https://hidralistico.com.mx/",
+      "email": "",
+      "telefono": "",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco",
+      "tipo": "Tienda grande + mayoreo",
+      "notas": "Desde 2007; catálogo singles grande; Rio Nilo 7906",
+      "fuente": "seed_from_export|main_ecom"
+    },
+    {
+      "empresa": "MasterForce TCG",
+      "url": "https://masterforcemx.com/",
+      "email": "",
+      "telefono": "",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "Tienda TCG + torneos",
+      "notas": "Pokémon YGO One Piece Magic; Av Universidad 790 local 11",
+      "fuente": "seed_from_export|main_ecom"
+    },
+    {
+      "empresa": "Meta TCG",
+      "url": "https://metatcg.com/",
+      "email": "",
+      "telefono": "",
+      "ciudad": "",
+      "estado": "México",
+      "tipo": "Buy/sell/trade",
+      "notas": "Pokémon MTG YGO bulk",
+      "fuente": "seed_from_export|main_ecom"
+    },
+    {
+      "empresa": "MTGMexico",
+      "url": "https://www.mtgmexico.com/",
+      "email": "",
+      "telefono": "",
+      "ciudad": "",
+      "estado": "México",
+      "tipo": "Ecom multi-TCG",
+      "notas": "MTG Pokémon YGO OP Lorcana singles",
+      "fuente": "seed_from_export|main_ecom"
+    },
+    {
+      "empresa": "MTGWolf",
+      "url": "https://mtgwolf.com/",
+      "email": "",
+      "telefono": "",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "Ecom/singles MTG",
+      "notas": "Latin CardKingdom style; 2 locales",
+      "fuente": "seed_from_export|main_ecom"
+    },
+    {
+      "empresa": "Palitroche Store",
+      "url": "https://palitrochestore.com.mx/",
+      "email": "",
+      "telefono": "",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "Figuras + TCG torneos",
+      "notas": "Pokémon OP Lorcana Gundam Riftbound DB",
+      "fuente": "seed_from_export|main_ecom"
+    },
+    {
+      "empresa": "PokeCards MX",
+      "url": "https://pokecards.com.mx/",
+      "email": "",
+      "telefono": "",
+      "ciudad": "",
+      "estado": "México",
+      "tipo": "Ecom Pokémon",
+      "notas": "Singles y sellado con garantía autenticidad",
+      "fuente": "seed_from_export|main_ecom"
+    },
+    {
+      "empresa": "TCG Empire",
+      "url": "https://www.tcgempire.com.mx/",
+      "email": "",
+      "telefono": "",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco",
+      "tipo": "Cadena TCG GDL/CDMX",
+      "notas": "Av Moctezuma 6484 Hacienda del Tepeyac",
+      "fuente": "seed_from_export|main_ecom"
+    },
+    {
+      "empresa": "TCG Pulse",
+      "url": "https://tcg-pulse.com/",
+      "email": "",
+      "telefono": "",
+      "ciudad": "",
+      "estado": "México",
+      "tipo": "Ecom TCG",
+      "notas": "YGO Magic Pokémon envíos MX",
+      "fuente": "seed_from_export|main_ecom"
+    },
+    {
+      "empresa": "TCGFever",
+      "url": "https://tcgfever.com/",
+      "email": "",
+      "telefono": "",
+      "ciudad": "",
+      "estado": "México",
+      "tipo": "Marketplace TCG",
+      "notas": "Compra/venta Pokémon MTG YGO OP",
+      "fuente": "seed_from_export|main_ecom"
+    },
+    {
+      "empresa": "XCARDS / Beyond the Game",
+      "url": "https://xcards.mx/",
+      "email": "",
+      "telefono": "",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "Multi-TCG",
+      "notas": "Pokémon MTG OP Lorcana",
+      "fuente": "seed_from_export|main_ecom"
+    }
+  ]
+}

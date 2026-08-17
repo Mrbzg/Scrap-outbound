@@ -1,322 +1,110 @@
-giro,nicho,empresa,url,email,telefono,ciudad,estado,pais,prioridad,score_contacto,notas,fuente
-Distribuidor de café,Granos de café,AbasCafé,https://www.abascafe.mx/,info@abascafe.mx,2721564297,Río Blanco,Veracruz,México,Alta,8,Café + equipos cafetería; Café insumos equipos,manual/research
-Distribuidor de café,Granos de café,AGROINDUSTRIAS UNIDAS / OMNICAFE,https://www.ecomtrading.com,contact@ecomtrading.com,(55) 5257-6500,CDMX,CDMX,México,Alta,8,Trading ECOM,dirind
-Distribuidor de café,Granos de café,Barizzimo,https://www.barizzimo.com/,contacto@barizzimo.com,4496882993,Aguascalientes,Ags,México,Alta,8,Cold brew + especialidad; Cold brew especialidad,manual/research
-Distribuidor de café,Granos de café,Bola de Oro,https://boladeoro.com.mx/,contacto@boladeoro.com.mx,,Coatepec/Puebla,Veracruz,México,Alta,6,Productor Coatepec,manual/research
-Distribuidor de café,Granos de café,BOLA DE ORO REFORMA,https://www.boladeoro.com.mx,contacto@boladeoro.com.mx,(222) 232-2572,Puebla,Puebla,México,Alta,8,Coatepec,dirind
-Distribuidor de café,Granos de café,CAFE BERSA,https://www.grupobersa.com,info@cafebersa.com,(55) 5018-0464,Veracruz,Veracruz,México,Alta,8,Kits hoteleros cafeterías,dirind
-Distribuidor de café,Granos de café,CAFE CAPUCHINO,https://www.cafecapuchinotampico.com.mx,gerardogochicoa@prodigy.net.mx,(833) 213-6582,Tampico,Tamaulipas,México,Alta,8,Exportación,dirind
-Distribuidor de café,Granos de café,CAFE CHAZARO,https://www.cafechazaro.mx,cafechazaro@hotmail.com,(442) 214-1672,Querétaro,Qro,México,Alta,8,Tostador molino,dirind
-Distribuidor de café,Granos de café,CAFE CONCORDIA,https://www.cafeconcordia.net,cafe.concordia.gourmet@gmail.com,(228) 165-8847,Emiliano Zapata,Veracruz,México,Alta,8,Mayoreo desde 5kg Horeca,dirind
-Distribuidor de café,Granos de café,CAFE COSTEÑO,https://www.cafecosteno.com,industrialtrinidad@hotmail.com,(443) 312-6622,Morelia,Michoacán,México,Alta,8,,dirind
-Distribuidor de café,Granos de café,CAFE CUMBRE,https://www.cafecumbre.com,info@cafecumbre.com,(33) 3627-2372,Zapopan,Jalisco,México,Alta,8,Pergamino oro Horeca,dirind
-Distribuidor de café,Granos de café,CAFE DE POTOSI / COSTENITO,https://www.cafecostenito.com.mx,cafecostenito@gmail.com,(833) 212-2143,Tampico,Tamaulipas,México,Alta,8,Soluble,dirind
-Distribuidor de café,Granos de café,CAFE EL MARINO,https://www.cafemarino.com.mx,marino.online@cafemarino.com.mx,800-718-0090,CDMX,CDMX,México,Alta,8,Gourmet tostado,dirind
-Distribuidor de café,Granos de café,CAFE EL MARINO CULIACAN,https://www.cafemarino.com.mx,culiacan@cafemarino.com.mx,(667) 713-2454,Culiacán,Sinaloa,México,Alta,8,Sucursal,dirind
-Distribuidor de café,Granos de café,CAFE EUROPA,https://www.cafeeuropa.com,comunicacion.cafeeuropa@gmail.com,(443) 312-0600,Morelia,Michoacán,México,Alta,8,,dirind
-Distribuidor de café,Granos de café,CAFE GABILONDO,https://www.cafegabilondo.com,gabilondojuancarlos@yahoo.com.mx,(55) 5393-0220,Naucalpan,EdoMex,México,Alta,8,Altura,dirind
-Distribuidor de café,Granos de café,CAFE JEKEMIR,https://www.cafejekemir.com,jekem@prodigy.net.mx,(55) 5681-3613,CDMX,CDMX,México,Alta,8,Restaurantes oficinas,dirind
-Distribuidor de café,Granos de café,CAFE MONTE GRANDE,https://www.montegrande.com.mx,contacto@montegrande.com.mx,(55) 5521-1522,CDMX,CDMX,México,Alta,8,Exportación 100% puro,dirind
-Distribuidor de café,Granos de café,CAFE ROYAL,https://www.caferoyal.mx,royalcafepuro@hotmail.com,(81) 8331-2422,Monterrey,NL,México,Alta,8,WhatsApp 8182046952,dirind
-Distribuidor de café,Granos de café,CAFE SOLO DIOS,https://www.cafesolodios.com.mx,ventas@cafesolodios.com.mx,(55) 1520-1644,CDMX,CDMX,México,Alta,8,Tostado molido,dirind
-Distribuidor de café,Granos de café,CAFE TOSTADO DE EXPORTACION / CATOEX,https://www.catoex.com.mx,catoexm2@catoex.com.mx,(271) 714-4644,Córdoba,Veracruz,México,Alta,8,Soluble descafeinado export,dirind
-Distribuidor de café,Granos de café,CAFE WADI,https://www.cafewadi.mx,ventas@cafewadi.mx,(744) 483-7555,Acapulco,Guerrero,México,Alta,8,Horeca export,dirind
-Distribuidor de café,Granos de café,CAFES BASA DE CORDOBA,https://www.cafecordoba.com.mx,ventascbc@prodigy.net.mx,01-800-849-1699,Córdoba,Veracruz,México,Alta,8,Córdoba y Basa,dirind
-Distribuidor de café,Granos de café,CAFESCA,https://www.cafesca.com,cafescatrade@cafesca.com,(962) 620-1470,Tapachula,Chiapas,México,Alta,8,Liofilizado ECOM,dirind
-Distribuidor de café,Granos de café,CAFETALERA SAN FELIPE,https://www.cafesanfelipe.com,ventas@cafesanfelipe.com,(271) 716-6109,Córdoba,Veracruz,México,Alta,8,Arábica especialidad robusta,dirind
-Distribuidor de café,Granos de café,Caffenio / Café del Pacífico,https://www.caffenio.com/,clientes@caffenio.com,80022333646,Hermosillo,Sonora,México,Alta,8,Cadena + comercial,manual/research
-Distribuidor de café,Granos de café,CAFINCO,https://www.cafinco.com,ventas@cafinco.com,(271) 714-8484,Córdoba,Veracruz,México,Alta,8,Export Internacional,dirind
-Distribuidor de café,Granos de café,CAFIVER,https://tienda.cafiver.com/,ventas@cafiver.com.mx,800-712-3058,Orizaba,Veracruz,México,Alta,8,Ejemplo original + mayoreo; Ejemplo + industrial,manual/research
-Distribuidor de café,Granos de café,Café Andrade,https://www.cafeandrade.com/,cafeandrade@hotmail.com,2299328224,Veracruz,Veracruz,México,Alta,8,Productor/exportador; Productor exportador,manual/research
-Distribuidor de café,Granos de café,Café Aroma High Grown,https://www.aromahg.mx/,hola@aromahg.com,2222326077,Puebla,Puebla,México,Alta,8,Finca Nextlalpa,manual/research
-Distribuidor de café,Granos de café,CAFÉ BOATO,https://www.cafeboato.com,ventas@cafeboato.com,(81) 8357-3609,Monterrey,NL,México,Alta,8,Córdoba + equipos,dirind
-Distribuidor de café,Granos de café,CAFÉ BOLA DE ORO,https://www.boladeoro.com.mx,xalapaoficinatostador@gmail.com,800-717-8242,Xalapa,Veracruz,México,Alta,8,Tostador Coatepec,dirind
-Distribuidor de café,Granos de café,Café Capuchino Tampico,https://www.cafecapuchinotampico.com.mx/,gerardogochicoa@prodigy.net.mx,8332136582,Tampico,Tamaulipas,México,Alta,8,Tostador local,manual/research
-Distribuidor de café,Granos de café,Café Cardommo,https://www.cardommo.com/,info@cardommo.com,8123132365,Monterrey,NL,México,Alta,8,Tueste al vacío; Tueste vacío arábica,manual/research
-Distribuidor de café,Granos de café,Café Cházaro,https://www.cafechazaro.mx/,cafechazaro@hotmail.com,4422141672,Querétaro,Qro,México,Alta,8,Tostador/molino,manual/research
-Distribuidor de café,Granos de café,CAFÉ COMBATE,https://www.cafecombate.com.mx,contacto@cafecombate.com.mx,(614) 418-3511,Chihuahua,Chihuahua,México,Alta,8,Tostador,dirind
-Distribuidor de café,Granos de café,Café Costeñito,https://www.cafecostenito.com.mx/,cafecostenito@gmail.com,8332122143,Tampico,Tamaulipas,México,Alta,8,Soluble/tostado,manual/research
-Distribuidor de café,Granos de café,Café Costeño Morelia,https://www.cafecosteno.com/,industrialtrinidad@hotmail.com,4433126622,Morelia,Michoacán,México,Alta,8,Tostador,manual/research
-Distribuidor de café,Granos de café,Café de Veracruz,https://cafedeveracruz.com.mx/,cafedeveracruzxalapa@gmail.com,2282159328,Xalapa,Veracruz,México,Alta,8,Directo productor,manual/research
-Distribuidor de café,Granos de café,CAFÉ DEL PACÍFICO / CAFFENIO,https://www.caffenio.com,clientes@caffenio.com,800-223-33646,Hermosillo,Sonora,México,Alta,8,Hoteles restaurantes,dirind
-Distribuidor de café,Granos de café,CAFÉ DOS SIERRAS / COLPOS,https://www.colposcordoba.mx,cafecordoba@colpos.mx,(271) 716-6000,Amatlán,Veracruz,México,Alta,8,Campus Córdoba,dirind
-Distribuidor de café,Granos de café,CAFÉ EL GRANDE,https://www.cafeelgrande.com,ventas@cafeelgrande.com,(81) 8317-0653,Guadalupe,NL,México,Alta,8,Tostado grano mayoreo abastos,dirind
-Distribuidor de café,Granos de café,CAFÉ FINCA MONTE AZUL,https://www.fincamonteazul.com,marketing@fincamonteazul.com,(271) 688-3969,Huatusco,Veracruz,México,Alta,8,Arábigo,dirind
-Distribuidor de café,Granos de café,Café Flor de mi Corazón / Samari,https://www.facebook.com/CafeMielSamari,samuelluisrojas@gmail.com,2331175902,Zapotitlán,Puebla,México,Alta,8,Mayoreo desde 5kg,manual/research
-Distribuidor de café,Granos de café,Café Gabilondo,https://www.cafegabilondo.com/,gabilondojuancarlos@yahoo.com.mx,5553930220,Naucalpan,EdoMex,México,Alta,8,Café de altura,manual/research
-Distribuidor de café,Granos de café,CAFÉ GENUINO LA NEGRITA,https://www.cafelanegrita.com,vnader@cafelanegrita.com,(33) 3812-1703,Guadalajara,Jalisco,México,Alta,8,,dirind
-Distribuidor de café,Granos de café,Café La Selva,https://cafelaselva.com/,cafelaselva@prodigy.net.mx,(777) 317-5821,México,México,México,Alta,8,Comercio justo; Hoteles restaurantes,manual/research
-Distribuidor de café,Granos de café,CAFÉ MONTEVIRGEN,https://www.cafemontevirgen.com.mx,ventascafemontevirgen@hotmail.com,(967) 688-2588,San Cristóbal,Chiapas,México,Alta,8,Kilos a toneladas,dirind
-Distribuidor de café,Granos de café,CAFÉ ORIENTAL VÁZQUEZ HERMANOS,https://www.cafeoriental.com.mx,ventas@cafeoriental.com.mx,(55) 5558-2510,CDMX,CDMX,México,Alta,8,Tostador maquila,dirind
-Distribuidor de café,Granos de café,Café Porte Alto,https://www.portealto.com/,ventas@portealto.com,5519547770,CDMX,CDMX,México,Alta,8,Gourmet menudeo/mayoreo; Gourmet menudeo/mayoreo envío gratis >5kg,manual/research
-Distribuidor de café,Granos de café,Café Texin / Agro Texin,https://www.cafetexin.com/,texin1975@hotmail.com,2288160188,Coatepec,Veracruz,México,Alta,8,Productor,manual/research
-Distribuidor de café,Granos de café,Café Yajalón,https://cafeyajalon.mx/,cafes_yajalon@hotmail.com,9196741863,Chiapas,Chiapas,México,Alta,8,Gourmet arábica/robusta,manual/research
-Distribuidor de café,Granos de café,Finca Monte Azul,https://www.fincamonteazul.com/,marketing@fincamonteazul.com,2716883969,Veracruz,Veracruz,México,Alta,8,Arábigo grano,manual/research
-Distribuidor de café,Granos de café,LA LUCHA,https://www.facebook.com/cafelaluchaoficial,quejasysugerencias@cafelalucha.mx,(452) 688-2688,Uruapan,Michoacán,México,Alta,8,,dirind
-Distribuidor de café,Granos de café,MACHINE COFFEE,https://www.machinecoffee.com,info@machinecoffee.com,800-908-9080,CDMX,CDMX,México,Alta,8,Molido + máquinas,dirind
-Distribuidor de café,Granos de café,MERCAFE / Café Fincasa,https://www.cafefincasa.com.mx,cafefincasa@hotmail.com,(222) 244-4823,Puebla,Puebla,México,Alta,8,Altura exportación,dirind
-Distribuidor de café,Granos de café,MUNDO ERANDY CAFÉ,https://www.mundoerandy.com.mx,adriana.orrala@mundoerandy.com.mx,(55) 4437-6990,CDMX,CDMX,México,Alta,8,Pods grano Horeca,dirind
-Distribuidor de café,Granos de café,OMNICAFE / ECOM,https://www.ecomtrading.com/,contact@ecomtrading.com,5552576500,CDMX,CDMX,México,Alta,8,Trading café,manual/research
-Distribuidor de café,Granos de café,PARTICIPACIONES MARIANO / ILLY MX,https://www.partimar.com,partimar@partimar.com,(55) 5566-3544,CDMX,CDMX,México,Alta,8,Illy exclusivo Horeca,dirind
-Distribuidor de café,Granos de café,Productos Narcia,https://productosnarcia.mx/,pronar2022@gmail.com,(961) 178-0192,México,México,México,Alta,8,Orgánico gourmet 500g,manual/research
-Distribuidor de café,Granos de café,Punta del Cielo,https://www.puntadelcielo.com.mx/,jonathan@puntadelcielo.com.mx,(55) 5516-8020,México,México,México,Alta,8,Cadena + grano,manual/research
-Distribuidor de café,Granos de café,Roasting & Blending,https://www.roasting-blending.com/,informes@roasting-blending.com,5553537415,CDMX,CDMX,México,Alta,8,Tostadores finos; Finos gourmet saborizados,manual/research
-Distribuidor de café,Granos de café,RODRÍGUEZ FÚNEZ / Pico del Oro,https://www.cafepicodeloro.com,cafe-picodeloro@hotmail.com,(963) 118-5607,Amatenango,Chiapas,México,Alta,8,Productores familiares,dirind
-Distribuidor de café,Granos de café,SABORMEX,https://www.sabormex.com.mx,contacto@sabormex.com.mx,800-017-2267,CDMX,CDMX,México,Alta,8,Legal Oro Garat Internacional,dirind
-Distribuidor de café,Granos de café,SAMARI AGROINDUSTRIAL,https://cafeflordemicorazon.com.mx,ventas@cafeflordemicorazon.com.mx,(233) 117-5902,Zapotitlán,Puebla,México,Alta,8,Flor de mi Corazón,dirind
-Distribuidor de café,Granos de café,Santa Elena Coffee Roasters,https://santaelenacoffeeroasters.com/,info@santaelenacoffeeroasters.com,2282985804,Xalapa,Veracruz,México,Alta,8,Mayoreo tostado,manual/research
-Distribuidor de café,Granos de café,AGRO TEXIN / Café TEXIN,,texin1975@hotmail.com,(228) 816-0188,Coatepec,Veracruz,México,Alta,6,Productor,dirind
-Distribuidor de café,Granos de café,AGROCAFES LA INDIA,,justogm@hotmail.com,(279) 833-0066,Cosautlán,Veracruz,México,Alta,6,,dirind
-Distribuidor de café,Granos de café,CAFE COLON DE XALAPA,,bcmsa@prodigy.net.mx,(228) 817-1758,Xalapa,Veracruz,México,Alta,6,,dirind
-Distribuidor de café,Granos de café,CAFE DE LA MEDIA LUNA,,cafemedialunaflorencia@hotmail.com,(55) 5511-2777,CDMX,CDMX,México,Alta,6,100% puro Juárez,dirind
-Distribuidor de café,Granos de café,CAFE DEL CENTRO HISTORICO TAPATIO,,gabriel_macro@hotmail.com,(33) 3614-3996,Guadalajara,Jalisco,México,Alta,6,,dirind
-Distribuidor de café,Granos de café,CAFE MYRNA,,cms.cfdi@gmail.com,(228) 816-1325,Coatepec,Veracruz,México,Alta,6,Con azúcar y puro,dirind
-Distribuidor de café,Granos de café,CAFE SAN JUAN XITOLTEPEQUE,,cafesanjuanxit@hotmail.com,(919) 685-9047,Jitotol,Chiapas,México,Alta,6,Puro,dirind
-Distribuidor de café,Granos de café,CAFE ZIHUATLAN,,cafe_zihuatlan@hotmail.com,(755) 544-6019,Zihuatanejo,Guerrero,México,Alta,6,Especialidad verde tostado,dirind
-Distribuidor de café,Granos de café,CAFES MOKA,,tostadorcafesmoka@hotmail.com,(33) 3614-4069,Guadalajara,Jalisco,México,Alta,6,Tostados varios + León,dirind
-Distribuidor de café,Granos de café,CAFETERA MEXICANA,,cafemonterrey@gmail.com,(81) 8375-4715,Monterrey,NL,México,Alta,6,Caracolillo México Morelia,dirind
-Distribuidor de café,Granos de café,CAFETICULTORES SELVA NORTE TUMBALA,,cafetumbala@yahoo.com.mx,(55) 5594-1812,CDMX,CDMX,México,Alta,6,Orgánico altura granel,dirind
-Distribuidor de café,Granos de café,CAFÉ EL COMALTECO,,cafecomalteco@hotmail.com,(312) 315-5562,Comala,Colima,México,Alta,6,Exportación,dirind
-Distribuidor de café,Granos de café,CAFÉ FLOR DE MI CORAZÓN,,samuelluisrojas@gmail.com,(233) 117-5902,Zapotitlán,Puebla,México,Alta,6,Mayoreo desde 5kg,dirind
-Distribuidor de café,Granos de café,CAFÉ LA PIEDRA,,moises_cuetoh@hotmail.com,(55) 3373-0441,Tonalá,Jalisco,México,Alta,6,Maquila alimentos café,dirind
-Distribuidor de café,Granos de café,CAFÉ PALACIO,,cafepalacio@hotmail.com,800-713-3685,Córdoba,Veracruz,México,Alta,6,Café ARA,dirind
-Distribuidor de café,Granos de café,CAFÉ TOSTADO SOCONUSCO,,cafesoconusco@hotmail.com,(962) 625-0069,Tapachula,Chiapas,México,Alta,6,100% puro,dirind
-Distribuidor de café,Granos de café,CAFÉ VERDE (Marino Córdoba),,delfinocarballo@hotmail.com,(271) 713-0837,Fortín,Veracruz,México,Alta,6,,dirind
-Distribuidor de café,Granos de café,CAFÉS DE HUEYTLALPAN,,lgonzalezg.tifer@gmail.com,(233) 116-6412,Hueytlalpan,Puebla,México,Alta,6,Especialidad desde 5kg Horeca,dirind
-Distribuidor de café,Granos de café,CAFÉS REGIONALES DE ALTURA / REGIOMOKA,,regiomok@hotmail.com,(271) 712-4462,Córdoba,Veracruz,México,Alta,6,Maquila,dirind
-Distribuidor de café,Granos de café,CAFÉS YAJALÓN SCL,,cafes_yajalon@hotmail.com,(919) 674-1863,Yajalón,Chiapas,México,Alta,6,Gourmet arábica robusta,dirind
-Distribuidor de café,Granos de café,PAQUIGUA Y CAFÉ,,paquigua@prodigy.net.mx,(664) 631-1898,Tijuana,BC,México,Alta,6,Gourmet Horeca,dirind
-Distribuidor de café,Granos de café,SAN JERÓNIMO CAFETERÍAS,,cafesanjeronimocolima@gmail.com,(312) 114-5178,Colima,Colima,México,Alta,6,Artesanal Cuauhtémoc Colima,dirind
-Distribuidor de café,Granos de café,52 True Mexican Origin,https://52coffee.mx/,,,México,México,México,Media,3,Artesanal premium,manual/research
-Distribuidor de café,Granos de café,600 Micras Coffee Lab,https://www.600micras.com/,,3314659701,México,México,México,Alta,5,Coffee lab/tostador; Expo Café,manual/research
-Distribuidor de café,Granos de café,Almanegra Café,https://almanegra.cafe/,,,CDMX,CDMX,México,Media,3,Especialidad + distribuidor,manual/research
-Distribuidor de café,Granos de café,Alpont Gourmet,https://alpont.mx/,,,México,México,México,Media,3,Gourmet especialidades,manual/research
-Distribuidor de café,Granos de café,AMSCA / Asociación Mexican Specialty,https://amsca.mx/,,,México,México,México,Media,3,Asociación (no lead venta),manual/research
-Distribuidor de café,Granos de café,Apapacho Café,https://apapacho.mx/,,,México,México,México,Media,3,Especialidad,manual/research
-Distribuidor de café,Granos de café,Arista del Sol Café,https://aristadelsolcafe.myshopify.com/,,,Veracruz,Veracruz,México,Media,3,Especialidad,manual/research
-Distribuidor de café,Granos de café,Avellaneda Café,https://avellaneda.mx/,,,CDMX,CDMX,México,Media,3,Coyoacán,manual/research
-Distribuidor de café,Granos de café,Bacio Coffee,https://bacio.mx/,,,México,México,México,Media,3,Espresso blend,manual/research
-Distribuidor de café,Granos de café,BARISTA SHOP / Coffee Outlet,https://coffeeoutlet.com.mx,,5625765795,México,México,México,Alta,5,Expo,dirind/expo
-Distribuidor de café,Granos de café,Beneficio El Triunfo,https://beneficioeltriunfo.mx/,,,Chiapas,Chiapas,México,Media,3,Beneficio,manual/research
-Distribuidor de café,Granos de café,Beneficio Hamburgo,https://beneficiohamburgo.mx/,,,Chiapas,Chiapas,México,Media,3,Beneficio,manual/research
-Distribuidor de café,Granos de café,Blend Station,https://www.blendstation.com.mx/,,5568685350,CDMX,CDMX,México,Alta,5,Tostador/cafetería,manual/research
-Distribuidor de café,Granos de café,Borel Café,https://borel.mx/,,,CDMX,CDMX,México,Media,3,Condesa,manual/research
-Distribuidor de café,Granos de café,Buna Café,https://buna.mx/,,,CDMX,CDMX,México,Media,3,Especialidad agroforestería,manual/research
-Distribuidor de café,Granos de café,CAFE TAZA DE ORO,https://www.cafetazadeoro.com.mx,,(33) 3826-3975,Guadalajara,Jalisco,México,Alta,5,Altura tostado,dirind
-Distribuidor de café,Granos de café,Café 1968,https://cafe1968.mx/,,,México,México,México,Media,3,Mezcla mexicana,manual/research
-Distribuidor de café,Granos de café,Café Amatlán,https://cafeamatlan.mx/,,,Veracruz,Veracruz,México,Media,3,Origen,manual/research
-Distribuidor de café,Granos de café,Café Angel Albino Corzo,https://cafeangelalbino.mx/,,,Chiapas,Chiapas,México,Media,3,Origen,manual/research
-Distribuidor de café,Granos de café,Café Atzalan,https://cafeatzalan.mx/,,,Veracruz,Veracruz,México,Media,3,Origen,manual/research
-Distribuidor de café,Granos de café,Café Ave de Fuego,https://avedefuego.mx/,,,Veracruz,Veracruz,México,Media,3,Especialidad,manual/research
-Distribuidor de café,Granos de café,Café Avilés,https://cafeaviles.mx/,,,México,México,México,Media,3,Tostado molido,manual/research
-Distribuidor de café,Granos de café,Café Blasón,https://www.blason.com.mx/,,,México,México,México,Media,3,Marca grano/molido; Marca Sabormex grano,manual/research
-Distribuidor de café,Granos de café,Café Bola de Oro Pluma,https://boladeoro.com.mx/,,,Veracruz,Veracruz,México,Media,3,Duplicado brand OK,manual/research
-Distribuidor de café,Granos de café,Café Cafetalero del Sur,https://cafetalerosur.mx/,,,Chiapas,Chiapas,México,Media,3,Productor,manual/research
-Distribuidor de café,Granos de café,Café Chiapas Export,https://cafechiapas.mx/,,,Chiapas,Chiapas,México,Media,3,Origen,manual/research
-Distribuidor de café,Granos de café,Café Chiripa,https://cafechiripa.mx/,,,México,México,México,Media,3,Especialidad,manual/research
-Distribuidor de café,Granos de café,Café Coatepec Selecto,https://cafecoatepec.mx/,,,Veracruz,Veracruz,México,Media,3,Origen,manual/research
-Distribuidor de café,Granos de café,Café Colima,https://cafecolima.mx/,,,Colima,Colima,México,Media,3,Origen,manual/research
-Distribuidor de café,Granos de café,Café Colonial Orgánico,https://cafecolonial.mx/,,,México,México,México,Media,3,Orgánico 1kg,manual/research
-Distribuidor de café,Granos de café,Café Comitán,https://cafecomitan.mx/,,,Chiapas,Chiapas,México,Media,3,Origen,manual/research
-Distribuidor de café,Granos de café,Café con Jiribilla,https://cafeconjiribilla.com/,,,México,México,México,Media,3,Tostadora reconocida,manual/research
-Distribuidor de café,Granos de café,Café con Origen MX,https://cafeconorigen.mx/,,,México,México,México,Media,3,Trazabilidad,manual/research
-Distribuidor de café,Granos de café,Café Cuetzalan,https://cafecuetzalan.mx/,,,Puebla,Puebla,México,Media,3,Sierra Norte,manual/research
-Distribuidor de café,Granos de café,Café Córdoba Veracruz,https://cafecordoba.mx/,,,Veracruz,Veracruz,México,Media,3,Tradicional,manual/research
-Distribuidor de café,Granos de café,Café de Altura Pluma,https://pluma.mx/,,,Oaxaca,Oaxaca,México,Media,3,Pluma Hidalgo,manual/research
-Distribuidor de café,Granos de café,Café de Altura Veracruz Co-op,https://cafedealtura.mx/,,,Veracruz,Veracruz,México,Media,3,Cooperativa,manual/research
-Distribuidor de café,Granos de café,Café de Olla Salvic,https://salvic.mx/,,,México,México,México,Media,3,Tradicional,manual/research
-Distribuidor de café,Granos de café,Café Ehya,https://ehya.mx/,,,Chiapas,Chiapas,México,Media,3,Orgánico,manual/research
-Distribuidor de café,Granos de café,Café El Cordobés,https://cafelcordobes.mx/,,,CDMX,CDMX,México,Media,3,Tuestan propio,manual/research
-Distribuidor de café,Granos de café,Café El Marino,https://www.cafeelmarino.com/,,,México,México,México,Media,3,Gourmet tostado,manual/research
-Distribuidor de café,Granos de café,Café Entre Nubes,https://entrenubes.mx/,,,México,México,México,Media,3,Especialidad,manual/research
-Distribuidor de café,Granos de café,Café Equis,https://cafeequis.mx/,,,CDMX,CDMX,México,Media,3,Centro histórico,manual/research
-Distribuidor de café,Granos de café,Café Estado de México Temascaltepec,https://cafetedomex.mx/,,,EdoMex,EdoMex,México,Media,3,Origen,manual/research
-Distribuidor de café,Granos de café,Café Etnia 52,https://etnia52.com/,,,Veracruz,Veracruz,México,Media,3,Kosher especialidad,manual/research
-Distribuidor de café,Granos de café,Café Etrusca,https://www.cafeetrusca.com/,,,México,México,México,Media,3,Equipos + café Horeca,manual/research
-Distribuidor de café,Granos de café,Café Fiel Amor,https://cafefielamor.mx/,,,México,México,México,Media,3,Gourmet,manual/research
-Distribuidor de café,Granos de café,Café Finca Chelín,https://fincachelin.com/,,,Oaxaca,Oaxaca,México,Media,3,Microlotes premium,manual/research
-Distribuidor de café,Granos de café,Café Garat,https://www.garat.com.mx/,,,México,México,México,Media,3,Marca nacional grano; Marca Sabormex,manual/research
-Distribuidor de café,Granos de café,Café Garat Espresso,https://www.garat.com.mx/,,,México,México,México,Media,3,Línea espresso,manual/research
-Distribuidor de café,Granos de café,Café Golden Bean,https://goldenbean.mx/,,,México,México,México,Media,3,Tueste oscuro,manual/research
-Distribuidor de café,Granos de café,Café Guerrero Atoyac,https://cafeguerrero.mx/,,,Guerrero,Guerrero,México,Media,3,Costa Grande,manual/research
-Distribuidor de café,Granos de café,Café Hidalgo Tenango,https://cafehidalgo.mx/,,,Hidalgo,Hidalgo,México,Media,3,Tenango de Doria,manual/research
-Distribuidor de café,Granos de café,Café Huatusco,https://cafehuatusco.mx/,,,Veracruz,Veracruz,México,Media,3,Altas montañas,manual/research
-Distribuidor de café,Granos de café,Café Huautla,https://cafehuautla.mx/,,,Oaxaca,Oaxaca,México,Media,3,Cañada,manual/research
-Distribuidor de café,Granos de café,Café Hueytamalco,https://cafehueytamalco.mx/,,,Puebla,Puebla,México,Media,3,Origen,manual/research
-Distribuidor de café,Granos de café,Café Internacional,https://www.sabormex.com.mx/,,,México,México,México,Media,3,Marca Sabormex,retail/asociaciones
-Distribuidor de café,Granos de café,Café Internacional Gourmet,https://internacionalgourmet.mx/,,,México,México,México,Media,3,908g,manual/research
-Distribuidor de café,Granos de café,Café Internacional MX,https://cafeinternacional.mx/,,,México,México,México,Media,3,Gourmet,manual/research
-Distribuidor de café,Granos de café,Café Ixhuatlán,https://cafeixhuatlan.mx/,,,Veracruz,Veracruz,México,Media,3,Origen,manual/research
-Distribuidor de café,Granos de café,Café Ixtlán,https://cafeixtlan.mx/,,,Oaxaca,Oaxaca,México,Media,3,Sierra Norte,manual/research
-Distribuidor de café,Granos de café,Café Jalisco Sierra,https://cafejalisco.mx/,,,Jalisco,Jalisco,México,Media,3,Sierra de Amula,manual/research
-Distribuidor de café,Granos de café,Café Jaltenango,https://cafejaltenango.mx/,,,Chiapas,Chiapas,México,Media,3,Sierra Madre,manual/research
-Distribuidor de café,Granos de café,Café Jekemir,https://www.cafejekemir.com/,,,México,México,México,Media,3,Grano EMIR/JEKE,manual/research
-Distribuidor de café,Granos de café,Café Kaab,https://cafekaab.mx/,,,Veracruz,Veracruz,México,Media,3,Coatepec gourmet,manual/research
-Distribuidor de café,Granos de café,Café La Floresta,https://www.cafelafloresta.com/,,5536036585,CDMX,CDMX,México,Alta,5,Estricta altura export,manual/research
-Distribuidor de café,Granos de café,Café La Meca,https://www.cafelameca.com/,,,Veracruz,Veracruz,México,Media,3,Mayoreo especialidad,manual/research
-Distribuidor de café,Granos de café,Café La Negrita,https://www.cafelanegrita.com/,,6865681102,Mexicali,BC,México,Alta,5,Tostador; 100% puro,manual/research
-Distribuidor de café,Granos de café,Café Legal,https://www.cafelegal.com.mx/,,,México,México,México,Media,3,Marca tradicional; Marca Sabormex,manual/research
-Distribuidor de café,Granos de café,Café Majomut,https://majomut.mx/,,,Chiapas,Chiapas,México,Media,3,Cooperativa,manual/research
-Distribuidor de café,Granos de café,Café Mandrake,https://cafemandrake.com/,,,CDMX,CDMX,México,Media,3,6 sucursales + NY,manual/research
-Distribuidor de café,Granos de café,Café Marago Chiapas,https://cafemarago.mx/,,,Chiapas,Chiapas,México,Media,3,Premium,manual/research
-Distribuidor de café,Granos de café,Café Marino,https://cafemarino.mx/,,,México,México,México,Media,3,Tueste especial,manual/research
-Distribuidor de café,Granos de café,Café Mavi / Finca Hamburgo,https://fincahamburgo.com/,,,Chiapas,Chiapas,México,Media,3,Especialidad,manual/research
-Distribuidor de café,Granos de café,Café Maya Vinic,https://mayavinic.mx/,,,Chiapas,Chiapas,México,Media,3,Cooperativa,manual/research
-Distribuidor de café,Granos de café,Café Mexicano Sabormex,https://www.sabormex.com.mx/,,,México,México,México,Media,3,Marca,retail/asociaciones
-Distribuidor de café,Granos de café,Café Miahuatlán,https://cafemiahuatlan.mx/,,,Oaxaca,Oaxaca,México,Media,3,Sierra Sur,manual/research
-Distribuidor de café,Granos de café,Café Michoacán Uruapan,https://cafemichoacan.mx/,,,Michoacán,Michoacán,México,Media,3,Origen,manual/research
-Distribuidor de café,Granos de café,Café Mis Raíces Oaxaca,https://misraices.mx/,,,Oaxaca,Oaxaca,México,Media,3,Oaxaca 340g,manual/research
-Distribuidor de café,Granos de café,Café Mukuljá,https://mukulja.mx/,,,Chiapas,Chiapas,México,Media,3,Especialidad,manual/research
-Distribuidor de café,Granos de café,Café Nayarit Tepic,https://cafenayarit.mx/,,,Nayarit,Nayarit,México,Media,3,Pacífico,manual/research
-Distribuidor de café,Granos de café,Café Niebla de Coatepec,https://cafeniebladecoatepec.mx/,,,Coatepec,Veracruz,México,Media,3,Mayoreo CDMX/GDL,manual/research
-Distribuidor de café,Granos de café,Café Ocozocoautla,https://cafeocozo.mx/,,,Chiapas,Chiapas,México,Media,3,Origen,manual/research
-Distribuidor de café,Granos de café,Café Orizaba,https://cafeorizaba.mx/,,,Veracruz,Veracruz,México,Media,3,Origen,manual/research
-Distribuidor de café,Granos de café,Café Oro,https://www.sabormex.com.mx/,,,México,México,México,Media,3,Marca Sabormex,retail/asociaciones
-Distribuidor de café,Granos de café,Café Oro de Chiapas,https://orodechiapas.mx/,,,Chiapas,Chiapas,México,Media,3,Origen,manual/research
-Distribuidor de café,Granos de café,Café Oro Maya,https://oromaya.mx/,,,México,México,México,Media,3,Gourmet,manual/research
-Distribuidor de café,Granos de café,Café Palenque región,https://cafepalenque.mx/,,,Chiapas,Chiapas,México,Media,3,Origen,manual/research
-Distribuidor de café,Granos de café,Café Paralelo,https://cafeparalelo.com/,,5544479048,México,México,México,Alta,5,Tostador; Expo tostador,manual/research
-Distribuidor de café,Granos de café,Café Passmar,https://cafepassmar.com/,,,CDMX,CDMX,México,Media,3,Mercado Del Valle,manual/research
-Distribuidor de café,Granos de café,Café Pluma / OCIXEM,https://ocixem.mx/,,,Oaxaca,Oaxaca,México,Media,3,Pluma Hidalgo,manual/research
-Distribuidor de café,Granos de café,Café Pluma Hidalgo,https://cafepluma.mx/,,,Oaxaca,Oaxaca,México,Media,3,Denominación origen,manual/research
-Distribuidor de café,Granos de café,Café Punta del Cielo Franquicias,https://www.puntadelcielo.com.mx/,,,México,México,México,Media,3,Franquicia,retail/asociaciones
-Distribuidor de café,Granos de café,Café Putla,https://cafeputla.mx/,,,Oaxaca,Oaxaca,México,Media,3,Origen,manual/research
-Distribuidor de café,Granos de café,Café Ruta Maya,https://rutamaya.mx/,,,México,México,México,Media,3,Orgánico,manual/research
-Distribuidor de café,Granos de café,Café San Cristóbal,https://cafesancristobal.mx/,,,Chiapas,Chiapas,México,Media,3,Altos,manual/research
-Distribuidor de café,Granos de café,Café San Luis Potosí Xilitla,https://cafexilitla.mx/,,,SLP,SLP,México,Media,3,Huasteca,manual/research
-Distribuidor de café,Granos de café,Café Sierra Madre,https://sierramadre.cafe/,,,Chiapas,Chiapas,México,Media,3,Origen,manual/research
-Distribuidor de café,Granos de café,Café Solo Dios,https://solodios.mx/,,,México,México,México,Media,3,Orgánico,manual/research
-Distribuidor de café,Granos de café,Café Tapachula,https://cafetapachula.mx/,,,Chiapas,Chiapas,México,Media,3,Soconusco,manual/research
-Distribuidor de café,Granos de café,Café Tezonapa,https://cafetezonapa.mx/,,,Veracruz,Veracruz,México,Media,3,Origen,manual/research
-Distribuidor de café,Granos de café,Café Tierra Sagrada,https://www.cafetierrasagrada.com/,,9621240050,Chiapas,Chiapas,México,Alta,5,Productor/tostador; Expo,manual/research
-Distribuidor de café,Granos de café,Café Tierra y Nube,https://www.tierraynube.com/,,9514617364,CDMX,CDMX,México,Alta,5,Especialidad Oaxaca,manual/research
-Distribuidor de café,Granos de café,Café Tlapacoyan,https://cafetlapacoyan.mx/,,,Veracruz,Veracruz,México,Media,3,Origen,manual/research
-Distribuidor de café,Granos de café,Café Tlatlauquitepec,https://cafetlatlau.mx/,,,Puebla,Puebla,México,Media,3,Origen,manual/research
-Distribuidor de café,Granos de café,Café Triunfo Verde,https://triunfoverde.org/,,,Chiapas,Chiapas,México,Media,3,Cooperativa orgánica,manual/research
-Distribuidor de café,Granos de café,Café Tzotzil,https://cafetzotzil.mx/,,,Chiapas,Chiapas,México,Media,3,Altos,manual/research
-Distribuidor de café,Granos de café,Café Unión Juárez,https://cafeunionjuarez.mx/,,,Chiapas,Chiapas,México,Media,3,Frontera,manual/research
-Distribuidor de café,Granos de café,Café Villarias,https://villarias.mx/,,,CDMX,CDMX,México,Media,3,Centro,manual/research
-Distribuidor de café,Granos de café,Café Voladores,https://voladores.mx/,,,CDMX,CDMX,México,Media,3,Tostador,manual/research
-Distribuidor de café,Granos de café,Café Wolter,https://cafewolter.mx/,,,Chiapas,Chiapas,México,Media,3,Finca,manual/research
-Distribuidor de café,Granos de café,Café Xicotepec,https://cafexicotepec.mx/,,,Puebla,Puebla,México,Media,3,Origen,manual/research
-Distribuidor de café,Granos de café,Café Zacapoaxtla,https://cafezacapoaxtla.mx/,,,Puebla,Puebla,México,Media,3,Origen,manual/research
-Distribuidor de café,Granos de café,Café Zihuateutla,https://cafezihuateutla.mx/,,,Puebla,Puebla,México,Media,3,Sierra Norte,manual/research
-Distribuidor de café,Granos de café,Café Zongolica,https://cafezongolica.mx/,,,Veracruz,Veracruz,México,Media,3,Origen,manual/research
-Distribuidor de café,Granos de café,Cafélectrónica,https://cafelectronica.mx/,,,CDMX,CDMX,México,Media,3,Especialidad,manual/research
-Distribuidor de café,Granos de café,Catando Ando,https://catandoando.coffee/,,,México,México,México,Media,3,Especialidad online,manual/research
-Distribuidor de café,Granos de café,Centrina Café,https://centrina.mx/,,,CDMX,CDMX,México,Media,3,Especialidad precio accesible,manual/research
-Distribuidor de café,Granos de café,CESMACH Café,https://cesmach.mx/,,,Chiapas,Chiapas,México,Media,3,Cooperativa,manual/research
-Distribuidor de café,Granos de café,Coffee Amor,https://coffeeamor.mx/,,,México,México,México,Media,3,Chiapas/Veracruz grano,manual/research
-Distribuidor de café,Granos de café,Coffee Outlet / Barista Shop,https://coffeeoutlet.com.mx/,,5625765795,México,México,México,Alta,5,Insumos + café,manual/research
-Distribuidor de café,Granos de café,Cumbe Coffee Roasters,https://cumbe.lat/,,,CDMX,CDMX,México,Media,3,Tostador Oaxaca,manual/research
-Distribuidor de café,Granos de café,Deseo Café de Especialidad,https://deseocafe.mx/,,,CDMX,CDMX,México,Media,3,Roma Norte,manual/research
-Distribuidor de café,Granos de café,Diego Marroquín Tostador / Máneken,https://maneken.mx/,,,CDMX,CDMX,México,Media,3,Narvarte,manual/research
-Distribuidor de café,Granos de café,Directo al Origen Café,https://directoalorigen.mx/,,,México,México,México,Media,3,Expo productor,manual/research
-Distribuidor de café,Granos de café,Dos Culturas Café,https://dosculturas.mx/,,,México,México,México,Media,3,Tostador,manual/research
-Distribuidor de café,Granos de café,Dosis Café,https://dosiscafe.mx/,,,CDMX,CDMX,México,Media,3,Roma,manual/research
-Distribuidor de café,Granos de café,Drip Specialty Coffee,https://dripspecialty.mx/,,,CDMX,CDMX,México,Media,3,Roma,manual/research
-Distribuidor de café,Granos de café,Efímero Barra de Café,https://efimero.mx/,,,CDMX,CDMX,México,Media,3,San Miguel Chapultepec,manual/research
-Distribuidor de café,Granos de café,El Chavalete,https://elchavalete.mx/,,,CDMX,CDMX,México,Media,3,Molino/cafetería,manual/research
-Distribuidor de café,Granos de café,El Terrible Juan,https://elterriblejuan.com/,,,México,México,México,Media,3,Especialidad,manual/research
-Distribuidor de café,Granos de café,Estelar Coffee,https://estelar.coffee/,,,México,México,México,Media,3,Especialidad premium,manual/research
-Distribuidor de café,Granos de café,Expendio de Café,https://expendiocafe.com/,,5614841670,CDMX,CDMX,México,Alta,5,Tuestan en casa,manual/research
-Distribuidor de café,Granos de café,Exploradores de Café,https://www.grupoexploradores.com/,,,México,México,México,Media,3,Especialidad,manual/research
-Distribuidor de café,Granos de café,Extra Special Café,https://extraspecial.mx/,,,México,México,México,Media,3,Veracruz/Chiapas líneas,manual/research
-Distribuidor de café,Granos de café,Finca Argovia,https://argovia.com.mx/,,,Chiapas,Chiapas,México,Media,3,Soconusco turismo+café,manual/research
-Distribuidor de café,Granos de café,Finca Don Porfirio,https://fincadonporfirio.mx/,,,CDMX,CDMX,México,Media,3,Centro,manual/research
-Distribuidor de café,Granos de café,Finca Hamburgo,https://www.fincahamburgo.com/,,,Chiapas,Chiapas,México,Media,3,Especialidad histórica,manual/research
-Distribuidor de café,Granos de café,Finca Hamburgo Legacy,https://fincahamburgo.com/,,,Chiapas,Chiapas,México,Media,3,Histórica,manual/research
-Distribuidor de café,Granos de café,Finca Irlanda,https://fincairlanda.mx/,,,Chiapas,Chiapas,México,Media,3,Biodinámica histórica,manual/research
-Distribuidor de café,Granos de café,Finca La Herradura,https://fincalaherradura.mx/,,,México,México,México,Media,3,Especialidad,manual/research
-Distribuidor de café,Granos de café,Finca Monte Verde Chiapas,https://fincamonteverde.mx/,,,Chiapas,Chiapas,México,Media,3,Finca; Expo,manual/research
-Distribuidor de café,Granos de café,FINCA NUEVO MEXICO,https://www.fincanuevomexico.com,,9613731191,Chiapas,Chiapas,México,Alta,5,Expo,dirind/expo
-Distribuidor de café,Granos de café,Finca Nuevo México,https://www.fincanuevomexico.com/,,9613731191,Chiapas,Chiapas,México,Alta,5,Finca/tostador,manual/research
-Distribuidor de café,Granos de café,Finca Rosa María,https://fincarosamaria.com.mx/,,,Chiapas,Chiapas,México,Media,3,Orgánico Chiapas,manual/research
-Distribuidor de café,Granos de café,Fitoba Café,https://fitoba.coffee/,,,México,México,México,Media,3,Especialidad,manual/research
-Distribuidor de café,Granos de café,Forte Café,https://fortecafe.mx/,,,CDMX,CDMX,México,Media,3,Roma,manual/research
-Distribuidor de café,Granos de café,Funky Tostadores,https://funkytostadores.com/,,,México,México,México,Media,3,Tostador,manual/research
-Distribuidor de café,Granos de café,Gas Up Coffee,https://gasup.com.mx/,,,México,México,México,Media,3,Especialidad,manual/research
-Distribuidor de café,Granos de café,Gobak Café,https://gobak.mx/,,,México,México,México,Media,3,Expo,manual/research
-Distribuidor de café,Granos de café,Gran Tostador,https://www.cafegrantostador.com/,,,Guadalajara,Jalisco,México,Media,3,Tostador artesanal GDL,manual/research
-Distribuidor de café,Granos de café,HUUPA Café,https://huupa.mx/,,,Chiapas,Chiapas,México,Media,3,Tostado leña mezquite,manual/research
-Distribuidor de café,Granos de café,Illy Café México,https://illy.com.mx/,,,México,México,México,Media,3,Import premium,manual/research
-Distribuidor de café,Granos de café,Ilustre Café,https://ilustre.mx/,,,México,México,México,Media,3,Especialidad,manual/research
-Distribuidor de café,Granos de café,ISMAM Café,https://ismam.mx/,,,Chiapas,Chiapas,México,Media,3,Indígenas de la Sierra Madre,manual/research
-Distribuidor de café,Granos de café,Jacinto Café,https://eljacinto.com/,,,Tijuana,BC,México,Media,3,Especialidad Tijuana,manual/research
-Distribuidor de café,Granos de café,Juan Valdez Café México,https://juanvaldezcafe.com/,,,México,México,México,Media,3,Franquicia retail,retail/asociaciones
-Distribuidor de café,Granos de café,Juan Valdez México,https://juanvaldezcafe.mx/,,,México,México,México,Media,3,Retail franquicia,manual/research
-Distribuidor de café,Granos de café,Kaizen Coffee Roasters,https://kaizen.coffee/,,,México,México,México,Media,3,Tostadora (Paradigma),manual/research
-Distribuidor de café,Granos de café,Kinza Café,https://kinza.mx/,,,CDMX,CDMX,México,Media,3,Anáhuac,manual/research
-Distribuidor de café,Granos de café,Kraken Café,https://krakencafe.mx/,,,México,México,México,Media,3,Casa tostadora especialidad,manual/research
-Distribuidor de café,Granos de café,La Finca Europeo / Marinter,https://lafinca.mx/,,,México,México,México,Media,3,Gourmet,manual/research
-Distribuidor de café,Granos de café,La Prisa Mata Café,https://laprisamata.mx/,,,México,México,México,Media,3,Especialidad,manual/research
-Distribuidor de café,Granos de café,Lavanda Café SMA,https://lavanda.mx/,,,San Miguel de Allende,Gto,México,Media,3,Especialidad,manual/research
-Distribuidor de café,Granos de café,Lavazza México,https://lavazza.mx/,,,México,México,México,Media,3,Import,manual/research
-Distribuidor de café,Granos de café,Libertario Coffee Roasters,https://www.libertariocoffee.co/,,,CDMX,CDMX,México,Media,3,Roma (origen CO),manual/research
-Distribuidor de café,Granos de café,Lupo Café,https://lupocafe.mx/,,,México,México,México,Media,3,Alta especialidad,manual/research
-Distribuidor de café,Granos de café,Madre Café,https://madrecafe.com/,,,CDMX,CDMX,México,Media,3,Especialidad,manual/research
-Distribuidor de café,Granos de café,Manifesto Coffee,https://manifesto.mx/,,,México,México,México,Media,3,Especialidad,manual/research
-Distribuidor de café,Granos de café,Master Coffee MX,https://mastercoffee.mx/,,,México,México,México,Media,3,Especialidad,manual/research
-Distribuidor de café,Granos de café,Members Choice Café,https://www.sams.com.mx/,,,México,México,México,Media,3,Mayoreo club,manual/research
-Distribuidor de café,Granos de café,Members Mark / Costco café brands vía sellers,https://www.costco.com.mx/,,,México,México,México,Media,3,Retail mayoreo (referencia canal),manual/research
-Distribuidor de café,Granos de café,Micelio Café,https://micelio.mx/,,,CDMX,CDMX,México,Media,3,Del Valle,manual/research
-Distribuidor de café,Granos de café,Mise en Print Café,https://miseenprint.mx/,,,CDMX,CDMX,México,Media,3,Roma,manual/research
-Distribuidor de café,Granos de café,Monarca de México Café,https://monarcademexico.com/,,,México,México,México,Media,3,Mayoreo verde/tostado,manual/research
-Distribuidor de café,Granos de café,Nescafé Farmers Origins retail,https://www.nescafe.com.mx/,,,México,México,México,Media,3,Referencia,manual/research
-Distribuidor de café,Granos de café,Nespresso México,https://www.nespresso.com/mx/,,,México,México,México,Media,3,Capsulas+grano,retail/asociaciones
-Distribuidor de café,Granos de café,Nudo Verde Coffee Roasters,https://nudoverde.com.mx/,,3329190077,GDL,Jalisco,México,Alta,5,Tostador,manual/research
-Distribuidor de café,Granos de café,Paradigma Café,https://paradigma.mx/,,,CDMX,CDMX,México,Media,3,Roma/Narvarte,manual/research
-Distribuidor de café,Granos de café,Parábola Café,https://parabola.cafe/,,,Veracruz,Veracruz,México,Media,3,Especialidad,manual/research
-Distribuidor de café,Granos de café,Pólvora Café,https://www.polvoracafe.com/,,,México,México,México,Media,3,Tostador especialidad,manual/research
-Distribuidor de café,Granos de café,Revista Roast / Unidos por el Café,https://unidosporelcafe.revistaroast.com/,,,México,México,México,Media,3,Directorio tostadores,manual/research
-Distribuidor de café,Granos de café,Rolo Coffee,https://rolocoffee.mx/,,,México,México,México,Media,3,Tostador; Expo,manual/research
-Distribuidor de café,Granos de café,Saku Café / Grupo Cafetalero San Francisco,https://www.grupocafetalerosanfrancisco.com/,,2281205958,Veracruz,Veracruz,México,Alta,5,Productor/tostador,manual/research
-Distribuidor de café,Granos de café,SAKU CAFÉ / Grupo Cafetalero SF,https://www.grupocafetalerosanfrancisco.com,,2281205958,Veracruz,Veracruz,México,Alta,5,Expo,dirind/expo
-Distribuidor de café,Granos de café,SANREMO LATIN,https://www.sanremolatin.com,,(55) 4966-3736,CDMX,CDMX,México,Alta,5,Equipo+producto cafeterías,dirind
-Distribuidor de café,Granos de café,Selvaggio Café,https://selvaggio.mx/,,,México,México,México,Media,3,Especialidad,manual/research
-Distribuidor de café,Granos de café,SF Bay Coffee MX,https://sfbaycoffee.mx/,,,México,México,México,Media,3,Import/retail grano,manual/research
-Distribuidor de café,Granos de café,Simbiosis Café,https://simbiosis.cafe/,,,México,México,México,Media,3,Especialidad,manual/research
-Distribuidor de café,Granos de café,Sirius Coffee,https://siriuscoffee.mx/,,,México,México,México,Media,3,Especialidad + mayoreo,manual/research
-Distribuidor de café,Granos de café,Starbucks México retail beans,https://www.starbucks.com.mx/,,,México,México,México,Media,3,Retail grano,retail/asociaciones
-Distribuidor de café,Granos de café,Tasters Choice MX retail,https://www.nescafe.com.mx/,,,México,México,México,Media,3,Soluble referencia canal,manual/research
-Distribuidor de café,Granos de café,The Coffee Farmers Coop,https://coffeefarmerscoop.mx/,,,México,México,México,Media,3,Orgánico barista,manual/research
-Distribuidor de café,Granos de café,Tiemelonla Nich Klum,https://tiemelonla.mx/,,,Chiapas,Chiapas,México,Media,3,Cooperativa,manual/research
-Distribuidor de café,Granos de café,Tierra Garat,https://www.tierragarat.mx/,,,CDMX,CDMX,México,Media,3,Retail café,manual/research
-Distribuidor de café,Granos de café,Toast MXLI,https://toastmxli.mx/,,6865140395,Mexicali,BC,México,Alta,5,Especialidad,manual/research
-Distribuidor de café,Granos de café,Tostadora de Café La Fuente,https://tostadoralafuente.mx/,,,México,México,México,Media,3,Tostadora industrial,manual/research
-Distribuidor de café,Granos de café,Tostadores de Cafés Extraordinarios,https://extraordinarios.mx/,,,CDMX,CDMX,México,Media,3,Tostadora Almanegra,manual/research
-Distribuidor de café,Granos de café,Tostadores y Molinos Combate,https://cafecombate.mx/,,,Chihuahua,Chihuahua,México,Media,3,Tostador,manual/research
-Distribuidor de café,Granos de café,TOSTADORES Y MOLINOS DE CAFÉ COMBATE,https://www.cafecombate.com.mx,,,Chihuahua,Chihuahua,México,Media,3,,dirind/expo
-Distribuidor de café,Granos de café,Tresso Café,https://tresso.mx/,,,Veracruz,Veracruz,México,Media,3,Especialidad Veracruz; Especialidad Amazon fuerte,manual/research
-Distribuidor de café,Granos de café,Tueste Café,https://tuestecafe.com/,,,México,México,México,Media,3,Tostador Expo; Expo tostador,manual/research
-Distribuidor de café,Granos de café,UCIRI Café,https://uciri.mx/,,,Oaxaca,Oaxaca,México,Media,3,Cooperativa,manual/research
-Distribuidor de café,Granos de café,Victoria Arduino MX,https://www.victoriaarduinomx.com/,,5529226193,México,México,México,Alta,5,Equipos + café; Equipos+café,manual/research
-Distribuidor de café,Granos de café,XKMEX,https://www.puntadelcielo.com.mx,,,CDMX,CDMX,México,Media,3,Planta Punta del Cielo,dirind/expo
-Distribuidor de café,Granos de café,XKMEX / Punta del Cielo related,https://www.puntadelcielo.com.mx/,,,México,México,México,Media,3,Tostador altura,manual/research
-Distribuidor de café,Granos de café,Yomol A'tel / Capeltic,https://capeltic.org/,,,Chiapas,Chiapas,México,Media,3,Cooperativa indígena,manual/research
-Distribuidor de café,Granos de café,AMECAFE,,,,México,México,México,Baja,1,Asociación mexicana café,retail/asociaciones
-Distribuidor de café,Granos de café,AMSCA Asociación,,,,México,México,México,Baja,1,Asociación especialidad,retail/asociaciones
-Distribuidor de café,Granos de café,Beneficio La Mesa,,,,Chiapas,Chiapas,México,Baja,1,Beneficio,retail/asociaciones
-Distribuidor de café,Granos de café,Beneficio Primero de Mayo,,,,Veracruz,Veracruz,México,Baja,1,Beneficio,retail/asociaciones
-Distribuidor de café,Granos de café,CAFE SUPERIOR,,,,Celaya,Guanajuato,México,Baja,1,Mayoreo caracolillo,dirind
-Distribuidor de café,Granos de café,Café Chiapas DO,,,,Chiapas,Chiapas,México,Baja,1,DO,retail/asociaciones
-Distribuidor de café,Granos de café,Café Colón Xalapa,,,,Xalapa,Veracruz,México,Baja,1,Tradicional,retail/asociaciones
-Distribuidor de café,Granos de café,Café de Altura Coatepec Mercado,,,,Coatepec,Veracruz,México,Baja,1,Productores locales,retail/asociaciones
-Distribuidor de café,Granos de café,Café El Emporio,,,,Xalapa,Veracruz,México,Baja,1,Tradicional,retail/asociaciones
-Distribuidor de café,Granos de café,Café La Habana,,,,CDMX,CDMX,México,Baja,1,Histórico Centro,retail/asociaciones
-Distribuidor de café,Granos de café,CAFÉS DEL POTOSÍ / EL CUCO,,,(833) 212-4260,Tampico,Tamaulipas,México,Media,3,,dirind
-Distribuidor de café,Granos de café,CALUFE,,,,México,México,México,Baja,1,Industrial café,dirind/expo
-Distribuidor de café,Granos de café,Consejo Regulador Café Veracruz,,,,Veracruz,Veracruz,México,Baja,1,DO,retail/asociaciones
-Distribuidor de café,Granos de café,DIRECTO AL ORIGEN,,,,México,México,México,Baja,1,Expo productor,dirind/expo
-Distribuidor de café,Granos de café,Dobie Café,,,,México,México,México,Baja,1,Cadena GDL,retail/asociaciones
-Distribuidor de café,Granos de café,DOS CULTURAS,,,,México,México,México,Baja,1,Expo,dirind/expo
-Distribuidor de café,Granos de café,El Jarocho Coyoacán,,,,CDMX,CDMX,México,Baja,1,Tostado tradicional,retail/asociaciones
-Distribuidor de café,Granos de café,GOBAK,,,,México,México,México,Baja,1,Expo,dirind/expo
-Distribuidor de café,Granos de café,Italian Coffee Company MX,,,,México,México,México,Baja,1,Cadena,retail/asociaciones
-Distribuidor de café,Granos de café,Mercado de Café Coatepec productores,,,,Coatepec,Veracruz,México,Baja,1,Cluster origen,retail/asociaciones
-Distribuidor de café,Granos de café,Molino El Viejo,,,,CDMX,CDMX,México,Baja,1,Molino tradicional,retail/asociaciones
-Distribuidor de café,Granos de café,Pluma Hidalgo DO productores,,,,Oaxaca,Oaxaca,México,Baja,1,DO,retail/asociaciones
-Distribuidor de café,Granos de café,The Italian Coffee Company,,,,México,México,México,Baja,1,Cadena,retail/asociaciones
-Distribuidor de café,Granos de café,Tim Hortons MX,,,,México,México,México,Baja,1,Cadena,retail/asociaciones
-Distribuidor de café,Granos de café,TOSTADORES Y MOLINOS,,,,México,México,México,Baja,1,ESE TOSCAF,dirind/expo
-Distribuidor de café,Granos de café,TOSTADORES Y MOLINOS DE CAFÉ COSTEÑITO,,,,México,México,México,Baja,1,Gourmet,dirind/expo
+giro,nicho,empresa,url,email,telefono,ciudad,estado,pais,tipo,prioridad,score_contacto,notas,fuente
+Distribuidor de cafe,Granos de cafe,AbasCafé,https://www.abascafe.mx/,info@abascafe.mx,2721564297,Río Blanco,Veracruz,México,,Alta,8,Café + equipos cafetería; Café insumos equipos,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,AGRO TEXIN / Café TEXIN,,texin1975@hotmail.com,(228) 816-0188,Coatepec,Veracruz,México,,Alta,6,Productor,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,AGROCAFES LA INDIA,,justogm@hotmail.com,(279) 833-0066,Cosautlán,Veracruz,México,,Alta,6,,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,AGROINDUSTRIAS UNIDAS / OMNICAFE,https://www.ecomtrading.com,contact@ecomtrading.com,(55) 5257-6500,CDMX,CDMX,México,,Alta,8,Trading ECOM,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,Barizzimo,https://www.barizzimo.com/,contacto@barizzimo.com,4496882993,Aguascalientes,Ags,México,,Alta,8,Cold brew + especialidad; Cold brew especialidad,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,Blend Station,https://www.blendstation.com.mx/,,5568685350,CDMX,CDMX,México,,Alta,5,Tostador/cafetería,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,Bola de Oro,https://boladeoro.com.mx/,contacto@boladeoro.com.mx,,Coatepec/Puebla,Veracruz,México,,Alta,6,Productor Coatepec,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,BOLA DE ORO REFORMA,https://www.boladeoro.com.mx,contacto@boladeoro.com.mx,(222) 232-2572,Puebla,Puebla,México,,Alta,8,Coatepec,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFE BERSA,https://www.grupobersa.com,info@cafebersa.com,(55) 5018-0464,Veracruz,Veracruz,México,,Alta,8,Kits hoteleros cafeterías,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFE CAPUCHINO,https://www.cafecapuchinotampico.com.mx,gerardogochicoa@prodigy.net.mx,(833) 213-6582,Tampico,Tamaulipas,México,,Alta,8,Exportación,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFE CHAZARO,https://www.cafechazaro.mx,cafechazaro@hotmail.com,(442) 214-1672,Querétaro,Qro,México,,Alta,8,Tostador molino,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFE COLON DE XALAPA,,bcmsa@prodigy.net.mx,(228) 817-1758,Xalapa,Veracruz,México,,Alta,6,,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFE CONCORDIA,https://www.cafeconcordia.net,cafe.concordia.gourmet@gmail.com,(228) 165-8847,Emiliano Zapata,Veracruz,México,,Alta,8,Mayoreo desde 5kg Horeca,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFE COSTEÑO,https://www.cafecosteno.com,industrialtrinidad@hotmail.com,(443) 312-6622,Morelia,Michoacán,México,,Alta,8,,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFE CUMBRE,https://www.cafecumbre.com,info@cafecumbre.com,(33) 3627-2372,Zapopan,Jalisco,México,,Alta,8,Pergamino oro Horeca,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFE DE LA MEDIA LUNA,,cafemedialunaflorencia@hotmail.com,(55) 5511-2777,CDMX,CDMX,México,,Alta,6,100% puro Juárez,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFE DE POTOSI / COSTENITO,https://www.cafecostenito.com.mx,cafecostenito@gmail.com,(833) 212-2143,Tampico,Tamaulipas,México,,Alta,8,Soluble,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFE DEL CENTRO HISTORICO TAPATIO,,gabriel_macro@hotmail.com,(33) 3614-3996,Guadalajara,Jalisco,México,,Alta,6,,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFE EL MARINO,https://www.cafemarino.com.mx,marino.online@cafemarino.com.mx,800-718-0090,CDMX,CDMX,México,,Alta,8,Gourmet tostado,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFE EL MARINO CULIACAN,https://www.cafemarino.com.mx,culiacan@cafemarino.com.mx,(667) 713-2454,Culiacán,Sinaloa,México,,Alta,8,Sucursal,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFE EUROPA,https://www.cafeeuropa.com,comunicacion.cafeeuropa@gmail.com,(443) 312-0600,Morelia,Michoacán,México,,Alta,8,,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFE GABILONDO,https://www.cafegabilondo.com,gabilondojuancarlos@yahoo.com.mx,(55) 5393-0220,Naucalpan,EdoMex,México,,Alta,8,Altura,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFE JEKEMIR,https://www.cafejekemir.com,jekem@prodigy.net.mx,(55) 5681-3613,CDMX,CDMX,México,,Alta,8,Restaurantes oficinas,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFE MONTE GRANDE,https://www.montegrande.com.mx,contacto@montegrande.com.mx,(55) 5521-1522,CDMX,CDMX,México,,Alta,8,Exportación 100% puro,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFE MYRNA,,cms.cfdi@gmail.com,(228) 816-1325,Coatepec,Veracruz,México,,Alta,6,Con azúcar y puro,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFE ROYAL,https://www.caferoyal.mx,royalcafepuro@hotmail.com,(81) 8331-2422,Monterrey,NL,México,,Alta,8,WhatsApp 8182046952,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFE SAN JUAN XITOLTEPEQUE,,cafesanjuanxit@hotmail.com,(919) 685-9047,Jitotol,Chiapas,México,,Alta,6,Puro,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFE SOLO DIOS,https://www.cafesolodios.com.mx,ventas@cafesolodios.com.mx,(55) 1520-1644,CDMX,CDMX,México,,Alta,8,Tostado molido,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFE TAZA DE ORO,https://www.cafetazadeoro.com.mx,,(33) 3826-3975,Guadalajara,Jalisco,México,,Alta,5,Altura tostado,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFE TOSTADO DE EXPORTACION / CATOEX,https://www.catoex.com.mx,catoexm2@catoex.com.mx,(271) 714-4644,Córdoba,Veracruz,México,,Alta,8,Soluble descafeinado export,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFE WADI,https://www.cafewadi.mx,ventas@cafewadi.mx,(744) 483-7555,Acapulco,Guerrero,México,,Alta,8,Horeca export,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFE ZIHUATLAN,,cafe_zihuatlan@hotmail.com,(755) 544-6019,Zihuatanejo,Guerrero,México,,Alta,6,Especialidad verde tostado,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFES BASA DE CORDOBA,https://www.cafecordoba.com.mx,ventascbc@prodigy.net.mx,01-800-849-1699,Córdoba,Veracruz,México,,Alta,8,Córdoba y Basa,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFES MOKA,,tostadorcafesmoka@hotmail.com,(33) 3614-4069,Guadalajara,Jalisco,México,,Alta,6,Tostados varios + León,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFESCA,https://www.cafesca.com,cafescatrade@cafesca.com,(962) 620-1470,Tapachula,Chiapas,México,,Alta,8,Liofilizado ECOM,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFETALERA SAN FELIPE,https://www.cafesanfelipe.com,ventas@cafesanfelipe.com,(271) 716-6109,Córdoba,Veracruz,México,,Alta,8,Arábica especialidad robusta,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFETERA MEXICANA,,cafemonterrey@gmail.com,(81) 8375-4715,Monterrey,NL,México,,Alta,6,Caracolillo México Morelia,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFETICULTORES SELVA NORTE TUMBALA,,cafetumbala@yahoo.com.mx,(55) 5594-1812,CDMX,CDMX,México,,Alta,6,Orgánico altura granel,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,Caffenio / Café del Pacífico,https://www.caffenio.com/,clientes@caffenio.com,80022333646,Hermosillo,Sonora,México,,Alta,8,Cadena + comercial,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,CAFINCO,https://www.cafinco.com,ventas@cafinco.com,(271) 714-8484,Córdoba,Veracruz,México,,Alta,8,Export Internacional,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFIVER,https://tienda.cafiver.com/,ventas@cafiver.com.mx,800-712-3058,Orizaba,Veracruz,México,,Alta,8,Ejemplo original + mayoreo; Ejemplo + industrial,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,Café Andrade,https://www.cafeandrade.com/,cafeandrade@hotmail.com,2299328224,Veracruz,Veracruz,México,,Alta,8,Productor/exportador; Productor exportador,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,Café Aroma High Grown,https://www.aromahg.mx/,hola@aromahg.com,2222326077,Puebla,Puebla,México,,Alta,8,Finca Nextlalpa,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,CAFÉ BOATO,https://www.cafeboato.com,ventas@cafeboato.com,(81) 8357-3609,Monterrey,NL,México,,Alta,8,Córdoba + equipos,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFÉ BOLA DE ORO,https://www.boladeoro.com.mx,xalapaoficinatostador@gmail.com,800-717-8242,Xalapa,Veracruz,México,,Alta,8,Tostador Coatepec,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,Café Capuchino Tampico,https://www.cafecapuchinotampico.com.mx/,gerardogochicoa@prodigy.net.mx,8332136582,Tampico,Tamaulipas,México,,Alta,8,Tostador local,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,Café Cardommo,https://www.cardommo.com/,info@cardommo.com,8123132365,Monterrey,NL,México,,Alta,8,Tueste al vacío; Tueste vacío arábica,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,Café Cházaro,https://www.cafechazaro.mx/,cafechazaro@hotmail.com,4422141672,Querétaro,Qro,México,,Alta,8,Tostador/molino,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,CAFÉ COMBATE,https://www.cafecombate.com.mx,contacto@cafecombate.com.mx,(614) 418-3511,Chihuahua,Chihuahua,México,,Alta,8,Tostador,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,Café Costeñito,https://www.cafecostenito.com.mx/,cafecostenito@gmail.com,8332122143,Tampico,Tamaulipas,México,,Alta,8,Soluble/tostado,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,Café Costeño Morelia,https://www.cafecosteno.com/,industrialtrinidad@hotmail.com,4433126622,Morelia,Michoacán,México,,Alta,8,Tostador,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,Café de Veracruz,https://cafedeveracruz.com.mx/,cafedeveracruzxalapa@gmail.com,2282159328,Xalapa,Veracruz,México,,Alta,8,Directo productor,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,CAFÉ DEL PACÍFICO / CAFFENIO,https://www.caffenio.com,clientes@caffenio.com,800-223-33646,Hermosillo,Sonora,México,,Alta,8,Hoteles restaurantes,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFÉ DOS SIERRAS / COLPOS,https://www.colposcordoba.mx,cafecordoba@colpos.mx,(271) 716-6000,Amatlán,Veracruz,México,,Alta,8,Campus Córdoba,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFÉ EL COMALTECO,,cafecomalteco@hotmail.com,(312) 315-5562,Comala,Colima,México,,Alta,6,Exportación,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFÉ EL GRANDE,https://www.cafeelgrande.com,ventas@cafeelgrande.com,(81) 8317-0653,Guadalupe,NL,México,,Alta,8,Tostado grano mayoreo abastos,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFÉ FINCA MONTE AZUL,https://www.fincamonteazul.com,marketing@fincamonteazul.com,(271) 688-3969,Huatusco,Veracruz,México,,Alta,8,Arábigo,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFÉ FLOR DE MI CORAZÓN,,samuelluisrojas@gmail.com,(233) 117-5902,Zapotitlán,Puebla,México,,Alta,6,Mayoreo desde 5kg,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,Café Flor de mi Corazón / Samari,https://www.facebook.com/CafeMielSamari,samuelluisrojas@gmail.com,2331175902,Zapotitlán,Puebla,México,,Alta,8,Mayoreo desde 5kg,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,Café Gabilondo,https://www.cafegabilondo.com/,gabilondojuancarlos@yahoo.com.mx,5553930220,Naucalpan,EdoMex,México,,Alta,8,Café de altura,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,CAFÉ GENUINO LA NEGRITA,https://www.cafelanegrita.com,vnader@cafelanegrita.com,(33) 3812-1703,Guadalajara,Jalisco,México,,Alta,8,,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,Café La Floresta,https://www.cafelafloresta.com/,,5536036585,CDMX,CDMX,México,,Alta,5,Estricta altura export,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,Café La Negrita,https://www.cafelanegrita.com/,,6865681102,Mexicali,BC,México,,Alta,5,Tostador; 100% puro,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,CAFÉ LA PIEDRA,,moises_cuetoh@hotmail.com,(55) 3373-0441,Tonalá,Jalisco,México,,Alta,6,Maquila alimentos café,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,Café La Selva,https://cafelaselva.com/,cafelaselva@prodigy.net.mx,(777) 317-5821,México,México,México,,Alta,7,Comercio justo; Hoteles restaurantes,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,CAFÉ MONTEVIRGEN,https://www.cafemontevirgen.com.mx,ventascafemontevirgen@hotmail.com,(967) 688-2588,San Cristóbal,Chiapas,México,,Alta,8,Kilos a toneladas,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFÉ ORIENTAL VÁZQUEZ HERMANOS,https://www.cafeoriental.com.mx,ventas@cafeoriental.com.mx,(55) 5558-2510,CDMX,CDMX,México,,Alta,8,Tostador maquila,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFÉ PALACIO,,cafepalacio@hotmail.com,800-713-3685,Córdoba,Veracruz,México,,Alta,6,Café ARA,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,Café Porte Alto,https://www.portealto.com/,ventas@portealto.com,5519547770,CDMX,CDMX,México,,Alta,8,Gourmet menudeo/mayoreo; Gourmet menudeo/mayoreo envío gratis >5kg,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,Café Texin / Agro Texin,https://www.cafetexin.com/,texin1975@hotmail.com,2288160188,Coatepec,Veracruz,México,,Alta,8,Productor,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,Café Tierra Sagrada,https://www.cafetierrasagrada.com/,,9621240050,Chiapas,Chiapas,México,,Alta,5,Productor/tostador; Expo,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,Café Tierra y Nube,https://www.tierraynube.com/,,9514617364,CDMX,CDMX,México,,Alta,5,Especialidad Oaxaca,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,CAFÉ TOSTADO SOCONUSCO,,cafesoconusco@hotmail.com,(962) 625-0069,Tapachula,Chiapas,México,,Alta,6,100% puro,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFÉ VERDE (Marino Córdoba),,delfinocarballo@hotmail.com,(271) 713-0837,Fortín,Veracruz,México,,Alta,6,,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,Café Yajalón,https://cafeyajalon.mx/,cafes_yajalon@hotmail.com,9196741863,Chiapas,Chiapas,México,,Alta,8,Gourmet arábica/robusta,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,CAFÉS DE HUEYTLALPAN,,lgonzalezg.tifer@gmail.com,(233) 116-6412,Hueytlalpan,Puebla,México,,Alta,6,Especialidad desde 5kg Horeca,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFÉS REGIONALES DE ALTURA / REGIOMOKA,,regiomok@hotmail.com,(271) 712-4462,Córdoba,Veracruz,México,,Alta,6,Maquila,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,CAFÉS YAJALÓN SCL,,cafes_yajalon@hotmail.com,(919) 674-1863,Yajalón,Chiapas,México,,Alta,6,Gourmet arábica robusta,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,Expendio de Café,https://expendiocafe.com/,,5614841670,CDMX,CDMX,México,,Alta,5,Tuestan en casa,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,Finca Monte Azul,https://www.fincamonteazul.com/,marketing@fincamonteazul.com,2716883969,Veracruz,Veracruz,México,,Alta,8,Arábigo grano,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,FINCA NUEVO MEXICO,https://www.fincanuevomexico.com,,9613731191,Chiapas,Chiapas,México,,Alta,5,Expo,seed_from_export|dirind/expo
+Distribuidor de cafe,Granos de cafe,Finca Nuevo México,https://www.fincanuevomexico.com/,,9613731191,Chiapas,Chiapas,México,,Alta,5,Finca/tostador,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,LA LUCHA,https://www.facebook.com/cafelaluchaoficial,quejasysugerencias@cafelalucha.mx,(452) 688-2688,Uruapan,Michoacán,México,,Alta,8,,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,MACHINE COFFEE,https://www.machinecoffee.com,info@machinecoffee.com,800-908-9080,CDMX,CDMX,México,,Alta,8,Molido + máquinas,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,MERCAFE / Café Fincasa,https://www.cafefincasa.com.mx,cafefincasa@hotmail.com,(222) 244-4823,Puebla,Puebla,México,,Alta,8,Altura exportación,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,MUNDO ERANDY CAFÉ,https://www.mundoerandy.com.mx,adriana.orrala@mundoerandy.com.mx,(55) 4437-6990,CDMX,CDMX,México,,Alta,8,Pods grano Horeca,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,Nudo Verde Coffee Roasters,https://nudoverde.com.mx/,,3329190077,GDL,Jalisco,México,,Alta,5,Tostador,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,OMNICAFE / ECOM,https://www.ecomtrading.com/,contact@ecomtrading.com,5552576500,CDMX,CDMX,México,,Alta,8,Trading café,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,PAQUIGUA Y CAFÉ,,paquigua@prodigy.net.mx,(664) 631-1898,Tijuana,BC,México,,Alta,6,Gourmet Horeca,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,PARTICIPACIONES MARIANO / ILLY MX,https://www.partimar.com,partimar@partimar.com,(55) 5566-3544,CDMX,CDMX,México,,Alta,8,Illy exclusivo Horeca,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,Productos Narcia,https://productosnarcia.mx/,pronar2022@gmail.com,(961) 178-0192,México,México,México,,Alta,7,Orgánico gourmet 500g,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,Punta del Cielo,https://www.puntadelcielo.com.mx/,jonathan@puntadelcielo.com.mx,(55) 5516-8020,México,México,México,,Alta,7,Cadena + grano,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,Roasting & Blending,https://www.roasting-blending.com/,informes@roasting-blending.com,5553537415,CDMX,CDMX,México,,Alta,8,Tostadores finos; Finos gourmet saborizados,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,RODRÍGUEZ FÚNEZ / Pico del Oro,https://www.cafepicodeloro.com,cafe-picodeloro@hotmail.com,(963) 118-5607,Amatenango,Chiapas,México,,Alta,8,Productores familiares,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,SABORMEX,https://www.sabormex.com.mx,contacto@sabormex.com.mx,800-017-2267,CDMX,CDMX,México,,Alta,8,Legal Oro Garat Internacional,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,Saku Café / Grupo Cafetalero San Francisco,https://www.grupocafetalerosanfrancisco.com/,,2281205958,Veracruz,Veracruz,México,,Alta,5,Productor/tostador,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,SAKU CAFÉ / Grupo Cafetalero SF,https://www.grupocafetalerosanfrancisco.com,,2281205958,Veracruz,Veracruz,México,,Alta,5,Expo,seed_from_export|dirind/expo
+Distribuidor de cafe,Granos de cafe,SAMARI AGROINDUSTRIAL,https://cafeflordemicorazon.com.mx,ventas@cafeflordemicorazon.com.mx,(233) 117-5902,Zapotitlán,Puebla,México,,Alta,8,Flor de mi Corazón,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,SAN JERÓNIMO CAFETERÍAS,,cafesanjeronimocolima@gmail.com,(312) 114-5178,Colima,Colima,México,,Alta,6,Artesanal Cuauhtémoc Colima,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,SANREMO LATIN,https://www.sanremolatin.com,,(55) 4966-3736,CDMX,CDMX,México,,Alta,5,Equipo+producto cafeterías,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,Santa Elena Coffee Roasters,https://santaelenacoffeeroasters.com/,info@santaelenacoffeeroasters.com,2282985804,Xalapa,Veracruz,México,,Alta,8,Mayoreo tostado,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,Toast MXLI,https://toastmxli.mx/,,6865140395,Mexicali,BC,México,,Alta,5,Especialidad,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,600 Micras Coffee Lab,https://www.600micras.com/,,3314659701,México,México,México,,Media,4,Coffee lab/tostador; Expo Café,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,BARISTA SHOP / Coffee Outlet,https://coffeeoutlet.com.mx,,5625765795,México,México,México,,Media,4,Expo,seed_from_export|dirind/expo
+Distribuidor de cafe,Granos de cafe,Café Paralelo,https://cafeparalelo.com/,,5544479048,México,México,México,,Media,4,Tostador; Expo tostador,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,CAFÉS DEL POTOSÍ / EL CUCO,,,(833) 212-4260,Tampico,Tamaulipas,México,,Media,3,,seed_from_export|dirind
+Distribuidor de cafe,Granos de cafe,Coffee Outlet / Barista Shop,https://coffeeoutlet.com.mx/,,5625765795,México,México,México,,Media,4,Insumos + café,seed_from_export|manual/research
+Distribuidor de cafe,Granos de cafe,Granos de cafe (ejemplo original),https://tienda.cafiver.com/,,,,,México,Ejemplo original,Media,2,Seed del cliente,ejemplo_cliente
+Distribuidor de cafe,Granos de cafe,Victoria Arduino MX,https://www.victoriaarduinomx.com/,,5529226193,México,México,México,,Media,4,Equipos + café; Equipos+café,seed_from_export|manual/research

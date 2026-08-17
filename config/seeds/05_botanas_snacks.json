@@ -1,0 +1,42 @@
+{
+  "lote": "05",
+  "slug": "botanas_snacks",
+  "description": "Semillas iniciales botanas - expandir",
+  "leads": [
+    {
+      "empresa": "Chan Chips",
+      "url": "https://chanchips.com/",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente",
+      "fuente": "ejemplo_cliente"
+    },
+    {
+      "empresa": "Botanas Torritos",
+      "url": "https://botanastorritos.com/",
+      "tipo": "Fabricante D2C",
+      "ciudad": "Yucatán",
+      "estado": "Yucatán",
+      "notas": "Botanas yucatecas desde 1953"
+    },
+    {
+      "empresa": "Botanas Los Compadres",
+      "url": "https://botanasloscompadres.com/",
+      "tipo": "Fabricante/distribuidor",
+      "ciudad": "Kanasín",
+      "estado": "Yucatán",
+      "telefono": "9991779873"
+    },
+    {
+      "empresa": "Totis",
+      "url": "https://www.totis.com.mx/",
+      "tipo": "Marca nacional"
+    },
+    {
+      "empresa": "Botanas Lily",
+      "url": "https://www.botanaslily.com.mx",
+      "tipo": "Fabricante",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    }
+  ]
+}
