@@ -130,6 +130,22 @@
   {
     "giro": "Papeleria",
     "nicho": "Bolsas de regalo",
+    "empresa": "BÖRSE",
+    "url": "https://borse.com.mx/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "",
+    "estado": "",
+    "pais": "México",
+    "tipo": "Fabricante",
+    "notas": "Bolsas personalizadas de plástico, papel y tela para uso promocional y comercial",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 3
+  },
+  {
+    "giro": "Papeleria",
+    "nicho": "Bolsas de regalo",
     "empresa": "El Centro Bolsero",
     "url": "https://www.elcentrobolserosa.com/",
     "email": "",
@@ -174,6 +190,22 @@
     "fuente": "research",
     "prioridad": "Media",
     "score_contacto": 2
+  },
+  {
+    "giro": "Papeleria",
+    "nicho": "Bolsas de regalo",
+    "empresa": "FiuBags",
+    "url": "https://fiubags.mx/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "Puebla",
+    "estado": "Puebla",
+    "pais": "México",
+    "tipo": "Fabricante",
+    "notas": "Fábrica de bolsas de tela (manta, loneta, poliéster) en Puebla/Tlaxcala; personalización desde 100 pzs",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 4
   },
   {
     "giro": "Papeleria",

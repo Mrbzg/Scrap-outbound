@@ -194,6 +194,22 @@
   {
     "giro": "Papeleria",
     "nicho": "Invitaciones fisicas",
+    "empresa": "La Invitación de Liana",
+    "url": "https://www.lainvitaciondeliana.com/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Ecom",
+    "notas": "Invitaciones de boda pintadas a mano con acuarela, sobres premium",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 3
+  },
+  {
+    "giro": "Papeleria",
+    "nicho": "Invitaciones fisicas",
     "empresa": "Samsara Invitaciones",
     "url": "https://www.samsarainvitaciones.com.mx/",
     "email": "",

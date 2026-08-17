@@ -110,6 +110,22 @@
       "fuente": "research",
       "ciudad": "CDMX",
       "estado": "CDMX"
+    },
+    {
+      "empresa": "FiuBags",
+      "tipo": "Fabricante",
+      "notas": "Fábrica de bolsas de tela (manta, loneta, poliéster) en Puebla/Tlaxcala; personalización desde 100 pzs",
+      "fuente": "research",
+      "url": "https://fiubags.mx/",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "BÖRSE",
+      "tipo": "Fabricante",
+      "notas": "Bolsas personalizadas de plástico, papel y tela para uso promocional y comercial",
+      "fuente": "research",
+      "url": "https://borse.com.mx/"
     }
   ]
 }

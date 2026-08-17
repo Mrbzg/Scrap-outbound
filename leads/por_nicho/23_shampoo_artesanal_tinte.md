@@ -1,9 +1,9 @@
 # Lote 23 — Belleza / Shampoo artesanal, shampoo con tinte
 
 **Slug:** `shampoo_artesanal_tinte`  
-**Total leads:** 14  
-**Alta:** 5 · **Media:** 4 · **Baja:** 5  
-**Con email:** 3 · **Con teléfono:** 6 · **Con URL:** 9
+**Total leads:** 17  
+**Alta:** 6 · **Media:** 6 · **Baja:** 5  
+**Con email:** 3 · **Con teléfono:** 7 · **Con URL:** 12
 
 Ejemplo original: https://www.meidu.com.mx/
 
@@ -14,6 +14,7 @@ Ejemplo original: https://www.meidu.com.mx/
 | Bam Boo Lifestyle | https://www.bamboolifestyle.com.mx/ | onnearrss@gmail.com | 5579388337 | CDMX | Marca eco |
 | Don Juan Beauty Supply | https://donjuan.mx/ | contacto@donjuan.mx | 6621940726 | Hermosillo | Mayoreo |
 | Jabones Artesanales Ordaz | https://www.jabonesartesanalesordaz.net/ | ventas@jabonesartesanalesordaz.net | 5536169938 | CDMX | Fabricante |
+| Productos Möe | https://www.productosmoe.com/ |  | 3330365447 | Zapopan | Fabricante |
 | RIS.O.S. | https://risos.com.mx/tienda/ |  | 5564657515 | CDMX | Marca rizos |
 | Rizos Mexicanos | https://www.rizosmexicanos.com/ |  | 5514718602 | México | Marca D2C |
 
@@ -24,14 +25,17 @@ Ejemplo original: https://www.meidu.com.mx/
 | 1 | Bam Boo Lifestyle | https://www.bamboolifestyle.com.mx/ | onnearrss@gmail.com | 5579388337 | CDMX | Alta | Marca eco |
 | 2 | Don Juan Beauty Supply | https://donjuan.mx/ | contacto@donjuan.mx | 6621940726 | Hermosillo | Alta | Mayoreo |
 | 3 | Jabones Artesanales Ordaz | https://www.jabonesartesanalesordaz.net/ | ventas@jabonesartesanalesordaz.net | 5536169938 | CDMX | Alta | Fabricante |
-| 4 | RIS.O.S. | https://risos.com.mx/tienda/ |  | 5564657515 | CDMX | Alta | Marca rizos |
-| 5 | Rizos Mexicanos | https://www.rizosmexicanos.com/ |  | 5514718602 | México | Alta | Marca D2C |
-| 6 | AMAI MX | https://amai.mx/ |  |  | México | Media | Marca D2C |
-| 7 | MEIDU México | https://www.meidu.com.mx/ |  | 5511336665 | México | Media | Ejemplo original |
-| 8 | OnlyShop México | https://www.onlyshop.com.mx/ |  |  | México | Media | Ecom |
-| 9 | Shampoo artesanal, shampoo con tinte (ejemplo original) | https://www.meidu.com.mx/ |  |  |  | Media | Ejemplo original |
-| 10 | Avellana Beauty Eco Boutique |  |  |  | México | Baja | Marca |
-| 11 | Baregk |  |  |  | México | Baja | Marca |
-| 12 | Kaisasa |  |  |  | México | Baja | Marca |
-| 13 | Lu'um Nuestra Tierra |  |  |  | México | Baja | Marca |
-| 14 | Raíces Co |  |  |  | México | Baja | Marca |
+| 4 | Productos Möe | https://www.productosmoe.com/ |  | 3330365447 | Zapopan | Alta | Fabricante |
+| 5 | RIS.O.S. | https://risos.com.mx/tienda/ |  | 5564657515 | CDMX | Alta | Marca rizos |
+| 6 | Rizos Mexicanos | https://www.rizosmexicanos.com/ |  | 5514718602 | México | Alta | Marca D2C |
+| 7 | AMAI MX | https://amai.mx/ |  |  | México | Media | Marca D2C |
+| 8 | Jabón de Zorro D'Avi | https://www.jabondezorro.com/ |  |  | México | Media | Ecom |
+| 9 | Laguna Cyprien | https://lagunacyprien.mx/ |  |  | México | Media | Marca |
+| 10 | MEIDU México | https://www.meidu.com.mx/ |  | 5511336665 | México | Media | Ejemplo original |
+| 11 | OnlyShop México | https://www.onlyshop.com.mx/ |  |  | México | Media | Ecom |
+| 12 | Shampoo artesanal, shampoo con tinte (ejemplo original) | https://www.meidu.com.mx/ |  |  |  | Media | Ejemplo original |
+| 13 | Avellana Beauty Eco Boutique |  |  |  | México | Baja | Marca |
+| 14 | Baregk |  |  |  | México | Baja | Marca |
+| 15 | Kaisasa |  |  |  | México | Baja | Marca |
+| 16 | Lu'um Nuestra Tierra |  |  |  | México | Baja | Marca |
+| 17 | Raíces Co |  |  |  | México | Baja | Marca |

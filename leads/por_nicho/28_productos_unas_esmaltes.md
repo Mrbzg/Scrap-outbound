@@ -1,9 +1,9 @@
 # Lote 28 — Belleza / Productos para uñas (esmaltes, pegamentos, piedritas)
 
 **Slug:** `productos_unas_esmaltes`  
-**Total leads:** 9  
-**Alta:** 7 · **Media:** 2 · **Baja:** 0  
-**Con email:** 4 · **Con teléfono:** 7 · **Con URL:** 8
+**Total leads:** 14  
+**Alta:** 7 · **Media:** 4 · **Baja:** 3  
+**Con email:** 4 · **Con teléfono:** 7 · **Con URL:** 10
 
 Ejemplo original: https://circulob.mx/
 
@@ -31,4 +31,9 @@ Ejemplo original: https://circulob.mx/
 | 6 | Romez Distribuidora | https://www.romezdistribuidora.com.mx/ |  | 4448096424 | San Luis Potosí | Alta | Mayoreo |
 | 7 | Wapizima | https://wapizima.shop/ | antonio@wapizima.info |  | México | Alta | Marca |
 | 8 | Cyndy Nails |  |  | 5512242149 | Tlalnepantla | Media | Mayoreo |
-| 9 | Productos para uñas (esmaltes, pegamentos, piedritas) (ejemplo original) | https://circulob.mx/ |  |  |  | Media | Ejemplo original |
+| 9 | MC Nails Oficial | https://mcnails.mx/ |  |  | México | Media | Marca |
+| 10 | Productos para uñas (esmaltes, pegamentos, piedritas) (ejemplo original) | https://circulob.mx/ |  |  |  | Media | Ejemplo original |
+| 11 | Wapizima Tienda | https://wapizima.shop/ |  |  | Guadalajara | Media | Marca |
+| 12 | Miss Cherry |  |  |  | México | Baja | Marca |
+| 13 | MISSTU |  |  |  | México | Baja | Marca |
+| 14 | Studio Nails |  |  |  | México | Baja | Marca |

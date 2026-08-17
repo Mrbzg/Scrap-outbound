@@ -135,6 +135,48 @@
       "fuente": "research",
       "ciudad": "CDMX",
       "estado": "CDMX"
+    },
+    {
+      "empresa": "Mercería AMB",
+      "tipo": "Mayoreo",
+      "notas": "Hilos por mayoreo en el centro; envío gratis desde $799; Hilos Omega y Seralon",
+      "fuente": "research",
+      "url": "https://www.merceriaamb.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "DMC",
+      "tipo": "Marca",
+      "notas": "Hilos de bordar mouliné, 4.9★ vía ML",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Modiz",
+      "tipo": "Marca",
+      "notas": "Hilos de bordar y metalizados en conos, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Gütermann",
+      "tipo": "Marca",
+      "notas": "Hilos de coser mayoreo 270 colores, vía ML",
+      "fuente": "brand",
+      "ciudad": "Alemania"
+    },
+    {
+      "empresa": "Izumi",
+      "tipo": "Marca",
+      "notas": "Portaconos y hilos de coser, vía mayoristas MX",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Coats",
+      "tipo": "Marca",
+      "notas": "Hilos de coser y bordar, distribución MX",
+      "fuente": "brand"
     }
   ]
 }

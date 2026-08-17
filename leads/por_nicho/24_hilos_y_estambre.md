@@ -1,9 +1,9 @@
 # Lote 24 — Merceria / Hilos y estambre
 
 **Slug:** `hilos_y_estambre`  
-**Total leads:** 15  
-**Alta:** 8 · **Media:** 4 · **Baja:** 3  
-**Con email:** 4 · **Con teléfono:** 9 · **Con URL:** 9
+**Total leads:** 21  
+**Alta:** 8 · **Media:** 6 · **Baja:** 7  
+**Con email:** 4 · **Con teléfono:** 9 · **Con URL:** 10
 
 Ejemplo original: https://makrama.com.mx/
 
@@ -33,9 +33,15 @@ Ejemplo original: https://makrama.com.mx/
 | 7 | Omega Distribuidora de Hilos |  | pedidos@hilosomega.com.mx | 5555228660 | CDMX | Alta | Fabricante |
 | 8 | Tapyarte de México | https://www.estambresymerceria.com.mx/ |  | 5562124807 | México | Alta | Distribuidor |
 | 9 | Estambres Sta. Teresita |  |  | 3338252835 | Guadalajara | Media | Mayoreo |
-| 10 | Hilos y estambre (ejemplo original) | https://makrama.com.mx/ |  |  |  | Media | Ejemplo original |
-| 11 | Lana Sube Lana Baja | https://www.lanasubelanabaja.mx/ |  |  | México | Media | Ecom |
-| 12 | TejeManía | https://www.tejemania.com/ |  |  | México | Media | Ecom |
-| 13 | Estambres Filatti |  |  |  | CDMX | Baja | Mercería |
-| 14 | Hilaza La Abuelita |  |  |  | México | Baja | Marca |
-| 15 | Ventronic |  |  |  | México | Baja | Distribuidor |
+| 10 | Gütermann |  |  |  | Alemania | Media | Marca |
+| 11 | Hilos y estambre (ejemplo original) | https://makrama.com.mx/ |  |  |  | Media | Ejemplo original |
+| 12 | Lana Sube Lana Baja | https://www.lanasubelanabaja.mx/ |  |  | México | Media | Ecom |
+| 13 | Mercería AMB | https://www.merceriaamb.com.mx/ |  |  | CDMX | Media | Mayoreo |
+| 14 | TejeManía | https://www.tejemania.com/ |  |  | México | Media | Ecom |
+| 15 | Coats |  |  |  |  | Baja | Marca |
+| 16 | DMC |  |  |  |  | Baja | Marca |
+| 17 | Estambres Filatti |  |  |  | CDMX | Baja | Mercería |
+| 18 | Hilaza La Abuelita |  |  |  | México | Baja | Marca |
+| 19 | Izumi |  |  |  |  | Baja | Marca |
+| 20 | Modiz |  |  |  | México | Baja | Marca |
+| 21 | Ventronic |  |  |  | México | Baja | Distribuidor |

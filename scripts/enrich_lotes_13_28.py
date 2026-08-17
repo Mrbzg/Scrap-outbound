@@ -61,6 +61,86 @@ def L(empresa, url="", email="", tel="", ciudad="", estado="", tipo="", notas=""
 
 
 # ---------------------------------------------------------------- new leads
+# Ronda 2 (agregadas en enrich 2026-08): más empresas reales por lote
+NEW_LEADS2 = {
+    "13_juguetes_sensoriales": [
+        L("Mi Alegría", "https://www.facebook.com/mialegriacdmx/", "", "5551801240", "CDMX", "CDMX", "Fabricante", "60+ años fabricando juguetes didácticos y científicos MX", "brand"),
+        L("JuguetiBici", "https://juguetibici.com/", "", "", "México", "México", "Ecom", "Tienda en línea con línea Mi Alegría: didácticos, rompecabezas y manualidades", "research"),
+        L("teytoy", "https://www.amazon.com.mx/", "", "", "México", "México", "Marca", "Juguetes Montessori y sensoriales para bebés vía Amazon MX", "brand"),
+    ],
+    "14_articulos_miniatura": [
+        L("HO de México", "https://treneshodemexico.com/", "", "", "México", "México", "Ecom", "Tienda virtual del ferromodelista mexicano: escalas HO, N, DCC, estructuras", "research"),
+        L("B&P Toys-Trains", "https://www.toystrains.com.mx/", "", "", "México", "México", "Tienda", "Escalas Z, N, HO, O y G; surtido de locomotoras y accesorios", "research"),
+        L("Bachmann Trains", "", "", "", "USA", "", "Marca", "Trenes HO/N y control DCC, importado", "brand"),
+        L("Walthers", "", "", "", "USA", "", "Marca", "Modelos HO y accesorios ferroviarios, importado", "brand"),
+        L("Atlas Model Railroad", "", "", "", "USA", "", "Marca", "Vías y modelos HO/N, vía HO de México", "brand"),
+    ],
+    "15_insumos_para_tatuar": [
+        L("Dynamic Tattoo Ink", "", "", "", "USA", "", "Marca", "Tinta Triple Black profesional, distribución MX vía Soulflower", "brand"),
+        L("Radiant Colors", "", "", "", "USA", "", "Marca", "Tintas de color profesionales, vía Soulflower", "brand"),
+        L("EZ Cartuchos", "", "", "", "México", "México", "Marca", "Cartuchos V-Select y EZ INKin Revo, venta MX", "brand"),
+        L("Atomus", "", "", "", "México", "México", "Marca", "Tintas y kits profesionales, vía ML", "brand"),
+    ],
+    "16_invitaciones_fisicas": [
+        L("La Invitación de Liana", "https://www.lainvitaciondeliana.com/", "", "", "México", "México", "Ecom", "Invitaciones de boda pintadas a mano con acuarela, sobres premium", "research"),
+        L("Amelia Paper Design", "https://www.ameliapaperdesign.com/", "", "", "México", "México", "Ecom", "Invitaciones premium con hot stamping, serigrafía artesanal y nombre rotulado a mano; 8 años", "research"),
+    ],
+    "18_tijeras_patron_al_corte": [
+        L("Up&Scrap", "https://www.upandscrap.com/", "", "", "", "", "Ecom", "Tienda de scrapbooking con tijeras dentadas Chevron de Fiskars", "research"),
+        L("DMC", "", "", "", "", "", "Marca", "Hilos de bordar y tijeras, marca internacional", "brand"),
+    ],
+    "19_charms": [
+        L("Joyería Meztli Plata", "", "", "", "Taxco", "Guerrero", "Mayoreo", "Plata .925 mayoreo desde Taxco, modelos para revendedores", "research"),
+    ],
+    "20_pupilentes": [
+        L("Más Visión", "https://www.masvision.mx/", "", "", "México", "México", "Ecom", "Lentes de contacto con hasta 50% descuento; Air Optix Colors", "research"),
+        L("PupilentesYA", "https://pupilentesya.com/", "", "", "México", "México", "Ecom", "Lentes de contacto de color; Lunare, FreshLook; envío gratis MX", "research"),
+    ],
+    "21_insumos_unas_press_on": [
+        L("MC Nails Oficial", "https://mcnails.mx/", "", "", "México", "México", "Marca", "Kits de polygel, acrílico y esmaltes semipermanentes premium", "brand"),
+        L("MISSTU", "", "", "", "México", "México", "Marca", "Kit polygel Beaucat 18 pcs, el más vendido en ML (4.4★, 946 reviews)", "brand"),
+        L("Studio Nails", "", "", "", "México", "México", "Marca", "Polygel en colores, 4.8★ vía ML", "brand"),
+        L("Miss Cherry", "", "", "", "México", "México", "Marca", "Kit poligel/acrigel sistema dual, vía ML", "brand"),
+    ],
+    "22_tarot_velas_esotericas": [
+        L("Bougie Boyer", "https://bougieboyer.com.mx/", "", "", "CDMX", "CDMX", "Fabricante", "Fábrica de velas desde 1951: decorativas, aromáticas, soya, masaje; venta de fábrica", "research"),
+        L("The Candle Place", "https://thecandleplace.mx/", "", "", "EdoMex", "EdoMex", "Fabricante", "Velas de cera de soya artesanales; capacidad 10,000/mes; desarrollo de marcas", "research"),
+        L("Velas Artesanal MX (Monte Vitro)", "", "", "", "México", "México", "Marca", "Velas aromáticas citronela en balde, 4.8★ vía ML", "brand"),
+    ],
+    "23_shampoo_artesanal_tinte": [
+        L("Productos Möe", "https://www.productosmoe.com/", "", "3330365447", "Zapopan", "Jalisco", "Fabricante", "Shampoo sólido, jabones y velas de soja; mayoreo con marca personal; Río Tuxpan 1049", "research"),
+        L("Jabón de Zorro D'Avi", "https://www.jabondezorro.com/", "", "", "México", "México", "Ecom", "Champú sólido ecológico y artesanal; venta por mayor y menor", "research"),
+        L("Laguna Cyprien", "https://lagunacyprien.mx/", "", "", "México", "México", "Marca", "Shampoo sólido sin sulfatos ni plásticos, hecho en México", "brand"),
+        L("OnlyShop México", "https://www.onlyshop.com.mx/", "", "", "México", "México", "Ecom", "Shampoo tinte cubre canas jengibre 500ml; sin amoníaco", "research"),
+    ],
+    "24_hilos_y_estambre": [
+        L("Mercería AMB", "https://www.merceriaamb.com.mx/", "", "", "CDMX", "CDMX", "Mayoreo", "Hilos por mayoreo en el centro; envío gratis desde $799; Hilos Omega y Seralon", "research"),
+        L("DMC", "", "", "", "", "", "Marca", "Hilos de bordar mouliné, 4.9★ vía ML", "brand"),
+        L("Modiz", "", "", "", "México", "México", "Marca", "Hilos de bordar y metalizados en conos, vía ML", "brand"),
+        L("Gütermann", "", "", "", "Alemania", "", "Marca", "Hilos de coser mayoreo 270 colores, vía ML", "brand"),
+        L("Izumi", "", "", "", "", "", "Marca", "Portaconos y hilos de coser, vía mayoristas MX", "brand"),
+        L("Coats", "", "", "", "", "", "Marca", "Hilos de coser y bordar, distribución MX", "brand"),
+    ],
+    "25_bolsas_de_regalo": [
+        L("FiuBags", "https://fiubags.mx/", "", "", "Puebla", "Puebla", "Fabricante", "Fábrica de bolsas de tela (manta, loneta, poliéster) en Puebla/Tlaxcala; personalización desde 100 pzs", "research"),
+        L("BÖRSE", "https://borse.com.mx/", "", "", "", "", "Fabricante", "Bolsas personalizadas de plástico, papel y tela para uso promocional y comercial", "research"),
+        L("BK Bolsas", "https://bolsasbk.com.mx/", "ventas@bolsasbk.com.mx", "5554567770", "Naucalpan", "EdoMex", "Fabricante", "Bolsas kraft impresas, tote bags de manta, yute y PVC tornasol; desde 50 pzs", "research"),
+    ],
+    "26_tenis_botas_playeras": [
+        L("Grupo Máximo / Tenis Clon", "https://clon.store/quienes-somos/", "", "", "San Francisco del Rincón", "Guanajuato", "Fabricante", "Fabricante de tenis clon; surtido desde 5 pares, medio mayoreo y mayoreo", "research"),
+        L("Bajío Shoes", "https://bajioshoes.com/", "", "", "San Francisco del Rincón", "Guanajuato", "Fabricante", "Calzado clon y nacional desde 2009; mayoreo y medio mayoreo", "research"),
+        L("Tenis Morgan", "https://www.tenismorgan.com/", "", "4774958719", "León", "Guanajuato", "Mayoreo", "500+ modelos; proveedor de tenis mayoreo en León", "research"),
+    ],
+    "28_productos_unas_esmaltes": [
+        L("MC Nails Oficial", "https://mcnails.mx/", "", "", "México", "México", "Marca", "Kits de polygel, acrílico y esmaltes semipermanentes premium", "brand"),
+        L("MISSTU", "", "", "", "México", "México", "Marca", "Kit polygel Beaucat 18 pcs, más vendido en ML", "brand"),
+        L("Miss Cherry", "", "", "", "México", "México", "Marca", "Kit poligel/acrigel sistema dual, vía ML", "brand"),
+        L("Studio Nails", "", "", "", "México", "México", "Marca", "Polygel en colores, 4.8★ vía ML", "brand"),
+        L("Wapizima Tienda", "https://wapizima.shop/", "", "", "Guadalajara", "Jalisco", "Marca", "Mayoreo de productos de uñas en GDL; asesoría a manicuristas", "research"),
+    ],
+}
+
+# ---------------------------------------------------------------- new leads
 NEW_LEADS = {
     "13_juguetes_sensoriales": [
         L("Ponlly", "https://gcmebrat.com.mx/ponlly", "", "", "México", "México", "Ecom", "Tienda especializada en sensoriales TDAH/Autismo/estrés; push bubble, discos de equilibrio", "research"),
@@ -209,6 +289,13 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--apply", action="store_true")
     args = ap.parse_args()
+
+    # merge both rounds (ronda 2 after ronda 1; dedupe handles overlaps)
+    for slug, new_leads in sorted(NEW_LEADS2.items()):
+        if slug in NEW_LEADS:
+            NEW_LEADS[slug] = NEW_LEADS[slug] + new_leads
+        else:
+            NEW_LEADS[slug] = new_leads
 
     for slug, new_leads in sorted(NEW_LEADS.items()):
         path = ROOT / "config" / "seeds" / f"{slug}.json"

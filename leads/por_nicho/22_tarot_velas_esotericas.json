@@ -66,6 +66,22 @@
   {
     "giro": "Articulos religiosos",
     "nicho": "Tarot, lociones y velas esotericas",
+    "empresa": "Bougie Boyer",
+    "url": "https://bougieboyer.com.mx/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "CDMX",
+    "estado": "CDMX",
+    "pais": "México",
+    "tipo": "Fabricante",
+    "notas": "Fábrica de velas desde 1951: decorativas, aromáticas, soya, masaje; venta de fábrica",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 4
+  },
+  {
+    "giro": "Articulos religiosos",
+    "nicho": "Tarot, lociones y velas esotericas",
     "empresa": "Los 7 Arcángeles Boutique",
     "url": "",
     "email": "",
@@ -142,6 +158,22 @@
     "fuente": "ejemplo_cliente",
     "prioridad": "Media",
     "score_contacto": 2
+  },
+  {
+    "giro": "Articulos religiosos",
+    "nicho": "Tarot, lociones y velas esotericas",
+    "empresa": "The Candle Place",
+    "url": "https://thecandleplace.mx/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "EdoMex",
+    "estado": "EdoMex",
+    "pais": "México",
+    "tipo": "Fabricante",
+    "notas": "Velas de cera de soya artesanales; capacidad 10,000/mes; desarrollo de marcas",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 4
   },
   {
     "giro": "Articulos religiosos",
@@ -252,6 +284,22 @@
     "tipo": "Tienda",
     "notas": "Veladoras de alta magia, Flores de Bach y artículos Feng Shui",
     "fuente": "research",
+    "prioridad": "Baja",
+    "score_contacto": 1
+  },
+  {
+    "giro": "Articulos religiosos",
+    "nicho": "Tarot, lociones y velas esotericas",
+    "empresa": "Velas Artesanal MX (Monte Vitro)",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Marca",
+    "notas": "Velas aromáticas citronela en balde, 4.8★ vía ML",
+    "fuente": "brand",
     "prioridad": "Baja",
     "score_contacto": 1
   },

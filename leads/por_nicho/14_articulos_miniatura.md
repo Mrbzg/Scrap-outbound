@@ -1,9 +1,9 @@
 # Lote 14 — Juguetes / Articulos miniatura o a escala
 
 **Slug:** `articulos_miniatura`  
-**Total leads:** 13  
-**Alta:** 6 · **Media:** 2 · **Baja:** 5  
-**Con email:** 3 · **Con teléfono:** 7 · **Con URL:** 7
+**Total leads:** 18  
+**Alta:** 6 · **Media:** 7 · **Baja:** 5  
+**Con email:** 3 · **Con teléfono:** 7 · **Con URL:** 9
 
 Ejemplo original: https://trenes.mx/
 
@@ -29,9 +29,14 @@ Ejemplo original: https://trenes.mx/
 | 5 | Tiendas hobby GDL cluster | https://fenixhobby.com.mx/ | contacto@bigbangtoys.com.mx | 3322937386 | Guadalajara | Alta | Cluster |
 | 6 | Trenes.mx / Trenes S.A. de C.V. | https://trenes.mx/ |  | 5568683070 | Naucalpan | Alta | Ejemplo original |
 | 7 | Articulos miniatura o a escala (ejemplo original) | https://trenes.mx/ |  |  |  | Media | Ejemplo original |
-| 8 | Tiendas hobby CDMX cluster | https://hobbymex.com.mx/ |  | 5552771444 | CDMX | Media | Cluster |
-| 9 | Armatrenes |  |  |  | Guadalajara | Baja | Tienda |
-| 10 | Central de Maquetas Guadalajara |  |  |  | Guadalajara | Baja | Tienda |
-| 11 | Jobbees |  |  |  | Guadalajara | Baja | Tienda |
-| 12 | Maquetas en Acrílico Acosta |  |  |  | Guadalajara | Baja | Tienda |
-| 13 | Mundo Hobby |  |  |  | Guadalajara | Baja | Tienda |
+| 8 | Atlas Model Railroad |  |  |  | USA | Media | Marca |
+| 9 | B&P Toys-Trains | https://www.toystrains.com.mx/ |  |  | México | Media | Tienda |
+| 10 | Bachmann Trains |  |  |  | USA | Media | Marca |
+| 11 | HO de México | https://treneshodemexico.com/ |  |  | México | Media | Ecom |
+| 12 | Tiendas hobby CDMX cluster | https://hobbymex.com.mx/ |  | 5552771444 | CDMX | Media | Cluster |
+| 13 | Walthers |  |  |  | USA | Media | Marca |
+| 14 | Armatrenes |  |  |  | Guadalajara | Baja | Tienda |
+| 15 | Central de Maquetas Guadalajara |  |  |  | Guadalajara | Baja | Tienda |
+| 16 | Jobbees |  |  |  | Guadalajara | Baja | Tienda |
+| 17 | Maquetas en Acrílico Acosta |  |  |  | Guadalajara | Baja | Tienda |
+| 18 | Mundo Hobby |  |  |  | Guadalajara | Baja | Tienda |

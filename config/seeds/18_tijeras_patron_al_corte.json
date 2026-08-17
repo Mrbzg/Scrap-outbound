@@ -175,6 +175,19 @@
       "url": "https://www.amazon.com.mx/",
       "ciudad": "México",
       "estado": "México"
+    },
+    {
+      "empresa": "Up&Scrap",
+      "tipo": "Ecom",
+      "notas": "Tienda de scrapbooking con tijeras dentadas Chevron de Fiskars",
+      "fuente": "research",
+      "url": "https://www.upandscrap.com/"
+    },
+    {
+      "empresa": "DMC",
+      "tipo": "Marca",
+      "notas": "Hilos de bordar y tijeras, marca internacional",
+      "fuente": "brand"
     }
   ]
 }

@@ -1,8 +1,8 @@
 # Lote 15 — Medicina / Insumos para tatuar
 
 **Slug:** `insumos_para_tatuar`  
-**Total leads:** 16  
-**Alta:** 8 · **Media:** 8 · **Baja:** 0  
+**Total leads:** 20  
+**Alta:** 8 · **Media:** 10 · **Baja:** 2  
 **Con email:** 6 · **Con teléfono:** 8 · **Con URL:** 10
 
 Ejemplo original: https://soulflower.mx/
@@ -34,9 +34,13 @@ Ejemplo original: https://soulflower.mx/
 | 8 | Zebra Tattoo Supply | https://zebratattoosupply.com/ | ventas@zebratattoosupply.com | 5541880654 | Tultitlán | Alta | Mayoreo nacional |
 | 9 | Bishop Rotary |  |  |  | USA | Media | Marca |
 | 10 | Cheyenne |  |  |  | Alemania | Media | Marca |
-| 11 | Eternal Ink |  |  |  | USA | Media | Marca |
-| 12 | FK Irons |  |  |  | USA | Media | Marca |
-| 13 | Fusion Ink |  |  |  | USA | Media | Marca |
-| 14 | Insumos para tatuar (ejemplo original) | https://soulflower.mx/ |  |  |  | Media | Ejemplo original |
-| 15 | Make Art Supply | https://makeartsupply.com/ |  |  | México | Media | Tattoo supply |
-| 16 | World Famous Tattoo Ink |  |  |  | USA | Media | Marca |
+| 11 | Dynamic Tattoo Ink |  |  |  | USA | Media | Marca |
+| 12 | Eternal Ink |  |  |  | USA | Media | Marca |
+| 13 | FK Irons |  |  |  | USA | Media | Marca |
+| 14 | Fusion Ink |  |  |  | USA | Media | Marca |
+| 15 | Insumos para tatuar (ejemplo original) | https://soulflower.mx/ |  |  |  | Media | Ejemplo original |
+| 16 | Make Art Supply | https://makeartsupply.com/ |  |  | México | Media | Tattoo supply |
+| 17 | Radiant Colors |  |  |  | USA | Media | Marca |
+| 18 | World Famous Tattoo Ink |  |  |  | USA | Media | Marca |
+| 19 | Atomus |  |  |  | México | Baja | Marca |
+| 20 | EZ Cartuchos |  |  |  | México | Baja | Marca |

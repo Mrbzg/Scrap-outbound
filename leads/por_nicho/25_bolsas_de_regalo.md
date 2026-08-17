@@ -1,9 +1,9 @@
 # Lote 25 — Papeleria / Bolsas de regalo
 
 **Slug:** `bolsas_de_regalo`  
-**Total leads:** 12  
-**Alta:** 6 · **Media:** 5 · **Baja:** 1  
-**Con email:** 5 · **Con teléfono:** 6 · **Con URL:** 10
+**Total leads:** 14  
+**Alta:** 6 · **Media:** 7 · **Baja:** 1  
+**Con email:** 5 · **Con teléfono:** 6 · **Con URL:** 12
 
 Ejemplo original: https://creear.mx/
 
@@ -30,7 +30,9 @@ Ejemplo original: https://creear.mx/
 | 6 | Packsys | https://packsys.com/ | info@packsys.com | 5515004000 | Tepotzotlán | Alta | Mayoreo |
 | 7 | Bolsas de regalo (ejemplo original) | https://creear.mx/ |  |  |  | Media | Ejemplo original |
 | 8 | Bolsas Papel Kraft CDMX | https://bolsaspapelkraftcdmx.com/ |  |  | CDMX | Media | Fabricante |
-| 9 | El Centro Bolsero | https://www.elcentrobolserosa.com/ |  |  | CDMX | Media | Distribuidor |
-| 10 | Entelequia | https://desechablesbiodegradables.com/collections/bolsas-papel-kraft |  |  | CDMX | Media | Mayoreo |
-| 11 | FABOLSA |  |  |  | CDMX | Media | Fabricante |
-| 12 | Emepak |  |  |  | México | Baja | Marca |
+| 9 | BÖRSE | https://borse.com.mx/ |  |  |  | Media | Fabricante |
+| 10 | El Centro Bolsero | https://www.elcentrobolserosa.com/ |  |  | CDMX | Media | Distribuidor |
+| 11 | Entelequia | https://desechablesbiodegradables.com/collections/bolsas-papel-kraft |  |  | CDMX | Media | Mayoreo |
+| 12 | FABOLSA |  |  |  | CDMX | Media | Fabricante |
+| 13 | FiuBags | https://fiubags.mx/ |  |  | Puebla | Media | Fabricante |
+| 14 | Emepak |  |  |  | México | Baja | Marca |

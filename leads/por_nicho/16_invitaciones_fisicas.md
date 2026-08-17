@@ -1,9 +1,9 @@
 # Lote 16 — Papeleria / Invitaciones fisicas
 
 **Slug:** `invitaciones_fisicas`  
-**Total leads:** 13  
-**Alta:** 4 · **Media:** 9 · **Baja:** 0  
-**Con email:** 0 · **Con teléfono:** 4 · **Con URL:** 13
+**Total leads:** 14  
+**Alta:** 4 · **Media:** 10 · **Baja:** 0  
+**Con email:** 0 · **Con teléfono:** 4 · **Con URL:** 14
 
 Ejemplo original: https://paradisaprint.com/
 
@@ -32,4 +32,5 @@ Ejemplo original: https://paradisaprint.com/
 | 10 | Invitaciones fisicas (ejemplo original) | https://paradisaprint.com/ |  |  |  | Media | Ejemplo original |
 | 11 | Invitación MX | https://invitacionmx.com/ |  |  | México | Media | Web + física |
 | 12 | InvitameOK | https://invitameok.com/ |  |  | México | Media | Ecom |
-| 13 | Samsara Invitaciones | https://www.samsarainvitaciones.com.mx/ |  |  | México | Media | Imprenta eventos |
+| 13 | La Invitación de Liana | https://www.lainvitaciondeliana.com/ |  |  | México | Media | Ecom |
+| 14 | Samsara Invitaciones | https://www.samsarainvitaciones.com.mx/ |  |  | México | Media | Imprenta eventos |

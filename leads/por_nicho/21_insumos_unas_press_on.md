@@ -1,9 +1,9 @@
 # Lote 21 — Belleza / Insumos para uñas, uñas press on
 
 **Slug:** `insumos_unas_press_on`  
-**Total leads:** 13  
-**Alta:** 4 · **Media:** 6 · **Baja:** 3  
-**Con email:** 2 · **Con teléfono:** 4 · **Con URL:** 9
+**Total leads:** 17  
+**Alta:** 4 · **Media:** 7 · **Baja:** 6  
+**Con email:** 2 · **Con teléfono:** 4 · **Con URL:** 10
 
 Ejemplo original: https://unikastudiomexico.com/
 
@@ -28,8 +28,12 @@ Ejemplo original: https://unikastudiomexico.com/
 | 6 | Insumos para uñas, uñas press on (ejemplo original) | https://unikastudiomexico.com/ |  |  |  | Media | Ejemplo original |
 | 7 | Kiss México | https://www.kissmexico.mx/collections/press-on |  |  | México | Media | Marca |
 | 8 | Mayoreo Luz María | https://luzma.catalog.to/ |  |  | México | Media | Mayoreo |
-| 9 | Mi Shop MX | https://www.mishop.mx/ |  |  | México | Media | Mayoreo |
-| 10 | Unika Studio México | https://unikastudiomexico.com/ |  |  | México | Media | Ejemplo original |
-| 11 | KISS imPRESS |  |  |  | México | Baja | Marca |
-| 12 | María Cibeles Royalty |  |  |  | México | Baja | Marca |
-| 13 | Sally Hansen |  |  |  | México | Baja | Marca |
+| 9 | MC Nails Oficial | https://mcnails.mx/ |  |  | México | Media | Marca |
+| 10 | Mi Shop MX | https://www.mishop.mx/ |  |  | México | Media | Mayoreo |
+| 11 | Unika Studio México | https://unikastudiomexico.com/ |  |  | México | Media | Ejemplo original |
+| 12 | KISS imPRESS |  |  |  | México | Baja | Marca |
+| 13 | María Cibeles Royalty |  |  |  | México | Baja | Marca |
+| 14 | Miss Cherry |  |  |  | México | Baja | Marca |
+| 15 | MISSTU |  |  |  | México | Baja | Marca |
+| 16 | Sally Hansen |  |  |  | México | Baja | Marca |
+| 17 | Studio Nails |  |  |  | México | Baja | Marca |

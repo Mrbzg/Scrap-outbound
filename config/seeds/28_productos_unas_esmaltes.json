@@ -84,6 +84,48 @@
       "telefono": "5512242149",
       "ciudad": "Tlalnepantla",
       "estado": "EdoMex"
+    },
+    {
+      "empresa": "MC Nails Oficial",
+      "tipo": "Marca",
+      "notas": "Kits de polygel, acrílico y esmaltes semipermanentes premium",
+      "fuente": "brand",
+      "url": "https://mcnails.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "MISSTU",
+      "tipo": "Marca",
+      "notas": "Kit polygel Beaucat 18 pcs, más vendido en ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Miss Cherry",
+      "tipo": "Marca",
+      "notas": "Kit poligel/acrigel sistema dual, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Studio Nails",
+      "tipo": "Marca",
+      "notas": "Polygel en colores, 4.8★ vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Wapizima Tienda",
+      "tipo": "Marca",
+      "notas": "Mayoreo de productos de uñas en GDL; asesoría a manicuristas",
+      "fuente": "research",
+      "url": "https://wapizima.shop/",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
     }
   ]
 }

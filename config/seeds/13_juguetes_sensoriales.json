@@ -171,6 +171,25 @@
       "telefono": "2222998488",
       "ciudad": "Puebla",
       "estado": "Puebla"
+    },
+    {
+      "empresa": "Mi Alegría",
+      "tipo": "Fabricante",
+      "notas": "60+ años fabricando juguetes didácticos y científicos MX",
+      "fuente": "brand",
+      "url": "https://www.facebook.com/mialegriacdmx/",
+      "telefono": "5551801240",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "JuguetiBici",
+      "tipo": "Ecom",
+      "notas": "Tienda en línea con línea Mi Alegría: didácticos, rompecabezas y manualidades",
+      "fuente": "research",
+      "url": "https://juguetibici.com/",
+      "ciudad": "México",
+      "estado": "México"
     }
   ]
 }

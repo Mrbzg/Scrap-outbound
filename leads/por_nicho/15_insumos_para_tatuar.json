@@ -162,6 +162,22 @@
   {
     "giro": "Medicina",
     "nicho": "Insumos para tatuar",
+    "empresa": "Dynamic Tattoo Ink",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "USA",
+    "estado": "",
+    "pais": "México",
+    "tipo": "Marca",
+    "notas": "Tinta Triple Black profesional, distribución MX vía Soulflower",
+    "fuente": "brand",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Medicina",
+    "nicho": "Insumos para tatuar",
     "empresa": "Eternal Ink",
     "url": "",
     "email": "",
@@ -242,6 +258,22 @@
   {
     "giro": "Medicina",
     "nicho": "Insumos para tatuar",
+    "empresa": "Radiant Colors",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "USA",
+    "estado": "",
+    "pais": "México",
+    "tipo": "Marca",
+    "notas": "Tintas de color profesionales, vía Soulflower",
+    "fuente": "brand",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Medicina",
+    "nicho": "Insumos para tatuar",
     "empresa": "World Famous Tattoo Ink",
     "url": "",
     "email": "",
@@ -254,5 +286,37 @@
     "fuente": "brand",
     "prioridad": "Media",
     "score_contacto": 2
+  },
+  {
+    "giro": "Medicina",
+    "nicho": "Insumos para tatuar",
+    "empresa": "Atomus",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Marca",
+    "notas": "Tintas y kits profesionales, vía ML",
+    "fuente": "brand",
+    "prioridad": "Baja",
+    "score_contacto": 1
+  },
+  {
+    "giro": "Medicina",
+    "nicho": "Insumos para tatuar",
+    "empresa": "EZ Cartuchos",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Marca",
+    "notas": "Cartuchos V-Select y EZ INKin Revo, venta MX",
+    "fuente": "brand",
+    "prioridad": "Baja",
+    "score_contacto": 1
   }
 ]

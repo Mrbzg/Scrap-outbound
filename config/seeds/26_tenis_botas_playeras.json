@@ -139,6 +139,24 @@
       "fuente": "research",
       "ciudad": "León",
       "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Grupo Máximo / Tenis Clon",
+      "tipo": "Fabricante",
+      "notas": "Fabricante de tenis clon; surtido desde 5 pares, medio mayoreo y mayoreo",
+      "fuente": "research",
+      "url": "https://clon.store/quienes-somos/",
+      "ciudad": "San Francisco del Rincón",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Bajío Shoes",
+      "tipo": "Fabricante",
+      "notas": "Calzado clon y nacional desde 2009; mayoreo y medio mayoreo",
+      "fuente": "research",
+      "url": "https://bajioshoes.com/",
+      "ciudad": "San Francisco del Rincón",
+      "estado": "Guanajuato"
     }
   ]
 }

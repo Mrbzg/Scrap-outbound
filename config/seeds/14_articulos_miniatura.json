@@ -93,6 +93,45 @@
       "fuente": "research",
       "ciudad": "Guadalajara",
       "estado": "Jalisco"
+    },
+    {
+      "empresa": "HO de México",
+      "tipo": "Ecom",
+      "notas": "Tienda virtual del ferromodelista mexicano: escalas HO, N, DCC, estructuras",
+      "fuente": "research",
+      "url": "https://treneshodemexico.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "B&P Toys-Trains",
+      "tipo": "Tienda",
+      "notas": "Escalas Z, N, HO, O y G; surtido de locomotoras y accesorios",
+      "fuente": "research",
+      "url": "https://www.toystrains.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Bachmann Trains",
+      "tipo": "Marca",
+      "notas": "Trenes HO/N y control DCC, importado",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Walthers",
+      "tipo": "Marca",
+      "notas": "Modelos HO y accesorios ferroviarios, importado",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Atlas Model Railroad",
+      "tipo": "Marca",
+      "notas": "Vías y modelos HO/N, vía HO de México",
+      "fuente": "brand",
+      "ciudad": "USA"
     }
   ]
 }

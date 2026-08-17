@@ -82,6 +82,22 @@
   {
     "giro": "Juguetes",
     "nicho": "Juguetes sensoriales y terapeuticos",
+    "empresa": "Mi Alegría",
+    "url": "https://www.facebook.com/mialegriacdmx/",
+    "email": "",
+    "telefono": "5551801240",
+    "ciudad": "CDMX",
+    "estado": "CDMX",
+    "pais": "México",
+    "tipo": "Fabricante",
+    "notas": "60+ años fabricando juguetes didácticos y científicos MX",
+    "fuente": "brand",
+    "prioridad": "Alta",
+    "score_contacto": 6
+  },
+  {
+    "giro": "Juguetes",
+    "nicho": "Juguetes sensoriales y terapeuticos",
     "empresa": "Toys2Teach",
     "url": "https://www.toys2teach.mx/",
     "email": "",
@@ -190,6 +206,22 @@
     "fuente": "ejemplo_cliente",
     "prioridad": "Media",
     "score_contacto": 2
+  },
+  {
+    "giro": "Juguetes",
+    "nicho": "Juguetes sensoriales y terapeuticos",
+    "empresa": "JuguetiBici",
+    "url": "https://juguetibici.com/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Ecom",
+    "notas": "Tienda en línea con línea Mi Alegría: didácticos, rompecabezas y manualidades",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Juguetes",

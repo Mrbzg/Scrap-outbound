@@ -290,6 +290,22 @@
   {
     "giro": "Papeleria",
     "nicho": "Tijeras con patron al corte",
+    "empresa": "Up&Scrap",
+    "url": "https://www.upandscrap.com/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "",
+    "estado": "",
+    "pais": "México",
+    "tipo": "Ecom",
+    "notas": "Tienda de scrapbooking con tijeras dentadas Chevron de Fiskars",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 3
+  },
+  {
+    "giro": "Papeleria",
+    "nicho": "Tijeras con patron al corte",
     "empresa": "We R Memory Keepers",
     "url": "",
     "email": "",
@@ -302,5 +318,21 @@
     "fuente": "brand",
     "prioridad": "Media",
     "score_contacto": 2
+  },
+  {
+    "giro": "Papeleria",
+    "nicho": "Tijeras con patron al corte",
+    "empresa": "DMC",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "",
+    "estado": "",
+    "pais": "México",
+    "tipo": "Marca",
+    "notas": "Hilos de bordar y tijeras, marca internacional",
+    "fuente": "brand",
+    "prioridad": "Baja",
+    "score_contacto": 1
   }
 ]

@@ -123,6 +123,34 @@
       "fuente": "brand",
       "ciudad": "México",
       "estado": "México"
+    },
+    {
+      "empresa": "Productos Möe",
+      "tipo": "Fabricante",
+      "notas": "Shampoo sólido, jabones y velas de soja; mayoreo con marca personal; Río Tuxpan 1049",
+      "fuente": "research",
+      "url": "https://www.productosmoe.com/",
+      "telefono": "3330365447",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Jabón de Zorro D'Avi",
+      "tipo": "Ecom",
+      "notas": "Champú sólido ecológico y artesanal; venta por mayor y menor",
+      "fuente": "research",
+      "url": "https://www.jabondezorro.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Laguna Cyprien",
+      "tipo": "Marca",
+      "notas": "Shampoo sólido sin sulfatos ni plásticos, hecho en México",
+      "fuente": "brand",
+      "url": "https://lagunacyprien.mx/",
+      "ciudad": "México",
+      "estado": "México"
     }
   ]
 }

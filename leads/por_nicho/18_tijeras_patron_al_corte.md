@@ -1,9 +1,9 @@
 # Lote 18 — Papeleria / Tijeras con patron al corte
 
 **Slug:** `tijeras_patron_al_corte`  
-**Total leads:** 19  
-**Alta:** 8 · **Media:** 11 · **Baja:** 0  
-**Con email:** 5 · **Con teléfono:** 8 · **Con URL:** 18
+**Total leads:** 21  
+**Alta:** 8 · **Media:** 12 · **Baja:** 1  
+**Con email:** 5 · **Con teléfono:** 8 · **Con URL:** 19
 
 Ejemplo original: https://yoyi.com.mx/
 
@@ -42,4 +42,6 @@ Ejemplo original: https://yoyi.com.mx/
 | 16 | Super Papelera | https://superpapelera.com.mx/ |  |  | Toluca | Media | Mayoreo |
 | 17 | Tijeras con patron al corte (ejemplo original) | https://yoyi.com.mx/ |  |  |  | Media | Ejemplo original |
 | 18 | UCEC | https://www.amazon.com.mx/ |  |  | México | Media | Marca |
-| 19 | We R Memory Keepers |  |  |  | USA | Media | Marca |
+| 19 | Up&Scrap | https://www.upandscrap.com/ |  |  |  | Media | Ecom |
+| 20 | We R Memory Keepers |  |  |  | USA | Media | Marca |
+| 21 | DMC |  |  |  |  | Baja | Marca |

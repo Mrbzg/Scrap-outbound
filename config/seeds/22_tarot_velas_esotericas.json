@@ -138,6 +138,32 @@
       "fuente": "research",
       "ciudad": "CDMX",
       "estado": "CDMX"
+    },
+    {
+      "empresa": "Bougie Boyer",
+      "tipo": "Fabricante",
+      "notas": "Fábrica de velas desde 1951: decorativas, aromáticas, soya, masaje; venta de fábrica",
+      "fuente": "research",
+      "url": "https://bougieboyer.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "The Candle Place",
+      "tipo": "Fabricante",
+      "notas": "Velas de cera de soya artesanales; capacidad 10,000/mes; desarrollo de marcas",
+      "fuente": "research",
+      "url": "https://thecandleplace.mx/",
+      "ciudad": "EdoMex",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Velas Artesanal MX (Monte Vitro)",
+      "tipo": "Marca",
+      "notas": "Velas aromáticas citronela en balde, 4.8★ vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
     }
   ]
 }
