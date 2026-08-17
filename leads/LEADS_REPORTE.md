@@ -475,6 +475,8 @@ Lote 06 exportado: `leads/por_nicho/06_maquillaje_artistico.*` — **232 leads**
 
 ### Regalos — Cestas de regalo
 
+Lote 08 exportado: `leads/por_nicho/08_cestas_de_regalo.*` — **244 leads** (99 Alta).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
 | Arcones Gourmet | https://arconesgourmet.com/ | D2C regalos | **Alta** | Canastas gourmet CDMX, productos artesanales MX |
