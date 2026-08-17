@@ -198,7 +198,35 @@ lotes:
       - regalos corporativos gourmet .mx
       - fábrica canastas empresariales México
 
-# Plantilla para lotes futuros (09+)
+  "09":
+    slug: almohadas_cobijas
+    giro: Blancos
+    nicho: Almohadas, cobijas
+    ejemplo: https://mintandlime.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/09_almohadas_cobijas.json
+    search_queries:
+      - fábrica blancos hotel México mayoreo almohadas
+      - cobijas cobertores mayoreo México
+      - colchones almohadas D2C .mx
+
+  "10":
+    slug: cargadores_porta_laptop
+    giro: Tecnologia
+    nicho: Cargadores, porta laptop
+    ejemplo: https://doto.com.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/10_cargadores_porta_laptop.json
+    search_queries:
+      - mayoreo accesorios celular México fundas cargadores
+      - porta laptop mochila tienda .mx
+      - dropshipping accesorios electrónicos México
+
+# Plantilla para lotes futuros (11+)
 # Copiar bloque y llenar sources + seeds
 template_lote:
   slug: ""

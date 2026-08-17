@@ -277,11 +277,15 @@ Lote 06 exportado: `leads/por_nicho/06_maquillaje_artistico.*` — **232 leads**
 
 ### Blancos — Almohadas, cobijas
 
+Lote 09 exportado: `leads/por_nicho/09_almohadas_cobijas.*` — **215 leads** (51 Alta).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| Blancos Azteca | https://listado.mercadolibre.com.mx/almohadas_Store_blancos-azteca | Marca D2C | **Alta** | Almohadas muy vendidas MX |
-| Sognare | https://www.sognare.com.mx/ | Marca colchones/blancos | **Media** | Almohadas y blancos premium |
-| Luuna | https://luuna.mx/ | Marca D2C | **Media** | Almohadas memory foam |
+| Blancos Mexicanos | https://www.blancosmexicanos.com/ | Fabricante mayoreo | **Alta** | blancosmexico@hotmail.com |
+| Blancolor | https://blancolor.com.mx/ | Fabricante hotelero | **Alta** | info@blancolor.com.mx |
+| Blancos Casa Linda | https://blancoscasalinda.com.mx/ | Mayoreo hotel/Airbnb | **Alta** | Lomas de Sotelo |
+| La Nueva Perla | https://lanuevaperla.com/ | Fábrica textil | **Alta** | +80 años GDL |
+| Luuna | https://luuna.mx/ | Marca D2C | **Alta** | hola@luuna.mx |
 | Mint and Lime (ejemplo) | https://mintandlime.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
 
 ### Coleccionables — Cartas/tarjetas de colección
@@ -529,8 +533,15 @@ Lote 07 exportado: `leads/por_nicho/07_disfraces.*` — **242 leads** (75 Alta).
 
 ### Tecnología — Cargadores, porta laptop
 
+Lote 10 exportado: `leads/por_nicho/10_cargadores_porta_laptop.*` — **205 leads** (34 Alta).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
+| Unicell México | https://unicell.com.mx/ | Mayoreo fundas | **Alta** | Eje Central, 55 6368 1724 |
+| MOCA Distribuidora | https://mocadistribuidora.com/ | Mayoreo accesorios | **Alta** | Monterrey + GDL |
+| PCH Connect | https://shop.pchconnect.com/ | Mayoreo tech | **Alta** | hola@pchconnect.com |
+| DDTech | https://www.ddtech.mx/ | Ecom + tienda | **Alta** | ventas@ddtech.mx |
+| ELE-GATE | https://www.ele-gate.com/ | Mayoreo B2B | **Media** | Dropshipping 32 estados |
 | Doto (ejemplo) | https://doto.com.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
 
 ### Zapatos — Zapatos para danza

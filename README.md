@@ -78,6 +78,8 @@ leads/por_nicho/{ID}_{slug}.csv|.json|.md
 | 06 | Maquillaje artístico / FX | `06_maquillaje_artistico.*` |
 | 07 | Disfraces | `07_disfraces.*` |
 | 08 | Cestas de regalo / arcones | `08_cestas_de_regalo.*` |
+| 09 | Almohadas y cobijas | `09_almohadas_cobijas.*` |
+| 10 | Cargadores / porta laptop | `10_cargadores_porta_laptop.*` |
 
 Catálogo: `leads/nichos.json` (58 nichos).
 
