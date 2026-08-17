@@ -1,0 +1,845 @@
+{
+  "lote": "43",
+  "slug": "vitaminas_suplementos",
+  "description": "Vitaminas y suplementos MX",
+  "leads": [
+    {
+      "empresa": "B Life (ejemplo)",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — vitaminas y suplementos D2C",
+      "fuente": "ejemplo_cliente",
+      "url": "https://www.blife.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Farmacias del Ahorro",
+      "tipo": "Retail",
+      "notas": "Cadena nacional de farmacias con línea de vitaminas",
+      "fuente": "brand",
+      "url": "https://www.fahorro.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Farmacias Guadalajara",
+      "tipo": "Retail",
+      "notas": "Cadena nacional con sección de suplementos",
+      "fuente": "brand",
+      "url": "https://www.farmaciasguadalajara.com.mx/",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Farmacias San Pablo",
+      "tipo": "Retail",
+      "notas": "Cadena de farmacias CDMX",
+      "fuente": "brand",
+      "url": "https://farmaciasanpablo.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Farmacias Benavides",
+      "tipo": "Retail",
+      "notas": "Cadena de farmacias del norte",
+      "fuente": "brand",
+      "url": "https://www.benavides.com.mx/",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Farmacias del Sol",
+      "tipo": "Retail",
+      "notas": "Cadena de farmacias CDMX",
+      "fuente": "brand",
+      "url": "https://www.farmaciasdelsol.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Farmacias YZA",
+      "tipo": "Retail",
+      "notas": "Cadena de farmacias CDMX",
+      "fuente": "brand",
+      "url": "https://farmaciasyza.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Farmacias ABC",
+      "tipo": "Retail",
+      "notas": "Cadena de farmacias CDMX",
+      "fuente": "brand",
+      "url": "https://farmaciasabc.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Farmacias Roma",
+      "tipo": "Retail",
+      "notas": "Cadena de farmacias CDMX",
+      "fuente": "brand",
+      "url": "https://www.farmaciasroma.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Farmacias Morelos",
+      "tipo": "Retail",
+      "notas": "Cadena de farmacias del sur",
+      "fuente": "brand",
+      "url": "https://www.farmaciasmorelos.com.mx/",
+      "ciudad": "Cuernavaca",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Walmart México",
+      "tipo": "Retail",
+      "notas": "Autoservicio con sección de vitaminas",
+      "fuente": "brand",
+      "url": "https://www.walmart.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Soriana",
+      "tipo": "Retail",
+      "notas": "Autoservicio con sección de vitaminas",
+      "fuente": "brand",
+      "url": "https://www.soriana.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Costco México",
+      "tipo": "Retail",
+      "notas": "Mayoreo de vitaminas (Kirkland)",
+      "fuente": "brand",
+      "url": "https://www.costco.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Sam's Club México",
+      "tipo": "Retail",
+      "notas": "Mayoreo de vitaminas (Member's Mark)",
+      "fuente": "brand",
+      "url": "https://www.sams.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "HEB México",
+      "tipo": "Retail",
+      "notas": "Autoservicio del noreste",
+      "fuente": "brand",
+      "url": "https://www.heb.com.mx/",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Chedraui",
+      "tipo": "Retail",
+      "notas": "Autoservicio con sección de vitaminas",
+      "fuente": "brand",
+      "url": "https://www.chedraui.com.mx/",
+      "ciudad": "Xalapa",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "La Comer",
+      "tipo": "Retail",
+      "notas": "Autoservicio con sección de vitaminas",
+      "fuente": "brand",
+      "url": "https://www.lacomer.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "City Club",
+      "tipo": "Retail",
+      "notas": "Club de precios con vitaminas por mayoreo",
+      "fuente": "brand",
+      "url": "https://www.cityclub.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Casa Ley",
+      "tipo": "Retail",
+      "notas": "Autoservicio del noroeste",
+      "fuente": "brand",
+      "url": "https://www.casaley.mx/",
+      "ciudad": "Culiacán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Laboratorios PiSA",
+      "tipo": "Laboratorio",
+      "notas": "Farmacéutica mexicana con línea de vitaminas",
+      "fuente": "brand",
+      "url": "https://www.pisa.com.mx/",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Genomma Lab",
+      "tipo": "Laboratorio",
+      "notas": "Farmacéutica mexicana (Amino Vida, Rescata)",
+      "fuente": "brand",
+      "url": "https://www.genommalab.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Sanfer",
+      "tipo": "Laboratorio",
+      "notas": "Farmacéutica mexicana",
+      "fuente": "brand",
+      "url": "https://www.sanfer.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Laboratorios Liomont",
+      "tipo": "Laboratorio",
+      "notas": "Farmacéutica mexicana (Frubiés, Bion)",
+      "fuente": "brand",
+      "url": "https://www.liomont.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Laboratorios Carnot",
+      "tipo": "Laboratorio",
+      "notas": "Farmacéutica mexicana",
+      "fuente": "brand",
+      "url": "https://www.carnot.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Bayer México",
+      "tipo": "Laboratorio",
+      "notas": "Berocca, Supradyn, One A Day",
+      "fuente": "brand",
+      "url": "https://www.bayer.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "GSK México",
+      "tipo": "Laboratorio",
+      "notas": "Pharmaton y multivitamínicos",
+      "fuente": "brand",
+      "url": "https://www.gsk.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Pfizer México",
+      "tipo": "Laboratorio",
+      "notas": "Centrum",
+      "fuente": "brand",
+      "url": "https://www.pfizer.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Merck México",
+      "tipo": "Laboratorio",
+      "notas": "Productos de salud",
+      "fuente": "brand",
+      "url": "https://www.merckgroup.com/mx",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Abbott México",
+      "tipo": "Laboratorio",
+      "notas": "Ensure y nutrición",
+      "fuente": "brand",
+      "url": "https://www.abbott.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Sanofi México",
+      "tipo": "Laboratorio",
+      "notas": "Magnesio y suplementos",
+      "fuente": "brand",
+      "url": "https://www.sanofi.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Grisi",
+      "tipo": "Marca",
+      "notas": "Vitaminas y salud, marca mexicana",
+      "fuente": "brand",
+      "url": "https://www.grisi.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Omnilife",
+      "tipo": "Marca",
+      "notas": "Suplementos alimenticios MLM mexicano",
+      "fuente": "brand",
+      "url": "https://www.omnilife.com/",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Herbalife México",
+      "tipo": "Marca",
+      "notas": "Nutrición deportiva y control de peso",
+      "fuente": "brand",
+      "url": "https://www.herbalife.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "GNC México",
+      "tipo": "Marca",
+      "notas": "Tienda especializada en suplementos",
+      "fuente": "brand",
+      "url": "https://www.gnc.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Nutrilite / Amway",
+      "tipo": "Marca",
+      "notas": "Vitaminas y suplementos por consultoría",
+      "fuente": "brand",
+      "url": "https://www.amway.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Vitaflor",
+      "tipo": "Marca",
+      "notas": "Suplementos mexicanos",
+      "fuente": "brand",
+      "url": "https://www.vitaflor.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Nature's Way",
+      "tipo": "Marca",
+      "notas": "Suplementos importados, venta ML",
+      "fuente": "brand",
+      "url": "https://www.naturesway.com/",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "NOW Foods",
+      "tipo": "Marca",
+      "notas": "Suplementos importados, distribución MX",
+      "fuente": "brand",
+      "url": "https://www.nowfoods.com/",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Solaray",
+      "tipo": "Marca",
+      "notas": "Vitaminas importadas, venta MX",
+      "fuente": "brand",
+      "url": "https://www.solaray.com/",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Doctor's Best",
+      "tipo": "Marca",
+      "notas": "Suplementos importados, venta MX",
+      "fuente": "brand",
+      "url": "https://www.drbvitamins.com/",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Swanson Health",
+      "tipo": "Marca",
+      "notas": "Vitaminas importadas, venta MX",
+      "fuente": "brand",
+      "url": "https://www.swansonvitamins.com/",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Kirkland Signature",
+      "tipo": "Marca",
+      "notas": "Multivitamínicos por mayoreo en Costco",
+      "fuente": "brand",
+      "url": "https://www.costco.com.mx/",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Member's Mark",
+      "tipo": "Marca",
+      "notas": "Multivitamínicos por mayoreo en Sam's",
+      "fuente": "brand",
+      "url": "https://www.sams.com.mx/",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Vitaldin",
+      "tipo": "Marca",
+      "notas": "Suplementos mexicanos",
+      "fuente": "brand",
+      "url": "https://www.vitaldin.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Nutriólogos / MediNat",
+      "tipo": "Marca",
+      "notas": "Suplementos mexicanos",
+      "fuente": "brand",
+      "url": "https://www.medinat.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Gummy Life",
+      "tipo": "D2C",
+      "notas": "Gomitas vitamínicas mexicanas (biotina, omega 3, magnesio)",
+      "fuente": "research",
+      "url": "https://www.gummylife.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "B Life",
+      "tipo": "D2C",
+      "notas": "Suplementos y vitaminas ecom",
+      "fuente": "research",
+      "url": "https://www.blife.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Vital Suplementos MX",
+      "tipo": "D2C",
+      "notas": "Gomitas de vitaminas y suplementos",
+      "fuente": "research",
+      "url": "https://vitalsuplementosmex.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Plenlife",
+      "tipo": "Marca",
+      "notas": "Gomitas calcio+vit D y multivitamínico, vía ML",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Geomed",
+      "tipo": "Distribuidor",
+      "notas": "Distribuye Plenlife en ML (4.9★)",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Suplefit MX",
+      "tipo": "Distribuidor",
+      "notas": "Vitafusion y gomitas importadas vía ML",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "OK Vitaminas",
+      "tipo": "Distribuidor",
+      "notas": "Nature's Way y gomitas vía ML",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Básicos de la casa",
+      "tipo": "Distribuidor",
+      "notas": "Nature Made y Centrum vía ML",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Vitamin World",
+      "tipo": "Distribuidor",
+      "notas": "Natrol melatonina gomitas vía ML",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Belabear",
+      "tipo": "Marca",
+      "notas": "Gomitas multivitamínico women 150 pzs",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "C-Boost",
+      "tipo": "Marca",
+      "notas": "Gomitas multivitamínicas 180 pzs",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Heally",
+      "tipo": "Marca",
+      "notas": "Multivitamínico + colágeno en gomitas",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Vitafusion",
+      "tipo": "Marca",
+      "notas": "Gomitas multivitamínicas, importado",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Nature Made",
+      "tipo": "Marca",
+      "notas": "Gomitas omega 3 y magnesio, importado",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Natrol",
+      "tipo": "Marca",
+      "notas": "Melatonina en gomitas, importado",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Nature's Bounty",
+      "tipo": "Marca",
+      "notas": "Gomitas zinc y multivitamínicas, importado",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Nature's Truth",
+      "tipo": "Marca",
+      "notas": "Vitamina D3 gomitas, importado",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Centrum",
+      "tipo": "Marca",
+      "notas": "Multivitamínico + omega, importado",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Berocca (Bayer)",
+      "tipo": "Marca",
+      "notas": "Efervescentes de vitaminas B+C",
+      "fuente": "brand",
+      "ciudad": "Alemania"
+    },
+    {
+      "empresa": "Supradyn (Bayer)",
+      "tipo": "Marca",
+      "notas": "Multivitamínico energético",
+      "fuente": "brand",
+      "ciudad": "Alemania"
+    },
+    {
+      "empresa": "Pharmaton (GSK)",
+      "tipo": "Marca",
+      "notas": "Multivitamínico con ginseng",
+      "fuente": "brand",
+      "ciudad": "Suiza"
+    },
+    {
+      "empresa": "Multicentrum",
+      "tipo": "Marca",
+      "notas": "Multivitamínico, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "One A Day",
+      "tipo": "Marca",
+      "notas": "Multivitamínicos, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Amino Vida (Genomma)",
+      "tipo": "Marca",
+      "notas": "Suplemento para cabello y uñas",
+      "fuente": "brand",
+      "url": "https://www.genommalab.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Frubiés (Liomont)",
+      "tipo": "Marca",
+      "notas": "Vitaminas efervescentes",
+      "fuente": "brand",
+      "url": "https://www.liomont.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Optimum Nutrition",
+      "tipo": "Marca",
+      "notas": "Proteínas y suplementos deportivos, distribución MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "MuscleTech",
+      "tipo": "Marca",
+      "notas": "Suplementos deportivos, distribución MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Dymatize",
+      "tipo": "Marca",
+      "notas": "Proteínas y aminoácidos, distribución MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "BSN",
+      "tipo": "Marca",
+      "notas": "Suplementos deportivos, distribución MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Universal Nutrition",
+      "tipo": "Marca",
+      "notas": "Suplementos deportivos, distribución MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Myprotein",
+      "tipo": "D2C",
+      "notas": "Suplementos en línea con operación MX",
+      "fuente": "brand",
+      "url": "https://www.myprotein.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Prozis",
+      "tipo": "D2C",
+      "notas": "Suplementos en línea, operación MX",
+      "fuente": "brand",
+      "url": "https://www.prozis.com/mx",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Zumub",
+      "tipo": "D2C",
+      "notas": "Suplementos en línea, operación MX",
+      "fuente": "brand",
+      "url": "https://www.zumub.com/mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "iHerb",
+      "tipo": "D2C",
+      "notas": "Tienda internacional de suplementos con envío a MX",
+      "fuente": "brand",
+      "url": "https://es.iherb.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Sundown Naturals",
+      "tipo": "Marca",
+      "notas": "Vitaminas importadas, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Schiff",
+      "tipo": "Marca",
+      "notas": "Vitaminas y omega, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Carlson Labs",
+      "tipo": "Marca",
+      "notas": "Vitaminas y omega, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Garden of Life",
+      "tipo": "Marca",
+      "notas": "Suplementos orgánicos, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Jarrow Formulas",
+      "tipo": "Marca",
+      "notas": "Suplementos importados, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Life Extension",
+      "tipo": "Marca",
+      "notas": "Suplementos importados, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Thorne Research",
+      "tipo": "Marca",
+      "notas": "Suplementos médicos, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "MegaFood",
+      "tipo": "Marca",
+      "notas": "Vitaminas alimentarias, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Pure Encapsulations",
+      "tipo": "Marca",
+      "notas": "Suplementos hipoalergénicos, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Innvictus",
+      "tipo": "Retail",
+      "notas": "Tienda deportiva MX con suplementos",
+      "fuente": "brand",
+      "url": "https://www.innvictus.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Marathón Sports",
+      "tipo": "Retail",
+      "notas": "Tienda deportiva MX con suplementos",
+      "fuente": "brand",
+      "url": "https://www.marathon-sports.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Deportes Martí",
+      "tipo": "Retail",
+      "notas": "Tienda deportiva MX con suplementos",
+      "fuente": "brand",
+      "url": "https://www.marti.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Nutrisport",
+      "tipo": "Marca",
+      "notas": "Suplementos mexicanos",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Casa Marzam",
+      "tipo": "Mayoreo",
+      "notas": "Distribuidora farmacéutica nacional",
+      "fuente": "brand",
+      "url": "https://www.marzam.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Nadro",
+      "tipo": "Mayoreo",
+      "notas": "Distribuidora farmacéutica nacional",
+      "fuente": "brand",
+      "url": "https://www.nadro.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Fármacos Nacionales",
+      "tipo": "Mayoreo",
+      "notas": "Distribuidora farmacéutica",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Almacén de Medicinas",
+      "tipo": "Mayoreo",
+      "notas": "Distribuidora farmacéutica",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Disur",
+      "tipo": "Mayoreo",
+      "notas": "Distribuidora farmacéutica",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Fármacos Especializados",
+      "tipo": "Mayoreo",
+      "notas": "Distribuidora farmacéutica",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Amazon MX vitaminas",
+      "tipo": "Marketplace",
+      "notas": "Sellers de vitaminas y suplementos",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=vitaminas+y+suplementos",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mercado Libre suplementos",
+      "tipo": "Marketplace",
+      "notas": "Mayoreo de suplementos",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/suplementos-alimenticios-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "TikTok Shop suplementos",
+      "tipo": "Marketplace",
+      "notas": "Venta de suplementos D2C",
+      "fuente": "research",
+      "url": "https://shop.tiktok.com/",
+      "ciudad": "México",
+      "estado": "México"
+    }
+  ]
+}

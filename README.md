@@ -112,6 +112,7 @@ leads/por_nicho/{ID}_{slug}.csv|.json|.md
 | 40 | Perfumes | `40_perfumes.*` |
 | 41 | Scoops / sorpresas | `41_scoops_sorpresas.*` |
 | 42 | Artículos para adultos | `42_articulos_para_adultos.*` |
+| 43 | Vitaminas y suplementos | `43_vitaminas_suplementos.*` |
 
 Catálogo: `leads/nichos.json` (58 nichos).
 

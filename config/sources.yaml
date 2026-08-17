@@ -679,7 +679,21 @@ lotes:
       - juguetes sexuales mayoreo México distribuidor
       - sex shop CDMX Guadalajara Monterrey Tijuana tienda física
 
-# Plantilla para lotes futuros (43+)
+  "43":
+    slug: vitaminas_suplementos
+    giro: Salud
+    nicho: Vitaminas y suplementos
+    ejemplo: https://www.blife.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/43_vitaminas_suplementos.json
+    search_queries:
+      - vitaminas suplementos tienda México .mx
+      - suplementos alimenticios mayoreo México farmacias
+      - marcas de suplementos México laboratorios
+
+# Plantilla para lotes futuros (44+)
 # Copiar bloque y llenar sources + seeds
 template_lote:
   slug: ""
