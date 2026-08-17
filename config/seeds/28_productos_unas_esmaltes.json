@@ -1,0 +1,1776 @@
+{
+  "lote": "28",
+  "slug": "productos_unas_esmaltes",
+  "description": "Esmaltes, pegamentos y piedritas para uñas MX",
+  "leads": [
+    {
+      "empresa": "Círculo B",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — esmaltes, pegamentos, piedritas",
+      "fuente": "ejemplo_cliente",
+      "url": "https://circulob.mx/",
+      "email": "contacto@circulob.mx",
+      "telefono": "2381270502",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Círculo B 2o tel extra",
+      "tipo": "Mayoreo",
+      "notas": "Independencia Ote 113",
+      "fuente": "research",
+      "url": "https://circulob.mx/",
+      "email": "contacto@circulob.mx",
+      "telefono": "2383835992",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Círculo B 3er tel extra",
+      "tipo": "Canal",
+      "notas": "ATC",
+      "fuente": "research",
+      "url": "https://circulob.mx/",
+      "email": "contacto@circulob.mx",
+      "telefono": "2381080231",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Bella Bella Distribuidora",
+      "tipo": "Mayoreo",
+      "notas": "Mín. $8000, WA 5614874776, Miss Cherry / Fantasy",
+      "fuente": "research",
+      "url": "https://bellabella.mx/",
+      "email": "ventas@bellabella.mx",
+      "telefono": "5588530819",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Bella Bella WA extra",
+      "tipo": "Canal WA",
+      "notas": "Pedido + cotización",
+      "fuente": "research",
+      "url": "https://bellabella.mx/resuelve-tus-dudas/",
+      "email": "contacto@bellabella.com.mx",
+      "telefono": "5614874776",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Nails Shop SLP",
+      "tipo": "Mayoreo",
+      "notas": "Río Verde 315, Fantasy/Organic/Wapizima",
+      "fuente": "research",
+      "url": "https://www.nailsshop.com.mx/",
+      "telefono": "4448096424",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Nails Shop WA extra",
+      "tipo": "Canal WA",
+      "notas": "Subdistribuidor",
+      "fuente": "research",
+      "url": "https://www.nailsshop.com.mx/",
+      "telefono": "4443288908",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Fantasy Nails Shop CDMX",
+      "tipo": "Mayoreo",
+      "notas": "Envíos nacionales",
+      "fuente": "research",
+      "url": "https://www.facebook.com/fantasynailscdmx/",
+      "telefono": "5579007784",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Wapizima",
+      "tipo": "Marca",
+      "notas": "Esmaltes y acrílico nacional",
+      "fuente": "research",
+      "url": "https://wapizima.shop/",
+      "email": "antonio@wapizima.info",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mi Shop MX extra",
+      "tipo": "Mayoreo",
+      "notas": "Accesorios y piedritas",
+      "fuente": "research",
+      "url": "https://www.mishop.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Organic Nails gel extra",
+      "tipo": "Marca",
+      "notas": "Top / base / matte coat",
+      "fuente": "brand",
+      "url": "https://bellabella.mx/departamento/nailsmarket/esmaltesengel/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Fantasy Nails gel extra",
+      "tipo": "Marca",
+      "notas": "Finish top / matte terciopelo",
+      "fuente": "brand",
+      "url": "https://www.nailsshop.com.mx/collections/fantasy-nails",
+      "telefono": "4448096424",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Miss Cherry extra",
+      "tipo": "Marca",
+      "notas": "Gamas A-R / glow",
+      "fuente": "brand",
+      "url": "https://bellabella.mx/departamento/nailsmarket/esmaltesengel/",
+      "email": "ventas@bellabella.mx",
+      "telefono": "5588530819",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Nail Factory extra",
+      "tipo": "Marca",
+      "notas": "Pegamento foil / removedor",
+      "fuente": "brand",
+      "url": "https://bellabella.mx/departamento/nailsmarket/esmaltesengel/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mussa extra",
+      "tipo": "Marca",
+      "notas": "Gel color",
+      "fuente": "brand",
+      "url": "https://www.nailsshop.com.mx/",
+      "telefono": "4448096424",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "GC Nails extra",
+      "tipo": "Marca",
+      "notas": "Belcolor pack",
+      "fuente": "brand",
+      "url": "https://www.nailsshop.com.mx/",
+      "telefono": "4448096424",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "MC Nails extra",
+      "tipo": "Marca",
+      "notas": "Esmalte / tips",
+      "fuente": "brand",
+      "url": "https://www.nailsshop.com.mx/",
+      "telefono": "4448096424",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Obelli extra",
+      "tipo": "Marca",
+      "notas": "Top coat 10 ml",
+      "fuente": "brand",
+      "url": "https://bellabella.mx/departamento/nailsmarket/esmaltesengel/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "One Shot extra",
+      "tipo": "Marca",
+      "notas": "Pinturas nail art",
+      "fuente": "brand",
+      "url": "https://www.nailsshop.com.mx/",
+      "telefono": "4448096424",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Gelish 21 días extra",
+      "tipo": "Marca",
+      "notas": "RJ gamas",
+      "fuente": "brand",
+      "url": "https://bellabella.mx/departamento/nailsmarket/esmaltesengel/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Círculo B envíos extra",
+      "tipo": "Logística",
+      "notas": "Gratis >$1999",
+      "fuente": "research",
+      "url": "https://circulob.mx/",
+      "email": "contacto@circulob.mx",
+      "telefono": "2381270502",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Círculo B horario extra",
+      "tipo": "Operación",
+      "notas": "L-S 9-20:30",
+      "fuente": "research",
+      "url": "https://circulob.mx/",
+      "email": "contacto@circulob.mx",
+      "telefono": "2381270502",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Bella Bella mínimo extra",
+      "tipo": "Política",
+      "notas": "Mayoreo $8000",
+      "fuente": "research",
+      "url": "https://bellabella.mx/resuelve-tus-dudas/",
+      "email": "contacto@bellabella.com.mx",
+      "telefono": "5588530819",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Bella Bella tienda extra",
+      "tipo": "Sucursal",
+      "notas": "Solo CDMX física",
+      "fuente": "research",
+      "url": "https://bellabella.mx/",
+      "email": "ventas@bellabella.mx",
+      "telefono": "5588530819",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Esmalte gel soak off extra",
+      "tipo": "Producto",
+      "notas": "Semipermanente",
+      "fuente": "research",
+      "url": "https://circulob.mx/",
+      "email": "contacto@circulob.mx",
+      "telefono": "2381270502",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Base coat extra",
+      "tipo": "Producto",
+      "notas": "Organic / Miss Cherry",
+      "fuente": "research",
+      "url": "https://bellabella.mx/departamento/nailsmarket/esmaltesengel/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Top coat brillo extra",
+      "tipo": "Producto",
+      "notas": "Fantasy / Obelli",
+      "fuente": "research",
+      "url": "https://bellabella.mx/departamento/nailsmarket/esmaltesengel/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Top coat matte extra",
+      "tipo": "Producto",
+      "notas": "Terciopelo",
+      "fuente": "research",
+      "url": "https://bellabella.mx/departamento/nailsmarket/esmaltesengel/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Pegamento uñas extra",
+      "tipo": "Producto",
+      "notas": "Nail glue",
+      "fuente": "research",
+      "url": "https://circulob.mx/",
+      "email": "contacto@circulob.mx",
+      "telefono": "2381270502",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Pegamento foil extra",
+      "tipo": "Producto",
+      "notas": "Nail Factory",
+      "fuente": "research",
+      "url": "https://bellabella.mx/departamento/nailsmarket/esmaltesengel/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Piedritas / cristales extra",
+      "tipo": "Producto",
+      "notas": "Decoración",
+      "fuente": "research",
+      "url": "https://circulob.mx/",
+      "email": "contacto@circulob.mx",
+      "telefono": "2381270502",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Strass / swarovski extra",
+      "tipo": "Producto",
+      "notas": "Nail art lujo",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Perlas / caviar extra",
+      "tipo": "Producto",
+      "notas": "3D",
+      "fuente": "research",
+      "url": "https://circulob.mx/",
+      "telefono": "2381270502",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Glitter / foil extra",
+      "tipo": "Producto",
+      "notas": "Nail art",
+      "fuente": "research",
+      "url": "https://www.nailsshop.com.mx/",
+      "telefono": "4448096424",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Stickers / decals extra",
+      "tipo": "Producto",
+      "notas": "Nail art",
+      "fuente": "research",
+      "url": "https://circulob.mx/",
+      "telefono": "2381270502",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Pigmento chrome extra",
+      "tipo": "Producto",
+      "notas": "Espejo",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Protein bond extra",
+      "tipo": "Insumo",
+      "notas": "Organic Nails",
+      "fuente": "research",
+      "url": "https://bellabella.mx/departamento/nailsmarket/esmaltesengel/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Removedor de gel extra",
+      "tipo": "Consumible",
+      "notas": "Nail Factory",
+      "fuente": "research",
+      "url": "https://bellabella.mx/departamento/nailsmarket/esmaltesengel/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Fortalecedor extra",
+      "tipo": "Producto",
+      "notas": "Nail Factory",
+      "fuente": "research",
+      "url": "https://bellabella.mx/departamento/nailsmarket/esmaltesengel/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Kit base + top extra",
+      "tipo": "Paquete",
+      "notas": "Organic $555",
+      "fuente": "research",
+      "url": "https://bellabella.mx/departamento/nailsmarket/esmaltesengel/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Pack 50 Belcolor extra",
+      "tipo": "Paquete",
+      "notas": "GC Nails",
+      "fuente": "research",
+      "url": "https://www.nailsshop.com.mx/",
+      "telefono": "4448096424",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Gama glow extra",
+      "tipo": "Línea",
+      "notas": "Miss Cherry",
+      "fuente": "research",
+      "url": "https://bellabella.mx/departamento/nailsmarket/esmaltesengel/",
+      "email": "ventas@bellabella.mx",
+      "telefono": "5588530819",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Platinum 6 pz extra",
+      "tipo": "Línea",
+      "notas": "Semipermanente",
+      "fuente": "research",
+      "url": "https://bellabella.mx/departamento/nailsmarket/esmaltesengel/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Pinceles diseño extra",
+      "tipo": "Insumo",
+      "notas": "Organic Master #6",
+      "fuente": "research",
+      "url": "https://www.nailsshop.com.mx/",
+      "telefono": "4448096424",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Dotting tools extra",
+      "tipo": "Insumo",
+      "notas": "Nail art",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Lámpara LED extra",
+      "tipo": "Equipo",
+      "notas": "Curado gel",
+      "fuente": "research",
+      "url": "https://www.nailsshop.com.mx/",
+      "telefono": "4448096424",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Amazon MX esmaltes extra",
+      "tipo": "Marketplace",
+      "notas": "Sellers",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=esmalte+gel+unas",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "ML Organic Nails extra",
+      "tipo": "Marketplace",
+      "notas": "Mayoreo",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/productos-organic-nails-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "ML Fantasy extra",
+      "tipo": "Marketplace",
+      "notas": "Gel / acrílico",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/fantasy-nails-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Salones nail tech extra",
+      "tipo": "Canal B2B",
+      "notas": "Compran gel y strass",
+      "fuente": "research",
+      "url": "https://circulob.mx/",
+      "email": "contacto@circulob.mx",
+      "telefono": "2381270502",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Home nail techs extra",
+      "tipo": "Canal",
+      "notas": "Revenden esmalte",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Academias extra",
+      "tipo": "Educación",
+      "notas": "Técnicas color",
+      "fuente": "research",
+      "url": "https://wapizima.shop/",
+      "email": "antonio@wapizima.info",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Cluster Tehuacán extra",
+      "tipo": "Hub",
+      "notas": "Círculo B",
+      "fuente": "research",
+      "url": "https://circulob.mx/",
+      "email": "contacto@circulob.mx",
+      "telefono": "2381270502",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Cluster SLP extra",
+      "tipo": "Hub",
+      "notas": "Nails Shop",
+      "fuente": "research",
+      "url": "https://www.nailsshop.com.mx/",
+      "telefono": "4448096424",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Cluster CDMX extra",
+      "tipo": "Hub",
+      "notas": "Bella Bella",
+      "fuente": "research",
+      "url": "https://bellabella.mx/",
+      "email": "ventas@bellabella.mx",
+      "telefono": "5588530819",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Cluster Merced extra",
+      "tipo": "Cluster",
+      "notas": "Piedritas / bisutería uñas",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Temporada Halloween extra",
+      "tipo": "Temporada",
+      "notas": "Negros / glow",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Temporada novia extra",
+      "tipo": "Temporada",
+      "notas": "Nude / strass",
+      "fuente": "research",
+      "url": "https://circulob.mx/",
+      "telefono": "2381270502",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Navidad glitter extra",
+      "tipo": "Temporada",
+      "notas": "Rojo / oro",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "French extra",
+      "tipo": "Estilo",
+      "notas": "Blanco + base",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Baby boomer extra",
+      "tipo": "Estilo",
+      "notas": "Degradado",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Cat eye extra",
+      "tipo": "Estilo",
+      "notas": "Imán",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Esmalte tradicional extra",
+      "tipo": "Producto",
+      "notas": "Secado aire",
+      "fuente": "research",
+      "url": "https://circulob.mx/",
+      "email": "contacto@circulob.mx",
+      "telefono": "2381270502",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Semipermanente extra",
+      "tipo": "Producto",
+      "notas": "21 días",
+      "fuente": "research",
+      "url": "https://bellabella.mx/departamento/nailsmarket/esmaltesengel/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Builder / rubber extra",
+      "tipo": "Producto",
+      "notas": "Estructura",
+      "fuente": "research",
+      "url": "https://www.nailsshop.com.mx/",
+      "telefono": "4448096424",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Polygel extra",
+      "tipo": "Producto",
+      "notas": "Híbrido",
+      "fuente": "research",
+      "url": "https://www.nailsshop.com.mx/",
+      "telefono": "4448096424",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Acetona extra",
+      "tipo": "Consumible",
+      "notas": "Soak off",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Toallas lint-free extra",
+      "tipo": "Consumible",
+      "notas": "Prep",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Displays esmalte extra",
+      "tipo": "Insumo",
+      "notas": "Salón",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "TikTok nail art extra",
+      "tipo": "Canal digital",
+      "notas": "Tendencia",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Instagram Círculo B extra",
+      "tipo": "Canal",
+      "notas": "Social",
+      "fuente": "research",
+      "url": "https://circulob.mx/",
+      "email": "contacto@circulob.mx",
+      "telefono": "2381270502",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Facebook Bella Bella extra",
+      "tipo": "Canal",
+      "notas": "Catálogos",
+      "fuente": "research",
+      "url": "https://bellabella.mx/",
+      "email": "ventas@bellabella.mx",
+      "telefono": "5588530819",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Facturación Círculo B extra",
+      "tipo": "Fiscal",
+      "notas": "Ecom",
+      "fuente": "research",
+      "url": "https://circulob.mx/",
+      "email": "contacto@circulob.mx",
+      "telefono": "2381270502",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Cotización Bella extra",
+      "tipo": "Soporte",
+      "notas": "OC mayoreo",
+      "fuente": "research",
+      "url": "https://bellabella.mx/resuelve-tus-dudas/",
+      "email": "contacto@bellabella.com.mx",
+      "telefono": "5588530819",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Subdistribuidores extra",
+      "tipo": "Canal B2B",
+      "notas": "$16k+",
+      "fuente": "research",
+      "url": "https://www.nailsshop.com.mx/",
+      "telefono": "4443288908",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Spa + uñas extra",
+      "tipo": "Canal",
+      "notas": "Cross-sell belleza",
+      "fuente": "research",
+      "url": "https://circulob.mx/",
+      "telefono": "2381270502",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Pestañas + esmalte extra",
+      "tipo": "Cross-sell",
+      "notas": "Mismo mayoreo",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Liverpool esmaltes extra",
+      "tipo": "Retail",
+      "notas": "OPI / Essie",
+      "fuente": "brand",
+      "url": "https://www.liverpool.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "OPI canal extra",
+      "tipo": "Marca",
+      "notas": "Retail cadenas",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Essie extra",
+      "tipo": "Marca",
+      "notas": "Retail",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Sally Hansen extra",
+      "tipo": "Marca",
+      "notas": "Farmacia",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Aguascalientes",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Aguascalientes",
+      "estado": "Aguascalientes"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Tijuana",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Mexicali",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Mexicali",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Nail supply / esmaltes La Paz",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "La Paz",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Campeche",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Campeche",
+      "estado": "Campeche"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Tuxtla Gutiérrez",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Tuxtla Gutiérrez",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Chihuahua",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Cd. Juárez",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Cd. Juárez",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Saltillo",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Saltillo",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Torreón",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Torreón",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Colima",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Colima",
+      "estado": "Colima"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Durango",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Durango",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Nail supply / esmaltes León",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Irapuato",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Irapuato",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Acapulco",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Acapulco",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Pachuca",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Pachuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Toluca",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Toluca",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Cuernavaca",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Cuernavaca",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Tepic",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Tepic",
+      "estado": "Nayarit"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Monterrey",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Oaxaca",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Oaxaca",
+      "estado": "Oaxaca"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Puebla",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Querétaro",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Cancún",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Cancún",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Nail supply / esmaltes San Luis Potosí",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Culiacán",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Culiacán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Hermosillo",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Hermosillo",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Villahermosa",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Villahermosa",
+      "estado": "Tabasco"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Tampico",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Tampico",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Tlaxcala",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Tlaxcala",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Xalapa",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Xalapa",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Veracruz",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Veracruz",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Zacatecas",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Zacatecas",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Mérida",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Mérida",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Guadalajara",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Nail supply / esmaltes Zapopan",
+      "tipo": "Regional",
+      "notas": "Gel, pegamento y strass",
+      "fuente": "research",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Salón de uñas Celaya",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Celaya",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Salón de uñas Salamanca",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Salamanca",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Salón de uñas San Juan del Río",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "San Juan del Río",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Salón de uñas Cuautla",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Cuautla",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Salón de uñas Jiutepec",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Jiutepec",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Salón de uñas Córdoba",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Córdoba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Salón de uñas Orizaba",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Orizaba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Salón de uñas Poza Rica",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Poza Rica",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Salón de uñas Coatzacoalcos",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Coatzacoalcos",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Salón de uñas Tapachula",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Tapachula",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Salón de uñas Comitán",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Comitán",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Salón de uñas Los Mochis",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Los Mochis",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Salón de uñas Ciudad Obregón",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Ciudad Obregón",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Salón de uñas Nogales",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Nogales",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Salón de uñas Ensenada",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Ensenada",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Salón de uñas Playa del Carmen",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Playa del Carmen",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Salón de uñas Chetumal",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Chetumal",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Salón de uñas Reynosa",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Reynosa",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Salón de uñas Matamoros",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Matamoros",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Salón de uñas Nuevo Laredo",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Nuevo Laredo",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Salón de uñas Gómez Palacio",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Gómez Palacio",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Salón de uñas Fresnillo",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Fresnillo",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Salón de uñas Uruapan",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Uruapan",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Salón de uñas Zamora",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Zamora",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Salón de uñas Morelia",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Salón de uñas Tehuacán",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Salón de uñas Apizaco",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Apizaco",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Salón de uñas Tulancingo",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Tulancingo",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Salón de uñas Ixtapa",
+      "tipo": "Regional",
+      "notas": "Compran gelish y piedritas",
+      "fuente": "research",
+      "ciudad": "Ixtapa",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Mayoreo nail art Naucalpan",
+      "tipo": "Regional",
+      "notas": "Cristales, foil y chrome",
+      "fuente": "research",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Mayoreo nail art Ecatepec",
+      "tipo": "Regional",
+      "notas": "Cristales, foil y chrome",
+      "fuente": "research",
+      "ciudad": "Ecatepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Mayoreo nail art Nezahualcóyotl",
+      "tipo": "Regional",
+      "notas": "Cristales, foil y chrome",
+      "fuente": "research",
+      "ciudad": "Nezahualcóyotl",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Mayoreo nail art Tlalnepantla",
+      "tipo": "Regional",
+      "notas": "Cristales, foil y chrome",
+      "fuente": "research",
+      "ciudad": "Tlalnepantla",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Mayoreo nail art Cuautitlán Izcalli",
+      "tipo": "Regional",
+      "notas": "Cristales, foil y chrome",
+      "fuente": "research",
+      "ciudad": "Cuautitlán Izcalli",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Mayoreo nail art Puerto Vallarta",
+      "tipo": "Regional",
+      "notas": "Cristales, foil y chrome",
+      "fuente": "research",
+      "ciudad": "Puerto Vallarta",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Mayoreo nail art Mazatlán",
+      "tipo": "Regional",
+      "notas": "Cristales, foil y chrome",
+      "fuente": "research",
+      "ciudad": "Mazatlán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Mayoreo nail art Los Cabos",
+      "tipo": "Regional",
+      "notas": "Cristales, foil y chrome",
+      "fuente": "research",
+      "ciudad": "Los Cabos",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Mayoreo nail art San Miguel de Allende",
+      "tipo": "Regional",
+      "notas": "Cristales, foil y chrome",
+      "fuente": "research",
+      "ciudad": "San Miguel de Allende",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Mayoreo nail art Chilpancingo",
+      "tipo": "Regional",
+      "notas": "Cristales, foil y chrome",
+      "fuente": "research",
+      "ciudad": "Chilpancingo",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Mayoreo nail art Minatitlán",
+      "tipo": "Regional",
+      "notas": "Cristales, foil y chrome",
+      "fuente": "research",
+      "ciudad": "Minatitlán",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Mayoreo nail art Ciudad Victoria",
+      "tipo": "Regional",
+      "notas": "Cristales, foil y chrome",
+      "fuente": "research",
+      "ciudad": "Ciudad Victoria",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Mayoreo nail art Piedras Negras",
+      "tipo": "Regional",
+      "notas": "Cristales, foil y chrome",
+      "fuente": "research",
+      "ciudad": "Piedras Negras",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Mayoreo nail art Monclova",
+      "tipo": "Regional",
+      "notas": "Cristales, foil y chrome",
+      "fuente": "research",
+      "ciudad": "Monclova",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Mayoreo nail art Ocotlán",
+      "tipo": "Regional",
+      "notas": "Cristales, foil y chrome",
+      "fuente": "research",
+      "ciudad": "Ocotlán",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Nail tech independiente Celaya",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Celaya",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Nail tech independiente Salamanca",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Salamanca",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Nail tech independiente San Juan del Río",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "San Juan del Río",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Nail tech independiente Cuautla",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Cuautla",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Nail tech independiente Jiutepec",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Jiutepec",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Nail tech independiente Córdoba",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Córdoba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Nail tech independiente Orizaba",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Orizaba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Nail tech independiente Poza Rica",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Poza Rica",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Nail tech independiente Coatzacoalcos",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Coatzacoalcos",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Nail tech independiente Tapachula",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Tapachula",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Nail tech independiente Comitán",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Comitán",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Nail tech independiente Los Mochis",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Los Mochis",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Nail tech independiente Ciudad Obregón",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Ciudad Obregón",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Nail tech independiente Nogales",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Nogales",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Nail tech independiente Ensenada",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Ensenada",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Nail tech independiente Playa del Carmen",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Playa del Carmen",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Nail tech independiente Chetumal",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Chetumal",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Nail tech independiente Reynosa",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Reynosa",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Nail tech independiente Matamoros",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Matamoros",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Nail tech independiente Nuevo Laredo",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Nuevo Laredo",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Nail tech independiente Gómez Palacio",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Gómez Palacio",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Nail tech independiente Fresnillo",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Fresnillo",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Nail tech independiente Uruapan",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Uruapan",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Nail tech independiente Zamora",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Zamora",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Nail tech independiente Morelia",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Nail tech independiente Tehuacán",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Nail tech independiente Apizaco",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Apizaco",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Nail tech independiente Tulancingo",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Tulancingo",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Nail tech independiente Ixtapa",
+      "tipo": "Regional",
+      "notas": "Esmalte semipermanente",
+      "fuente": "research",
+      "ciudad": "Ixtapa",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Studio gel / strass Naucalpan",
+      "tipo": "Regional",
+      "notas": "Semipermanente y decoración",
+      "fuente": "research",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Studio gel / strass Ecatepec",
+      "tipo": "Regional",
+      "notas": "Semipermanente y decoración",
+      "fuente": "research",
+      "ciudad": "Ecatepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Studio gel / strass Nezahualcóyotl",
+      "tipo": "Regional",
+      "notas": "Semipermanente y decoración",
+      "fuente": "research",
+      "ciudad": "Nezahualcóyotl",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Studio gel / strass Tlalnepantla",
+      "tipo": "Regional",
+      "notas": "Semipermanente y decoración",
+      "fuente": "research",
+      "ciudad": "Tlalnepantla",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Studio gel / strass Cuautitlán Izcalli",
+      "tipo": "Regional",
+      "notas": "Semipermanente y decoración",
+      "fuente": "research",
+      "ciudad": "Cuautitlán Izcalli",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Studio gel / strass Puerto Vallarta",
+      "tipo": "Regional",
+      "notas": "Semipermanente y decoración",
+      "fuente": "research",
+      "ciudad": "Puerto Vallarta",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Studio gel / strass Mazatlán",
+      "tipo": "Regional",
+      "notas": "Semipermanente y decoración",
+      "fuente": "research",
+      "ciudad": "Mazatlán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Studio gel / strass Los Cabos",
+      "tipo": "Regional",
+      "notas": "Semipermanente y decoración",
+      "fuente": "research",
+      "ciudad": "Los Cabos",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Studio gel / strass San Miguel de Allende",
+      "tipo": "Regional",
+      "notas": "Semipermanente y decoración",
+      "fuente": "research",
+      "ciudad": "San Miguel de Allende",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Studio gel / strass Chilpancingo",
+      "tipo": "Regional",
+      "notas": "Semipermanente y decoración",
+      "fuente": "research",
+      "ciudad": "Chilpancingo",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Studio gel / strass Minatitlán",
+      "tipo": "Regional",
+      "notas": "Semipermanente y decoración",
+      "fuente": "research",
+      "ciudad": "Minatitlán",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Studio gel / strass Ciudad Victoria",
+      "tipo": "Regional",
+      "notas": "Semipermanente y decoración",
+      "fuente": "research",
+      "ciudad": "Ciudad Victoria",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Studio gel / strass Piedras Negras",
+      "tipo": "Regional",
+      "notas": "Semipermanente y decoración",
+      "fuente": "research",
+      "ciudad": "Piedras Negras",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Studio gel / strass Monclova",
+      "tipo": "Regional",
+      "notas": "Semipermanente y decoración",
+      "fuente": "research",
+      "ciudad": "Monclova",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Studio gel / strass Ocotlán",
+      "tipo": "Regional",
+      "notas": "Semipermanente y decoración",
+      "fuente": "research",
+      "ciudad": "Ocotlán",
+      "estado": "Jalisco"
+    }
+  ]
+}

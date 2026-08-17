@@ -455,7 +455,35 @@ lotes:
       - playeras algodón mayoreo México .mx
       - calzado Andy botas fábrica Guanajuato
 
-# Plantilla para lotes futuros (27+)
+  "27":
+    slug: skincare_cosmeticos
+    giro: Belleza
+    nicho: Skincare, cosmeticos
+    ejemplo: https://meriticosmetics.com.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/27_skincare_cosmeticos.json
+    search_queries:
+      - skincare coreano México tienda .mx
+      - cosméticos mayoreo CDMX K-beauty
+      - dermocosmética D2C México
+
+  "28":
+    slug: productos_unas_esmaltes
+    giro: Belleza
+    nicho: Productos para uñas (esmaltes, pegamentos, piedritas)
+    ejemplo: https://circulob.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/28_productos_unas_esmaltes.json
+    search_queries:
+      - esmaltes gel mayoreo México Fantasy Organic
+      - pegamento uñas piedritas strass .mx
+      - Miss Cherry Nail Factory mayoreo
+
+# Plantilla para lotes futuros (29+)
 # Copiar bloque y llenar sources + seeds
 template_lote:
   slug: ""

@@ -96,6 +96,8 @@ leads/por_nicho/{ID}_{slug}.csv|.json|.md
 | 24 | Hilos y estambre | `24_hilos_y_estambre.*` |
 | 25 | Bolsas de regalo | `25_bolsas_de_regalo.*` |
 | 26 | Tenis, botas y playeras | `26_tenis_botas_playeras.*` |
+| 27 | Skincare / cosméticos | `27_skincare_cosmeticos.*` |
+| 28 | Esmaltes, pegamentos y piedritas | `28_productos_unas_esmaltes.*` |
 
 Catálogo: `leads/nichos.json` (58 nichos).
 

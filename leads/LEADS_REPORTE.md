@@ -268,6 +268,18 @@ Lote 06 exportado: `leads/por_nicho/06_maquillaje_artistico.*` — **232 leads**
 |---|---|---|---|---|
 | Don Juan MX | https://donjuan.mx/ | Retail profesional cabello | **Alta** | Keratinas, cremas, ampolletas |
 
+### Belleza — Productos para uñas (esmaltes, pegamentos, piedritas)
+
+Lote 28 exportado: `leads/por_nicho/28_productos_unas_esmaltes.*` — **206 leads** (43 Alta · 24 email · 42 teléfono).
+
+| Empresa | URL | Tipo | Prioridad | Notas |
+|---|---|---|---|---|
+| Círculo B | https://circulob.mx/ | Mayoreo | **Alta** | Tehuacán, contacto@circulob.mx |
+| Bella Bella | https://bellabella.mx/ | Mayoreo | **Alta** | ventas@bellabella.mx · mín. $8000 |
+| Nails Shop SLP | https://www.nailsshop.com.mx/ | Mayoreo | **Alta** | Fantasy / Organic / Wapizima |
+| Fantasy Nails Shop CDMX | https://www.facebook.com/fantasynailscdmx/ | Mayoreo | **Alta** | 5579007784 |
+| Wapizima | https://wapizima.shop/ | Marca | **Alta** | antonio@wapizima.info |
+
 ### Belleza — Pupilentes
 
 Lote 20 exportado: `leads/por_nicho/20_pupilentes.*` — **206 leads** (58 Alta · 44 email · 58 teléfono).
@@ -309,15 +321,25 @@ Lote 23 exportado: `leads/por_nicho/23_shampoo_artesanal_tinte.*` — **206 lead
 
 ### Belleza — Skincare y maquillaje
 
+Lote 27 cubre también este cluster: `leads/por_nicho/27_skincare_cosmeticos.*`
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
 | Beauty Care Latam (ejemplo) | https://beautycarelatam.com.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
 
 ### Belleza — Skincare, cosméticos
 
+Lote 27 exportado: `leads/por_nicho/27_skincare_cosmeticos.*` — **208 leads** (52 Alta · 31 email · 48 teléfono).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| Meriti Cosmetics (ejemplo) | https://meriticosmetics.com.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
+| Yoon Lab | https://yoonlab.mx/ | K-beauty | **Alta** | contacto@yoonlab.mx · 5520041035 |
+| Klara Beauty | https://klarabeauty.com.mx/ | K-beauty | **Alta** | León, hola@klarabeauty.com.mx |
+| MakeupMX | https://makeupmx.com/ | Mayoreo | **Alta** | Qro, equipomakeupmx@gmail.com |
+| The Makeup Center | https://themakeupcenter.com/ | Tienda profesional | **Alta** | ventas@themakeupc.com |
+| Bond's Boutique | https://www.bondsboutique.com.mx/ | Tienda artística | **Alta** | ventas@bondsboutique.com.mx |
+| Beauty Care Latam | https://beautycarelatam.com.mx/ | Mayoreo | **Alta** | Santa Fe, 5591382000 |
+| Meriti Cosmetics (ejemplo) | https://meriticosmetics.com.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente — 5528655026 |
 
 ### Blancos — Almohadas, cobijas
 
