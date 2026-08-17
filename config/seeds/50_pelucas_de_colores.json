@@ -1,0 +1,203 @@
+{
+  "lote": "50",
+  "slug": "pelucas_de_colores",
+  "description": "Pelucas de colores MX",
+  "leads": [
+    {
+      "empresa": "El Famundi (ejemplo)",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — pelucas de colores y disfraces",
+      "fuente": "ejemplo_cliente",
+      "url": "https://www.elfamundi.com.mx/",
+      "telefono": "5555525294",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "El Castillo de la Fantasía",
+      "tipo": "Mayoreo",
+      "notas": "Imperio de pelucas en el Centro CDMX; pelucas de fantasía desde $100 y cabello natural hasta $5,500; mayoreo",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Don Moa Extensiones",
+      "tipo": "Mayoreo",
+      "notas": "Pelucas de colores fantasía 2x$500 y extensiones; Plaza Correo Mayor 5, locales 9 y 10",
+      "fuente": "research",
+      "telefono": "5559590050",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Pelucas Morris",
+      "tipo": "Tienda",
+      "notas": "Tienda de pelucas en el Centro CDMX; drag y transformismo",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "SensHair MX",
+      "tipo": "Tienda",
+      "notas": "Pelucas de cabello natural y sintético; cosplay, drag y uso diario",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Supreme Wigs",
+      "tipo": "Ecom",
+      "notas": "Tienda de pelucas con sucursales CDMX, Monterrey y Cancún; venta online",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Misi Shop",
+      "tipo": "Tienda",
+      "notas": "Tienda de pelucas en el Centro CDMX",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Comercializadora de Novedades",
+      "tipo": "Mayoreo",
+      "notas": "Pelucas largas de colores mayoreo desde 3 pzs; seller de ML (4.1★, 55 reviews)",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Sombreros y Fiesta",
+      "tipo": "Mayoreo",
+      "notas": "Pelucas lacias cortas colores fantasía mayoreo; seller de ML",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Extensioneslibni",
+      "tipo": "Marca",
+      "notas": "Pelucas de fantasía onduladas (rosa, plata, amarillo) vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "KANEKALON",
+      "tipo": "Marca",
+      "notas": "Pelucas con fleco largas cosplay y colores fantasía; 4.4★ vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Premium Wigs",
+      "tipo": "Marca",
+      "notas": "Pelucas de gama premium vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Disfraces Luza Peluza",
+      "tipo": "Marca",
+      "notas": "Pelucas de personajes (Aquaman) vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "El 10 Pelucas & Extensiones",
+      "tipo": "Tienda",
+      "notas": "Pelucas y extensiones en el Centro; Alhóndiga 29E; envíos",
+      "fuente": "research",
+      "telefono": "5578602637",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Crazy Hair",
+      "tipo": "Mayoreo",
+      "notas": "Pelucas de colores, lace front y full lace; ventas al mayoreo; CDMX y GDL",
+      "fuente": "research",
+      "url": "https://www.crazyhair.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "MV Hair Extensions",
+      "tipo": "Mayoreo",
+      "notas": "Pelucas y cabello mayoreo/menudeo; Izazaga 89 piso 5 local 505",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Funidelia México",
+      "tipo": "Ecom",
+      "notas": "Pelucas de disfraz y accesorios de fiesta online",
+      "fuente": "research",
+      "url": "https://www.funidelia.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Amazon MX pelucas",
+      "tipo": "Marketplace",
+      "notas": "Sellers de pelucas de colores",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=pelucas+de+colores",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mercado Libre pelucas",
+      "tipo": "Marketplace",
+      "notas": "Mayoreo de pelucas de colores",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/pelucas-de-colores",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Peluca larga rosa mayoreo",
+      "tipo": "Producto",
+      "notas": "Peluca larga color disfraz cosplay, mayoreo",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/pelucas-de-colores",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Peluca corta bob colores",
+      "tipo": "Producto",
+      "notas": "Peluca corta bob de colores fantasía/disfraz, 12 colores",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/pelucas-colores-fantasia",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Peluca afro rosa pastel",
+      "tipo": "Producto",
+      "notas": "Peluca afro tono rosa pastel, vía ML",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/pelucas-fantasia",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Paquete 7 pelucas colores",
+      "tipo": "Producto",
+      "notas": "Paquete de 7 pelucas largas de colores, mayoreo",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/pelucas-de-colores",
+      "ciudad": "México",
+      "estado": "México"
+    }
+  ]
+}

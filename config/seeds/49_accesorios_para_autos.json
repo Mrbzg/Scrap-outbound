@@ -1,0 +1,294 @@
+{
+  "lote": "49",
+  "slug": "accesorios_para_autos",
+  "description": "Accesorios para autos (luces y refacciones pequeñas) MX",
+  "leads": [
+    {
+      "empresa": "Mas Refacciones (ejemplo)",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — refacciones y accesorios para autos",
+      "fuente": "ejemplo_cliente",
+      "url": "https://www.masrefacciones.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Comercializadora Fénix",
+      "tipo": "Mayoreo",
+      "notas": "1,302+ productos de iluminación LED y accesorios; precios de mayoreo; envío CDMX",
+      "fuente": "research",
+      "url": "https://www.autoaccesoriosfenix.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Evolum",
+      "tipo": "Ecom",
+      "notas": "Tienda líder en luces LED para carros: kits H4/H7/H11/9005/9006 con 22,000 lúmenes",
+      "fuente": "research",
+      "url": "https://evolum.shop/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Accesorios Molo",
+      "tipo": "Mayoreo",
+      "notas": "17+ años; accesorios automotrices mayoreo/menudeo; Juventino Rosas 9, Peralvillo",
+      "fuente": "research",
+      "url": "https://www.accesoriosmolo.com/",
+      "telefono": "5635518793",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Accesorios Aguilar",
+      "tipo": "Mayoreo",
+      "notas": "Focos LED, xenón, barras, alarmas y polarizado; Puerto Guaymas 983, Miramar",
+      "fuente": "research",
+      "url": "https://www.accesoriosaguilar.com/",
+      "telefono": "3322621310",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Leds Cuernavaca",
+      "tipo": "Mayoreo",
+      "notas": "Faros LED mayoreo/menudeo; modelos Ultra Luxury y Ultimate; también en Puebla",
+      "fuente": "research",
+      "telefono": "7771282726",
+      "ciudad": "Cuernavaca",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Autopartes García",
+      "tipo": "Tienda",
+      "notas": "Repuestos y accesorios para autos; faros y calaveras en GDL",
+      "fuente": "research",
+      "telefono": "3333445000",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Mundo Electrónico Víctor's",
+      "tipo": "Mayoreo",
+      "notas": "Iluminación LED hogar y auto, materiales electrónicos y repuestos; mayoreo/menudeo",
+      "fuente": "research",
+      "telefono": "3336581000",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Goled",
+      "tipo": "Tienda",
+      "notas": "Tienda de iluminación para autos y camiones",
+      "fuente": "research",
+      "telefono": "3787819000",
+      "ciudad": "Tepatitlán",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "ADERCO",
+      "tipo": "Marca",
+      "notas": "Accesorios y LED para auto, marca mexicana",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "CARLUMEX",
+      "tipo": "Marca",
+      "notas": "Iluminación automotriz, marca mexicana",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "HOD",
+      "tipo": "Marca",
+      "notas": "Partes de colisión automotriz",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "IPADSA",
+      "tipo": "Marca",
+      "notas": "Partes de colisión y autopartes",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Tunix",
+      "tipo": "Marca",
+      "notas": "Luces LED y accesorios, vía mayoristas MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Imloya",
+      "tipo": "Marca",
+      "notas": "Iluminación automotriz",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Lumen",
+      "tipo": "Marca",
+      "notas": "Iluminación automotriz",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Bronco",
+      "tipo": "Marca",
+      "notas": "Accesorios e iluminación para auto",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Big Country",
+      "tipo": "Marca",
+      "notas": "Accesorios para auto",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "IOL",
+      "tipo": "Marca",
+      "notas": "Códigos LED mini slim y estrobos, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Kit luces LED C6",
+      "tipo": "Producto",
+      "notas": "Kit luces LED auto H1/H7/H3/9005/9006, 4.3★ (2,424 reviews) vía ML",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Focos LED Master",
+      "tipo": "Producto",
+      "notas": "Kit faros LED Master H1/H3/H7/H11/9005/9006, 4.5★ (230 reviews)",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Luz interior LED Canbus",
+      "tipo": "Producto",
+      "notas": "Luz interior 31/41/36/39mm, 4.8★ (665 reviews) vía ML",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Faro LED redondo auxiliar",
+      "tipo": "Producto",
+      "notas": "Faros auxiliares LED con lupa y estrobo, mayoreo 30 pzas",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Barra LED mini faro",
+      "tipo": "Producto",
+      "notas": "Barras LED 5-7 pulgadas, 16-27 LED",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Torreta 30 LED",
+      "tipo": "Producto",
+      "notas": "Torreta LED montecarga amarilla industrial 10-110V",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Faros 4x6 Diamond",
+      "tipo": "Producto",
+      "notas": "Faros LED 4x6 modelo Diamond con luz de día, mayoreo 10 pzas",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Amazon MX accesorios auto",
+      "tipo": "Marketplace",
+      "notas": "Sellers de accesorios automotrices",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=accesorios+para+auto+led",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mercado Libre luces LED",
+      "tipo": "Marketplace",
+      "notas": "Mayoreo de luces LED para auto",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/luces-led-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "AutoZone México",
+      "tipo": "Retail",
+      "notas": "Refaccionarias con accesorios y luces",
+      "fuente": "brand",
+      "url": "https://www.autozone.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "O'Reilly Auto Parts MX",
+      "tipo": "Retail",
+      "notas": "Refaccionarias con accesorios",
+      "fuente": "brand",
+      "url": "https://www.oreillyauto.com.mx/"
+    },
+    {
+      "empresa": "NAPA México",
+      "tipo": "Retail",
+      "notas": "Refaccionarias con accesorios",
+      "fuente": "brand",
+      "url": "https://www.napaautopartes.mx/"
+    },
+    {
+      "empresa": "Walmart México auto",
+      "tipo": "Retail",
+      "notas": "Sección automotriz con accesorios",
+      "fuente": "brand",
+      "url": "https://www.walmart.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Steren auto",
+      "tipo": "Retail",
+      "notas": "Accesorios electrónicos para auto",
+      "fuente": "brand",
+      "url": "https://www.steren.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Sección Amarilla — focos LED mayoreo",
+      "tipo": "Directorio",
+      "notas": "Directorio de proveedores de focos LED automotriz",
+      "fuente": "research",
+      "url": "https://www.seccionamarilla.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    }
+  ]
+}

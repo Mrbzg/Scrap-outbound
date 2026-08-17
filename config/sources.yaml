@@ -763,7 +763,35 @@ lotes:
       - termos tazas personalizados mayoreo México
       - envases personalizados fábrica México
 
-# Plantilla para lotes futuros (49+)
+  "49":
+    slug: accesorios_para_autos
+    giro: Autos
+    nicho: Accesorios para autos (luces y refacciones pequeñas)
+    ejemplo: https://www.masrefacciones.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/49_accesorios_para_autos.json
+    search_queries:
+      - accesorios autos luces LED México tienda .mx
+      - focos LED automotriz mayoreo México
+      - accesorios automotrices CDMX Guadalajara mayoreo
+
+  "50":
+    slug: pelucas_de_colores
+    giro: Belleza
+    nicho: Pelucas de colores
+    ejemplo: https://www.elfamundi.com.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/50_pelucas_de_colores.json
+    search_queries:
+      - pelucas de colores México tienda .mx mayoreo
+      - pelucas fantasía cosplay disfraz CDMX mayoreo
+      - pelucas de colores venta por mayoreo México
+
+# Plantilla para lotes futuros (51+)
 # Copiar bloque y llenar sources + seeds
 template_lote:
   slug: ""

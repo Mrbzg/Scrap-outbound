@@ -118,6 +118,8 @@ leads/por_nicho/{ID}_{slug}.csv|.json|.md
 | 46 | Cortinas | `46_cortinas.*` |
 | 47 | Juguetes sensoriales mayoreo | `47_juguetes_sensoriales_mayoreo.*` |
 | 48 | Botellas y tapas personalizados | `48_botellas_tapas_personalizados.*` |
+| 49 | Accesorios para autos (luces y refacciones pequeñas) | `49_accesorios_para_autos.*` |
+| 50 | Pelucas de colores | `50_pelucas_de_colores.*` |
 
 Catálogo: `leads/nichos.json` (58 nichos).
 
