@@ -84,6 +84,8 @@ leads/por_nicho/{ID}_{slug}.csv|.json|.md
 | 12 | Zapatos para danza | `12_zapatos_para_danza.*` |
 | 13 | Juguetes sensoriales / TEA | `13_juguetes_sensoriales.*` |
 | 14 | Miniaturas / modelismo escala | `14_articulos_miniatura.*` |
+| 15 | Insumos para tatuar | `15_insumos_para_tatuar.*` |
+| 16 | Invitaciones físicas | `16_invitaciones_fisicas.*` |
 
 Catálogo: `leads/nichos.json` (58 nichos).
 

@@ -282,7 +282,35 @@ lotes:
       - trenes HO N ferromodelismo México
       - hobby RC maquetas mayoreo .mx
 
-# Plantilla para lotes futuros (15+)
+  "15":
+    slug: insumos_para_tatuar
+    giro: Medicina
+    nicho: Insumos para tatuar
+    ejemplo: https://soulflower.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/15_insumos_para_tatuar.json
+    search_queries:
+      - tattoo supply México mayoreo tintas máquinas
+      - insumos tatuar PMU tienda .mx
+      - cartuchos EZ Cheyenne México
+
+  "16":
+    slug: invitaciones_fisicas
+    giro: Papeleria
+    nicho: Invitaciones fisicas
+    ejemplo: https://paradisaprint.com/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/16_invitaciones_fisicas.json
+    search_queries:
+      - invitaciones boda hot stamping México
+      - imprenta XV años papelería eventos .mx
+      - letterpress invitaciones mayoreo
+
+# Plantilla para lotes futuros (17+)
 # Copiar bloque y llenar sources + seeds
 template_lote:
   slug: ""

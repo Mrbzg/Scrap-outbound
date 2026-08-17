@@ -1,0 +1,249 @@
+giro,nicho,empresa,url,email,telefono,ciudad,estado,pais,tipo,prioridad,score_contacto,notas,fuente
+Papeleria,Invitaciones fisicas,Boda destino Mérida extra,https://paradisaprint.com/,,9999269331,Mérida,Yucatán,México,Destino,Alta,5,Paradisa zona,research
+Papeleria,Invitaciones fisicas,Colonia Maya Paradisa extra,https://paradisaprint.com/,,9999269331,Mérida,Yucatán,México,Ubicación,Alta,5,97134,research
+Papeleria,Invitaciones fisicas,Entrega CDMX extra,https://www.lafabrikainvitaciones.com/,,5540367726,CDMX,CDMX,México,Logística,Alta,5,Local,research
+Papeleria,Invitaciones fisicas,Entrega Mérida extra,https://paradisaprint.com/,,9999269331,Mérida,Yucatán,México,Logística,Alta,5,Local,research
+Papeleria,Invitaciones fisicas,Envíos nacionales invitaciones extra,https://tiendadeinvitaciones.com/,,4444922233,San Luis Potosí,SLP,México,Logística,Alta,5,Print The Joy,research
+Papeleria,Invitaciones fisicas,Imprentas Mérida extra,https://paradisaprint.com/,,9999269331,Mérida,Yucatán,México,Cluster,Alta,5,Paradisa zona,research
+Papeleria,Invitaciones fisicas,Imprentas SLP extra,https://tiendadeinvitaciones.com/,,4444922233,San Luis Potosí,SLP,México,Cluster,Alta,5,Print The Joy,research
+Papeleria,Invitaciones fisicas,La Fabrika Azcapotzalco extra,https://www.lafabrikainvitaciones.com/,,5540367726,CDMX,CDMX,México,Ubicación,Alta,5,02050,research
+Papeleria,Invitaciones fisicas,La Fabrika Invitaciones,https://www.lafabrikainvitaciones.com/,,5540367726,CDMX,CDMX,México,Fábrica,Alta,5,Privada Cuatotonque 79 CP 02050,research
+Papeleria,Invitaciones fisicas,Paradisa horario extra,https://paradisaprint.com/pages/contacto-1,,9999269331,Mérida,Yucatán,México,Operación,Alta,5,L-V 9-6,research
+Papeleria,Invitaciones fisicas,Paradisa Print,https://paradisaprint.com/,,9999269331,Mérida,Yucatán,México,Ejemplo original,Alta,5,"Ejemplo del cliente — Calle 30 #507 Col. Maya, WA 9991325218",ejemplo_cliente
+Papeleria,Invitaciones fisicas,Paradisa WhatsApp extra,https://paradisaprint.com/pages/contacto-1,,9991325218,Mérida,Yucatán,México,Canal WA,Alta,5,Pedidos,research
+Papeleria,Invitaciones fisicas,Print The Joy / Tienda de Invitaciones,https://tiendadeinvitaciones.com/,,4444922233,San Luis Potosí,SLP,México,Imprenta,Alta,5,"Envíos nacionales, @PrintTheJoy",research
+Papeleria,Invitaciones fisicas,Print The Joy Instagram extra,https://tiendadeinvitaciones.com/,,4444922233,San Luis Potosí,SLP,México,Canal,Alta,5,@invitaciones_printthejoy,research
+Papeleria,Invitaciones fisicas,Print The Joy SLP extra,https://tiendadeinvitaciones.com/,,4444922233,San Luis Potosí,SLP,México,Marca,Alta,6,PrintTheJoy,research
+Papeleria,Invitaciones fisicas,QR + web RSVP extra,https://te-invito.com.mx/,,5578660556,CDMX,CDMX,México,Híbrido,Alta,5,Física + digital,research
+Papeleria,Invitaciones fisicas,Te Invito,https://te-invito.com.mx/,,5578660556,CDMX,CDMX,México,Digital + evento,Alta,5,Panel RSVP,research
+Papeleria,Invitaciones fisicas,Te Invito 10% extra,https://te-invito.com.mx/,,5578660556,CDMX,CDMX,México,Promo,Alta,5,Digital,research
+Papeleria,Invitaciones fisicas,Tel Paradisa extra,https://paradisaprint.com/pages/contacto-1,,9999269331,Mérida,Yucatán,México,Tel,Alta,5,Fijo,research
+Papeleria,Invitaciones fisicas,WhatsApp Paradisa extra,https://paradisaprint.com/pages/contacto-1,,9991325218,Mérida,Yucatán,México,Canal WA,Alta,5,9991325218,research
+Papeleria,Invitaciones fisicas,Amazon MX invitaciones extra,https://www.amazon.com.mx/s?k=invitaciones+boda,,,México,México,México,Marketplace,Media,2,Sellers,research
+Papeleria,Invitaciones fisicas,Creear,https://creear.mx/,,,México,México,México,Papelería,Media,2,Bolsas e invitaciones adyacente,research
+Papeleria,Invitaciones fisicas,Creear adyacente extra,https://creear.mx/,,,México,México,México,Papelería,Media,2,Bolsas + print,research
+Papeleria,Invitaciones fisicas,Empapelarte,https://empapelarte.com.mx/,,,México,México,México,Papelería eventos,Media,2,"Invitaciones boda/XV, mayoreo y menudeo",research
+Papeleria,Invitaciones fisicas,Empapelarte mayoreo extra,https://empapelarte.com.mx/,,,México,México,México,Mayoreo,Media,3,Boda/XV,research
+Papeleria,Invitaciones fisicas,Event Planner hot stamp extra,https://www.eventplannermexico.mx/invitaciones-para-eventos/,,,CDMX,CDMX,México,Acabado,Media,3,Físicas lujo,research
+Papeleria,Invitaciones fisicas,Event Planner México invitaciones,https://www.eventplannermexico.mx/invitaciones-para-eventos/,,,CDMX,CDMX,México,Agencia + print,Media,3,Hot stamping y lacre,research
+Papeleria,Invitaciones fisicas,Folders institucionales extra,https://www.samsarainvitaciones.com.mx/,,,México,México,México,Corp,Media,2,Papelería,research
+Papeleria,Invitaciones fisicas,Invitaciones corporativas gala extra,https://www.eventplannermexico.mx/invitaciones-para-eventos/,,,CDMX,CDMX,México,Gala,Media,3,Hot stamp,research
+Papeleria,Invitaciones fisicas,Invitaciones fisicas (ejemplo original),https://paradisaprint.com/,,,,,México,Ejemplo original,Media,2,Seed del cliente,ejemplo_cliente
+Papeleria,Invitaciones fisicas,Invitación corporativa extra,https://www.samsarainvitaciones.com.mx/,,,México,México,México,B2B,Media,3,Eventos empresa,research
+Papeleria,Invitaciones fisicas,Invitación digital WhatsApp extra,https://invitacionmx.com/,,,México,México,México,Digital,Media,2,Adyacente,research
+Papeleria,Invitaciones fisicas,Invitación MX,https://invitacionmx.com/,,,México,México,México,Web + física,Media,2,Bodas XV bautizos,research
+Papeleria,Invitaciones fisicas,Invitación MX horario extra,https://invitacionmx.com/,,,México,México,México,Operación,Media,2,L-V 9-18 S 9-14,research
+Papeleria,Invitaciones fisicas,Liverpool papelería extra,https://www.liverpool.com.mx/,,,CDMX,CDMX,México,Retail,Media,3,Temporada,brand
+Papeleria,Invitaciones fisicas,Lumen invitaciones extra,https://www.lumen.com.mx/,,,México,México,México,Papelería,Media,2,Insumos,brand
+Papeleria,Invitaciones fisicas,ML invitaciones extra,https://listado.mercadolibre.com.mx/invitaciones-boda,,,México,México,México,Marketplace,Media,2,Tiendas,research
+Papeleria,Invitaciones fisicas,Office Depot print extra,https://www.officedepot.com.mx/,,,México,México,México,Print retail,Media,2,Corta tirada,brand
+Papeleria,Invitaciones fisicas,Samsara empresarial extra,https://www.samsarainvitaciones.com.mx/,,,México,México,México,B2B,Media,3,Papelería empresa,research
+Papeleria,Invitaciones fisicas,Samsara exclusiva extra,https://www.samsarainvitaciones.com.mx/,,,México,México,México,Diseño,Media,2,Personalidad pareja,research
+Papeleria,Invitaciones fisicas,Samsara Invitaciones,https://www.samsarainvitaciones.com.mx/,,,México,México,México,Imprenta eventos,Media,2,"Bodas, XV, hot stamping, empresariales",research
+Papeleria,Invitaciones fisicas,Samsara XV extra,https://www.samsarainvitaciones.com.mx/,,,México,México,México,XV,Media,2,Tarjetería,research
+Papeleria,Invitaciones fisicas,Wedding planners canal extra,,,,CDMX,CDMX,México,Canal B2B,Media,2,Compran print,research
+Papeleria,Invitaciones fisicas,Acetato / vellum extra,,,,México,México,México,Insumo,Baja,0,Overlay,research
+Papeleria,Invitaciones fisicas,Amate / fibra extra,,,,México,México,México,Artesanal,Baja,0,Textura,research
+Papeleria,Invitaciones fisicas,Banquetes canal extra,,,,México,México,México,Canal B2B,Baja,1,Paquete evento,research
+Papeleria,Invitaciones fisicas,Barniz UV selectivo extra,,,,México,México,México,Acabado,Baja,0,Brillo,research
+Papeleria,Invitaciones fisicas,Boda destino Oaxaca extra,,,,Oaxaca,Oaxaca,México,Destino,Baja,1,Artesanal,research
+Papeleria,Invitaciones fisicas,Braille / accesible extra,,,,México,México,México,Accesible,Baja,0,Inclusión,research
+Papeleria,Invitaciones fisicas,Caja cajita invitación extra,,,,México,México,México,Empaque,Baja,0,3D,research
+Papeleria,Invitaciones fisicas,Cajas de invitación extra,,,,México,México,México,Empaque,Baja,0,Lujo,research
+Papeleria,Invitaciones fisicas,Caligrafía a mano extra,,,,México,México,México,Servicio,Baja,0,Sobre,research
+Papeleria,Invitaciones fisicas,Caligrafía CDMX extra,,,,CDMX,CDMX,México,Servicio,Baja,1,Sobre,research
+Papeleria,Invitaciones fisicas,Caligrafía GDL extra,,,,Guadalajara,Jalisco,México,Servicio,Baja,1,Sobre,research
+Papeleria,Invitaciones fisicas,Caligrafía MTY extra,,,,Monterrey,NL,México,Servicio,Baja,1,Sobre,research
+Papeleria,Invitaciones fisicas,Canva print partners extra,,,,México,México,México,Canal,Baja,0,Digital a físico,research
+Papeleria,Invitaciones fisicas,Carta pergamino sello extra,,,,México,México,México,Vintage,Baja,0,Lacre,research
+Papeleria,Invitaciones fisicas,Cartulina metalizada extra,,,,México,México,México,Insumo,Baja,0,Brillo,research
+Papeleria,Invitaciones fisicas,Cintas satín mayoreo extra,,,,CDMX,CDMX,México,Insumo,Baja,1,Mercería,research
+Papeleria,Invitaciones fisicas,Copy shops extra,,,,México,México,México,Copia,Baja,0,Baja gama,research
+Papeleria,Invitaciones fisicas,Corte plotter extra,,,,México,México,México,Acabado,Baja,0,Silueta,research
+Papeleria,Invitaciones fisicas,Destinos boda Cancún extra,,,,Cancún,Q. Roo,México,Destino,Baja,1,Print + digital,research
+Papeleria,Invitaciones fisicas,Destinos boda Los Cabos extra,,,,Los Cabos,BCS,México,Destino,Baja,1,Print,research
+Papeleria,Invitaciones fisicas,Destinos boda San Miguel extra,,,,San Miguel de Allende,Guanajuato,México,Destino,Baja,1,Print boutique,research
+Papeleria,Invitaciones fisicas,Destinos boda Vallarta extra,,,,Puerto Vallarta,Jalisco,México,Destino,Baja,1,Print,research
+Papeleria,Invitaciones fisicas,Direccionamiento extra,,,,México,México,México,Servicio,Baja,0,Mailing,research
+Papeleria,Invitaciones fisicas,Diseñadores freelance extra,,,,México,México,México,Diseño,Baja,0,Canva/pro,research
+Papeleria,Invitaciones fisicas,Estudios branding boda extra,,,,México,México,México,Diseño,Baja,0,Identidad,research
+Papeleria,Invitaciones fisicas,Etiquetas souvenir extra,,,,México,México,México,Souvenir,Baja,0,Recuerdos,research
+Papeleria,Invitaciones fisicas,Etsy MX / sellers extra,,,,México,México,México,Marketplace,Baja,0,Diseño,research
+Papeleria,Invitaciones fisicas,Expo novias CDMX extra,,,,CDMX,CDMX,México,Expo,Baja,1,Print booth,research
+Papeleria,Invitaciones fisicas,Florerías + invitaciones extra,,,,México,México,México,Canal,Baja,0,Cross-sell,research
+Papeleria,Invitaciones fisicas,Foil holográfico extra,,,,México,México,México,Acabado,Baja,0,Tendencia,research
+Papeleria,Invitaciones fisicas,Foil oro/plata extra,,,,México,México,México,Acabado,Baja,0,Hot stamp,research
+Papeleria,Invitaciones fisicas,Forro de sobre forrado extra,,,,México,México,México,Acabado,Baja,0,Interior,research
+Papeleria,Invitaciones fisicas,Fotógrafos bodas canal extra,,,,México,México,México,Canal,Baja,0,Referidos,research
+Papeleria,Invitaciones fisicas,Gafetes evento extra,,,,México,México,México,Corp,Baja,0,Congreso,research
+Papeleria,Invitaciones fisicas,Grabado láser extra,,,,México,México,México,Acabado,Baja,0,Madera/acrílico,research
+Papeleria,Invitaciones fisicas,Haciendas boda extra,,,,México,México,México,Canal venue,Baja,0,Referidos,research
+Papeleria,Invitaciones fisicas,Hojas membretadas extra,,,,México,México,México,Corp,Baja,0,Mismo taller,research
+Papeleria,Invitaciones fisicas,Hot stamping CDMX extra,,,,CDMX,CDMX,México,Acabado,Baja,1,Foil,research
+Papeleria,Invitaciones fisicas,Iglesias / parroquias extra,,,,México,México,México,Canal religioso,Baja,0,Bautizo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Acapulco,,,,Acapulco,Guerrero,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Aguascalientes,,,,Aguascalientes,Aguascalientes,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Campeche,,,,Campeche,Campeche,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Cancún,,,,Cancún,Q. Roo,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Cd. Juárez,,,,Cd. Juárez,Chihuahua,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Chihuahua,,,,Chihuahua,Chihuahua,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Colima,,,,Colima,Colima,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Cuernavaca,,,,Cuernavaca,Morelos,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Culiacán,,,,Culiacán,Sinaloa,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Durango,,,,Durango,Durango,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Guadalajara,,,,Guadalajara,Jalisco,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Hermosillo,,,,Hermosillo,Sonora,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Irapuato,,,,Irapuato,Guanajuato,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones La Paz,,,,La Paz,BCS,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones León,,,,León,Guanajuato,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Mexicali,,,,Mexicali,BC,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Monterrey,,,,Monterrey,NL,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Mérida,,,,Mérida,Yucatán,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Oaxaca,,,,Oaxaca,Oaxaca,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Pachuca,,,,Pachuca,Hidalgo,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Puebla,,,,Puebla,Puebla,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Querétaro,,,,Querétaro,Querétaro,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Saltillo,,,,Saltillo,Coahuila,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones San Luis Potosí,,,,San Luis Potosí,SLP,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Tampico,,,,Tampico,Tamaulipas,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Tepic,,,,Tepic,Nayarit,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Tijuana,,,,Tijuana,BC,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Tlaxcala,,,,Tlaxcala,Tlaxcala,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Toluca,,,,Toluca,EdoMex,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Torreón,,,,Torreón,Coahuila,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Tuxtla Gutiérrez,,,,Tuxtla Gutiérrez,Chiapas,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Veracruz,,,,Veracruz,Veracruz,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Villahermosa,,,,Villahermosa,Tabasco,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Xalapa,,,,Xalapa,Veracruz,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Zacatecas,,,,Zacatecas,Zacatecas,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprenta/invitaciones Zapopan,,,,Zapopan,Jalisco,México,Regional,Baja,1,Print bodas XV y corporativo,research
+Papeleria,Invitaciones fisicas,Imprentas Centro CDMX extra,,,,CDMX,CDMX,México,Cluster,Baja,1,República de Argentina zona,research
+Papeleria,Invitaciones fisicas,Imprentas Doctores extra,,,,CDMX,CDMX,México,Cluster,Baja,1,Offset,research
+Papeleria,Invitaciones fisicas,Imprentas GDL extra,,,,Guadalajara,Jalisco,México,Cluster,Baja,1,Print,research
+Papeleria,Invitaciones fisicas,Imprentas MTY extra,,,,Monterrey,NL,México,Cluster,Baja,1,Print,research
+Papeleria,Invitaciones fisicas,Imprentas Puebla extra,,,,Puebla,Puebla,México,Cluster,Baja,1,Print,research
+Papeleria,Invitaciones fisicas,Impresión digital UV extra,,,,México,México,México,Proceso,Baja,0,Corta tirada,research
+Papeleria,Invitaciones fisicas,Instagram shops extra,,,,México,México,México,Social,Baja,0,D2C,research
+Papeleria,Invitaciones fisicas,Invitaciones acrílico extra,,,,México,México,México,Sustrato,Baja,0,Transparente,research
+Papeleria,Invitaciones fisicas,Invitaciones baby shower extra,,,,México,México,México,Familiar,Baja,0,Retail,research
+Papeleria,Invitaciones fisicas,Invitaciones bautizo extra,,,,México,México,México,Religioso,Baja,0,Familia,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Apizaco,,,,Apizaco,Tlaxcala,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Celaya,,,,Celaya,Guanajuato,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Chetumal,,,,Chetumal,Q. Roo,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Ciudad Obregón,,,,Ciudad Obregón,Sonora,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Coatzacoalcos,,,,Coatzacoalcos,Veracruz,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Comitán,,,,Comitán,Chiapas,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Cuautla,,,,Cuautla,Morelos,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Córdoba,,,,Córdoba,Veracruz,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Ensenada,,,,Ensenada,BC,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Fresnillo,,,,Fresnillo,Zacatecas,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Gómez Palacio,,,,Gómez Palacio,Durango,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Ixtapa,,,,Ixtapa,Guerrero,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Jiutepec,,,,Jiutepec,Morelos,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Los Mochis,,,,Los Mochis,Sinaloa,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Matamoros,,,,Matamoros,Tamaulipas,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Morelia,,,,Morelia,Michoacán,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Nogales,,,,Nogales,Sonora,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Nuevo Laredo,,,,Nuevo Laredo,Tamaulipas,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Orizaba,,,,Orizaba,Veracruz,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Playa del Carmen,,,,Playa del Carmen,Q. Roo,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Poza Rica,,,,Poza Rica,Veracruz,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Reynosa,,,,Reynosa,Tamaulipas,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Salamanca,,,,Salamanca,Guanajuato,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda San Juan del Río,,,,San Juan del Río,Querétaro,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Tapachula,,,,Tapachula,Chiapas,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Tehuacán,,,,Tehuacán,Puebla,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Tulancingo,,,,Tulancingo,Hidalgo,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Uruapan,,,,Uruapan,Michoacán,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Villahermosa,,,,Villahermosa,Tabasco,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones boda Zamora,,,,Zamora,Michoacán,México,Imprenta,Baja,1,Bodas y XV,research
+Papeleria,Invitaciones fisicas,Invitaciones cumpleaños extra,,,,México,México,México,Social,Baja,0,Retail,research
+Papeleria,Invitaciones fisicas,Invitaciones espejo extra,,,,México,México,México,Sustrato,Baja,0,Acrílico,research
+Papeleria,Invitaciones fisicas,Invitaciones graduación extra,,,,México,México,México,Escolar,Baja,0,Junio,research
+Papeleria,Invitaciones fisicas,Invitaciones madera extra,,,,México,México,México,Sustrato,Baja,0,Láser,research
+Papeleria,Invitaciones fisicas,Invitaciones primera comunión extra,,,,México,México,México,Religioso,Baja,0,Familia,research
+Papeleria,Invitaciones fisicas,Invitaciones tela extra,,,,México,México,México,Sustrato,Baja,0,Textil,research
+Papeleria,Invitaciones fisicas,Invitación art deco extra,,,,México,México,México,Estilo,Baja,0,Foil,research
+Papeleria,Invitaciones fisicas,Invitación destapa botella extra,,,,México,México,México,Formato,Baja,0,Souvenir,research
+Papeleria,Invitaciones fisicas,Invitación floral extra,,,,México,México,México,Estilo,Baja,0,Clásico,research
+Papeleria,Invitaciones fisicas,Invitación imán extra,,,,México,México,México,Formato,Baja,0,Recordatorio,research
+Papeleria,Invitaciones fisicas,Invitación infantil ilustrada extra,,,,México,México,México,Infantil,Baja,0,Cumple,research
+Papeleria,Invitaciones fisicas,Invitación mexicana extra,,,,México,México,México,Estilo,Baja,0,Papel picado,research
+Papeleria,Invitaciones fisicas,Invitación minimal extra,,,,México,México,México,Estilo,Baja,0,Moderno,research
+Papeleria,Invitaciones fisicas,Invitación pasaporte extra,,,,México,México,México,Formato,Baja,0,Destino,research
+Papeleria,Invitaciones fisicas,Invitación pergamino extra,,,,México,México,México,Formato,Baja,0,Vintage,research
+Papeleria,Invitaciones fisicas,Invitación periódico extra,,,,México,México,México,Formato,Baja,0,Creativo,research
+Papeleria,Invitaciones fisicas,Invitación plegada extra,,,,México,México,México,Formato,Baja,0,Tríptico,research
+Papeleria,Invitaciones fisicas,Invitación rústica extra,,,,México,México,México,Estilo,Baja,0,Kraft,research
+Papeleria,Invitaciones fisicas,Invitación semilla extra,,,,México,México,México,Eco,Baja,0,Plantable,research
+Papeleria,Invitaciones fisicas,Invitación temática extra,,,,México,México,México,Temático,Baja,0,XV,research
+Papeleria,Invitaciones fisicas,Lacre y sello extra,,,,México,México,México,Acabado,Baja,0,Lujo,research
+Papeleria,Invitaciones fisicas,Letterpress extra,,,,México,México,México,Acabado,Baja,0,Relieve,research
+Papeleria,Invitaciones fisicas,Librito invitación extra,,,,México,México,México,Formato,Baja,0,Programa,research
+Papeleria,Invitaciones fisicas,Listones y moños extra,,,,México,México,México,Acabado,Baja,0,Atado,research
+Papeleria,Invitaciones fisicas,Mayoreo cartulina extra,,,,CDMX,CDMX,México,Insumo,Baja,1,Centro,research
+Papeleria,Invitaciones fisicas,Menús y programas extra,,,,México,México,México,Día del evento,Baja,0,Papelería,research
+Papeleria,Invitaciones fisicas,Mockup 3D extra,,,,México,México,México,Diseño,Baja,0,Preventa,research
+Papeleria,Invitaciones fisicas,Números de mesa extra,,,,México,México,México,Día del evento,Baja,0,Señalética,research
+Papeleria,Invitaciones fisicas,Offset invitaciones extra,,,,México,México,México,Proceso,Baja,0,Alto volumen,research
+Papeleria,Invitaciones fisicas,Papel algodón extra,,,,México,México,México,Insumo,Baja,0,Premium,research
+Papeleria,Invitaciones fisicas,Papel picado invitación extra,,,,México,México,México,Artesanal,Baja,0,Corte,research
+Papeleria,Invitaciones fisicas,Papel reciclado extra,,,,México,México,México,Eco,Baja,0,Sustentable,research
+Papeleria,Invitaciones fisicas,Papel texturizado extra,,,,México,México,México,Insumo,Baja,0,Tacto,research
+Papeleria,Invitaciones fisicas,Papelería eventos Apizaco,,,,Apizaco,Tlaxcala,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Celaya,,,,Celaya,Guanajuato,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Chetumal,,,,Chetumal,Q. Roo,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Ciudad Obregón,,,,Ciudad Obregón,Sonora,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Coatzacoalcos,,,,Coatzacoalcos,Veracruz,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Comitán,,,,Comitán,Chiapas,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Cuautla,,,,Cuautla,Morelos,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Córdoba,,,,Córdoba,Veracruz,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Ensenada,,,,Ensenada,BC,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Fresnillo,,,,Fresnillo,Zacatecas,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Gómez Palacio,,,,Gómez Palacio,Durango,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Ixtapa,,,,Ixtapa,Guerrero,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Jiutepec,,,,Jiutepec,Morelos,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Los Mochis,,,,Los Mochis,Sinaloa,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Matamoros,,,,Matamoros,Tamaulipas,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Morelia,,,,Morelia,Michoacán,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Nogales,,,,Nogales,Sonora,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Nuevo Laredo,,,,Nuevo Laredo,Tamaulipas,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Orizaba,,,,Orizaba,Veracruz,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Playa del Carmen,,,,Playa del Carmen,Q. Roo,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Poza Rica,,,,Poza Rica,Veracruz,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Reynosa,,,,Reynosa,Tamaulipas,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Salamanca,,,,Salamanca,Guanajuato,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos San Juan del Río,,,,San Juan del Río,Querétaro,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Tapachula,,,,Tapachula,Chiapas,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Tehuacán,,,,Tehuacán,Puebla,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Tulancingo,,,,Tulancingo,Hidalgo,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Uruapan,,,,Uruapan,Michoacán,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Villahermosa,,,,Villahermosa,Tabasco,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelería eventos Zamora,,,,Zamora,Michoacán,México,Regional,Baja,1,Print social,research
+Papeleria,Invitaciones fisicas,Papelerías fine paper extra,,,,CDMX,CDMX,México,Insumo,Baja,1,Importado,research
+Papeleria,Invitaciones fisicas,Paquete express 7 días extra,,,,México,México,México,Urgente,Baja,0,Print rápido,research
+Papeleria,Invitaciones fisicas,Pase de acceso extra,,,,México,México,México,Corp,Baja,0,Credencial,research
+Papeleria,Invitaciones fisicas,Pinterest inbound extra,,,,México,México,México,Social,Baja,0,Inspiración,research
+Papeleria,Invitaciones fisicas,Prueba de color extra,,,,México,México,México,Servicio,Baja,0,Press proof,research
+Papeleria,Invitaciones fisicas,Relieve seco extra,,,,México,México,México,Acabado,Baja,0,Ciego,research
+Papeleria,Invitaciones fisicas,Salones de fiestas extra,,,,México,México,México,Canal evento,Baja,0,Paquete,research
+Papeleria,Invitaciones fisicas,Save the date físico extra,,,,México,México,México,Pieza,Baja,0,Boda,research
+Papeleria,Invitaciones fisicas,Seating / meseros extra,,,,México,México,México,Día del evento,Baja,0,Mesas,research
+Papeleria,Invitaciones fisicas,Sellos de lacre extra,,,,México,México,México,Insumo,Baja,0,Lujo,research
+Papeleria,Invitaciones fisicas,Sobres corporativos extra,,,,México,México,México,Corp,Baja,0,Mismo taller,research
+Papeleria,Invitaciones fisicas,Sobres forrados extra,,,,México,México,México,Papelería,Baja,0,Suite,research
+Papeleria,Invitaciones fisicas,Sobres mayoreo extra,,,,CDMX,CDMX,México,Insumo,Baja,1,Papelería,research
+Papeleria,Invitaciones fisicas,Stickers de cierre extra,,,,México,México,México,Insumo,Baja,0,Cierre,research
+Papeleria,Invitaciones fisicas,Suites de boda extra,,,,México,México,México,Suite,Baja,0,Save the date + menú,research
+Papeleria,Invitaciones fisicas,Tarjetas presentación extra,,,,México,México,México,Corp,Baja,0,Mismo taller,research
+Papeleria,Invitaciones fisicas,TikTok invitaciones extra,,,,México,México,México,Social,Baja,0,Tendencia,research
+Papeleria,Invitaciones fisicas,Tinta vegetal extra,,,,México,México,México,Eco,Baja,0,Print verde,research
+Papeleria,Invitaciones fisicas,Tipografía móvil extra,,,,México,México,México,Proceso,Baja,0,Letterpress,research
+Papeleria,Invitaciones fisicas,Tirajes 100-150 extra,,,,México,México,México,Volumen,Baja,0,Estándar boda,research
+Papeleria,Invitaciones fisicas,Tirajes 300+ extra,,,,México,México,México,Volumen,Baja,0,XV / corp,research
+Papeleria,Invitaciones fisicas,Tirajes 50 extra,,,,México,México,México,Volumen,Baja,0,Íntimo,research
+Papeleria,Invitaciones fisicas,Traducción bilingüe extra,,,,México,México,México,Servicio,Baja,0,Bodas mixtas,research
+Papeleria,Invitaciones fisicas,Troquel extra,,,,México,México,México,Acabado,Baja,0,Forma,research
+Papeleria,Invitaciones fisicas,Tríptico corporativo extra,,,,México,México,México,Corp,Baja,0,Evento,research
+Papeleria,Invitaciones fisicas,Universidades tesis/inv extra,,,,México,México,México,Canal escolar,Baja,0,Graduación,research
+Papeleria,Invitaciones fisicas,Wedding fairs extra,,,,México,México,México,Expo,Baja,0,Novias,research

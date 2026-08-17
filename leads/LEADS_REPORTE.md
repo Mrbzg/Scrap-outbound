@@ -422,12 +422,14 @@ Lote 14 exportado: `leads/por_nicho/14_articulos_miniatura.*` — **217 leads** 
 
 ### Medicina / Suministros — Insumos para tatuar
 
+Lote 15 exportado: `leads/por_nicho/15_insumos_para_tatuar.*` — **254 leads** (56 Alta).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| Zebra Tattoo Supply | https://zebratattoosupply.com/ | Tattoo supply | **Alta** | Máquinas, cartuchos, PMU, envíos MX |
-| Make Art Supply | https://makeartsupply.com/ | Tattoo supply | **Alta** | Insumos profesionales tatuadores |
-| Inkside Supply | https://inksidesupply.com/ | Tattoo supply | **Alta** | CDMX, tintas, cartuchos, máquinas |
-| Daruma Supply Tattoo | https://daruma-supply-tattoo.ueniweb.com/ | Tattoo supply | **Media** | CDMX, cobertura nacional |
+| Zebra Tattoo Supply | https://zebratattoosupply.com/ | Mayoreo nacional | **Alta** | ventas@zebratattoosupply.com |
+| Inkside Supply | https://inksidesupply.com/ | Tienda CDMX | **Alta** | ventas@inksidesupply.com |
+| Tarmex | https://tarmex-vip.com/ | Mayoreo | **Alta** | ventas@tarmex-vip.com |
+| Reyes Tattoo Supply | https://www.reyestattoosupply.com/ | Estudio + supply | **Alta** | Zapopan |
 | Soulflower (ejemplo) | https://soulflower.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
 
 ### MedTech — Suministros médicos/farmacéuticos
@@ -453,11 +455,13 @@ Lote 14 exportado: `leads/por_nicho/14_articulos_miniatura.*` — **217 leads** 
 
 ### Papelería — Invitaciones físicas
 
+Lote 16 exportado: `leads/por_nicho/16_invitaciones_fisicas.*` — **248 leads** (20 Alta).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| Samsara Invitaciones | https://www.samsarainvitaciones.com.mx/ | Imprenta eventos | **Alta** | Bodas, XV, hot stamping, digitales |
-| Print The Joy / Tienda de Invitaciones | https://tiendadeinvitaciones.com/ | Imprenta | **Alta** | SLP, envíos nacionales gratis >$3500 |
-| Empapelarte | https://empapelarte.com.mx/ | Papelería eventos | **Media** | Invitaciones boda/XV, mayoreo y menudeo |
+| Samsara Invitaciones | https://www.samsarainvitaciones.com.mx/ | Imprenta eventos | **Media** | Bodas, XV, hot stamping |
+| Print The Joy | https://tiendadeinvitaciones.com/ | Imprenta | **Alta** | SLP 4444922233 |
+| La Fabrika Invitaciones | https://www.lafabrikainvitaciones.com/ | Fábrica | **Alta** | CDMX 5540367726 |
 | Paradisa Print (ejemplo) | https://paradisaprint.com/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
 
 ### Papelería — Mochilas y útiles escolares
