@@ -1,9 +1,11 @@
 # Lote 14 — Juguetes / Articulos miniatura o a escala
 
 **Slug:** `articulos_miniatura`  
-**Total leads:** 8  
-**Alta:** 6 · **Media:** 2 · **Baja:** 0  
+**Total leads:** 13  
+**Alta:** 6 · **Media:** 2 · **Baja:** 5  
 **Con email:** 3 · **Con teléfono:** 7 · **Con URL:** 7
+
+Ejemplo original: https://trenes.mx/
 
 ## Alta prioridad
 
@@ -28,3 +30,8 @@
 | 6 | Trenes.mx / Trenes S.A. de C.V. | https://trenes.mx/ |  | 5568683070 | Naucalpan | Alta | Ejemplo original |
 | 7 | Articulos miniatura o a escala (ejemplo original) | https://trenes.mx/ |  |  |  | Media | Ejemplo original |
 | 8 | Tiendas hobby CDMX cluster | https://hobbymex.com.mx/ |  | 5552771444 | CDMX | Media | Cluster |
+| 9 | Armatrenes |  |  |  | Guadalajara | Baja | Tienda |
+| 10 | Central de Maquetas Guadalajara |  |  |  | Guadalajara | Baja | Tienda |
+| 11 | Jobbees |  |  |  | Guadalajara | Baja | Tienda |
+| 12 | Maquetas en Acrílico Acosta |  |  |  | Guadalajara | Baja | Tienda |
+| 13 | Mundo Hobby |  |  |  | Guadalajara | Baja | Tienda |

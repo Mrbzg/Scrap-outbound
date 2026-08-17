@@ -54,6 +54,36 @@
       "email": "antonio@wapizima.info",
       "ciudad": "México",
       "estado": "México"
+    },
+    {
+      "empresa": "Romez Distribuidora",
+      "tipo": "Mayoreo",
+      "notas": "Fantasy Nails, Organic, Mc Nails, Wapizima, Gelish; Carretera Río Verde 315; subdistribuidor",
+      "fuente": "research",
+      "url": "https://www.romezdistribuidora.com.mx/",
+      "telefono": "4448096424",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Mc Nails México",
+      "tipo": "Mayoreo",
+      "notas": "Productos para uñas y accesorios; mayoreo WhatsApp 55 1224 2149",
+      "fuente": "research",
+      "url": "https://www.mcnailsmexico.com/",
+      "email": "ventas@mcnailsmexico.com",
+      "telefono": "5570290745",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Cyndy Nails",
+      "tipo": "Mayoreo",
+      "notas": "Venta de productos para uñas; Moctezuma 104, Tlalnepantla",
+      "fuente": "research",
+      "telefono": "5512242149",
+      "ciudad": "Tlalnepantla",
+      "estado": "EdoMex"
     }
   ]
 }

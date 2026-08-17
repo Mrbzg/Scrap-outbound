@@ -259,14 +259,6 @@
       "estado": "México"
     },
     {
-      "empresa": "Zapatos de folklor San Mateo cluster",
-      "tipo": "Cluster fábrica",
-      "notas": "Decenas de talleres",
-      "fuente": "research",
-      "ciudad": "San Mateo Atenco",
-      "estado": "EdoMex"
-    },
-    {
       "empresa": "Plaza Azul calzado Atenco",
       "tipo": "Grupo artesanal",
       "notas": "Mayoreo calzado",
@@ -377,17 +369,6 @@
       "fuente": "research",
       "ciudad": "México",
       "estado": "México"
-    },
-    {
-      "empresa": "Mayoreo escuelas folklor Atenco",
-      "tipo": "Mayoreo escuelas",
-      "notas": "Folklor",
-      "fuente": "research",
-      "url": "https://calzadomanzano.com/",
-      "email": "hola@calzadomanzano.com",
-      "telefono": "7221016661",
-      "ciudad": "San Mateo Atenco",
-      "estado": "EdoMex"
     },
     {
       "empresa": "Insumos suelas danza Atenco",

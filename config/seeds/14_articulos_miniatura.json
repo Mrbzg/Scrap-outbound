@@ -55,23 +55,42 @@
       "estado": "Chihuahua"
     },
     {
-      "empresa": "Tiendas hobby CDMX cluster",
-      "tipo": "Cluster",
-      "notas": "Hobbymex + Trenes Satélite",
+      "empresa": "Central de Maquetas Guadalajara",
+      "tipo": "Tienda",
+      "notas": "Tienda de modelismo y maquetas en GDL",
       "fuente": "research",
-      "url": "https://hobbymex.com.mx/",
-      "telefono": "5552771444",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
     },
     {
-      "empresa": "Tiendas hobby GDL cluster",
-      "tipo": "Cluster",
-      "notas": "Fenix / Big Bang",
+      "empresa": "Jobbees",
+      "tipo": "Tienda",
+      "notas": "Tienda de maquetas antigua en GDL: modelismo estático, ferroviario y figuras",
       "fuente": "research",
-      "url": "https://fenixhobby.com.mx/",
-      "email": "contacto@bigbangtoys.com.mx",
-      "telefono": "3322937386",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Mundo Hobby",
+      "tipo": "Tienda",
+      "notas": "Modelismo y juguetes a escala, aviones de motor en GDL",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Armatrenes",
+      "tipo": "Tienda",
+      "notas": "Ferromodelismo y maquetas, 4.5★ (28 reseñas) en GDL",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Maquetas en Acrílico Acosta",
+      "tipo": "Tienda",
+      "notas": "Maquetas en acrílico, 4.1★ (8 reseñas) GDL",
+      "fuente": "research",
       "ciudad": "Guadalajara",
       "estado": "Jalisco"
     }

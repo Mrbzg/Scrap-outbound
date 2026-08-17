@@ -1,9 +1,11 @@
 # Lote 17 — Alimentos / Miel afrodisiaca
 
 **Slug:** `miel_afrodisiaca`  
-**Total leads:** 20  
-**Alta:** 13 · **Media:** 7 · **Baja:** 0  
+**Total leads:** 30  
+**Alta:** 13 · **Media:** 11 · **Baja:** 6  
 **Con email:** 12 · **Con teléfono:** 13 · **Con URL:** 17
+
+Ejemplo original: https://www.mielesdemalasiamx.com/
 
 ## Alta prioridad
 
@@ -41,9 +43,19 @@
 | 12 | Raíz Nativa |  | raiznativamx@gmail.com | 2229547635 | Puebla | Alta | Productor |
 | 13 | Tropical Honey | https://www.tropicalhoney.com.mx/ | ventas@tropicalhoney.com.mx | 9999262622 | Mérida | Alta | Productor |
 | 14 | Cannaland | https://cannaland.mx/ |  |  | México | Media | Retail wellness |
-| 15 | LoveStore Royal Honey | https://lovestore.com.mx/producto/royal-honey/ |  |  | México | Media | Ecom adultos |
-| 16 | Mi Cubeta de Miel | https://www.micubetademiel.com/ |  |  | Mérida | Media | Productor |
-| 17 | Miel afrodisiaca (ejemplo original) | https://www.mielesdemalasiamx.com/ |  |  |  | Media | Ejemplo original |
-| 18 | Productos Chinos Mayoreo Etumax | https://productoschinos.com.mx/product/miel-royal-etuma/ |  |  | México | Media | Mayoreo |
-| 19 | Royal Honey MX | https://royalhoneymx.com/ |  |  | México | Media | Mayoreo D2C |
-| 20 | Son de Miel | https://sondemiel.com.mx/ |  |  | México | Media | Marca D2C |
+| 15 | Del Exágono |  |  |  | Guadalajara | Media | Mayoreo |
+| 16 | Derivados Apícolas Pepemiel |  |  |  | Oaxaca | Media | Mayoreo |
+| 17 | KawenCafé |  |  |  | Iliatenco | Media | Mayoreo |
+| 18 | LoveStore Royal Honey | https://lovestore.com.mx/producto/royal-honey/ |  |  | México | Media | Ecom adultos |
+| 19 | Mi Cubeta de Miel | https://www.micubetademiel.com/ |  |  | Mérida | Media | Productor |
+| 20 | Miel afrodisiaca (ejemplo original) | https://www.mielesdemalasiamx.com/ |  |  |  | Media | Ejemplo original |
+| 21 | Productos Chinos Mayoreo Etumax | https://productoschinos.com.mx/product/miel-royal-etuma/ |  |  | México | Media | Mayoreo |
+| 22 | Royal Honey MX | https://royalhoneymx.com/ |  |  | México | Media | Mayoreo D2C |
+| 23 | Son de Miel | https://sondemiel.com.mx/ |  |  | México | Media | Marca D2C |
+| 24 | Vainilla Orgánica La Orquídea |  |  |  | Ciudad Valles | Media | Mayoreo |
+| 25 | Camí Miel |  |  |  | México | Baja | Marca |
+| 26 | Happy Honey |  |  |  | México | Baja | Marca |
+| 27 | Miel Carlota |  |  |  | México | Baja | Marca |
+| 28 | Miel Kevala |  |  |  | México | Baja | Marca |
+| 29 | Miel Romero |  |  |  | México | Baja | Marca |
+| 30 | Miel Tía Patty |  |  |  | México | Baja | Marca |

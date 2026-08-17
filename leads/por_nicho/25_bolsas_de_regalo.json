@@ -66,6 +66,22 @@
   {
     "giro": "Papeleria",
     "nicho": "Bolsas de regalo",
+    "empresa": "Cristaline",
+    "url": "https://www.cristaline.mx/",
+    "email": "ventas@cristaline.mx",
+    "telefono": "5515411753",
+    "ciudad": "Tlalnepantla",
+    "estado": "EdoMex",
+    "pais": "México",
+    "tipo": "Fabricante",
+    "notas": "34 años fabricando bolsas de celofán y pliegos para regalo; Guadalajara 17, Const. 1917",
+    "fuente": "research",
+    "prioridad": "Alta",
+    "score_contacto": 9
+  },
+  {
+    "giro": "Papeleria",
+    "nicho": "Bolsas de regalo",
     "empresa": "Packsys",
     "url": "https://packsys.com/",
     "email": "info@packsys.com",
@@ -114,6 +130,22 @@
   {
     "giro": "Papeleria",
     "nicho": "Bolsas de regalo",
+    "empresa": "El Centro Bolsero",
+    "url": "https://www.elcentrobolserosa.com/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "CDMX",
+    "estado": "CDMX",
+    "pais": "México",
+    "tipo": "Distribuidor",
+    "notas": "60+ años; bolsas de papel con/sin asas, envolturas y cajas para regalo",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 4
+  },
+  {
+    "giro": "Papeleria",
+    "nicho": "Bolsas de regalo",
     "empresa": "Entelequia",
     "url": "https://desechablesbiodegradables.com/collections/bolsas-papel-kraft",
     "email": "",
@@ -126,5 +158,37 @@
     "fuente": "research",
     "prioridad": "Media",
     "score_contacto": 4
+  },
+  {
+    "giro": "Papeleria",
+    "nicho": "Bolsas de regalo",
+    "empresa": "FABOLSA",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "CDMX",
+    "estado": "CDMX",
+    "pais": "México",
+    "tipo": "Fabricante",
+    "notas": "Fábrica de bolsas y envolturas; Eje 5 Ote (Javier Rojo Gómez) 468B, Iztapalapa; 51-100 empleados",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 2
+  },
+  {
+    "giro": "Papeleria",
+    "nicho": "Bolsas de regalo",
+    "empresa": "Emepak",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Marca",
+    "notas": "Bolsas kraft personalizadas 150u y de regalo, vía ML",
+    "fuente": "brand",
+    "prioridad": "Baja",
+    "score_contacto": 1
   }
 ]

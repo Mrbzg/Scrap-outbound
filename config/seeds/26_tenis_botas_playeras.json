@@ -121,6 +121,24 @@
       "telefono": "5594629696",
       "ciudad": "Huixquilucan",
       "estado": "EdoMex"
+    },
+    {
+      "empresa": "Tenis Morgan",
+      "tipo": "Mayoreo",
+      "notas": "500+ modelos; proveedor de tenis mayoreo en León; Calle Juan Nepomuceno Herrera 608a",
+      "fuente": "research",
+      "url": "https://www.tenismorgan.com/",
+      "telefono": "4774958719",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Tenis Clon Mayoreo León",
+      "tipo": "Mayoreo",
+      "notas": "Venta de tenis al mayoreo por corridas; La Luz 1213, León Centro",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
     }
   ]
 }

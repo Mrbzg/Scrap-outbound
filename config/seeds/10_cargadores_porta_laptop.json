@@ -774,15 +774,6 @@
       "estado": "México"
     },
     {
-      "empresa": "Kingston / Adata / Sandisk canal",
-      "tipo": "Storage",
-      "notas": "Vía Coolook y mayoristas",
-      "fuente": "research",
-      "url": "https://coolook.mx/",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
       "empresa": "Litio / Novoline / Tauro",
       "tipo": "Marcas accesorios",
       "notas": "Asociados Coolook",
@@ -818,14 +809,6 @@
       "url": "https://gameplanet.com/",
       "ciudad": "CDMX",
       "estado": "CDMX"
-    },
-    {
-      "empresa": "Razer / HyperX / Corsair canal MX",
-      "tipo": "Gamer marcas",
-      "notas": "Retail ecom",
-      "fuente": "brand",
-      "ciudad": "México",
-      "estado": "México"
     },
     {
       "empresa": "Cargadores GaN mayoreo",
@@ -931,15 +914,6 @@
       "telefono": "813882554",
       "ciudad": "Monterrey",
       "estado": "NL"
-    },
-    {
-      "empresa": "Misceláneas canal ELE-GATE",
-      "tipo": "Canal retail chico",
-      "notas": "Papelerías y accesorios",
-      "fuente": "research",
-      "url": "https://www.ele-gate.com/",
-      "ciudad": "México",
-      "estado": "México"
     },
     {
       "empresa": "Vendedores ML/Amazon vía ELE-GATE",
@@ -1053,26 +1027,6 @@
       "url": "https://www.ishopmixup.com/",
       "ciudad": "CDMX",
       "estado": "CDMX"
-    },
-    {
-      "empresa": "Hikvision / Dahua canal MCA",
-      "tipo": "CCTV",
-      "notas": "Adyacente tech",
-      "fuente": "research",
-      "url": "https://www.mcachis.com.mx/",
-      "telefono": "9616132242",
-      "ciudad": "Tuxtla Gutiérrez",
-      "estado": "Chiapas"
-    },
-    {
-      "empresa": "Impresoras Lexmark Epson Brother canal",
-      "tipo": "Consumibles",
-      "notas": "Adyacente",
-      "fuente": "research",
-      "url": "https://www.mcachis.com.mx/",
-      "telefono": "9616132242",
-      "ciudad": "Tuxtla Gutiérrez",
-      "estado": "Chiapas"
     }
   ]
 }

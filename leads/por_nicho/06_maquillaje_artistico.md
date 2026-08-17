@@ -5,6 +5,8 @@
 **Alta:** 74 · **Media:** 46 · **Baja:** 84  
 **Con email:** 25 · **Con teléfono:** 80 · **Con URL:** 98
 
+Ejemplo original: https://colibrix.com.mx/productos/
+
 ## Alta prioridad
 
 | Empresa | URL | Email | Tel | Ciudad | Tipo |

@@ -120,46 +120,6 @@
       "estado": "Jalisco"
     },
     {
-      "empresa": "Clínicas TEA CDMX canal",
-      "tipo": "Canal clínico",
-      "notas": "Material",
-      "fuente": "research",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Clínicas TEA MTY canal",
-      "tipo": "Canal clínico",
-      "notas": "Neurodiversidad",
-      "fuente": "research",
-      "ciudad": "Monterrey",
-      "estado": "NL"
-    },
-    {
-      "empresa": "Escuelas Montessori CDMX canal",
-      "tipo": "Canal escolar",
-      "notas": "Material oficial",
-      "fuente": "research",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Escuelas Montessori GDL canal",
-      "tipo": "Canal escolar",
-      "notas": "AIPAI zona",
-      "fuente": "research",
-      "ciudad": "Guadalajara",
-      "estado": "Jalisco"
-    },
-    {
-      "empresa": "Escuelas Montessori MTY canal",
-      "tipo": "Canal escolar",
-      "notas": "XMajo zona",
-      "fuente": "research",
-      "ciudad": "Monterrey",
-      "estado": "NL"
-    },
-    {
       "empresa": "Clínica SI San Pedro",
       "ciudad": "San Pedro",
       "estado": "NL",
@@ -184,28 +144,33 @@
       "fuente": "research"
     },
     {
-      "empresa": "Gimnasio sensorial Satélite",
-      "ciudad": "Naucalpan",
-      "estado": "EdoMex",
-      "tipo": "Gimnasio SI",
-      "notas": "Terapia",
-      "fuente": "research"
+      "empresa": "Ponlly",
+      "tipo": "Ecom",
+      "notas": "Tienda especializada en sensoriales TDAH/Autismo/estrés; push bubble, discos de equilibrio",
+      "fuente": "research",
+      "url": "https://gcmebrat.com.mx/ponlly",
+      "ciudad": "México",
+      "estado": "México"
     },
     {
-      "empresa": "Gimnasio sensorial Cumbres",
-      "ciudad": "Monterrey",
-      "estado": "NL",
-      "tipo": "Gimnasio SI",
-      "notas": "Terapia",
-      "fuente": "research"
+      "empresa": "teytoy",
+      "tipo": "Marca",
+      "notas": "Juguetes Montessori y sensoriales para bebés vía Amazon MX",
+      "fuente": "brand",
+      "url": "https://www.amazon.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
     },
     {
-      "empresa": "Gimnasio sensorial Providencia",
-      "ciudad": "Guadalajara",
-      "estado": "Jalisco",
-      "tipo": "Gimnasio SI",
-      "notas": "Terapia",
-      "fuente": "research"
+      "empresa": "Edudak / Casa Didáctica",
+      "tipo": "Fabricante",
+      "notas": "Fabricante y distribuidor autorizado de juguetes educativos; mayoreo y distribución",
+      "fuente": "research",
+      "url": "https://www.ideashands.com.mx/",
+      "email": "ventas@casadidactica.com",
+      "telefono": "2222998488",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
     }
   ]
 }

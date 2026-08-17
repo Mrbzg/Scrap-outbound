@@ -135,6 +135,41 @@
       "telefono": "4492114422",
       "ciudad": "Aguascalientes",
       "estado": "Aguascalientes"
+    },
+    {
+      "empresa": "Piel Coreana",
+      "tipo": "Mayoreo",
+      "notas": "8+ años con marcas coreanas; mayoreo K-beauty con factura y envíos express",
+      "fuente": "research",
+      "url": "https://www.pielcoreana.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Celiz",
+      "tipo": "Mayoreo",
+      "notas": "Proveedor de skincare coreano al mayoreo (50% desc al invertir $30k)",
+      "fuente": "research",
+      "url": "https://www.celiz.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Kkul",
+      "tipo": "Mayoreo",
+      "notas": "Skincare coreano a precio de mayoreo desde 1 pieza; envíos MX y USA",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Laly Skin",
+      "tipo": "Mayoreo",
+      "notas": "Mayoreo de skincare coreano en línea",
+      "fuente": "research",
+      "url": "https://www.lalyskin.com/",
+      "ciudad": "México",
+      "estado": "México"
     }
   ]
 }

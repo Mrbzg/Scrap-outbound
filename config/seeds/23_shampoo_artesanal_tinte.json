@@ -74,6 +74,55 @@
       "telefono": "5536169938",
       "ciudad": "CDMX",
       "estado": "CDMX"
+    },
+    {
+      "empresa": "OnlyShop México",
+      "tipo": "Ecom",
+      "notas": "Shampoo tinte cubre canas jengibre 500ml; sin amoníaco",
+      "fuente": "research",
+      "url": "https://www.onlyshop.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Kaisasa",
+      "tipo": "Marca",
+      "notas": "Shampoo con tinte cubre canas jengibre; 4.7★ (687 reseñas) vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Baregk",
+      "tipo": "Marca",
+      "notas": "Tinte shampoo café castaño en sobres, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Raíces Co",
+      "tipo": "Marca",
+      "notas": "Shampoo sólido anti-canas de nogal, $180/90g",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Avellana Beauty Eco Boutique",
+      "tipo": "Marca",
+      "notas": "Shampoo sólido anti-canas a base de nogal, salvia y romero",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Lu'um Nuestra Tierra",
+      "tipo": "Marca",
+      "notas": "Shampoo matizante de canas sólido",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
     }
   ]
 }

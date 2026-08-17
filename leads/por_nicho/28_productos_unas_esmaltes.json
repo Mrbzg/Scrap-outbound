@@ -50,6 +50,22 @@
   {
     "giro": "Belleza",
     "nicho": "Productos para uñas (esmaltes, pegamentos, piedritas)",
+    "empresa": "Mc Nails México",
+    "url": "https://www.mcnailsmexico.com/",
+    "email": "ventas@mcnailsmexico.com",
+    "telefono": "5570290745",
+    "ciudad": "CDMX",
+    "estado": "CDMX",
+    "pais": "México",
+    "tipo": "Mayoreo",
+    "notas": "Productos para uñas y accesorios; mayoreo WhatsApp 55 1224 2149",
+    "fuente": "research",
+    "prioridad": "Alta",
+    "score_contacto": 9
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Productos para uñas (esmaltes, pegamentos, piedritas)",
     "empresa": "Nails Shop SLP",
     "url": "https://www.nailsshop.com.mx/",
     "email": "",
@@ -59,6 +75,22 @@
     "pais": "México",
     "tipo": "Mayoreo",
     "notas": "Río Verde 315, Fantasy/Organic/Wapizima",
+    "fuente": "research",
+    "prioridad": "Alta",
+    "score_contacto": 6
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Productos para uñas (esmaltes, pegamentos, piedritas)",
+    "empresa": "Romez Distribuidora",
+    "url": "https://www.romezdistribuidora.com.mx/",
+    "email": "",
+    "telefono": "4448096424",
+    "ciudad": "San Luis Potosí",
+    "estado": "SLP",
+    "pais": "México",
+    "tipo": "Mayoreo",
+    "notas": "Fantasy Nails, Organic, Mc Nails, Wapizima, Gelish; Carretera Río Verde 315; subdistribuidor",
     "fuente": "research",
     "prioridad": "Alta",
     "score_contacto": 6
@@ -78,6 +110,22 @@
     "fuente": "research",
     "prioridad": "Alta",
     "score_contacto": 6
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Productos para uñas (esmaltes, pegamentos, piedritas)",
+    "empresa": "Cyndy Nails",
+    "url": "",
+    "email": "",
+    "telefono": "5512242149",
+    "ciudad": "Tlalnepantla",
+    "estado": "EdoMex",
+    "pais": "México",
+    "tipo": "Mayoreo",
+    "notas": "Venta de productos para uñas; Moctezuma 104, Tlalnepantla",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 4
   },
   {
     "giro": "Belleza",

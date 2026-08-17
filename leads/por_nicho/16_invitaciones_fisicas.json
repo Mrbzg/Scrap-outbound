@@ -66,6 +66,22 @@
   {
     "giro": "Papeleria",
     "nicho": "Invitaciones fisicas",
+    "empresa": "Amelia Paper Design",
+    "url": "https://www.ameliapaperdesign.com/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Ecom",
+    "notas": "Invitaciones premium con hot stamping, serigrafía artesanal y nombre rotulado a mano; 8 años",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 3
+  },
+  {
+    "giro": "Papeleria",
+    "nicho": "Invitaciones fisicas",
     "empresa": "Creear",
     "url": "https://creear.mx/",
     "email": "",
@@ -114,6 +130,22 @@
   {
     "giro": "Papeleria",
     "nicho": "Invitaciones fisicas",
+    "empresa": "Imprenta Vintage",
+    "url": "https://www.imprentavintage.com/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "CDMX",
+    "estado": "CDMX",
+    "pais": "México",
+    "tipo": "Imprenta",
+    "notas": "Letterpress, stamping, golpe seco y relieve para invitaciones de boda y eventos",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 3
+  },
+  {
+    "giro": "Papeleria",
+    "nicho": "Invitaciones fisicas",
     "empresa": "Invitaciones fisicas (ejemplo original)",
     "url": "https://paradisaprint.com/",
     "email": "",
@@ -142,6 +174,22 @@
     "fuente": "research",
     "prioridad": "Media",
     "score_contacto": 2
+  },
+  {
+    "giro": "Papeleria",
+    "nicho": "Invitaciones fisicas",
+    "empresa": "InvitameOK",
+    "url": "https://invitameok.com/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Ecom",
+    "notas": "Invitaciones digitales boda/XV con confirmación, mesa de regalos y panel de invitados",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Papeleria",

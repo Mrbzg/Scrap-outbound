@@ -18,6 +18,22 @@
   {
     "giro": "Juguetes",
     "nicho": "Juguetes sensoriales y terapeuticos",
+    "empresa": "Edudak / Casa Didáctica",
+    "url": "https://www.ideashands.com.mx/",
+    "email": "ventas@casadidactica.com",
+    "telefono": "2222998488",
+    "ciudad": "Puebla",
+    "estado": "Puebla",
+    "pais": "México",
+    "tipo": "Fabricante",
+    "notas": "Fabricante y distribuidor autorizado de juguetes educativos; mayoreo y distribución",
+    "fuente": "research",
+    "prioridad": "Alta",
+    "score_contacto": 9
+  },
+  {
+    "giro": "Juguetes",
+    "nicho": "Juguetes sensoriales y terapeuticos",
     "empresa": "Grupo Educar",
     "url": "https://grupoeducar.com.mx/",
     "email": "",
@@ -178,6 +194,22 @@
   {
     "giro": "Juguetes",
     "nicho": "Juguetes sensoriales y terapeuticos",
+    "empresa": "Ponlly",
+    "url": "https://gcmebrat.com.mx/ponlly",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Ecom",
+    "notas": "Tienda especializada en sensoriales TDAH/Autismo/estrés; push bubble, discos de equilibrio",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 3
+  },
+  {
+    "giro": "Juguetes",
+    "nicho": "Juguetes sensoriales y terapeuticos",
     "empresa": "Teng Da Tepito",
     "url": "",
     "email": "",
@@ -190,6 +222,22 @@
     "fuente": "research",
     "prioridad": "Media",
     "score_contacto": 2
+  },
+  {
+    "giro": "Juguetes",
+    "nicho": "Juguetes sensoriales y terapeuticos",
+    "empresa": "teytoy",
+    "url": "https://www.amazon.com.mx/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Marca",
+    "notas": "Juguetes Montessori y sensoriales para bebés vía Amazon MX",
+    "fuente": "brand",
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Juguetes",

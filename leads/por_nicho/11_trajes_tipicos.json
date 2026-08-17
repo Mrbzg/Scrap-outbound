@@ -2,6 +2,22 @@
   {
     "giro": "Ropa",
     "nicho": "Trajes tipicos",
+    "empresa": "Calzado Manzano (trajes típicos)",
+    "url": "https://calzadomanzano.com/",
+    "email": "hola@calzadomanzano.com",
+    "telefono": "7221016661",
+    "ciudad": "San Mateo Atenco",
+    "estado": "EdoMex",
+    "pais": "México",
+    "tipo": "Calzado adyacente",
+    "notas": "Pareja del traje",
+    "fuente": "research",
+    "prioridad": "Alta",
+    "score_contacto": 8
+  },
+  {
+    "giro": "Ropa",
+    "nicho": "Trajes tipicos",
     "empresa": "Confección a la medida charro CDMX",
     "url": "https://fabricadetrajesdecharrogabrieles.com/",
     "email": "ventas@fabricadetrajesdecharrogabrieles.com",

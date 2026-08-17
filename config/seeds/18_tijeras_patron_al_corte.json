@@ -141,6 +141,40 @@
       "telefono": "5557611520",
       "ciudad": "CDMX",
       "estado": "CDMX"
+    },
+    {
+      "empresa": "Scrapfer",
+      "tipo": "Ecom",
+      "notas": "14 años; herramientas scrapbooking: suajadoras, perforadoras, tijeras; TK Tools, Silhouette",
+      "fuente": "research",
+      "url": "https://scrapfer.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Fiskars",
+      "tipo": "Marca",
+      "notas": "Tijeras dentadas Chevron y herramientas de corte",
+      "fuente": "brand",
+      "url": "https://www.fiskars.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "We R Memory Keepers",
+      "tipo": "Marca",
+      "notas": "Tijeras de oficina y herramientas scrap, vía Scrapfer",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "UCEC",
+      "tipo": "Marca",
+      "notas": "Set 12 tijeras decorativas zigzag/patrón vía Amazon MX",
+      "fuente": "brand",
+      "url": "https://www.amazon.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
     }
   ]
 }

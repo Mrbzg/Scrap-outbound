@@ -195,6 +195,86 @@
       "telefono": "4422253649",
       "ciudad": "Corregidora",
       "estado": "Querétaro"
+    },
+    {
+      "empresa": "Del Exágono",
+      "tipo": "Mayoreo",
+      "notas": "Miel de abeja mayoreo; Río Nilo 609, San Carlos, GDL",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Derivados Apícolas Pepemiel",
+      "tipo": "Mayoreo",
+      "notas": "Miel de abeja mayoreo; Hornos 220-4, Noche Buena, Santa Cruz Xoxocotlán",
+      "fuente": "research",
+      "ciudad": "Oaxaca",
+      "estado": "Oaxaca"
+    },
+    {
+      "empresa": "Vainilla Orgánica La Orquídea",
+      "tipo": "Mayoreo",
+      "notas": "Miel de abeja mayoreo; Libramiento Poniente 4523, Cd. Valles",
+      "fuente": "research",
+      "ciudad": "Ciudad Valles",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "KawenCafé",
+      "tipo": "Mayoreo",
+      "notas": "Miel pura de abeja mayoreo; 16 de septiembre 16, Centro",
+      "fuente": "research",
+      "ciudad": "Iliatenco",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Miel Romero",
+      "tipo": "Marca",
+      "notas": "Miel de abeja en frascos 700g, mayoreo vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Happy Honey",
+      "tipo": "Marca",
+      "notas": "Miel mayoreo vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Miel Tía Patty",
+      "tipo": "Marca",
+      "notas": "Miel de abeja mayoreo vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Camí Miel",
+      "tipo": "Marca",
+      "notas": "Miel de abeja natural vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Miel Carlota",
+      "tipo": "Marca",
+      "notas": "Miel de abeja 300/335/500g, 4.8★ vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Miel Kevala",
+      "tipo": "Marca",
+      "notas": "Miel mayoreo vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
     }
   ]
 }

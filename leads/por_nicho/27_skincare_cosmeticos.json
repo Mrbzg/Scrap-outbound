@@ -178,6 +178,22 @@
   {
     "giro": "Belleza",
     "nicho": "Skincare, cosmeticos",
+    "empresa": "Celiz",
+    "url": "https://www.celiz.com.mx/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Mayoreo",
+    "notas": "Proveedor de skincare coreano al mayoreo (50% desc al invertir $30k)",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 3
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Skincare, cosmeticos",
     "empresa": "Halo Skin",
     "url": "https://haloskin.mx/",
     "email": "",
@@ -190,6 +206,38 @@
     "fuente": "research",
     "prioridad": "Media",
     "score_contacto": 2
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Skincare, cosmeticos",
+    "empresa": "Laly Skin",
+    "url": "https://www.lalyskin.com/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Mayoreo",
+    "notas": "Mayoreo de skincare coreano en línea",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 3
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Skincare, cosmeticos",
+    "empresa": "Piel Coreana",
+    "url": "https://www.pielcoreana.com/",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Mayoreo",
+    "notas": "8+ años con marcas coreanas; mayoreo K-beauty con factura y envíos express",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 3
   },
   {
     "giro": "Belleza",
@@ -222,5 +270,21 @@
     "fuente": "research",
     "prioridad": "Media",
     "score_contacto": 2
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Skincare, cosmeticos",
+    "empresa": "Kkul",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "México",
+    "estado": "México",
+    "pais": "México",
+    "tipo": "Mayoreo",
+    "notas": "Skincare coreano a precio de mayoreo desde 1 pieza; envíos MX y USA",
+    "fuente": "research",
+    "prioridad": "Baja",
+    "score_contacto": 1
   }
 ]

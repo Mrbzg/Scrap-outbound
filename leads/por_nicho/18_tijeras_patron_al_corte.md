@@ -1,9 +1,11 @@
 # Lote 18 — Papeleria / Tijeras con patron al corte
 
 **Slug:** `tijeras_patron_al_corte`  
-**Total leads:** 15  
-**Alta:** 8 · **Media:** 7 · **Baja:** 0  
-**Con email:** 5 · **Con teléfono:** 8 · **Con URL:** 15
+**Total leads:** 19  
+**Alta:** 8 · **Media:** 11 · **Baja:** 0  
+**Con email:** 5 · **Con teléfono:** 8 · **Con URL:** 18
+
+Ejemplo original: https://yoyi.com.mx/
 
 ## Alta prioridad
 
@@ -32,8 +34,12 @@
 | 8 | Yoyi | https://yoyi.com.mx/ | ventas@yoyi.com.mx | 9612233720 | Chiapa de Corzo | Alta | Ejemplo original |
 | 9 | Alva Papelería | https://alvapapeleria.com/ |  |  | México | Media | Mayoreo |
 | 10 | Bella Scrap México | https://www.bellascrapmexico.com.mx/ |  |  | México | Media | Ecom scrap |
-| 11 | Ofix | https://www.ofix.mx/ |  |  | México | Media | Mayoreo |
-| 12 | Papelería Sahuayo | https://www.papeleriasahuayo.com/ |  |  | Sahuayo | Media | Mayoreo |
-| 13 | Papira | https://papira.com.mx/ |  |  | México | Media | Mayoreo |
-| 14 | Super Papelera | https://superpapelera.com.mx/ |  |  | Toluca | Media | Mayoreo |
-| 15 | Tijeras con patron al corte (ejemplo original) | https://yoyi.com.mx/ |  |  |  | Media | Ejemplo original |
+| 11 | Fiskars | https://www.fiskars.com.mx/ |  |  | México | Media | Marca |
+| 12 | Ofix | https://www.ofix.mx/ |  |  | México | Media | Mayoreo |
+| 13 | Papelería Sahuayo | https://www.papeleriasahuayo.com/ |  |  | Sahuayo | Media | Mayoreo |
+| 14 | Papira | https://papira.com.mx/ |  |  | México | Media | Mayoreo |
+| 15 | Scrapfer | https://scrapfer.com.mx/ |  |  | México | Media | Ecom |
+| 16 | Super Papelera | https://superpapelera.com.mx/ |  |  | Toluca | Media | Mayoreo |
+| 17 | Tijeras con patron al corte (ejemplo original) | https://yoyi.com.mx/ |  |  |  | Media | Ejemplo original |
+| 18 | UCEC | https://www.amazon.com.mx/ |  |  | México | Media | Marca |
+| 19 | We R Memory Keepers |  |  |  | USA | Media | Marca |

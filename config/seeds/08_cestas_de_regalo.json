@@ -777,17 +777,6 @@
       "estado": "EdoMex"
     },
     {
-      "empresa": "Canastas Rivenso 10% cupón canal",
-      "tipo": "Ecom",
-      "notas": "Oficina + móvil",
-      "fuente": "research",
-      "url": "https://rivenso.com/",
-      "email": "ventas@rivenso.com",
-      "telefono": "5515541137",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
       "empresa": "Rivenso Ixtapaluca CD",
       "tipo": "Centro distribución",
       "notas": "Calz Acozac",
@@ -1556,14 +1545,6 @@
       "estado": "Querétaro"
     },
     {
-      "empresa": "Canastas de queso y vino independientes",
-      "tipo": "Gourmet",
-      "notas": "Queserías + cava",
-      "fuente": "research",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
       "empresa": "Queserías CDMX gift boxes",
       "tipo": "Gourmet",
       "notas": "Canastas de queso",
@@ -1766,69 +1747,7 @@
       "estado": "México"
     },
     {
-      "empresa": "Rivenso extra oficina",
-      "tipo": "Ecom",
-      "notas": "Cotización volumen",
-      "fuente": "research",
-      "url": "https://rivenso.com/",
-      "email": "ventas@rivenso.com",
-      "telefono": "5515541137",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Dendi extra logística",
-      "tipo": "PyME",
-      "notas": "Punta a punta",
-      "fuente": "research",
-      "url": "https://canastanavidenas.com/",
-      "email": "ventas@dendi.mx",
-      "telefono": "5531152282",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "María Orsini extra legado",
-      "tipo": "Premium",
-      "notas": "Tradición",
-      "fuente": "research",
-      "url": "https://mariaorsini.com.mx/",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Arcones Gourmet extra artesanal",
-      "tipo": "Artesanal",
-      "notas": "MX",
-      "fuente": "research",
-      "url": "https://arconesgourmet.com/",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Canastas y Arcones extra fábrica",
-      "tipo": "Fábrica",
-      "notas": "Alto volumen",
-      "fuente": "research",
-      "url": "https://canastasyarcones.mx/",
-      "email": "ventas@canastasyarcones.mx",
-      "telefono": "5571596103",
-      "ciudad": "Naucalpan",
-      "estado": "EdoMex"
-    },
-    {
-      "empresa": "Canastas.com extra fábrica",
-      "tipo": "Fábrica",
-      "notas": "1000+ SKU",
-      "fuente": "research",
-      "url": "https://canastas.com/",
-      "email": "contacto@canastas.com",
-      "telefono": "5599901630",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Regalos y Canastas extra ejemplo",
+      "empresa": "Regalos y Canastas",
       "tipo": "Referencia",
       "notas": "Cliente",
       "fuente": "ejemplo_cliente",

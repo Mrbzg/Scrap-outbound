@@ -114,6 +114,22 @@
   {
     "giro": "Ropa y calzado",
     "nicho": "Tenis, botas, playeras",
+    "empresa": "Tenis Morgan",
+    "url": "https://www.tenismorgan.com/",
+    "email": "",
+    "telefono": "4774958719",
+    "ciudad": "León",
+    "estado": "Guanajuato",
+    "pais": "México",
+    "tipo": "Mayoreo",
+    "notas": "500+ modelos; proveedor de tenis mayoreo en León; Calle Juan Nepomuceno Herrera 608a",
+    "fuente": "research",
+    "prioridad": "Alta",
+    "score_contacto": 6
+  },
+  {
+    "giro": "Ropa y calzado",
+    "nicho": "Tenis, botas, playeras",
     "empresa": "LHESH",
     "url": "https://lhesh.mx/",
     "email": "",
@@ -190,6 +206,22 @@
     "fuente": "research",
     "prioridad": "Media",
     "score_contacto": 4
+  },
+  {
+    "giro": "Ropa y calzado",
+    "nicho": "Tenis, botas, playeras",
+    "empresa": "Tenis Clon Mayoreo León",
+    "url": "",
+    "email": "",
+    "telefono": "",
+    "ciudad": "León",
+    "estado": "Guanajuato",
+    "pais": "México",
+    "tipo": "Mayoreo",
+    "notas": "Venta de tenis al mayoreo por corridas; La Luz 1213, León Centro",
+    "fuente": "research",
+    "prioridad": "Media",
+    "score_contacto": 2
   },
   {
     "giro": "Ropa y calzado",

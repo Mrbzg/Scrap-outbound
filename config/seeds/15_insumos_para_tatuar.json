@@ -87,6 +87,58 @@
       "url": "https://makeartsupply.com/",
       "ciudad": "México",
       "estado": "México"
+    },
+    {
+      "empresa": "Eagle Tattoo Supply",
+      "tipo": "Mayoreo",
+      "notas": "Distribuidor nacional desde 2016: tintas, agujas, máquinas, cartuchos; WhatsApp 558339",
+      "fuente": "research",
+      "url": "https://eagletattoosupply.com/",
+      "telefono": "5583396661",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Cheyenne",
+      "tipo": "Marca",
+      "notas": "Máquinas pen y cartuchos, distribución MX vía Reyes Tattoo Supply",
+      "fuente": "brand",
+      "ciudad": "Alemania"
+    },
+    {
+      "empresa": "Eternal Ink",
+      "tipo": "Marca",
+      "notas": "Tintas profesionales, distribución MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "FK Irons",
+      "tipo": "Marca",
+      "notas": "Máquinas de tatuar, distribución oficial MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Bishop Rotary",
+      "tipo": "Marca",
+      "notas": "Máquinas rotary, distribución oficial MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "World Famous Tattoo Ink",
+      "tipo": "Marca",
+      "notas": "Tintas, distribución MX vía Reyes",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Fusion Ink",
+      "tipo": "Marca",
+      "notas": "Tintas, distribución MX vía Reyes",
+      "fuente": "brand",
+      "ciudad": "USA"
     }
   ]
 }

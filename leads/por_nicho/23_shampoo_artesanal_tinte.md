@@ -1,9 +1,11 @@
 # Lote 23 — Belleza / Shampoo artesanal, shampoo con tinte
 
 **Slug:** `shampoo_artesanal_tinte`  
-**Total leads:** 8  
-**Alta:** 5 · **Media:** 3 · **Baja:** 0  
-**Con email:** 3 · **Con teléfono:** 6 · **Con URL:** 8
+**Total leads:** 14  
+**Alta:** 5 · **Media:** 4 · **Baja:** 5  
+**Con email:** 3 · **Con teléfono:** 6 · **Con URL:** 9
+
+Ejemplo original: https://www.meidu.com.mx/
 
 ## Alta prioridad
 
@@ -26,4 +28,10 @@
 | 5 | Rizos Mexicanos | https://www.rizosmexicanos.com/ |  | 5514718602 | México | Alta | Marca D2C |
 | 6 | AMAI MX | https://amai.mx/ |  |  | México | Media | Marca D2C |
 | 7 | MEIDU México | https://www.meidu.com.mx/ |  | 5511336665 | México | Media | Ejemplo original |
-| 8 | Shampoo artesanal, shampoo con tinte (ejemplo original) | https://www.meidu.com.mx/ |  |  |  | Media | Ejemplo original |
+| 8 | OnlyShop México | https://www.onlyshop.com.mx/ |  |  | México | Media | Ecom |
+| 9 | Shampoo artesanal, shampoo con tinte (ejemplo original) | https://www.meidu.com.mx/ |  |  |  | Media | Ejemplo original |
+| 10 | Avellana Beauty Eco Boutique |  |  |  | México | Baja | Marca |
+| 11 | Baregk |  |  |  | México | Baja | Marca |
+| 12 | Kaisasa |  |  |  | México | Baja | Marca |
+| 13 | Lu'um Nuestra Tierra |  |  |  | México | Baja | Marca |
+| 14 | Raíces Co |  |  |  | México | Baja | Marca |

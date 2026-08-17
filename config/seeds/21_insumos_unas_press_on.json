@@ -79,6 +79,39 @@
       "url": "https://www.mishop.mx/",
       "ciudad": "México",
       "estado": "México"
+    },
+    {
+      "empresa": "Mayoreo Luz María",
+      "tipo": "Mayoreo",
+      "notas": "Material de uñas, insumos para pestañas, press on y gamas de gelish",
+      "fuente": "research",
+      "url": "https://luzma.catalog.to/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "María Cibeles Royalty",
+      "tipo": "Marca",
+      "notas": "Tips press on 240 pzs, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "KISS imPRESS",
+      "tipo": "Marca",
+      "notas": "Uñas press on acabado gel, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Sally Hansen",
+      "tipo": "Marca",
+      "notas": "Uñas press on y esmaltes, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
     }
   ]
 }

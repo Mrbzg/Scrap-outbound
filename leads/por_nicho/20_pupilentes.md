@@ -1,9 +1,11 @@
 # Lote 20 — Belleza / Pupilentes
 
 **Slug:** `pupilentes`  
-**Total leads:** 10  
-**Alta:** 5 · **Media:** 5 · **Baja:** 0  
-**Con email:** 5 · **Con teléfono:** 5 · **Con URL:** 10
+**Total leads:** 15  
+**Alta:** 5 · **Media:** 6 · **Baja:** 4  
+**Con email:** 5 · **Con teléfono:** 5 · **Con URL:** 11
+
+Ejemplo original: https://pupilentes.shop/
 
 ## Alta prioridad
 
@@ -28,4 +30,9 @@
 | 7 | Más Visión | https://www.masvision.mx/ |  |  | México | Media | Ecom óptica |
 | 8 | Pupilentes (ejemplo original) | https://pupilentes.shop/ |  |  |  | Media | Ejemplo original |
 | 9 | Pupilentes.shop | https://pupilentes.shop/ |  |  | México | Media | Ejemplo original |
-| 10 | Ópticas Lux | https://lux.mx/collections/lentes-de-contacto |  |  | México | Media | Retail |
+| 10 | PupilentesYA | https://pupilentesya.com/ |  |  | México | Media | Ecom |
+| 11 | Ópticas Lux | https://lux.mx/collections/lentes-de-contacto |  |  | México | Media | Retail |
+| 12 | Air Optix Colors (Alcon) |  |  |  |  | Baja | Marca |
+| 13 | FreshLook ColorBlends (Alcon) |  |  |  |  | Baja | Marca |
+| 14 | Sense |  |  |  |  | Baja | Marca |
+| 15 | SofLens StarColors (Bausch+Lomb) |  |  |  |  | Baja | Marca |

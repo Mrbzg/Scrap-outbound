@@ -5,6 +5,8 @@
 **Alta:** 24 · **Media:** 55 · **Baja:** 42  
 **Con email:** 14 · **Con teléfono:** 25 · **Con URL:** 73
 
+Ejemplo original: https://doto.com.mx/
+
 ## Alta prioridad
 
 | Empresa | URL | Email | Tel | Ciudad | Tipo |

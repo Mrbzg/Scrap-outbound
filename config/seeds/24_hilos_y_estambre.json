@@ -73,6 +73,68 @@
       "telefono": "3338252835",
       "ciudad": "Guadalajara",
       "estado": "Jalisco"
+    },
+    {
+      "empresa": "Estambres Santa Teresita",
+      "tipo": "Mayoreo",
+      "notas": "Mercería GDL: estambres, hilazas, hilos y manualidades; mayoreo y menudeo",
+      "fuente": "research",
+      "url": "https://santateresita.com.mx/",
+      "telefono": "3338252835",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Ventronic",
+      "tipo": "Distribuidor",
+      "notas": "Estambre mayoreo hilaza algodón 50/100g vía ML",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Hilaza La Abuelita",
+      "tipo": "Marca",
+      "notas": "Hilaza amigurumi mayoreo 100 pzas vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Estambres Sweet Crochet",
+      "tipo": "Ecom",
+      "notas": "Estambres nacionales e importados, amigurumi; atención a mayoristas; Dr. Atl 92, Sta. María la Ribera",
+      "fuente": "research",
+      "url": "https://sweetcrochet.com.mx/",
+      "telefono": "2711732068",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Lana Sube Lana Baja",
+      "tipo": "Ecom",
+      "notas": "Hilos y estambres en línea desde $30; lana mexa, happy cotton",
+      "fuente": "research",
+      "url": "https://www.lanasubelanabaja.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "TejeManía",
+      "tipo": "Ecom",
+      "notas": "Tienda en línea de estambres y tejido",
+      "fuente": "research",
+      "url": "https://www.tejemania.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Estambres Filatti",
+      "tipo": "Mercería",
+      "notas": "Mercería en el Centro de CDMX con estambres y ofertas",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
     }
   ]
 }

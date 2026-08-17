@@ -5,6 +5,8 @@
 **Alta:** 14 · **Media:** 15 · **Baja:** 28  
 **Con email:** 7 · **Con teléfono:** 21 · **Con URL:** 16
 
+Ejemplo original: https://calzadomanzano.com/
+
 ## Alta prioridad
 
 | Empresa | URL | Email | Tel | Ciudad | Tipo |

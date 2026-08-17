@@ -74,6 +74,42 @@
       "url": "https://bolsaspapelkraftcdmx.com/",
       "ciudad": "CDMX",
       "estado": "CDMX"
+    },
+    {
+      "empresa": "Emepak",
+      "tipo": "Marca",
+      "notas": "Bolsas kraft personalizadas 150u y de regalo, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "El Centro Bolsero",
+      "tipo": "Distribuidor",
+      "notas": "60+ años; bolsas de papel con/sin asas, envolturas y cajas para regalo",
+      "fuente": "research",
+      "url": "https://www.elcentrobolserosa.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Cristaline",
+      "tipo": "Fabricante",
+      "notas": "34 años fabricando bolsas de celofán y pliegos para regalo; Guadalajara 17, Const. 1917",
+      "fuente": "research",
+      "url": "https://www.cristaline.mx/",
+      "email": "ventas@cristaline.mx",
+      "telefono": "5515411753",
+      "ciudad": "Tlalnepantla",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "FABOLSA",
+      "tipo": "Fabricante",
+      "notas": "Fábrica de bolsas y envolturas; Eje 5 Ote (Javier Rojo Gómez) 468B, Iztapalapa; 51-100 empleados",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
     }
   ]
 }

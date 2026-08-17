@@ -1,9 +1,11 @@
 # Lote 19 — Joyeria / Charms
 
 **Slug:** `charms`  
-**Total leads:** 14  
-**Alta:** 7 · **Media:** 7 · **Baja:** 0  
-**Con email:** 5 · **Con teléfono:** 8 · **Con URL:** 12
+**Total leads:** 20  
+**Alta:** 7 · **Media:** 13 · **Baja:** 0  
+**Con email:** 5 · **Con teléfono:** 10 · **Con URL:** 13
+
+Ejemplo original: https://charmslab.mx/
 
 ## Alta prioridad
 
@@ -33,5 +35,11 @@
 | 10 | Charms (ejemplo original) | https://charmslab.mx/ |  |  |  | Media | Ejemplo original |
 | 11 | Charms GDL | https://charmsgdl.com/ |  |  | Guadalajara | Media | Ecom |
 | 12 | Charms SMX / Charms MX | https://www.charmssmx.com/ |  |  | CDMX | Media | D2C |
-| 13 | Joyas en Plata Taxco | https://www.joyasenplata.mx/ |  |  | Taxco | Media | Mayoreo |
-| 14 | Maxijoyas Correo Mayor |  |  |  | CDMX | Media | Mayoreo |
+| 13 | Fabiola Fitz Jewelry |  |  | 7621222248 | Taxco | Media | Fabricante |
+| 14 | Faustino Joyería de Herencia | https://faustino.com.mx/ |  |  | Taxco | Media | Mayoreo |
+| 15 | Joyas en Plata Taxco | https://www.joyasenplata.mx/ |  |  | Taxco | Media | Mayoreo |
+| 16 | Joyería Meztli Plata |  |  |  | Taxco | Media | Mayoreo |
+| 17 | Maxijoyas Correo Mayor |  |  |  | CDMX | Media | Mayoreo |
+| 18 | Platería Amor 925 |  |  |  | Taxco | Media | Mayoreo |
+| 19 | Platería Cardeli |  |  | 7621034520 | Taxco | Media | Mayoreo |
+| 20 | TONY Mayoreo |  |  |  | Taxco | Media | Mayoreo |

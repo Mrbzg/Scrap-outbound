@@ -2026,7 +2026,7 @@
     "estado": "CDMX",
     "pais": "México",
     "tipo": "Ejemplo original",
-    "notas": "Ejemplo del cliente",
+    "notas": "Ejemplo del cliente; Cliente",
     "fuente": "ejemplo_cliente",
     "prioridad": "Media",
     "score_contacto": 3

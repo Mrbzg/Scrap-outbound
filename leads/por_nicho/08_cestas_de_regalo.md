@@ -5,6 +5,8 @@
 **Alta:** 99 · **Media:** 35 · **Baja:** 64  
 **Con email:** 98 · **Con teléfono:** 99 · **Con URL:** 133
 
+Ejemplo original: https://www.regalosycanastas.mx/
+
 ## Alta prioridad
 
 | Empresa | URL | Email | Tel | Ciudad | Tipo |

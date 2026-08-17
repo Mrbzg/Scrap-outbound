@@ -1,9 +1,11 @@
 # Lote 16 — Papeleria / Invitaciones fisicas
 
 **Slug:** `invitaciones_fisicas`  
-**Total leads:** 10  
-**Alta:** 4 · **Media:** 6 · **Baja:** 0  
-**Con email:** 0 · **Con teléfono:** 4 · **Con URL:** 10
+**Total leads:** 13  
+**Alta:** 4 · **Media:** 9 · **Baja:** 0  
+**Con email:** 0 · **Con teléfono:** 4 · **Con URL:** 13
+
+Ejemplo original: https://paradisaprint.com/
 
 ## Alta prioridad
 
@@ -22,9 +24,12 @@
 | 2 | Paradisa Print | https://paradisaprint.com/ |  | 9999269331 | Mérida | Alta | Ejemplo original |
 | 3 | Print The Joy / Tienda de Invitaciones | https://tiendadeinvitaciones.com/ |  | 4444922233 | San Luis Potosí | Alta | Imprenta |
 | 4 | Te Invito | https://te-invito.com.mx/ |  | 5578660556 | CDMX | Alta | Digital + evento |
-| 5 | Creear | https://creear.mx/ |  |  | México | Media | Papelería |
-| 6 | Empapelarte | https://empapelarte.com.mx/ |  |  | México | Media | Papelería eventos |
-| 7 | Event Planner México invitaciones | https://www.eventplannermexico.mx/invitaciones-para-eventos/ |  |  | CDMX | Media | Agencia + print |
-| 8 | Invitaciones fisicas (ejemplo original) | https://paradisaprint.com/ |  |  |  | Media | Ejemplo original |
-| 9 | Invitación MX | https://invitacionmx.com/ |  |  | México | Media | Web + física |
-| 10 | Samsara Invitaciones | https://www.samsarainvitaciones.com.mx/ |  |  | México | Media | Imprenta eventos |
+| 5 | Amelia Paper Design | https://www.ameliapaperdesign.com/ |  |  | México | Media | Ecom |
+| 6 | Creear | https://creear.mx/ |  |  | México | Media | Papelería |
+| 7 | Empapelarte | https://empapelarte.com.mx/ |  |  | México | Media | Papelería eventos |
+| 8 | Event Planner México invitaciones | https://www.eventplannermexico.mx/invitaciones-para-eventos/ |  |  | CDMX | Media | Agencia + print |
+| 9 | Imprenta Vintage | https://www.imprentavintage.com/ |  |  | CDMX | Media | Imprenta |
+| 10 | Invitaciones fisicas (ejemplo original) | https://paradisaprint.com/ |  |  |  | Media | Ejemplo original |
+| 11 | Invitación MX | https://invitacionmx.com/ |  |  | México | Media | Web + física |
+| 12 | InvitameOK | https://invitameok.com/ |  |  | México | Media | Ecom |
+| 13 | Samsara Invitaciones | https://www.samsarainvitaciones.com.mx/ |  |  | México | Media | Imprenta eventos |

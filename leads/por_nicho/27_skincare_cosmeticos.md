@@ -1,9 +1,11 @@
 # Lote 27 — Belleza / Skincare, cosmeticos
 
 **Slug:** `skincare_cosmeticos`  
-**Total leads:** 14  
-**Alta:** 11 · **Media:** 3 · **Baja:** 0  
-**Con email:** 7 · **Con teléfono:** 10 · **Con URL:** 13
+**Total leads:** 18  
+**Alta:** 11 · **Media:** 6 · **Baja:** 1  
+**Con email:** 7 · **Con teléfono:** 10 · **Con URL:** 16
+
+Ejemplo original: https://meriticosmetics.com.mx/
 
 ## Alta prioridad
 
@@ -36,6 +38,10 @@
 | 9 | Meriti Cosmetics | https://meriticosmetics.com.mx/ |  | 5528655026 | CDMX | Alta | Ejemplo original |
 | 10 | The Makeup Center | https://themakeupcenter.com/ | ventas@themakeupc.com | 5565491471 | CDMX | Alta | Tienda profesional |
 | 11 | Yoon Lab | https://yoonlab.mx/ | contacto@yoonlab.mx | 5520041035 | CDMX | Alta | K-beauty |
-| 12 | Halo Skin | https://haloskin.mx/ |  |  | México | Media | K-beauty |
-| 13 | Skincare, cosmeticos (ejemplo original) | https://meriticosmetics.com.mx/ |  |  |  | Media | Ejemplo original |
-| 14 | Youngmi | https://youngmi.mx/ |  |  | México | Media | K-beauty |
+| 12 | Celiz | https://www.celiz.com.mx/ |  |  | México | Media | Mayoreo |
+| 13 | Halo Skin | https://haloskin.mx/ |  |  | México | Media | K-beauty |
+| 14 | Laly Skin | https://www.lalyskin.com/ |  |  | México | Media | Mayoreo |
+| 15 | Piel Coreana | https://www.pielcoreana.com/ |  |  | México | Media | Mayoreo |
+| 16 | Skincare, cosmeticos (ejemplo original) | https://meriticosmetics.com.mx/ |  |  |  | Media | Ejemplo original |
+| 17 | Youngmi | https://youngmi.mx/ |  |  | México | Media | K-beauty |
+| 18 | Kkul |  |  |  | México | Baja | Mayoreo |

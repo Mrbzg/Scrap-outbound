@@ -87,6 +87,33 @@
       "url": "https://www.eventplannermexico.mx/invitaciones-para-eventos/",
       "ciudad": "CDMX",
       "estado": "CDMX"
+    },
+    {
+      "empresa": "InvitameOK",
+      "tipo": "Ecom",
+      "notas": "Invitaciones digitales boda/XV con confirmación, mesa de regalos y panel de invitados",
+      "fuente": "research",
+      "url": "https://invitameok.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Amelia Paper Design",
+      "tipo": "Ecom",
+      "notas": "Invitaciones premium con hot stamping, serigrafía artesanal y nombre rotulado a mano; 8 años",
+      "fuente": "research",
+      "url": "https://www.ameliapaperdesign.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Imprenta Vintage",
+      "tipo": "Imprenta",
+      "notas": "Letterpress, stamping, golpe seco y relieve para invitaciones de boda y eventos",
+      "fuente": "research",
+      "url": "https://www.imprentavintage.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
     }
   ]
 }

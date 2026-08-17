@@ -93,6 +93,39 @@
       "url": "https://www.lentesworld.com.mx/",
       "ciudad": "México",
       "estado": "México"
+    },
+    {
+      "empresa": "PupilentesYA",
+      "tipo": "Ecom",
+      "notas": "Lentes de contacto de color; Lunare, FreshLook; envío gratis MX",
+      "fuente": "research",
+      "url": "https://pupilentesya.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Air Optix Colors (Alcon)",
+      "tipo": "Marca",
+      "notas": "Pupilentes hidrogel de silicona de Alcon",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "FreshLook ColorBlends (Alcon)",
+      "tipo": "Marca",
+      "notas": "Pupilentes de color mensuales Alcon",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "SofLens StarColors (Bausch+Lomb)",
+      "tipo": "Marca",
+      "notas": "Lentes de contacto de color Bausch+Lomb",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Sense",
+      "tipo": "Marca",
+      "notas": "Lente esférico blando de color, vía ópticas MX",
+      "fuente": "brand"
     }
   ]
 }

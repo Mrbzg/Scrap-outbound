@@ -124,12 +124,55 @@
       "estado": "CDMX"
     },
     {
-      "empresa": "Maxijoyas Correo Mayor",
+      "empresa": "Faustino Joyería de Herencia",
       "tipo": "Mayoreo",
-      "notas": "Correo Mayor 62 Local 1, pulseras + charms",
+      "notas": "Plata .925 de Taxco; dijes, anillos y aretes; mayoreo directo por WhatsApp",
       "fuente": "research",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
+      "url": "https://faustino.com.mx/",
+      "ciudad": "Taxco",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Joyería Meztli Plata",
+      "tipo": "Mayoreo",
+      "notas": "Plata .925 mayoreo desde Taxco, modelos para revendedores",
+      "fuente": "research",
+      "ciudad": "Taxco",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Platería Cardeli",
+      "tipo": "Mayoreo",
+      "notas": "Anillos, cadenas y dijes en plata .925, precio mayoreo desde 1 pieza",
+      "fuente": "research",
+      "telefono": "7621034520",
+      "ciudad": "Taxco",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Platería Amor 925",
+      "tipo": "Mayoreo",
+      "notas": "Plata .925 mayoreo y menudeo, tienda en Taxco",
+      "fuente": "research",
+      "ciudad": "Taxco",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "TONY Mayoreo",
+      "tipo": "Mayoreo",
+      "notas": "Cientos de modelos de aretes, cadenas, dijes y pulseras en plata .925",
+      "fuente": "research",
+      "ciudad": "Taxco",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Fabiola Fitz Jewelry",
+      "tipo": "Fabricante",
+      "notas": "Fabricante de plata .925 de Taxco; WhatsApp 762 122 2248",
+      "fuente": "research",
+      "telefono": "7621222248",
+      "ciudad": "Taxco",
+      "estado": "Guerrero"
     }
   ]
 }

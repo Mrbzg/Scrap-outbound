@@ -1,10 +1,17 @@
 giro,nicho,empresa,url,email,telefono,ciudad,estado,pais,tipo,prioridad,score_contacto,notas,fuente
 Medicina,Insumos para tatuar,AGMA Tattoo Supply,https://agmatattoo.com/,,7711691599,Pachuca,Hidalgo,México,Proveedor,Alta,5,Rojo Gómez 1019 Cubitos,research
 Medicina,Insumos para tatuar,Daruma Supply Tattoo,https://www.darumasupplytattoo.com/,castillo.aguil4@gmail.com,5519649709,CDMX,CDMX,México,Multi-sucursal,Alta,8,Hojalatería 29 Morelos + Neza + Puebla,research
+Medicina,Insumos para tatuar,Eagle Tattoo Supply,https://eagletattoosupply.com/,,5583396661,CDMX,CDMX,México,Mayoreo,Alta,6,"Distribuidor nacional desde 2016: tintas, agujas, máquinas, cartuchos; WhatsApp 558339",research
 Medicina,Insumos para tatuar,Inkside Supply,https://inksidesupply.com/,ventas@inksidesupply.com,5510480496,CDMX,CDMX,México,Tienda CDMX,Alta,8,Mar Jónico 50 Popotla — tintas y cartuchos,research
 Medicina,Insumos para tatuar,Reyes Tattoo Supply,https://www.reyestattoosupply.com/,ventas@reyestattoosupply.com,3331088920,Zapopan,Jalisco,México,Estudio + supply,Alta,8,"Tepeyac 930 Chapalita, +30 años, Indio Reyes",research
 Medicina,Insumos para tatuar,Soulflower,https://soulflower.mx/,soulflowercustom@gmail.com,5545127515,CDMX,CDMX,México,Ejemplo original,Alta,8,Ejemplo del cliente — estudio + supply Condesa,ejemplo_cliente
 Medicina,Insumos para tatuar,Tarmex Tattoo Supply,https://tarmex-vip.com/,ventas@tarmex-vip.com,(55) 6278-6666,CDMX,CDMX,México,Mayoreo,Alta,9,Liverpool 104 Juárez — WA mayoreo 5565426736,research
 Medicina,Insumos para tatuar,Zebra Tattoo Supply,https://zebratattoosupply.com/,ventas@zebratattoosupply.com,5541880654,Tultitlán,EdoMex,México,Mayoreo nacional,Alta,9,"N. Héroes 2, EZ, cartuchos, PMU, envíos MX",research
+Medicina,Insumos para tatuar,Bishop Rotary,,,,USA,,México,Marca,Media,2,"Máquinas rotary, distribución oficial MX",brand
+Medicina,Insumos para tatuar,Cheyenne,,,,Alemania,,México,Marca,Media,2,"Máquinas pen y cartuchos, distribución MX vía Reyes Tattoo Supply",brand
+Medicina,Insumos para tatuar,Eternal Ink,,,,USA,,México,Marca,Media,2,"Tintas profesionales, distribución MX",brand
+Medicina,Insumos para tatuar,FK Irons,,,,USA,,México,Marca,Media,2,"Máquinas de tatuar, distribución oficial MX",brand
+Medicina,Insumos para tatuar,Fusion Ink,,,,USA,,México,Marca,Media,2,"Tintas, distribución MX vía Reyes",brand
 Medicina,Insumos para tatuar,Insumos para tatuar (ejemplo original),https://soulflower.mx/,,,,,México,Ejemplo original,Media,2,Seed del cliente,ejemplo_cliente
 Medicina,Insumos para tatuar,Make Art Supply,https://makeartsupply.com/,,,México,México,México,Tattoo supply,Media,2,Insumos profesionales tatuadores,research
+Medicina,Insumos para tatuar,World Famous Tattoo Ink,,,,USA,,México,Marca,Media,2,"Tintas, distribución MX vía Reyes",brand

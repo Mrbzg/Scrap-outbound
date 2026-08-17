@@ -84,9 +84,57 @@
       "estado": "CDMX"
     },
     {
-      "empresa": "Tiara Mayorista Uruguay",
-      "tipo": "Mayoreo",
-      "notas": "República de Uruguay 66, velas / santería / Yoruba",
+      "empresa": "Makia",
+      "tipo": "Tienda",
+      "notas": "C. Querétaro 182G, Roma Norte: cuarzos, amuletos, sahumerios y velas",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "La Cofradía WitchCraft Store",
+      "tipo": "Tienda",
+      "notas": "Kits de hechizos, suministros de altar, velas, libros y joyas paganas",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Piedra de Luna",
+      "tipo": "Tienda",
+      "notas": "Velas aromáticas con ingredientes orgánicos y cuarzos incrustados",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Serendipia Esotérica",
+      "tipo": "Ecom",
+      "notas": "Velas, sahumerios, cuarzos, sales de baño y kits mágicos en línea",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Todos los Ángeles",
+      "tipo": "Tienda",
+      "notas": "Veladoras de alta magia, Flores de Bach y artículos Feng Shui",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Víctor Tarot",
+      "tipo": "Tienda",
+      "notas": "Calz. Acoxpa 550, Prado Coapa: cuarzos, inciensos, velas y tarot",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Café Libertad",
+      "tipo": "Tienda",
+      "notas": "Condesa: sahumerios, velas aromáticas y productos para rituales",
       "fuente": "research",
       "ciudad": "CDMX",
       "estado": "CDMX"
