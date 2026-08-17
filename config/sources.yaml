@@ -791,7 +791,35 @@ lotes:
       - pelucas fantasía cosplay disfraz CDMX mayoreo
       - pelucas de colores venta por mayoreo México
 
-# Plantilla para lotes futuros (51+)
+  "51":
+    slug: jabones_shampoos
+    giro: Belleza
+    nicho: Jabones y shampoos
+    ejemplo: https://www.rizosmexicanos.com/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/51_jabones_shampoos.json
+    search_queries:
+      - jabones artesanales mayoreo México tienda .mx
+      - shampoo sólido natural México marca
+      - jabonería artesanal mexicana CDMX Guadalajara Puebla
+
+  "52":
+    slug: skincare_coreano
+    giro: Belleza
+    nicho: Skincare Coreano
+    ejemplo: https://haloskin.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/52_skincare_coreano.json
+    search_queries:
+      - skincare coreano México tienda .mx K-beauty
+      - mayoreo K-beauty México proveedor
+      - COSRX Anua Beauty of Joseon tienda México
+
+# Plantilla para lotes futuros (53+)
 # Copiar bloque y llenar sources + seeds
 template_lote:
   slug: ""

@@ -1,0 +1,264 @@
+{
+  "lote": "51",
+  "slug": "jabones_shampoos",
+  "description": "Jabones y shampoos MX",
+  "leads": [
+    {
+      "empresa": "Rizos Mexicanos (ejemplo)",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — shampoos y jabones",
+      "fuente": "ejemplo_cliente",
+      "url": "https://www.rizosmexicanos.com/",
+      "telefono": "5514718602",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Mar Amoli",
+      "tipo": "Fabricante",
+      "notas": "Jabones artesanales, shampoo y acondicionador sólidos, cremas y bálsamos; catálogo mayoreo con envíos nacionales",
+      "fuente": "research",
+      "url": "https://www.amoli.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Productos Möe",
+      "tipo": "Fabricante",
+      "notas": "Jabones, shampoo sólido y velas de soja; maquila y mayoreo con marca personal; Río Tuxpan 1049",
+      "fuente": "research",
+      "url": "https://www.productosmoe.com/",
+      "telefono": "3330365447",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Bam Boo! Lifestyle",
+      "tipo": "Marca",
+      "notas": "Jabones artesanales 100g con carbón activado, chocomenta, miel y avena; packs de mayoreo",
+      "fuente": "research",
+      "url": "https://www.bamboolifestyle.com.mx/",
+      "email": "onnearrss@gmail.com",
+      "telefono": "5579388337",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Onneageld (distribuidor Bam Boo)",
+      "tipo": "Distribuidor",
+      "notas": "Distribuidor de Bam Boo! Lifestyle: 20 pack mix jabones mayoreo",
+      "fuente": "research",
+      "url": "https://onneageld.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Jabones Artesanales BioAlei",
+      "tipo": "Fabricante",
+      "notas": "Jabones decorativos y aromaterapia; tiendas CDMX, Mérida, Puebla, Chiapas y GDL; amenidades para hoteles",
+      "fuente": "research",
+      "url": "https://www.jabonesartesanales.com.mx/",
+      "telefono": "5526486262",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "BioAlei Mérida",
+      "tipo": "Sucursal",
+      "notas": "Tienda BioAlei Montejo, Mérida",
+      "fuente": "research",
+      "url": "https://www.jabonesartesanales.com.mx/",
+      "telefono": "9991950922",
+      "ciudad": "Mérida",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "BioAlei Guadalajara",
+      "tipo": "Sucursal",
+      "notas": "BioAlei GDL; WhatsApp 331 539 8154",
+      "fuente": "research",
+      "url": "https://www.jabonesartesanales.com.mx/",
+      "telefono": "36596819",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "BioAlei Puebla",
+      "tipo": "Sucursal",
+      "notas": "Rosendo Márquez 2501 local B",
+      "fuente": "research",
+      "url": "https://www.jabonesartesanales.com.mx/",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Jabones Artesanales Puebla",
+      "tipo": "Fabricante",
+      "notas": "Jabones 100% naturales; Cam. al Batán 44, Villa Satélite Calera",
+      "fuente": "research",
+      "url": "https://jabonesartesanalespuebla.com.mx/",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Jabones Ordaz",
+      "tipo": "Fabricante",
+      "notas": "Fabricante de jabones artesanales; Avena 161, Granjas Esmeralda, Iztapalapa",
+      "fuente": "research",
+      "url": "https://www.jabonesartesanalesordaz.net/",
+      "email": "ventas@jabonesartesanalesordaz.net",
+      "telefono": "5536169938",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Moldemanía",
+      "tipo": "Insumos",
+      "notas": "Tienda de moldes e insumos para velas, jabones y repostería; Mesones 75 y 138D, CDMX",
+      "fuente": "research",
+      "url": "https://www.moldemania.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Bianni Revolution",
+      "tipo": "Marca",
+      "notas": "Jabones artesanales mayoreo; Carmen 24 y Correo Mayor 12 local 102, Centro CDMX",
+      "fuente": "research",
+      "telefono": "5573661570",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Jabones Artesanales Eclipse",
+      "tipo": "Tienda",
+      "notas": "Jabones artesanales; Revolución Social 48, Iztapalapa; cobertura CDMX y Texmelucan",
+      "fuente": "research",
+      "url": "https://jabones-artesanales-eclipse.ueniweb.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Jabón de Zorro D'Avi",
+      "tipo": "Fabricante",
+      "notas": "Champú sólido ecológico y jabones artesanales; venta por mayor y menor",
+      "fuente": "research",
+      "url": "https://www.jabondezorro.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Laguna Cyprien",
+      "tipo": "Marca",
+      "notas": "Shampoo sólido y jabones sin sulfatos ni plásticos, hechos en México",
+      "fuente": "research",
+      "url": "https://lagunacyprien.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Raíces Co",
+      "tipo": "Marca",
+      "notas": "Shampoo sólido anti-canas de nogal",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Avellana Beauty Eco Boutique",
+      "tipo": "Marca",
+      "notas": "Shampoo sólido anti-canas",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Lu'um Nuestra Tierra",
+      "tipo": "Marca",
+      "notas": "Shampoo matizante de canas sólido",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Kaisasa",
+      "tipo": "Marca",
+      "notas": "Shampoo con tinte cubre canas, 4.7★ vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "OnlyShop México",
+      "tipo": "Ecom",
+      "notas": "Shampoo tinte cubre canas jengibre 500ml",
+      "fuente": "research",
+      "url": "https://www.onlyshop.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "MEIDU México",
+      "tipo": "Marca",
+      "notas": "Shampoo con tinte y cuidado capilar",
+      "fuente": "research",
+      "url": "https://www.meidu.com.mx/",
+      "telefono": "5511336665",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Amazon MX jabones artesanales",
+      "tipo": "Marketplace",
+      "notas": "Sellers de jabones artesanales",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=jabones+artesanales",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mercado Libre jabones mayoreo",
+      "tipo": "Marketplace",
+      "notas": "Mayoreo de jabones artesanales",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/jabones-artesanales-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Etsy México jabones",
+      "tipo": "Marketplace",
+      "notas": "Vendedores de jabones artesanales MX",
+      "fuente": "research",
+      "url": "https://www.etsy.com/mx/market/jabones_artesanales",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Walmart México jabones",
+      "tipo": "Retail",
+      "notas": "Vende jabones de tocador y shampoo",
+      "fuente": "brand",
+      "url": "https://www.walmart.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Tienda Naturista El Mundo Natural",
+      "tipo": "Retail",
+      "notas": "Tienda naturista con jabones y shampoo natural",
+      "fuente": "brand",
+      "url": "https://www.elmundonatural.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Gran Naturista",
+      "tipo": "Retail",
+      "notas": "Cadena de tiendas naturistas",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    }
+  ]
+}

@@ -120,6 +120,8 @@ leads/por_nicho/{ID}_{slug}.csv|.json|.md
 | 48 | Botellas y tapas personalizados | `48_botellas_tapas_personalizados.*` |
 | 49 | Accesorios para autos (luces y refacciones pequeñas) | `49_accesorios_para_autos.*` |
 | 50 | Pelucas de colores | `50_pelucas_de_colores.*` |
+| 51 | Jabones y shampoos | `51_jabones_shampoos.*` |
+| 52 | Skincare Coreano | `52_skincare_coreano.*` |
 
 Catálogo: `leads/nichos.json` (58 nichos).
 

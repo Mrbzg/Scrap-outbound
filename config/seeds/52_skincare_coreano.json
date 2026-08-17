@@ -1,0 +1,244 @@
+{
+  "lote": "52",
+  "slug": "skincare_coreano",
+  "description": "Skincare Coreano MX",
+  "leads": [
+    {
+      "empresa": "Halo Skin (ejemplo)",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — skincare coreano D2C",
+      "fuente": "ejemplo_cliente",
+      "url": "https://haloskin.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Piel Coreana",
+      "tipo": "Mayoreo",
+      "notas": "8+ años con marcas coreanas; mayoreo K-beauty con factura y envíos express 1-2 días",
+      "fuente": "research",
+      "url": "https://www.pielcoreana.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Celiz",
+      "tipo": "Mayoreo",
+      "notas": "Proveedor de skincare coreano al mayoreo; 50% desc al invertir $30k",
+      "fuente": "research",
+      "url": "https://www.celiz.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Kkul",
+      "tipo": "Mayoreo",
+      "notas": "Skincare coreano a precio de mayoreo desde 1 pieza; envíos MX y USA",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Laly Skin",
+      "tipo": "Mayoreo",
+      "notas": "Mayoreo de skincare coreano en línea",
+      "fuente": "research",
+      "url": "https://www.lalyskin.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Yoon Lab",
+      "tipo": "Ecom",
+      "notas": "Juan Salvador Agraz 73; skincare coreano auténtico",
+      "fuente": "research",
+      "url": "https://yoonlab.mx/",
+      "email": "contacto@yoonlab.mx",
+      "telefono": "5520041035",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Klara Beauty",
+      "tipo": "Ecom",
+      "notas": "Muralista Latino 204; marcas coreanas originales",
+      "fuente": "research",
+      "url": "https://klarabeauty.com.mx/",
+      "email": "hola@klarabeauty.com.mx",
+      "telefono": "4776121896",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Youngmi",
+      "tipo": "Ecom",
+      "notas": "+800 productos COSRX, Anua, Medicube",
+      "fuente": "research",
+      "url": "https://youngmi.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "KBeauty MX",
+      "tipo": "Ecom",
+      "notas": "Skin1004, Tocobo, Medicube; L-V 9-18",
+      "fuente": "research",
+      "url": "https://kbeautymx.com/",
+      "email": "contacto.kbeautymx@gmail.com",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mayoreo K-Beauty",
+      "tipo": "Mayoreo",
+      "notas": "From Seoul to Tokyo; etiquetado COFEPRIS",
+      "fuente": "research",
+      "url": "https://mayoreokbeauty.com.mx/",
+      "email": "info@mayoreokbeauty.com.mx",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "MakeupMX Distribuidora",
+      "tipo": "Mayoreo",
+      "notas": "K-beauty y cosmética originales; Campo Real 1402 local 4",
+      "fuente": "research",
+      "url": "https://makeupmx.com/",
+      "email": "contacto@makeupmxdistribuidora.com",
+      "telefono": "4424673394",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Nahima Korean Beauty",
+      "tipo": "Ecom",
+      "notas": "K-beauty en frontera",
+      "fuente": "research",
+      "url": "https://nahima.mx/",
+      "ciudad": "Mexicali",
+      "estado": "BC"
+    },
+    {
+      "empresa": "COSRX",
+      "tipo": "Marca",
+      "notas": "Skincare coreano, retail MX vía Youngmi y otros",
+      "fuente": "brand",
+      "ciudad": "Corea"
+    },
+    {
+      "empresa": "Anua",
+      "tipo": "Marca",
+      "notas": "Skincare coreano, retail MX",
+      "fuente": "brand",
+      "ciudad": "Corea"
+    },
+    {
+      "empresa": "Medicube",
+      "tipo": "Marca",
+      "notas": "Skincare coreano, retail MX",
+      "fuente": "brand",
+      "ciudad": "Corea"
+    },
+    {
+      "empresa": "Skin1004",
+      "tipo": "Marca",
+      "notas": "Centella asiática, retail MX",
+      "fuente": "brand",
+      "ciudad": "Corea"
+    },
+    {
+      "empresa": "Tocobo",
+      "tipo": "Marca",
+      "notas": "Skincare coreano, retail MX",
+      "fuente": "brand",
+      "ciudad": "Corea"
+    },
+    {
+      "empresa": "Purito",
+      "tipo": "Marca",
+      "notas": "Skincare coreano, venta MX vía K-beauty shops",
+      "fuente": "brand",
+      "ciudad": "Corea"
+    },
+    {
+      "empresa": "Beauty of Joseon",
+      "tipo": "Marca",
+      "notas": "Skincare coreano viral, venta MX",
+      "fuente": "brand",
+      "ciudad": "Corea"
+    },
+    {
+      "empresa": "Laneige",
+      "tipo": "Marca",
+      "notas": "Skincare coreano, retail departamental MX",
+      "fuente": "brand",
+      "ciudad": "Corea"
+    },
+    {
+      "empresa": "Innisfree",
+      "tipo": "Marca",
+      "notas": "Skincare coreano, retail MX",
+      "fuente": "brand",
+      "ciudad": "Corea"
+    },
+    {
+      "empresa": "Etude House",
+      "tipo": "Marca",
+      "notas": "K-beauty, retail MX",
+      "fuente": "brand",
+      "ciudad": "Corea"
+    },
+    {
+      "empresa": "Missha",
+      "tipo": "Marca",
+      "notas": "K-beauty, venta MX",
+      "fuente": "brand",
+      "ciudad": "Corea"
+    },
+    {
+      "empresa": "Amazon MX K-beauty",
+      "tipo": "Marketplace",
+      "notas": "Sellers de skincare coreano",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=skincare+coreano",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mercado Libre K-beauty",
+      "tipo": "Marketplace",
+      "notas": "Tiendas de skincare coreano en ML",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/skincare-coreano",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Sephora México K-beauty",
+      "tipo": "Retail",
+      "notas": "Vende marcas coreanas (Laneige, Innisfree)",
+      "fuente": "brand",
+      "url": "https://www.sephora.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Liverpool belleza coreana",
+      "tipo": "Retail",
+      "notas": "Sección de K-beauty",
+      "fuente": "brand",
+      "url": "https://www.liverpool.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "TikTok Shop K-beauty",
+      "tipo": "Marketplace",
+      "notas": "Venta D2C de K-beauty",
+      "fuente": "research",
+      "url": "https://shop.tiktok.com/",
+      "ciudad": "México",
+      "estado": "México"
+    }
+  ]
+}
