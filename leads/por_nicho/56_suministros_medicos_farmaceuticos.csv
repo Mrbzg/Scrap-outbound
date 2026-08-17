@@ -1,0 +1,56 @@
+giro,nicho,empresa,url,email,telefono,ciudad,estado,pais,tipo,prioridad,score_contacto,notas,fuente
+MedTech,Suministros medicos / farmaceuticos,GMMC México,https://www.gmmcmexico.com/,,5555304433,CDMX,CDMX,México,Mayoreo,Alta,6,Distribuidora de material médico; Viaducto Río de la Piedad 261,research
+MedTech,Suministros medicos / farmaceuticos,J&M Distribuciones,https://jmdistribuciones.mx/,info@jmdistribuciones.mx,3316578530,Guadalajara,Jalisco,México,Mayoreo,Alta,9,"Material de curación y quirúrgico; San Salvador 1959 y Cruz del Sur 65, GDL",research
+MedTech,Suministros medicos / farmaceuticos,3M Health Care México,https://www.3m.com.mx/,,,CDMX,CDMX,México,Marca,Media,4,"Vendaje, antisepsia y equipo de protección",brand
+MedTech,Suministros medicos / farmaceuticos,Abbott Médica,https://www.abbott.com.mx/,,,CDMX,CDMX,México,Marca,Media,4,Diagnóstico y dispositivos médicos,brand
+MedTech,Suministros medicos / farmaceuticos,Amazon MX material médico,https://www.amazon.com.mx/s?k=material+medico,,,México,México,México,Marketplace,Media,2,Sellers de insumos médicos,research
+MedTech,Suministros medicos / farmaceuticos,Baxter México,,,,CDMX,CDMX,México,Marca,Media,2,Soluciones intravenosas y terapia renal,brand
+MedTech,Suministros medicos / farmaceuticos,BD Biosciences,,,,CDMX,CDMX,México,Marca,Media,2,Citometría y laboratorio,brand
+MedTech,Suministros medicos / farmaceuticos,Becton Dickinson de México,https://www.bd.com/mx,,,CDMX,CDMX,México,Fabricante,Media,4,"Dispositivos médicos, jeringas y catéteres; 12 plantas en MX",brand
+MedTech,Suministros medicos / farmaceuticos,Bsn (BSN Medical),,,,Alemania,,México,Marca,Media,2,"Vendaje, venta MX",brand
+MedTech,Suministros medicos / farmaceuticos,Cardinal Health México,,,,CDMX,CDMX,México,Fabricante,Media,2,Manufactura y distribución de productos médicos; 5 plantas en MX,brand
+MedTech,Suministros medicos / farmaceuticos,Casa Marzam,https://www.marzam.com.mx/,,,CDMX,CDMX,México,Mayoreo,Media,4,Distribuidora farmacéutica nacional,brand
+MedTech,Suministros medicos / farmaceuticos,Costco México,https://www.costco.com.mx/,,,CDMX,CDMX,México,Retail,Media,3,Farmacia por mayoreo,brand
+MedTech,Suministros medicos / farmaceuticos,Farmacias ABC,https://farmaciasabc.com/,,,CDMX,CDMX,México,Retail,Media,3,Cadena CDMX,brand
+MedTech,Suministros medicos / farmaceuticos,Farmacias Benavides,https://www.benavides.com.mx/,,,Monterrey,Nuevo León,México,Retail,Media,3,Cadena del norte,brand
+MedTech,Suministros medicos / farmaceuticos,Farmacias del Ahorro,https://www.fahorro.com/,,,CDMX,CDMX,México,Retail,Media,3,Cadena nacional,brand
+MedTech,Suministros medicos / farmaceuticos,Farmacias del Sol,https://www.farmaciasdelsol.mx/,,,CDMX,CDMX,México,Retail,Media,3,Cadena CDMX,brand
+MedTech,Suministros medicos / farmaceuticos,Farmacias Guadalajara,https://www.farmaciasguadalajara.com.mx/,,,Guadalajara,Jalisco,México,Retail,Media,3,Cadena nacional,brand
+MedTech,Suministros medicos / farmaceuticos,Farmacias Morelos,https://www.farmaciasmorelos.com.mx/,,,Cuernavaca,Morelos,México,Retail,Media,3,Cadena del sur,brand
+MedTech,Suministros medicos / farmaceuticos,Farmacias Roma,https://www.farmaciasroma.com.mx/,,,CDMX,CDMX,México,Retail,Media,3,Cadena CDMX,brand
+MedTech,Suministros medicos / farmaceuticos,Farmacias San Pablo,https://farmaciasanpablo.mx/,,,CDMX,CDMX,México,Retail,Media,3,Cadena CDMX,brand
+MedTech,Suministros medicos / farmaceuticos,Farmacias YZA,https://farmaciasyza.com/,,,CDMX,CDMX,México,Retail,Media,3,Cadena CDMX,brand
+MedTech,Suministros medicos / farmaceuticos,Fresenius Medical Care México,,,,CDMX,CDMX,México,Marca,Media,2,Equipos de diálisis,brand
+MedTech,Suministros medicos / farmaceuticos,Fármacos Nacionales,,,,CDMX,CDMX,México,Mayoreo,Media,2,Distribuidora farmacéutica,brand
+MedTech,Suministros medicos / farmaceuticos,GE HealthCare México,,,,CDMX,CDMX,México,Marca,Media,2,Imagenología y monitoreo,brand
+MedTech,Suministros medicos / farmaceuticos,Grupo Fármacos Especializados,,,,CDMX,CDMX,México,Mayoreo,Media,2,Distribuidora farmacéutica,brand
+MedTech,Suministros medicos / farmaceuticos,Johnson & Johnson MedTech,,,,CDMX,CDMX,México,Marca,Media,2,Dispositivos médicos y quirúrgicos,brand
+MedTech,Suministros medicos / farmaceuticos,JTC Tienda Online,https://jtc.com.mx/,,,México,México,México,Mayoreo,Media,3,"Material de curación, dental, ortopedia e instrumental médico; menudeo y mayoreo; sector privado y gobierno",research
+MedTech,Suministros medicos / farmaceuticos,Laboratorios PiSA,https://www.pisa.com.mx/,,,Guadalajara,Jalisco,México,Laboratorio,Media,3,Farmacéutica mexicana; soluciones intravenosas y medicamentos,brand
+MedTech,Suministros medicos / farmaceuticos,Laboratorios PiSA (ejemplo),https://www.pisa.com.mx/,,,Guadalajara,Jalisco,México,Ejemplo original,Media,3,Ejemplo del cliente — farmacéutica mexicana,ejemplo_cliente
+MedTech,Suministros medicos / farmaceuticos,Medline Industries México,,,,CDMX,CDMX,México,Fabricante,Media,2,Distribución y manufactura de insumos médicos,brand
+MedTech,Suministros medicos / farmaceuticos,Mega Farms,,,,CDMX,CDMX,México,Mayoreo,Media,2,Distribuidora farmacéutica,brand
+MedTech,Suministros medicos / farmaceuticos,Mercado Libre insumos médicos,https://listado.mercadolibre.com.mx/material-medico-mayoreo,,,México,México,México,Marketplace,Media,2,Mayoreo de material médico,research
+MedTech,Suministros medicos / farmaceuticos,Nadro,https://www.nadro.mx/,,,CDMX,CDMX,México,Mayoreo,Media,4,Distribuidora farmacéutica nacional,brand
+MedTech,Suministros medicos / farmaceuticos,Nipro,,,,Japón,,México,Marca,Media,2,"Jeringas y venoclisis, venta MX",brand
+MedTech,Suministros medicos / farmaceuticos,Promexsa,https://www.promexsa.com.mx/,,,México,México,México,Mayoreo,Media,3,"Material de curación (gasas, vendas, soluciones) por mayoreo; 210 productos",research
+MedTech,Suministros medicos / farmaceuticos,Proveedores Hospitalarios de México,https://proveedoreshospitalariosdemexico.com/,,,México,México,México,Mayoreo,Media,3,Material médico al mayoreo y menudeo; cobertura nacional,research
+MedTech,Suministros medicos / farmaceuticos,Roche Diagnostics México,,,,CDMX,CDMX,México,Marca,Media,2,Diagnóstico in vitro,brand
+MedTech,Suministros medicos / farmaceuticos,Sanborns Farmacia,https://www.sanborns.com.mx/,,,CDMX,CDMX,México,Retail,Media,3,Farmacia en tiendas departamentales,brand
+MedTech,Suministros medicos / farmaceuticos,Siemens Healthineers México,,,,CDMX,CDMX,México,Marca,Media,2,Equipos de imagenología,brand
+MedTech,Suministros medicos / farmaceuticos,Smith+Nephew México,,,,CDMX,CDMX,México,Marca,Media,2,Curación avanzada y ortopedia,brand
+MedTech,Suministros medicos / farmaceuticos,Stryker México,,,,CDMX,CDMX,México,Fabricante,Media,2,"Tecnología médica, ortopedia y quirúrgico",brand
+MedTech,Suministros medicos / farmaceuticos,Suministros medicos / farmaceuticos (ejemplo original),https://www.pisa.com.mx/,,,,,México,Ejemplo original,Media,2,Seed del cliente,ejemplo_cliente
+MedTech,Suministros medicos / farmaceuticos,Tegaderm (3M),,,,USA,,México,Marca,Media,2,"Apósitos transparentes, venta MX",brand
+MedTech,Suministros medicos / farmaceuticos,Walmart México,https://www.walmart.com.mx/,,,CDMX,CDMX,México,Retail,Media,3,Sección farmacia,brand
+MedTech,Suministros medicos / farmaceuticos,Alcomex,,,,México,México,México,Marca,Baja,1,Alcohol y antisépticos,brand
+MedTech,Suministros medicos / farmaceuticos,Ambiderm,,,,México,México,México,Marca,Baja,1,Guantes y material de curación,brand
+MedTech,Suministros medicos / farmaceuticos,Dibar,,,,México,México,México,Marca,Baja,1,Material médico,brand
+MedTech,Suministros medicos / farmaceuticos,Drotasa,,,,México,México,México,Marca,Baja,1,Guantes y material médico,brand
+MedTech,Suministros medicos / farmaceuticos,Dryper,,,,México,México,México,Marca,Baja,1,Toallitas y productos desechables,brand
+MedTech,Suministros medicos / farmaceuticos,Jaloma,,,,México,México,México,Marca,Baja,1,Guantes de látex,brand
+MedTech,Suministros medicos / farmaceuticos,Medicel,,,,México,México,México,Marca,Baja,1,Material de curación,brand
+MedTech,Suministros medicos / farmaceuticos,Quirmex,,,,México,México,México,Marca,Baja,1,Gasas y material de curación,brand
+MedTech,Suministros medicos / farmaceuticos,Sensi Medical,,,,México,México,México,Marca,Baja,1,Material de curación,brand
+MedTech,Suministros medicos / farmaceuticos,Tuk (curitas),,,,México,México,México,Marca,Baja,1,Cintas y material de curación,brand
+MedTech,Suministros medicos / farmaceuticos,Vendamax,,,,México,México,México,Marca,Baja,1,Vendas y curitas,brand

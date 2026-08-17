@@ -833,7 +833,77 @@ lotes:
       - marcas mexicanas de papelería Scribe Barrilito BACO
       - papelería al mayoreo CDMX Guadalajara Monterrey
 
-# Plantilla para lotes futuros (54+)
+  "54":
+    slug: equipo_iluminacion
+    giro: Comercializadora
+    nicho: Equipo de iluminacion
+    ejemplo: https://vyorsa.com.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/54_equipo_iluminacion.json
+    search_queries:
+      - equipo de iluminación mayoreo México distribuidor .mx
+      - Tecnolite Construlita Ledvance iluminación México
+      - lámparas LED mayoreo CDMX Guadalajara
+
+  "55":
+    slug: envios_de_tarjetas
+    giro: Fintech
+    nicho: Servicio de envios de tarjetas
+    ejemplo: https://bancoplata.mx/es
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/55_envios_de_tarjetas.json
+    search_queries:
+      - banco digital México envío tarjetas Nu Klar Stori Albo
+      - fintech tarjetas de crédito México neobancos
+      - tarjeta física envío domicilio México fintech
+
+  "56":
+    slug: suministros_medicos_farmaceuticos
+    giro: MedTech
+    nicho: Suministros medicos / farmaceuticos
+    ejemplo: https://www.pisa.com.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/56_suministros_medicos_farmaceuticos.json
+    search_queries:
+      - suministros médicos mayoreo México distribuidor .mx
+      - material de curación mayoreo hospitales México
+      - farmacéutica mexicana laboratorios PiSA Genomma
+
+  "57":
+    slug: barberia_cuidado_masculino
+    giro: Grooming
+    nicho: Barberia y cuidado masculino
+    ejemplo: https://www.sensabien.com/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/57_barberia_cuidado_masculino.json
+    search_queries:
+      - barbería cuidado masculino México marcas Kiss Bígaro
+      - productos barbería mayoreo México
+      - barber shop México tienda en línea
+
+  "58":
+    slug: insumos_tattoo_body_art
+    giro: Suministros Profesionales
+    nicho: Insumos para Tattoo y Body Art
+    ejemplo: https://soulflower.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/58_insumos_tattoo_body_art.json
+    search_queries:
+      - tattoo supply México insumos tatuar mayoreo .mx
+      - tintas máquinas cartuchos tatuaje México
+      - body art suministros profesionales México
+
+# Plantilla para lotes futuros (59+)
 # Copiar bloque y llenar sources + seeds
 template_lote:
   slug: ""

@@ -1,0 +1,321 @@
+{
+  "lote": "55",
+  "slug": "envios_de_tarjetas",
+  "description": "Servicio de envíos de tarjetas MX",
+  "leads": [
+    {
+      "empresa": "Banco Plata (ejemplo)",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — banco digital con tarjetas",
+      "fuente": "ejemplo_cliente",
+      "url": "https://bancoplata.mx/es",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Nu México",
+      "tipo": "Neobanco",
+      "notas": "Tarjeta de crédito 100% digital; envío a domicilio",
+      "fuente": "brand",
+      "url": "https://www.nu.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Klar",
+      "tipo": "Neobanco",
+      "notas": "Cuenta digital e inversiones; 3M+ usuarios",
+      "fuente": "brand",
+      "url": "https://klar.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Stori",
+      "tipo": "Fintech",
+      "notas": "Tarjeta sin historial; 2M+ usuarios",
+      "fuente": "brand",
+      "url": "https://www.stori.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Albo",
+      "tipo": "Neobanco",
+      "notas": "Cuenta digital con tarjeta de débito",
+      "fuente": "brand",
+      "url": "https://www.albo.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Ualá México",
+      "tipo": "Neobanco",
+      "notas": "Cuenta y tarjeta digital; alianza ABC Capital",
+      "fuente": "brand",
+      "url": "https://www.uala.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Hey Banco",
+      "tipo": "Neobanco",
+      "notas": "Banco digital de Banregio; tarjetas con cashback",
+      "fuente": "brand",
+      "url": "https://www.heybanco.com/",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Cuenca",
+      "tipo": "Fintech",
+      "notas": "Cuenta digital para negocios",
+      "fuente": "brand",
+      "url": "https://www.cuenca.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Fondeadora",
+      "tipo": "Neobanco",
+      "notas": "Cuenta digital con tarjeta física",
+      "fuente": "brand",
+      "url": "https://fondeadora.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Vexi",
+      "tipo": "Fintech",
+      "notas": "Tarjeta de crédito sin buró, red Amex; 1M+ clientes",
+      "fuente": "brand",
+      "url": "https://vexi.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "NOVACARD",
+      "tipo": "Fintech",
+      "notas": "Tarjeta garantizada 100% digital desde $500",
+      "fuente": "research",
+      "url": "https://novacard.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "RappiCard",
+      "tipo": "Fintech",
+      "notas": "Tarjeta con cashback, alianza Banco J.P. Morgan",
+      "fuente": "brand",
+      "url": "https://www.rappicard.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Didi Card",
+      "tipo": "Fintech",
+      "notas": "Tarjeta de crédito de Didi",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Spin by OXXO",
+      "tipo": "Fintech",
+      "notas": "Cuenta y tarjeta de débito de OXXO",
+      "fuente": "brand",
+      "url": "https://www.spin.com.mx/",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Mercado Pago",
+      "tipo": "Fintech",
+      "notas": "Wallet y tarjeta",
+      "fuente": "brand",
+      "url": "https://www.mercadopago.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Bineo",
+      "tipo": "Neobanco",
+      "notas": "Banco digital de Banorte",
+      "fuente": "brand",
+      "url": "https://www.bineo.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Openbank México",
+      "tipo": "Neobanco",
+      "notas": "Banco digital de Grupo Santander",
+      "fuente": "brand",
+      "url": "https://www.openbank.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Revolut México",
+      "tipo": "Neobanco",
+      "notas": "Cuenta multi-divisa con tarjeta",
+      "fuente": "brand",
+      "url": "https://www.revolut.com/mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "DolarApp",
+      "tipo": "Fintech",
+      "notas": "Cuenta en dólares con tarjeta",
+      "fuente": "brand",
+      "url": "https://dolarapp.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Kapital",
+      "tipo": "Fintech",
+      "notas": "Finanzas empresariales y tarjetas corporativas",
+      "fuente": "brand",
+      "url": "https://www.kapital.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Finsus",
+      "tipo": "Fintech",
+      "notas": "Cuenta de ahorro y tarjeta",
+      "fuente": "brand",
+      "url": "https://www.finsus.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Broxel",
+      "tipo": "Fintech",
+      "notas": "Emisión de tarjetas y nómina digital",
+      "fuente": "brand",
+      "url": "https://broxel.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Konfío",
+      "tipo": "Fintech",
+      "notas": "Tarjetas empresariales y crédito PYME",
+      "fuente": "brand",
+      "url": "https://konfio.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Clara",
+      "tipo": "Fintech",
+      "notas": "Tarjetas corporativas B2B",
+      "fuente": "brand",
+      "url": "https://www.clara.com/mx",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "BBVA México",
+      "tipo": "Banco",
+      "notas": "Banco tradicional con envío de tarjetas",
+      "fuente": "brand",
+      "url": "https://www.bbva.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Banorte",
+      "tipo": "Banco",
+      "notas": "Banco tradicional con envío de tarjetas",
+      "fuente": "brand",
+      "url": "https://www.banorte.com/",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Citibanamex",
+      "tipo": "Banco",
+      "notas": "Banco tradicional con envío de tarjetas",
+      "fuente": "brand",
+      "url": "https://www.banamex.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Santander México",
+      "tipo": "Banco",
+      "notas": "Banco tradicional con envío de tarjetas",
+      "fuente": "brand",
+      "url": "https://www.santander.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "HSBC México",
+      "tipo": "Banco",
+      "notas": "Banco tradicional con envío de tarjetas",
+      "fuente": "brand",
+      "url": "https://www.hsbc.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Scotiabank México",
+      "tipo": "Banco",
+      "notas": "Banco tradicional con envío de tarjetas",
+      "fuente": "brand",
+      "url": "https://www.scotiabank.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "BanBajío",
+      "tipo": "Banco",
+      "notas": "Banco con tarjetas garantizadas",
+      "fuente": "brand",
+      "url": "https://www.banbajio.com/",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Banco Azteca",
+      "tipo": "Banco",
+      "notas": "Banco con tarjetas y envíos",
+      "fuente": "brand",
+      "url": "https://www.bancoazteca.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "American Express México",
+      "tipo": "Red",
+      "notas": "Emisora de tarjetas premium",
+      "fuente": "brand",
+      "url": "https://www.americanexpress.com/mx",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Visa México",
+      "tipo": "Red",
+      "notas": "Red de pagos",
+      "fuente": "brand",
+      "url": "https://www.visa.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Mastercard México",
+      "tipo": "Red",
+      "notas": "Red de pagos",
+      "fuente": "brand",
+      "url": "https://www.mastercard.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    }
+  ]
+}

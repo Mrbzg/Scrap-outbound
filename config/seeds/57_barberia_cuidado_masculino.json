@@ -1,0 +1,208 @@
+{
+  "lote": "57",
+  "slug": "barberia_cuidado_masculino",
+  "description": "Barbería y cuidado masculino MX",
+  "leads": [
+    {
+      "empresa": "Sensabien (ejemplo)",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — cuidado masculino",
+      "fuente": "ejemplo_cliente",
+      "url": "https://www.sensabien.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Vikingos Barber Shop",
+      "tipo": "Barbería",
+      "notas": "Barber shop con cortes clásicos y modernos; Periférico Norte",
+      "fuente": "research",
+      "url": "https://www.facebook.com/vikingosbarbershopmx/",
+      "email": "vikingosbarbershop@gmail.com",
+      "telefono": "5550847376",
+      "ciudad": "EdoMex",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Baregk",
+      "tipo": "Marca",
+      "notas": "Marca de barbería y cuidado personal masculino",
+      "fuente": "research",
+      "url": "https://www.facebook.com/BarberiaBaregkMX/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Kiss Color / Kiss",
+      "tipo": "Marca",
+      "notas": "Tintes y cuidado para barba, marca mexicana",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Bígaro",
+      "tipo": "Marca",
+      "notas": "Fijadores y brillantina para cabello, marca MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "V75",
+      "tipo": "Marca",
+      "notas": "Cuidado capilar masculino",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "El Vaquero",
+      "tipo": "Marca",
+      "notas": "Gel y fijadores para cabello, marca MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Gillette México",
+      "tipo": "Marca",
+      "notas": "Rasuradoras y cuidado masculino",
+      "fuente": "brand",
+      "url": "https://www.gillette.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Old Spice",
+      "tipo": "Marca",
+      "notas": "Desodorantes y cuidado masculino, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Axe (Unilever)",
+      "tipo": "Marca",
+      "notas": "Cuidado masculino, retail MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Dove Men+Care",
+      "tipo": "Marca",
+      "notas": "Cuidado masculino, retail MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Proraso",
+      "tipo": "Marca",
+      "notas": "Productos clásicos de barbería, venta MX",
+      "fuente": "brand",
+      "ciudad": "Italia"
+    },
+    {
+      "empresa": "Clubman Pinaud",
+      "tipo": "Marca",
+      "notas": "Lociones y productos de barbería, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Andis",
+      "tipo": "Marca",
+      "notas": "Máquinas de corte, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Wahl",
+      "tipo": "Marca",
+      "notas": "Clippers de barbería, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Oster",
+      "tipo": "Marca",
+      "notas": "Máquinas de corte, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Babyliss Pro",
+      "tipo": "Marca",
+      "notas": "Herramientas de barbería, venta MX",
+      "fuente": "brand",
+      "ciudad": "Francia"
+    },
+    {
+      "empresa": "Marca de la Cruz",
+      "tipo": "Marca",
+      "notas": "Jabones y cuidado personal mexicano",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "American Crew",
+      "tipo": "Marca",
+      "notas": "Productos de barbería premium, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Jojoba / Argan Men",
+      "tipo": "Marca",
+      "notas": "Aceites y pomadas para barba",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Suavecito Pomade",
+      "tipo": "Marca",
+      "notas": "Pomadas de barbería, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Amazon MX barbería",
+      "tipo": "Marketplace",
+      "notas": "Sellers de productos de barbería",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=productos+para+barberia",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mercado Libre barbería",
+      "tipo": "Marketplace",
+      "notas": "Mayoreo de productos de barbería",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/productos-para-barberia-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Walmart México grooming",
+      "tipo": "Retail",
+      "notas": "Sección de cuidado masculino",
+      "fuente": "brand",
+      "url": "https://www.walmart.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Coppel grooming",
+      "tipo": "Retail",
+      "notas": "Sección de cuidado masculino",
+      "fuente": "brand",
+      "url": "https://www.coppel.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    }
+  ]
+}

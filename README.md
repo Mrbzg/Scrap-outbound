@@ -123,6 +123,11 @@ leads/por_nicho/{ID}_{slug}.csv|.json|.md
 | 51 | Jabones y shampoos | `51_jabones_shampoos.*` |
 | 52 | Skincare Coreano | `52_skincare_coreano.*` |
 | 53 | Artículos de papelería en mayoreo | `53_papeleria_mayoreo.*` |
+| 54 | Equipo de iluminación | `54_equipo_iluminacion.*` |
+| 55 | Servicio de envíos de tarjetas | `55_envios_de_tarjetas.*` |
+| 56 | Suministros médicos / farmacéuticos | `56_suministros_medicos_farmaceuticos.*` |
+| 57 | Barbería y cuidado masculino | `57_barberia_cuidado_masculino.*` |
+| 58 | Insumos para Tattoo y Body Art | `58_insumos_tattoo_body_art.*` |
 
 Catálogo: `leads/nichos.json` (58 nichos).
 

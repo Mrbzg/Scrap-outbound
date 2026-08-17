@@ -1,0 +1,37 @@
+giro,nicho,empresa,url,email,telefono,ciudad,estado,pais,tipo,prioridad,score_contacto,notas,fuente
+Fintech,Servicio de envios de tarjetas,Albo,https://www.albo.mx/,,,CDMX,CDMX,México,Neobanco,Media,3,Cuenta digital con tarjeta de débito,brand
+Fintech,Servicio de envios de tarjetas,American Express México,https://www.americanexpress.com/mx,,,CDMX,CDMX,México,Red,Media,3,Emisora de tarjetas premium,brand
+Fintech,Servicio de envios de tarjetas,BanBajío,https://www.banbajio.com/,,,León,Guanajuato,México,Banco,Media,3,Banco con tarjetas garantizadas,brand
+Fintech,Servicio de envios de tarjetas,Banco Azteca,https://www.bancoazteca.com.mx/,,,CDMX,CDMX,México,Banco,Media,3,Banco con tarjetas y envíos,brand
+Fintech,Servicio de envios de tarjetas,Banco Plata (ejemplo),https://bancoplata.mx/es,,,CDMX,CDMX,México,Ejemplo original,Media,3,Ejemplo del cliente — banco digital con tarjetas,ejemplo_cliente
+Fintech,Servicio de envios de tarjetas,Banorte,https://www.banorte.com/,,,Monterrey,Nuevo León,México,Banco,Media,3,Banco tradicional con envío de tarjetas,brand
+Fintech,Servicio de envios de tarjetas,BBVA México,https://www.bbva.mx/,,,CDMX,CDMX,México,Banco,Media,3,Banco tradicional con envío de tarjetas,brand
+Fintech,Servicio de envios de tarjetas,Bineo,https://www.bineo.com.mx/,,,CDMX,CDMX,México,Neobanco,Media,3,Banco digital de Banorte,brand
+Fintech,Servicio de envios de tarjetas,Broxel,https://broxel.com/,,,CDMX,CDMX,México,Fintech,Media,3,Emisión de tarjetas y nómina digital,brand
+Fintech,Servicio de envios de tarjetas,Citibanamex,https://www.banamex.com/,,,CDMX,CDMX,México,Banco,Media,3,Banco tradicional con envío de tarjetas,brand
+Fintech,Servicio de envios de tarjetas,Clara,https://www.clara.com/mx,,,CDMX,CDMX,México,Fintech,Media,3,Tarjetas corporativas B2B,brand
+Fintech,Servicio de envios de tarjetas,Cuenca,https://www.cuenca.mx/,,,CDMX,CDMX,México,Fintech,Media,3,Cuenta digital para negocios,brand
+Fintech,Servicio de envios de tarjetas,DolarApp,https://dolarapp.com/,,,CDMX,CDMX,México,Fintech,Media,3,Cuenta en dólares con tarjeta,brand
+Fintech,Servicio de envios de tarjetas,Finsus,https://www.finsus.mx/,,,CDMX,CDMX,México,Fintech,Media,3,Cuenta de ahorro y tarjeta,brand
+Fintech,Servicio de envios de tarjetas,Fondeadora,https://fondeadora.com/,,,CDMX,CDMX,México,Neobanco,Media,3,Cuenta digital con tarjeta física,brand
+Fintech,Servicio de envios de tarjetas,Hey Banco,https://www.heybanco.com/,,,Monterrey,Nuevo León,México,Neobanco,Media,3,Banco digital de Banregio; tarjetas con cashback,brand
+Fintech,Servicio de envios de tarjetas,HSBC México,https://www.hsbc.com.mx/,,,CDMX,CDMX,México,Banco,Media,3,Banco tradicional con envío de tarjetas,brand
+Fintech,Servicio de envios de tarjetas,Kapital,https://www.kapital.mx/,,,CDMX,CDMX,México,Fintech,Media,3,Finanzas empresariales y tarjetas corporativas,brand
+Fintech,Servicio de envios de tarjetas,Klar,https://klar.mx/,,,CDMX,CDMX,México,Neobanco,Media,3,Cuenta digital e inversiones; 3M+ usuarios,brand
+Fintech,Servicio de envios de tarjetas,Konfío,https://konfio.mx/,,,CDMX,CDMX,México,Fintech,Media,3,Tarjetas empresariales y crédito PYME,brand
+Fintech,Servicio de envios de tarjetas,Mastercard México,https://www.mastercard.com.mx/,,,CDMX,CDMX,México,Red,Media,3,Red de pagos,brand
+Fintech,Servicio de envios de tarjetas,Mercado Pago,https://www.mercadopago.com.mx/,,,CDMX,CDMX,México,Fintech,Media,3,Wallet y tarjeta,brand
+Fintech,Servicio de envios de tarjetas,NOVACARD,https://novacard.mx/,,,CDMX,CDMX,México,Fintech,Media,3,Tarjeta garantizada 100% digital desde $500,research
+Fintech,Servicio de envios de tarjetas,Nu México,https://www.nu.com.mx/,,,CDMX,CDMX,México,Neobanco,Media,3,Tarjeta de crédito 100% digital; envío a domicilio,brand
+Fintech,Servicio de envios de tarjetas,Openbank México,https://www.openbank.mx/,,,CDMX,CDMX,México,Neobanco,Media,3,Banco digital de Grupo Santander,brand
+Fintech,Servicio de envios de tarjetas,RappiCard,https://www.rappicard.com/,,,CDMX,CDMX,México,Fintech,Media,3,"Tarjeta con cashback, alianza Banco J.P. Morgan",brand
+Fintech,Servicio de envios de tarjetas,Revolut México,https://www.revolut.com/mx/,,,CDMX,CDMX,México,Neobanco,Media,3,Cuenta multi-divisa con tarjeta,brand
+Fintech,Servicio de envios de tarjetas,Santander México,https://www.santander.com.mx/,,,CDMX,CDMX,México,Banco,Media,3,Banco tradicional con envío de tarjetas,brand
+Fintech,Servicio de envios de tarjetas,Scotiabank México,https://www.scotiabank.com.mx/,,,CDMX,CDMX,México,Banco,Media,3,Banco tradicional con envío de tarjetas,brand
+Fintech,Servicio de envios de tarjetas,Servicio de envios de tarjetas (ejemplo original),https://bancoplata.mx/es,,,,,México,Ejemplo original,Media,2,Seed del cliente,ejemplo_cliente
+Fintech,Servicio de envios de tarjetas,Spin by OXXO,https://www.spin.com.mx/,,,Monterrey,Nuevo León,México,Fintech,Media,3,Cuenta y tarjeta de débito de OXXO,brand
+Fintech,Servicio de envios de tarjetas,Stori,https://www.stori.com.mx/,,,CDMX,CDMX,México,Fintech,Media,3,Tarjeta sin historial; 2M+ usuarios,brand
+Fintech,Servicio de envios de tarjetas,Ualá México,https://www.uala.mx/,,,CDMX,CDMX,México,Neobanco,Media,3,Cuenta y tarjeta digital; alianza ABC Capital,brand
+Fintech,Servicio de envios de tarjetas,Vexi,https://vexi.mx/,,,CDMX,CDMX,México,Fintech,Media,3,"Tarjeta de crédito sin buró, red Amex; 1M+ clientes",brand
+Fintech,Servicio de envios de tarjetas,Visa México,https://www.visa.com.mx/,,,CDMX,CDMX,México,Red,Media,3,Red de pagos,brand
+Fintech,Servicio de envios de tarjetas,Didi Card,,,,CDMX,CDMX,México,Fintech,Baja,1,Tarjeta de crédito de Didi,brand

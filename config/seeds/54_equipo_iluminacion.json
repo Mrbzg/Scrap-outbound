@@ -1,0 +1,337 @@
+{
+  "lote": "54",
+  "slug": "equipo_iluminacion",
+  "description": "Equipo de iluminación MX",
+  "leads": [
+    {
+      "empresa": "Vyrsa (ejemplo)",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — equipo de iluminación",
+      "fuente": "ejemplo_cliente",
+      "url": "https://vyorsa.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Grupo Construlita",
+      "tipo": "Fabricante",
+      "notas": "Líder latinoamericano; marcas Construlita y Tecnolite; planta en Querétaro; alumbrado público GDL y Torreón",
+      "fuente": "research",
+      "url": "https://www.grupoconstrulita.com/",
+      "telefono": "4422383900",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Tecnolite",
+      "tipo": "Marca",
+      "notas": "Marca famosa IMPI; iluminación inteligente; desde 1989 en GDL",
+      "fuente": "brand",
+      "url": "https://www.grupoconstrulita.com/tecnolite",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Construlita",
+      "tipo": "Marca",
+      "notas": "Desde 1984; iluminación profesional: comercial, industrial, alumbrado público",
+      "fuente": "brand",
+      "url": "https://www.construlita.com/",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Ilumex",
+      "tipo": "Mayoreo",
+      "notas": "Distribuidora de luminaria al mayoreo 25 años; Plaza de la Luz, José Marroquí 81, Centro",
+      "fuente": "research",
+      "url": "https://ilumexmx.com/",
+      "telefono": "5555124372",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Ilumi de México",
+      "tipo": "Fabricante",
+      "notas": "Fabricante de luminarios para alumbrado público 26+ años; distribuidor Lexalite, Acrilux, Osram, Philips",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Megamex",
+      "tipo": "Mayoreo",
+      "notas": "Mayorista en material eléctrico industrial, alumbrado público y residencial",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "PEFSA",
+      "tipo": "Retail",
+      "notas": "Sucursal CDMX: Av. Henry Ford 257; distribuye Philips",
+      "fuente": "research",
+      "url": "https://www.pefsa.com.mx/",
+      "telefono": "5557518292",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Espacios de Construcción",
+      "tipo": "Mayoreo",
+      "notas": "Luminarias viales, decorativas, industriales; Tecnolite, Construlita, Ledvance, Magg, Starco",
+      "fuente": "research",
+      "url": "https://espaciosdeconstruccion.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Philips Lighting México",
+      "tipo": "Marca",
+      "notas": "Iluminación, operación MX",
+      "fuente": "brand",
+      "url": "https://www.lighting.philips.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Signify (Philips)",
+      "tipo": "Marca",
+      "notas": "Grupo que opera Philips Hue y luminarias",
+      "fuente": "brand",
+      "url": "https://www.signify.com/mx",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Osram / Ledvance",
+      "tipo": "Marca",
+      "notas": "Focos y luminarias LED, operación MX",
+      "fuente": "brand",
+      "url": "https://www.ledvance.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "GE Lighting (Savant)",
+      "tipo": "Marca",
+      "notas": "Iluminación, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Sylvania México",
+      "tipo": "Marca",
+      "notas": "Lámparas y focos, operación MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Lithonia",
+      "tipo": "Marca",
+      "notas": "Luminarias profesionales, vía distribuidores MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Holophane",
+      "tipo": "Marca",
+      "notas": "Luminarias industriales, vía distribuidores MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Beghelli México",
+      "tipo": "Marca",
+      "notas": "Iluminación de emergencia y LED",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Feilo Sylvania / Havells",
+      "tipo": "Marca",
+      "notas": "Iluminación, operación MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Electromag",
+      "tipo": "Marca",
+      "notas": "Material eléctrico e iluminación",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Forlighting",
+      "tipo": "Marca",
+      "notas": "Iluminación, venta MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Solar (focos)",
+      "tipo": "Marca",
+      "notas": "Focos automotrices y generales, venta MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "LEXALITE",
+      "tipo": "Marca",
+      "notas": "Luminarias, vía Ilumi de México",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "ACRILUX",
+      "tipo": "Marca",
+      "notas": "Luminarias, vía Ilumi de México",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "LUMICOM",
+      "tipo": "Marca",
+      "notas": "Luminarias, vía Ilumi de México",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "MAGG",
+      "tipo": "Marca",
+      "notas": "Luminarias y transformadores",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Starco",
+      "tipo": "Marca",
+      "notas": "Luminarias",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Kichler",
+      "tipo": "Marca",
+      "notas": "Iluminación decorativa, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Progress Lighting",
+      "tipo": "Marca",
+      "notas": "Iluminación residencial, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Artika",
+      "tipo": "Marca",
+      "notas": "Iluminación moderna, venta MX",
+      "fuente": "brand",
+      "ciudad": "Canadá"
+    },
+    {
+      "empresa": "Regent Lighting",
+      "tipo": "Marca",
+      "notas": "Iluminación profesional, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "WAC Lighting",
+      "tipo": "Marca",
+      "notas": "Iluminación arquitectónica, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Maxim Lighting",
+      "tipo": "Marca",
+      "notas": "Iluminación decorativa, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Home Depot México",
+      "tipo": "Retail",
+      "notas": "Sección de iluminación",
+      "fuente": "brand",
+      "url": "https://www.homedepot.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "The Home Depot iluminación",
+      "tipo": "Canal",
+      "notas": "Lámparas, focos y luminarias",
+      "fuente": "research",
+      "url": "https://www.homedepot.com.mx/tienda/iluminacion",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Sterling Electric",
+      "tipo": "Retail",
+      "notas": "Material eléctrico y de iluminación",
+      "fuente": "brand",
+      "url": "https://www.sterlingelectric.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Coel",
+      "tipo": "Mayoreo",
+      "notas": "Distribuidora de material eléctrico e iluminación",
+      "fuente": "research",
+      "url": "https://www.coel.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Grupo Marzam iluminación",
+      "tipo": "Mayoreo",
+      "notas": "Distribución de iluminación",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Amazon MX iluminación",
+      "tipo": "Marketplace",
+      "notas": "Sellers de iluminación",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=lamparas+led",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mercado Libre iluminación",
+      "tipo": "Marketplace",
+      "notas": "Mayoreo de iluminación LED",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/iluminacion-led-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Dirind — iluminación",
+      "tipo": "Directorio",
+      "notas": "Directorio de proveedores de iluminación",
+      "fuente": "research",
+      "url": "https://www.dirind.com/di/iluminacion-general2.html",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    }
+  ]
+}

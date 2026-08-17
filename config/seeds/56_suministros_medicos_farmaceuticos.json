@@ -1,0 +1,465 @@
+{
+  "lote": "56",
+  "slug": "suministros_medicos_farmaceuticos",
+  "description": "Suministros médicos / farmacéuticos MX",
+  "leads": [
+    {
+      "empresa": "Laboratorios PiSA (ejemplo)",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — farmacéutica mexicana",
+      "fuente": "ejemplo_cliente",
+      "url": "https://www.pisa.com.mx/",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Laboratorios PiSA",
+      "tipo": "Laboratorio",
+      "notas": "Farmacéutica mexicana; soluciones intravenosas y medicamentos",
+      "fuente": "brand",
+      "url": "https://www.pisa.com.mx/",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Becton Dickinson de México",
+      "tipo": "Fabricante",
+      "notas": "Dispositivos médicos, jeringas y catéteres; 12 plantas en MX",
+      "fuente": "brand",
+      "url": "https://www.bd.com/mx",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Cardinal Health México",
+      "tipo": "Fabricante",
+      "notas": "Manufactura y distribución de productos médicos; 5 plantas en MX",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Stryker México",
+      "tipo": "Fabricante",
+      "notas": "Tecnología médica, ortopedia y quirúrgico",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "3M Health Care México",
+      "tipo": "Marca",
+      "notas": "Vendaje, antisepsia y equipo de protección",
+      "fuente": "brand",
+      "url": "https://www.3m.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Smith+Nephew México",
+      "tipo": "Marca",
+      "notas": "Curación avanzada y ortopedia",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Medline Industries México",
+      "tipo": "Fabricante",
+      "notas": "Distribución y manufactura de insumos médicos",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Baxter México",
+      "tipo": "Marca",
+      "notas": "Soluciones intravenosas y terapia renal",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Johnson & Johnson MedTech",
+      "tipo": "Marca",
+      "notas": "Dispositivos médicos y quirúrgicos",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Abbott Médica",
+      "tipo": "Marca",
+      "notas": "Diagnóstico y dispositivos médicos",
+      "fuente": "brand",
+      "url": "https://www.abbott.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Fresenius Medical Care México",
+      "tipo": "Marca",
+      "notas": "Equipos de diálisis",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Roche Diagnostics México",
+      "tipo": "Marca",
+      "notas": "Diagnóstico in vitro",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Siemens Healthineers México",
+      "tipo": "Marca",
+      "notas": "Equipos de imagenología",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "GE HealthCare México",
+      "tipo": "Marca",
+      "notas": "Imagenología y monitoreo",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "BD Biosciences",
+      "tipo": "Marca",
+      "notas": "Citometría y laboratorio",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "JTC Tienda Online",
+      "tipo": "Mayoreo",
+      "notas": "Material de curación, dental, ortopedia e instrumental médico; menudeo y mayoreo; sector privado y gobierno",
+      "fuente": "research",
+      "url": "https://jtc.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Proveedores Hospitalarios de México",
+      "tipo": "Mayoreo",
+      "notas": "Material médico al mayoreo y menudeo; cobertura nacional",
+      "fuente": "research",
+      "url": "https://proveedoreshospitalariosdemexico.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "J&M Distribuciones",
+      "tipo": "Mayoreo",
+      "notas": "Material de curación y quirúrgico; San Salvador 1959 y Cruz del Sur 65, GDL",
+      "fuente": "research",
+      "url": "https://jmdistribuciones.mx/",
+      "email": "info@jmdistribuciones.mx",
+      "telefono": "3316578530",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Promexsa",
+      "tipo": "Mayoreo",
+      "notas": "Material de curación (gasas, vendas, soluciones) por mayoreo; 210 productos",
+      "fuente": "research",
+      "url": "https://www.promexsa.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "GMMC México",
+      "tipo": "Mayoreo",
+      "notas": "Distribuidora de material médico; Viaducto Río de la Piedad 261",
+      "fuente": "research",
+      "url": "https://www.gmmcmexico.com/",
+      "telefono": "5555304433",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Casa Marzam",
+      "tipo": "Mayoreo",
+      "notas": "Distribuidora farmacéutica nacional",
+      "fuente": "brand",
+      "url": "https://www.marzam.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Nadro",
+      "tipo": "Mayoreo",
+      "notas": "Distribuidora farmacéutica nacional",
+      "fuente": "brand",
+      "url": "https://www.nadro.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Fármacos Nacionales",
+      "tipo": "Mayoreo",
+      "notas": "Distribuidora farmacéutica",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Mega Farms",
+      "tipo": "Mayoreo",
+      "notas": "Distribuidora farmacéutica",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Grupo Fármacos Especializados",
+      "tipo": "Mayoreo",
+      "notas": "Distribuidora farmacéutica",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Farmacias del Ahorro",
+      "tipo": "Retail",
+      "notas": "Cadena nacional",
+      "fuente": "brand",
+      "url": "https://www.fahorro.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Farmacias Guadalajara",
+      "tipo": "Retail",
+      "notas": "Cadena nacional",
+      "fuente": "brand",
+      "url": "https://www.farmaciasguadalajara.com.mx/",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Farmacias San Pablo",
+      "tipo": "Retail",
+      "notas": "Cadena CDMX",
+      "fuente": "brand",
+      "url": "https://farmaciasanpablo.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Farmacias Benavides",
+      "tipo": "Retail",
+      "notas": "Cadena del norte",
+      "fuente": "brand",
+      "url": "https://www.benavides.com.mx/",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Farmacias del Sol",
+      "tipo": "Retail",
+      "notas": "Cadena CDMX",
+      "fuente": "brand",
+      "url": "https://www.farmaciasdelsol.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Farmacias YZA",
+      "tipo": "Retail",
+      "notas": "Cadena CDMX",
+      "fuente": "brand",
+      "url": "https://farmaciasyza.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Farmacias ABC",
+      "tipo": "Retail",
+      "notas": "Cadena CDMX",
+      "fuente": "brand",
+      "url": "https://farmaciasabc.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Farmacias Roma",
+      "tipo": "Retail",
+      "notas": "Cadena CDMX",
+      "fuente": "brand",
+      "url": "https://www.farmaciasroma.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Farmacias Morelos",
+      "tipo": "Retail",
+      "notas": "Cadena del sur",
+      "fuente": "brand",
+      "url": "https://www.farmaciasmorelos.com.mx/",
+      "ciudad": "Cuernavaca",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Walmart México",
+      "tipo": "Retail",
+      "notas": "Sección farmacia",
+      "fuente": "brand",
+      "url": "https://www.walmart.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Costco México",
+      "tipo": "Retail",
+      "notas": "Farmacia por mayoreo",
+      "fuente": "brand",
+      "url": "https://www.costco.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Sanborns Farmacia",
+      "tipo": "Retail",
+      "notas": "Farmacia en tiendas departamentales",
+      "fuente": "brand",
+      "url": "https://www.sanborns.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Quirmex",
+      "tipo": "Marca",
+      "notas": "Gasas y material de curación",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Ambiderm",
+      "tipo": "Marca",
+      "notas": "Guantes y material de curación",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Nipro",
+      "tipo": "Marca",
+      "notas": "Jeringas y venoclisis, venta MX",
+      "fuente": "brand",
+      "ciudad": "Japón"
+    },
+    {
+      "empresa": "Tuk (curitas)",
+      "tipo": "Marca",
+      "notas": "Cintas y material de curación",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Dibar",
+      "tipo": "Marca",
+      "notas": "Material médico",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Drotasa",
+      "tipo": "Marca",
+      "notas": "Guantes y material médico",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Dryper",
+      "tipo": "Marca",
+      "notas": "Toallitas y productos desechables",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Jaloma",
+      "tipo": "Marca",
+      "notas": "Guantes de látex",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Medicel",
+      "tipo": "Marca",
+      "notas": "Material de curación",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Vendamax",
+      "tipo": "Marca",
+      "notas": "Vendas y curitas",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Sensi Medical",
+      "tipo": "Marca",
+      "notas": "Material de curación",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Tegaderm (3M)",
+      "tipo": "Marca",
+      "notas": "Apósitos transparentes, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Alcomex",
+      "tipo": "Marca",
+      "notas": "Alcohol y antisépticos",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Bsn (BSN Medical)",
+      "tipo": "Marca",
+      "notas": "Vendaje, venta MX",
+      "fuente": "brand",
+      "ciudad": "Alemania"
+    },
+    {
+      "empresa": "Amazon MX material médico",
+      "tipo": "Marketplace",
+      "notas": "Sellers de insumos médicos",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=material+medico",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mercado Libre insumos médicos",
+      "tipo": "Marketplace",
+      "notas": "Mayoreo de material médico",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/material-medico-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    }
+  ]
+}
