@@ -110,6 +110,8 @@ leads/por_nicho/{ID}_{slug}.csv|.json|.md
 | 38 | Libros de colección | `38_libros_coleccion.*` |
 | 39 | Artículos de limpieza | `39_articulos_limpieza.*` |
 | 40 | Perfumes | `40_perfumes.*` |
+| 41 | Scoops / sorpresas | `41_scoops_sorpresas.*` |
+| 42 | Artículos para adultos | `42_articulos_para_adultos.*` |
 
 Catálogo: `leads/nichos.json` (58 nichos).
 

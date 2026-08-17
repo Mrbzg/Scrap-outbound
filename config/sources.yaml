@@ -651,7 +651,35 @@ lotes:
       - perfumes árabes mayoreo México distribuidor
       - perfumería mayorista CDMX Guadalajara
 
-# Plantilla para lotes futuros (41+)
+  "41":
+    slug: scoops_sorpresas
+    giro: Regalos
+    nicho: Scoops / sorpresas
+    ejemplo: https://www.facebook.com/p/Scoops-Sorpresas-Mx-61574706583273/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/41_scoops_sorpresas.json
+    search_queries:
+      - scoop orders México tienda tiktok instagram sorpresa
+      - caja sorpresa misteriosa México negocio kawaii
+      - papelería kawaii Sanrio tienda México
+
+  "42":
+    slug: articulos_para_adultos
+    giro: Adultos
+    nicho: Articulos para adultos
+    ejemplo: https://www.tiendavenus.com/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/42_articulos_para_adultos.json
+    search_queries:
+      - sex shop México tienda en línea juguetes eróticos .mx
+      - juguetes sexuales mayoreo México distribuidor
+      - sex shop CDMX Guadalajara Monterrey Tijuana tienda física
+
+# Plantilla para lotes futuros (43+)
 # Copiar bloque y llenar sources + seeds
 template_lote:
   slug: ""
