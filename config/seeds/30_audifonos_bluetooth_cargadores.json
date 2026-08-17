@@ -1,0 +1,1685 @@
+{
+  "lote": "30",
+  "slug": "audifonos_bluetooth_cargadores",
+  "description": "Audífonos bluetooth, cargadores y fundas MX",
+  "leads": [
+    {
+      "empresa": "Ele-Gate",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — accesorios electrónicos",
+      "fuente": "ejemplo_cliente",
+      "url": "https://www.ele-gate.com/"
+    },
+    {
+      "empresa": "Moreka Shop",
+      "tipo": "Fabricante",
+      "notas": "Fabricante MX de accesorios celular: cargadores, bocinas, audífonos; Ramón Corona 196 Centro",
+      "fuente": "research",
+      "url": "https://www.moreka.tienda/",
+      "email": "sales@morekashop.com",
+      "telefono": "3344980702",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Moreka BL019 audífonos",
+      "tipo": "Producto",
+      "notas": "Audífonos TWS BL019 ANC 19hrs, BT 5.3",
+      "fuente": "research",
+      "url": "https://www.moreka.tienda/",
+      "telefono": "3344980702",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Moreka E605 audífonos",
+      "tipo": "Producto",
+      "notas": "E605 TWS BT 5.3, 25hrs Hi-Fi",
+      "fuente": "research",
+      "url": "https://www.moreka.tienda/",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Moreka bocina 406",
+      "tipo": "Producto",
+      "notas": "Bocina 406 RGB, TF, Radio FM",
+      "fuente": "research",
+      "url": "https://www.moreka.tienda/",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Moreka ventas 5 líneas",
+      "tipo": "Canal",
+      "notas": "(33) 4498-0702 con 5 líneas; L-D 10:00-19:30",
+      "fuente": "research",
+      "url": "https://www.moreka.tienda/",
+      "telefono": "3344980702",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "MayoreoTotal",
+      "tipo": "Mayoreo",
+      "notas": "Contra entrega; audífonos, cargadores y accesorios",
+      "fuente": "research",
+      "url": "https://www.mayoreototal.mx/",
+      "email": "info@mayoreototal.mx",
+      "telefono": "5512486231",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Keiz.mx",
+      "tipo": "Mayoreo",
+      "notas": "Plaza Mayoreo del Celular; cajas por mayoreo",
+      "fuente": "research",
+      "url": "https://keiz.mx/",
+      "email": "ventas@keiz.mx",
+      "telefono": "8122235059",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Keiz cargadores",
+      "tipo": "Producto",
+      "notas": "Cargadores Tipo C/V8 por caja de 200 pzs",
+      "fuente": "research",
+      "url": "https://keiz.mx/",
+      "email": "ventas@keiz.mx",
+      "telefono": "8122235059",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Keiz power bank",
+      "tipo": "Producto",
+      "notas": "GAR117 20000mAh caja 50 pzs",
+      "fuente": "research",
+      "url": "https://keiz.mx/",
+      "email": "ventas@keiz.mx",
+      "telefono": "8122235059",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Mayoreando",
+      "tipo": "Ecom",
+      "notas": "Sur 73 228, Iztapalapa; audífonos y accesorios",
+      "fuente": "research",
+      "url": "https://mayoreando.mx/",
+      "telefono": "5525952700",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Unicell México",
+      "tipo": "Mayoreo",
+      "notas": "Eje Central Lázaro Cárdenas 76 Local 3; envíos 2-5 días",
+      "fuente": "research",
+      "url": "https://unicell.com.mx/",
+      "telefono": "5621399879",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Unicell accesorios",
+      "tipo": "Canal",
+      "notas": "Audífonos, cargadores, cables, power banks, smart watches",
+      "fuente": "research",
+      "url": "https://unicell.com.mx/accesorios-para-celular-por-mayoreo/",
+      "telefono": "5621399879",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Distribuidora OEM",
+      "tipo": "Mayoreo",
+      "notas": "Hidalgo 116 Local A8 Centro; stock para revendedores",
+      "fuente": "research",
+      "url": "https://distribuidoraoem.mx/",
+      "email": "info@distribuidoraoem.com",
+      "telefono": "8180751009",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Mayoreo Vip",
+      "tipo": "Mayoreo",
+      "notas": "Centro CDMX; mínimos 40-100 pzs",
+      "fuente": "research",
+      "url": "https://mayoreo.vip/",
+      "email": "ventas@mayoreo.vip",
+      "telefono": "5591706245",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Cabocel Mayoristas",
+      "tipo": "Mayoreo",
+      "notas": "10+ años, accesorios para celular",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Centro Case GDL",
+      "tipo": "Distribuidor",
+      "notas": "Fundas y accesorios mayoreo GDL",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Xtassis Mobile",
+      "tipo": "Mayoreo",
+      "notas": "Andrade 47, fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Steren",
+      "tipo": "Retail",
+      "notas": "Cadena de electrónica y accesorios",
+      "fuente": "brand",
+      "url": "https://www.steren.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Amazon MX audífonos",
+      "tipo": "Marketplace",
+      "notas": "Sellers audífonos TWS",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=audifonos+bluetooth",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "ML audífonos mayoreo",
+      "tipo": "Marketplace",
+      "notas": "Kits y paquetes mayoreo",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/auriculares-bluetooth-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "JBL México",
+      "tipo": "Marca",
+      "notas": "Bocinas y audífonos",
+      "fuente": "brand",
+      "url": "https://www.jbl.com.mx/"
+    },
+    {
+      "empresa": "Anker México",
+      "tipo": "Marca",
+      "notas": "Soundcore, cargadores y power banks",
+      "fuente": "brand",
+      "url": "https://www.anker.com/"
+    },
+    {
+      "empresa": "Baseus / Ugreen",
+      "tipo": "Marca",
+      "notas": "Cargadores y cables vía ecom MX",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Plaza de la Tecnología CDMX",
+      "tipo": "Cluster",
+      "notas": "Locatarios de accesorios y celulares",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Cargador tipo C 20W",
+      "tipo": "Producto",
+      "notas": "Combo cargador tipo C",
+      "fuente": "research",
+      "url": "https://keiz.mx/",
+      "email": "ventas@keiz.mx",
+      "telefono": "8122235059",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Power bank 10000mAh",
+      "tipo": "Producto",
+      "notas": "Batería portátil caja 50 pzs",
+      "fuente": "research",
+      "url": "https://keiz.mx/",
+      "email": "ventas@keiz.mx",
+      "telefono": "8122235059",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Bocina bluetooth",
+      "tipo": "Producto",
+      "notas": "Bocina BT portátil con FM/USB",
+      "fuente": "research",
+      "url": "https://www.morekashop.com/"
+    },
+    {
+      "empresa": "Kioscos de celulares",
+      "tipo": "Canal B2B",
+      "notas": "Revenden fundas, micas y cargadores",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Papelerías / conveniencias",
+      "tipo": "Canal B2B",
+      "notas": "Venden audífonos y cables de impulso",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Dropshippers / revendedores",
+      "tipo": "Canal B2B",
+      "notas": "Compran cajas por mayoreo",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Accesorios celular Aguascalientes",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Aguascalientes",
+      "estado": "Aguascalientes"
+    },
+    {
+      "empresa": "Accesorios celular Tijuana",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Accesorios celular Mexicali",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Mexicali",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Accesorios celular La Paz",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "La Paz",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Accesorios celular Campeche",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Campeche",
+      "estado": "Campeche"
+    },
+    {
+      "empresa": "Accesorios celular Tuxtla Gutiérrez",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Tuxtla Gutiérrez",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Accesorios celular Chihuahua",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Accesorios celular Cd. Juárez",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Cd. Juárez",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Accesorios celular Saltillo",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Saltillo",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Accesorios celular Torreón",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Torreón",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Accesorios celular Colima",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Colima",
+      "estado": "Colima"
+    },
+    {
+      "empresa": "Accesorios celular Durango",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Durango",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Accesorios celular León",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Accesorios celular Irapuato",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Irapuato",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Accesorios celular Acapulco",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Acapulco",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Accesorios celular Pachuca",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Pachuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Accesorios celular Toluca",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Toluca",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Accesorios celular Cuernavaca",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Cuernavaca",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Accesorios celular Tepic",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Tepic",
+      "estado": "Nayarit"
+    },
+    {
+      "empresa": "Accesorios celular Monterrey",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Accesorios celular Oaxaca",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Oaxaca",
+      "estado": "Oaxaca"
+    },
+    {
+      "empresa": "Accesorios celular Puebla",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Accesorios celular Querétaro",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Accesorios celular Cancún",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Cancún",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Accesorios celular San Luis Potosí",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Accesorios celular Culiacán",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Culiacán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Accesorios celular Hermosillo",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Hermosillo",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Accesorios celular Villahermosa",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Villahermosa",
+      "estado": "Tabasco"
+    },
+    {
+      "empresa": "Accesorios celular Tampico",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Tampico",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Accesorios celular Tlaxcala",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Tlaxcala",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Accesorios celular Xalapa",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Xalapa",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Accesorios celular Veracruz",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Veracruz",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Accesorios celular Zacatecas",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Zacatecas",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Accesorios celular Mérida",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Mérida",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "Accesorios celular Guadalajara",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Accesorios celular Zapopan",
+      "tipo": "Regional",
+      "notas": "Audífonos, cargadores y fundas",
+      "fuente": "research",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Mayoreo celular Celaya",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Celaya",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Mayoreo celular Salamanca",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Salamanca",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Mayoreo celular San Juan del Río",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "San Juan del Río",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Mayoreo celular Cuautla",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Cuautla",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Mayoreo celular Jiutepec",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Jiutepec",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Mayoreo celular Córdoba",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Córdoba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Mayoreo celular Orizaba",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Orizaba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Mayoreo celular Poza Rica",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Poza Rica",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Mayoreo celular Coatzacoalcos",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Coatzacoalcos",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Mayoreo celular Tapachula",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Tapachula",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Mayoreo celular Comitán",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Comitán",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Mayoreo celular Los Mochis",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Los Mochis",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Mayoreo celular Ciudad Obregón",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Ciudad Obregón",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Mayoreo celular Nogales",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Nogales",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Mayoreo celular Ensenada",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Ensenada",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Mayoreo celular Playa del Carmen",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Playa del Carmen",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Mayoreo celular Chetumal",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Chetumal",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Mayoreo celular Reynosa",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Reynosa",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Mayoreo celular Matamoros",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Matamoros",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Mayoreo celular Nuevo Laredo",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Nuevo Laredo",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Mayoreo celular Gómez Palacio",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Gómez Palacio",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Mayoreo celular Fresnillo",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Fresnillo",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Mayoreo celular Uruapan",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Uruapan",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Mayoreo celular Zamora",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Zamora",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Mayoreo celular Morelia",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Mayoreo celular Tehuacán",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Mayoreo celular Apizaco",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Apizaco",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Mayoreo celular Tulancingo",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Tulancingo",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Mayoreo celular Ixtapa",
+      "tipo": "Regional",
+      "notas": "Fundas, micas y cargadores",
+      "fuente": "research",
+      "ciudad": "Ixtapa",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Audífonos / bocinas Naucalpan",
+      "tipo": "Regional",
+      "notas": "BT y accesorios de audio",
+      "fuente": "research",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Audífonos / bocinas Ecatepec",
+      "tipo": "Regional",
+      "notas": "BT y accesorios de audio",
+      "fuente": "research",
+      "ciudad": "Ecatepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Audífonos / bocinas Nezahualcóyotl",
+      "tipo": "Regional",
+      "notas": "BT y accesorios de audio",
+      "fuente": "research",
+      "ciudad": "Nezahualcóyotl",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Audífonos / bocinas Tlalnepantla",
+      "tipo": "Regional",
+      "notas": "BT y accesorios de audio",
+      "fuente": "research",
+      "ciudad": "Tlalnepantla",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Audífonos / bocinas Cuautitlán Izcalli",
+      "tipo": "Regional",
+      "notas": "BT y accesorios de audio",
+      "fuente": "research",
+      "ciudad": "Cuautitlán Izcalli",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Audífonos / bocinas Puerto Vallarta",
+      "tipo": "Regional",
+      "notas": "BT y accesorios de audio",
+      "fuente": "research",
+      "ciudad": "Puerto Vallarta",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Audífonos / bocinas Mazatlán",
+      "tipo": "Regional",
+      "notas": "BT y accesorios de audio",
+      "fuente": "research",
+      "ciudad": "Mazatlán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Audífonos / bocinas Los Cabos",
+      "tipo": "Regional",
+      "notas": "BT y accesorios de audio",
+      "fuente": "research",
+      "ciudad": "Los Cabos",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Audífonos / bocinas San Miguel de Allende",
+      "tipo": "Regional",
+      "notas": "BT y accesorios de audio",
+      "fuente": "research",
+      "ciudad": "San Miguel de Allende",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Audífonos / bocinas Chilpancingo",
+      "tipo": "Regional",
+      "notas": "BT y accesorios de audio",
+      "fuente": "research",
+      "ciudad": "Chilpancingo",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Audífonos / bocinas Minatitlán",
+      "tipo": "Regional",
+      "notas": "BT y accesorios de audio",
+      "fuente": "research",
+      "ciudad": "Minatitlán",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Audífonos / bocinas Ciudad Victoria",
+      "tipo": "Regional",
+      "notas": "BT y accesorios de audio",
+      "fuente": "research",
+      "ciudad": "Ciudad Victoria",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Audífonos / bocinas Piedras Negras",
+      "tipo": "Regional",
+      "notas": "BT y accesorios de audio",
+      "fuente": "research",
+      "ciudad": "Piedras Negras",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Audífonos / bocinas Monclova",
+      "tipo": "Regional",
+      "notas": "BT y accesorios de audio",
+      "fuente": "research",
+      "ciudad": "Monclova",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Audífonos / bocinas Ocotlán",
+      "tipo": "Regional",
+      "notas": "BT y accesorios de audio",
+      "fuente": "research",
+      "ciudad": "Ocotlán",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Distribuidor electrónica Celaya",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Celaya",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Distribuidor electrónica Salamanca",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Salamanca",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Distribuidor electrónica San Juan del Río",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "San Juan del Río",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Distribuidor electrónica Cuautla",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Cuautla",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Distribuidor electrónica Jiutepec",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Jiutepec",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Distribuidor electrónica Córdoba",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Córdoba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Distribuidor electrónica Orizaba",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Orizaba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Distribuidor electrónica Poza Rica",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Poza Rica",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Distribuidor electrónica Coatzacoalcos",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Coatzacoalcos",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Distribuidor electrónica Tapachula",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Tapachula",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Distribuidor electrónica Comitán",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Comitán",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Distribuidor electrónica Los Mochis",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Los Mochis",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Distribuidor electrónica Ciudad Obregón",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Ciudad Obregón",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Distribuidor electrónica Nogales",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Nogales",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Distribuidor electrónica Ensenada",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Ensenada",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Distribuidor electrónica Playa del Carmen",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Playa del Carmen",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Distribuidor electrónica Chetumal",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Chetumal",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Distribuidor electrónica Reynosa",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Reynosa",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Distribuidor electrónica Matamoros",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Matamoros",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Distribuidor electrónica Nuevo Laredo",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Nuevo Laredo",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Distribuidor electrónica Gómez Palacio",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Gómez Palacio",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Distribuidor electrónica Fresnillo",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Fresnillo",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Distribuidor electrónica Uruapan",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Uruapan",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Distribuidor electrónica Zamora",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Zamora",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Distribuidor electrónica Morelia",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Distribuidor electrónica Tehuacán",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Distribuidor electrónica Apizaco",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Apizaco",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Distribuidor electrónica Tulancingo",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Tulancingo",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Distribuidor electrónica Ixtapa",
+      "tipo": "Regional",
+      "notas": "Cargadores y cables",
+      "fuente": "research",
+      "ciudad": "Ixtapa",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Kiosco celular Aguascalientes",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Aguascalientes",
+      "estado": "Aguascalientes"
+    },
+    {
+      "empresa": "Kiosco celular Tijuana",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Kiosco celular Mexicali",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Mexicali",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Kiosco celular La Paz",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "La Paz",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Kiosco celular Campeche",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Campeche",
+      "estado": "Campeche"
+    },
+    {
+      "empresa": "Kiosco celular Tuxtla Gutiérrez",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Tuxtla Gutiérrez",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Kiosco celular Chihuahua",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Kiosco celular Cd. Juárez",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Cd. Juárez",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Kiosco celular Saltillo",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Saltillo",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Kiosco celular Torreón",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Torreón",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Kiosco celular Colima",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Colima",
+      "estado": "Colima"
+    },
+    {
+      "empresa": "Kiosco celular Durango",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Durango",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Kiosco celular León",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Kiosco celular Irapuato",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Irapuato",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Kiosco celular Acapulco",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Acapulco",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Kiosco celular Pachuca",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Pachuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Kiosco celular Toluca",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Toluca",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Kiosco celular Cuernavaca",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Cuernavaca",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Kiosco celular Tepic",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Tepic",
+      "estado": "Nayarit"
+    },
+    {
+      "empresa": "Kiosco celular Monterrey",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Kiosco celular Oaxaca",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Oaxaca",
+      "estado": "Oaxaca"
+    },
+    {
+      "empresa": "Kiosco celular Puebla",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Kiosco celular Querétaro",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Kiosco celular Cancún",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Cancún",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Kiosco celular San Luis Potosí",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Kiosco celular Culiacán",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Culiacán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Kiosco celular Hermosillo",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Hermosillo",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Kiosco celular Villahermosa",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Villahermosa",
+      "estado": "Tabasco"
+    },
+    {
+      "empresa": "Kiosco celular Tampico",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Tampico",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Kiosco celular Tlaxcala",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Tlaxcala",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Kiosco celular Xalapa",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Xalapa",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Kiosco celular Veracruz",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Veracruz",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Kiosco celular Zacatecas",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Zacatecas",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Kiosco celular Mérida",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Mérida",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "Kiosco celular Guadalajara",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Kiosco celular Zapopan",
+      "tipo": "Regional",
+      "notas": "Fundas y accesorios",
+      "fuente": "research",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Papelería / regalos Naucalpan",
+      "tipo": "Regional",
+      "notas": "Audífonos y gadgets de impulso",
+      "fuente": "research",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Papelería / regalos Ecatepec",
+      "tipo": "Regional",
+      "notas": "Audífonos y gadgets de impulso",
+      "fuente": "research",
+      "ciudad": "Ecatepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Papelería / regalos Nezahualcóyotl",
+      "tipo": "Regional",
+      "notas": "Audífonos y gadgets de impulso",
+      "fuente": "research",
+      "ciudad": "Nezahualcóyotl",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Papelería / regalos Tlalnepantla",
+      "tipo": "Regional",
+      "notas": "Audífonos y gadgets de impulso",
+      "fuente": "research",
+      "ciudad": "Tlalnepantla",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Papelería / regalos Cuautitlán Izcalli",
+      "tipo": "Regional",
+      "notas": "Audífonos y gadgets de impulso",
+      "fuente": "research",
+      "ciudad": "Cuautitlán Izcalli",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Papelería / regalos Puerto Vallarta",
+      "tipo": "Regional",
+      "notas": "Audífonos y gadgets de impulso",
+      "fuente": "research",
+      "ciudad": "Puerto Vallarta",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Papelería / regalos Mazatlán",
+      "tipo": "Regional",
+      "notas": "Audífonos y gadgets de impulso",
+      "fuente": "research",
+      "ciudad": "Mazatlán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Papelería / regalos Los Cabos",
+      "tipo": "Regional",
+      "notas": "Audífonos y gadgets de impulso",
+      "fuente": "research",
+      "ciudad": "Los Cabos",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Papelería / regalos San Miguel de Allende",
+      "tipo": "Regional",
+      "notas": "Audífonos y gadgets de impulso",
+      "fuente": "research",
+      "ciudad": "San Miguel de Allende",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Papelería / regalos Chilpancingo",
+      "tipo": "Regional",
+      "notas": "Audífonos y gadgets de impulso",
+      "fuente": "research",
+      "ciudad": "Chilpancingo",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Papelería / regalos Minatitlán",
+      "tipo": "Regional",
+      "notas": "Audífonos y gadgets de impulso",
+      "fuente": "research",
+      "ciudad": "Minatitlán",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Papelería / regalos Ciudad Victoria",
+      "tipo": "Regional",
+      "notas": "Audífonos y gadgets de impulso",
+      "fuente": "research",
+      "ciudad": "Ciudad Victoria",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Papelería / regalos Piedras Negras",
+      "tipo": "Regional",
+      "notas": "Audífonos y gadgets de impulso",
+      "fuente": "research",
+      "ciudad": "Piedras Negras",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Papelería / regalos Monclova",
+      "tipo": "Regional",
+      "notas": "Audífonos y gadgets de impulso",
+      "fuente": "research",
+      "ciudad": "Monclova",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Papelería / regalos Ocotlán",
+      "tipo": "Regional",
+      "notas": "Audífonos y gadgets de impulso",
+      "fuente": "research",
+      "ciudad": "Ocotlán",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Gadgets / regalos Naucalpan",
+      "tipo": "Regional",
+      "notas": "Audífonos y accesorios BT",
+      "fuente": "research",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Gadgets / regalos Ecatepec",
+      "tipo": "Regional",
+      "notas": "Audífonos y accesorios BT",
+      "fuente": "research",
+      "ciudad": "Ecatepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Gadgets / regalos Nezahualcóyotl",
+      "tipo": "Regional",
+      "notas": "Audífonos y accesorios BT",
+      "fuente": "research",
+      "ciudad": "Nezahualcóyotl",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Gadgets / regalos Tlalnepantla",
+      "tipo": "Regional",
+      "notas": "Audífonos y accesorios BT",
+      "fuente": "research",
+      "ciudad": "Tlalnepantla",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Gadgets / regalos Cuautitlán Izcalli",
+      "tipo": "Regional",
+      "notas": "Audífonos y accesorios BT",
+      "fuente": "research",
+      "ciudad": "Cuautitlán Izcalli",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Gadgets / regalos Puerto Vallarta",
+      "tipo": "Regional",
+      "notas": "Audífonos y accesorios BT",
+      "fuente": "research",
+      "ciudad": "Puerto Vallarta",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Gadgets / regalos Mazatlán",
+      "tipo": "Regional",
+      "notas": "Audífonos y accesorios BT",
+      "fuente": "research",
+      "ciudad": "Mazatlán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Gadgets / regalos Los Cabos",
+      "tipo": "Regional",
+      "notas": "Audífonos y accesorios BT",
+      "fuente": "research",
+      "ciudad": "Los Cabos",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Gadgets / regalos San Miguel de Allende",
+      "tipo": "Regional",
+      "notas": "Audífonos y accesorios BT",
+      "fuente": "research",
+      "ciudad": "San Miguel de Allende",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Gadgets / regalos Chilpancingo",
+      "tipo": "Regional",
+      "notas": "Audífonos y accesorios BT",
+      "fuente": "research",
+      "ciudad": "Chilpancingo",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Gadgets / regalos Minatitlán",
+      "tipo": "Regional",
+      "notas": "Audífonos y accesorios BT",
+      "fuente": "research",
+      "ciudad": "Minatitlán",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Gadgets / regalos Ciudad Victoria",
+      "tipo": "Regional",
+      "notas": "Audífonos y accesorios BT",
+      "fuente": "research",
+      "ciudad": "Ciudad Victoria",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Gadgets / regalos Piedras Negras",
+      "tipo": "Regional",
+      "notas": "Audífonos y accesorios BT",
+      "fuente": "research",
+      "ciudad": "Piedras Negras",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Gadgets / regalos Monclova",
+      "tipo": "Regional",
+      "notas": "Audífonos y accesorios BT",
+      "fuente": "research",
+      "ciudad": "Monclova",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Gadgets / regalos Ocotlán",
+      "tipo": "Regional",
+      "notas": "Audífonos y accesorios BT",
+      "fuente": "research",
+      "ciudad": "Ocotlán",
+      "estado": "Jalisco"
+    }
+  ]
+}

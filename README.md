@@ -98,6 +98,10 @@ leads/por_nicho/{ID}_{slug}.csv|.json|.md
 | 26 | Tenis, botas y playeras | `26_tenis_botas_playeras.*` |
 | 27 | Skincare / cosméticos | `27_skincare_cosmeticos.*` |
 | 28 | Esmaltes, pegamentos y piedritas | `28_productos_unas_esmaltes.*` |
+| 29 | Utensilios de cocina, tuppers | `29_utensilios_cocina_tuppers.*` |
+| 30 | Audífonos bluetooth, cargadores, fundas | `30_audifonos_bluetooth_cargadores.*` |
+| 31 | Fundas personalizadas y soporte para celular | `31_fundas_personalizadas_celular.*` |
+| 32 | Aromatizantes para autos | `32_aromatizantes_para_autos.*` |
 
 Catálogo: `leads/nichos.json` (58 nichos).
 

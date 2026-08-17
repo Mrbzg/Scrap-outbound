@@ -1,0 +1,1761 @@
+{
+  "lote": "29",
+  "slug": "utensilios_cocina_tuppers",
+  "description": "Utensilios de cocina, tuppers y menaje MX",
+  "leads": [
+    {
+      "empresa": "Surtiloza",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — loza, utensilios y equipo de cocina; ventas@surtiloza.com",
+      "fuente": "ejemplo_cliente",
+      "url": "https://surtiloza.mx/",
+      "email": "ventas@surtiloza.com",
+      "telefono": "3323851294",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Surtiloza WhatsApp canal",
+      "tipo": "Canal",
+      "notas": "WhatsApp ventas empresas (33) 2385 1294",
+      "fuente": "research",
+      "url": "https://surtiloza.mx/",
+      "telefono": "3323851294",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "MAHA Food Service",
+      "tipo": "Mayoreo",
+      "notas": "Food service: vajillas, cristalería, tuppers y desechables para restaurantes",
+      "fuente": "research",
+      "url": "https://maha.com.mx/",
+      "email": "hola@maha.com.mx",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "MAHA Instagram canal",
+      "tipo": "Canal",
+      "notas": "@MAHA_FOODSERVICE",
+      "fuente": "research",
+      "url": "https://www.instagram.com/MAHA_FOODSERVICE",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "ACMA Plastics",
+      "tipo": "Fabricante",
+      "notas": "Fabricante PP: cubetas, tuppers, tazas, palanganas; mayoreo directo de fábrica",
+      "fuente": "research",
+      "url": "https://acmaplastics.com/",
+      "email": "hola@acmaplastics.com",
+      "telefono": "5561063801",
+      "ciudad": "Nextlalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Tupperware México",
+      "tipo": "Marca",
+      "notas": "Paseo de los Laureles 458, Cuajimalpa; 55+ años en MX",
+      "fuente": "brand",
+      "url": "https://www.tupperware.com.mx/",
+      "email": "ecommerce@tupperware.com",
+      "telefono": "5525577600",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Tupperware 2o tel extra",
+      "tipo": "Canal",
+      "notas": "55 5257 7662 / DebleKuri@tupperware.com",
+      "fuente": "research",
+      "url": "https://www.tupperware.com.mx/",
+      "email": "DebleKuri@tupperware.com",
+      "telefono": "5525577662",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Tupperware Amanecer",
+      "tipo": "Distribuidor",
+      "notas": "Catálogo GAM, 35 años, venta a domicilio",
+      "fuente": "research",
+      "url": "https://www.tupperwareamanecer.com/",
+      "email": "haydeeunasconestilo@gmail.com",
+      "telefono": "5528949718",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Anforama",
+      "tipo": "Cadena",
+      "notas": "5000+ artículos cocina y comedor; 34 sucursales CDMX/metro/Bajío",
+      "fuente": "research",
+      "url": "https://anforama.com/",
+      "email": "contacto@anforama.com",
+      "telefono": "5555108826",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Anforama WhatsApp canal",
+      "tipo": "Canal",
+      "notas": "WhatsApp 55 3855 9676",
+      "fuente": "research",
+      "url": "https://anforama.com/",
+      "telefono": "5538559676",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Almacenes Anfora",
+      "tipo": "Cadena",
+      "notas": "85+ años; fábrica Camino a Pozos Téllez km 1.5, HGO",
+      "fuente": "research",
+      "url": "https://anfora.com/",
+      "email": "ventas@anfora.com",
+      "telefono": "7717163100",
+      "ciudad": "Mineral de la Reforma",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Anfora tienda fábrica CDMX",
+      "tipo": "Sucursal",
+      "notas": "Dr. Lucio 181, Col. Doctores; 55 5588 5426",
+      "fuente": "research",
+      "url": "https://anfora.com/",
+      "telefono": "5555885426",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Anfora showroom Constituyentes",
+      "tipo": "Sucursal",
+      "notas": "Av. Constituyentes 345, Daniel Garza; cita 55 6800 4839",
+      "fuente": "research",
+      "url": "https://anfora.com/",
+      "telefono": "5568004839",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Vencort",
+      "tipo": "Mayoreo",
+      "notas": "Av. Plutarco Elías Calles 816A, Iztacalco; utensilios y menaje",
+      "fuente": "research",
+      "url": "https://vencort.mx/",
+      "email": "oscar@vencort.mx",
+      "telefono": "5591554381",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Vencort preguntas canal",
+      "tipo": "Canal",
+      "notas": "WhatsApp 56 2624 9961; respuesta <24h",
+      "fuente": "research",
+      "url": "https://vencort.mx/contacto/",
+      "email": "preguntas@vencort.mx",
+      "telefono": "5626249961",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Menaje.com.mx",
+      "tipo": "Ecom",
+      "notas": "Guillermo González Camarena 59, Industrial Cuamatla; artículos hogar",
+      "fuente": "research",
+      "url": "https://menaje.com.mx/",
+      "ciudad": "Cuautitlán Izcalli",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Cooking Menaje",
+      "tipo": "Ecom",
+      "notas": "Menaje del hogar y pequeño electrodoméstico",
+      "fuente": "research",
+      "url": "https://cookingmenaje.com/"
+    },
+    {
+      "empresa": "CINSA",
+      "tipo": "Fabricante",
+      "notas": "Grupo Industrial Saltillo, 90+ años: ollas, cacerolas, sartenes y arroceras",
+      "fuente": "brand",
+      "url": "http://cinsa.com.mx/",
+      "ciudad": "Saltillo",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Vasconia",
+      "tipo": "Marca",
+      "notas": "Ollas y baterías de cocina, fabricante MX",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Lamex",
+      "tipo": "Marca",
+      "notas": "Cristalería y menaje, grupo regiomontano",
+      "fuente": "brand",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Tramontina México",
+      "tipo": "Marca",
+      "notas": "Baterías de cocina y utensilios, operación MX",
+      "fuente": "brand",
+      "url": "https://www.tramontina.com.mx/"
+    },
+    {
+      "empresa": "T-fal México",
+      "tipo": "Marca",
+      "notas": "Groupe SEB: sartenes y ollas",
+      "fuente": "brand",
+      "url": "https://www.tfal.com.mx/"
+    },
+    {
+      "empresa": "Abasteo.mx",
+      "tipo": "Marketplace",
+      "notas": "Precios por volumen con factura",
+      "fuente": "research",
+      "url": "https://www.abasteo.mx/Fabricante/CINSA/2/"
+    },
+    {
+      "empresa": "Amazon MX utensilios",
+      "tipo": "Marketplace",
+      "notas": "Sellers utensilios y tuppers",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=utensilios+de+cocina",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mercado Libre cocina mayoreo",
+      "tipo": "Marketplace",
+      "notas": "Mayoreo utensilios y menaje",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/utensilios-de-cocina-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Liverpool Hogar",
+      "tipo": "Retail",
+      "notas": "Cadenas: menaje y electrodomésticos",
+      "fuente": "brand",
+      "url": "https://www.liverpool.com.mx/tienda/hogar",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Sears Hogar",
+      "tipo": "Retail",
+      "notas": "Línea hogar",
+      "fuente": "brand",
+      "url": "https://www.sears.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Home Depot México",
+      "tipo": "Retail",
+      "notas": "Línea cocina y almacenaje",
+      "fuente": "brand",
+      "url": "https://www.homedepot.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Coppel Hogar",
+      "tipo": "Retail",
+      "notas": "Hogar y electrodomésticos",
+      "fuente": "brand",
+      "url": "https://www.coppel.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Mayoreo Vip hogar",
+      "tipo": "Mayoreo",
+      "notas": "Centro CDMX, categorías hogar y cocina",
+      "fuente": "research",
+      "url": "https://mayoreo.vip/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Tuppers herméticos producto",
+      "tipo": "Producto",
+      "notas": "Contenedores y tuppers para food service",
+      "fuente": "research",
+      "url": "https://maha.com.mx/collections/tuppers-contenedores",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Vajillas melamina producto",
+      "tipo": "Producto",
+      "notas": "Vajillas de melamina para restaurante",
+      "fuente": "research",
+      "url": "https://anforama.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Cubetas y palanganas producto",
+      "tipo": "Producto",
+      "notas": "Plásticos PP para hogar y ferretería",
+      "fuente": "research",
+      "url": "https://acmaplastics.com/"
+    },
+    {
+      "empresa": "Baterías de cocina producto",
+      "tipo": "Producto",
+      "notas": "Ollas y cacerolas CINSA",
+      "fuente": "research",
+      "url": "http://cinsa.com.mx/",
+      "ciudad": "Saltillo",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Cristalería y copas producto",
+      "tipo": "Producto",
+      "notas": "Cristalería para mesa",
+      "fuente": "research",
+      "url": "https://almacenesanfora.com/"
+    },
+    {
+      "empresa": "Restaurantes / dark kitchens",
+      "tipo": "Canal B2B",
+      "notas": "Equipan cocina, compra constante mayoreo",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Ferreterías / tlapalerías",
+      "tipo": "Canal B2B",
+      "notas": "Venden plásticos, cubetas y tuppers",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Supermercados regionales",
+      "tipo": "Canal B2B",
+      "notas": "Compran menaje y almacenaje",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Tiendas de regalo / hogar",
+      "tipo": "Canal B2B",
+      "notas": "Surtido menaje y tuppers",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Centro Histórico CDMX menaje",
+      "tipo": "Cluster",
+      "notas": "Locatarios de menaje y plásticos",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Utensilios de cocina Aguascalientes",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Aguascalientes",
+      "estado": "Aguascalientes"
+    },
+    {
+      "empresa": "Utensilios de cocina Tijuana",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Utensilios de cocina Mexicali",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Mexicali",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Utensilios de cocina La Paz",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "La Paz",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Utensilios de cocina Campeche",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Campeche",
+      "estado": "Campeche"
+    },
+    {
+      "empresa": "Utensilios de cocina Tuxtla Gutiérrez",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Tuxtla Gutiérrez",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Utensilios de cocina Chihuahua",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Utensilios de cocina Cd. Juárez",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Cd. Juárez",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Utensilios de cocina Saltillo",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Saltillo",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Utensilios de cocina Torreón",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Torreón",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Utensilios de cocina Colima",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Colima",
+      "estado": "Colima"
+    },
+    {
+      "empresa": "Utensilios de cocina Durango",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Durango",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Utensilios de cocina León",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Utensilios de cocina Irapuato",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Irapuato",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Utensilios de cocina Acapulco",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Acapulco",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Utensilios de cocina Pachuca",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Pachuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Utensilios de cocina Toluca",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Toluca",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Utensilios de cocina Cuernavaca",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Cuernavaca",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Utensilios de cocina Tepic",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Tepic",
+      "estado": "Nayarit"
+    },
+    {
+      "empresa": "Utensilios de cocina Monterrey",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Utensilios de cocina Oaxaca",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Oaxaca",
+      "estado": "Oaxaca"
+    },
+    {
+      "empresa": "Utensilios de cocina Puebla",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Utensilios de cocina Querétaro",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Utensilios de cocina Cancún",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Cancún",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Utensilios de cocina San Luis Potosí",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Utensilios de cocina Culiacán",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Culiacán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Utensilios de cocina Hermosillo",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Hermosillo",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Utensilios de cocina Villahermosa",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Villahermosa",
+      "estado": "Tabasco"
+    },
+    {
+      "empresa": "Utensilios de cocina Tampico",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Tampico",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Utensilios de cocina Tlaxcala",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Tlaxcala",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Utensilios de cocina Xalapa",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Xalapa",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Utensilios de cocina Veracruz",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Veracruz",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Utensilios de cocina Zacatecas",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Zacatecas",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Utensilios de cocina Mérida",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Mérida",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "Utensilios de cocina Guadalajara",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Utensilios de cocina Zapopan",
+      "tipo": "Regional",
+      "notas": "Tuppers, menaje y vajillas",
+      "fuente": "research",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Cocina / hogar Celaya",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Celaya",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Cocina / hogar Salamanca",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Salamanca",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Cocina / hogar San Juan del Río",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "San Juan del Río",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Cocina / hogar Cuautla",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Cuautla",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Cocina / hogar Jiutepec",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Jiutepec",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Cocina / hogar Córdoba",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Córdoba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Cocina / hogar Orizaba",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Orizaba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Cocina / hogar Poza Rica",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Poza Rica",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Cocina / hogar Coatzacoalcos",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Coatzacoalcos",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Cocina / hogar Tapachula",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Tapachula",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Cocina / hogar Comitán",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Comitán",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Cocina / hogar Los Mochis",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Los Mochis",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Cocina / hogar Ciudad Obregón",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Ciudad Obregón",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Cocina / hogar Nogales",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Nogales",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Cocina / hogar Ensenada",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Ensenada",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Cocina / hogar Playa del Carmen",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Playa del Carmen",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Cocina / hogar Chetumal",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Chetumal",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Cocina / hogar Reynosa",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Reynosa",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Cocina / hogar Matamoros",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Matamoros",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Cocina / hogar Nuevo Laredo",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Nuevo Laredo",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Cocina / hogar Gómez Palacio",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Gómez Palacio",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Cocina / hogar Fresnillo",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Fresnillo",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Cocina / hogar Uruapan",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Uruapan",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Cocina / hogar Zamora",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Zamora",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Cocina / hogar Morelia",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Cocina / hogar Tehuacán",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Cocina / hogar Apizaco",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Apizaco",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Cocina / hogar Tulancingo",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Tulancingo",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Cocina / hogar Ixtapa",
+      "tipo": "Regional",
+      "notas": "Tuppers y almacenaje",
+      "fuente": "research",
+      "ciudad": "Ixtapa",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Menaje / cristalería Naucalpan",
+      "tipo": "Regional",
+      "notas": "Vajillas y utensilios",
+      "fuente": "research",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Menaje / cristalería Ecatepec",
+      "tipo": "Regional",
+      "notas": "Vajillas y utensilios",
+      "fuente": "research",
+      "ciudad": "Ecatepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Menaje / cristalería Nezahualcóyotl",
+      "tipo": "Regional",
+      "notas": "Vajillas y utensilios",
+      "fuente": "research",
+      "ciudad": "Nezahualcóyotl",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Menaje / cristalería Tlalnepantla",
+      "tipo": "Regional",
+      "notas": "Vajillas y utensilios",
+      "fuente": "research",
+      "ciudad": "Tlalnepantla",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Menaje / cristalería Cuautitlán Izcalli",
+      "tipo": "Regional",
+      "notas": "Vajillas y utensilios",
+      "fuente": "research",
+      "ciudad": "Cuautitlán Izcalli",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Menaje / cristalería Puerto Vallarta",
+      "tipo": "Regional",
+      "notas": "Vajillas y utensilios",
+      "fuente": "research",
+      "ciudad": "Puerto Vallarta",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Menaje / cristalería Mazatlán",
+      "tipo": "Regional",
+      "notas": "Vajillas y utensilios",
+      "fuente": "research",
+      "ciudad": "Mazatlán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Menaje / cristalería Los Cabos",
+      "tipo": "Regional",
+      "notas": "Vajillas y utensilios",
+      "fuente": "research",
+      "ciudad": "Los Cabos",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Menaje / cristalería San Miguel de Allende",
+      "tipo": "Regional",
+      "notas": "Vajillas y utensilios",
+      "fuente": "research",
+      "ciudad": "San Miguel de Allende",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Menaje / cristalería Chilpancingo",
+      "tipo": "Regional",
+      "notas": "Vajillas y utensilios",
+      "fuente": "research",
+      "ciudad": "Chilpancingo",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Menaje / cristalería Minatitlán",
+      "tipo": "Regional",
+      "notas": "Vajillas y utensilios",
+      "fuente": "research",
+      "ciudad": "Minatitlán",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Menaje / cristalería Ciudad Victoria",
+      "tipo": "Regional",
+      "notas": "Vajillas y utensilios",
+      "fuente": "research",
+      "ciudad": "Ciudad Victoria",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Menaje / cristalería Piedras Negras",
+      "tipo": "Regional",
+      "notas": "Vajillas y utensilios",
+      "fuente": "research",
+      "ciudad": "Piedras Negras",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Menaje / cristalería Monclova",
+      "tipo": "Regional",
+      "notas": "Vajillas y utensilios",
+      "fuente": "research",
+      "ciudad": "Monclova",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Menaje / cristalería Ocotlán",
+      "tipo": "Regional",
+      "notas": "Vajillas y utensilios",
+      "fuente": "research",
+      "ciudad": "Ocotlán",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Ferretería hogar Celaya",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Celaya",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Ferretería hogar Salamanca",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Salamanca",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Ferretería hogar San Juan del Río",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "San Juan del Río",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Ferretería hogar Cuautla",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Cuautla",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Ferretería hogar Jiutepec",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Jiutepec",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Ferretería hogar Córdoba",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Córdoba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Ferretería hogar Orizaba",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Orizaba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Ferretería hogar Poza Rica",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Poza Rica",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Ferretería hogar Coatzacoalcos",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Coatzacoalcos",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Ferretería hogar Tapachula",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Tapachula",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Ferretería hogar Comitán",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Comitán",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Ferretería hogar Los Mochis",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Los Mochis",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Ferretería hogar Ciudad Obregón",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Ciudad Obregón",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Ferretería hogar Nogales",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Nogales",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Ferretería hogar Ensenada",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Ensenada",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Ferretería hogar Playa del Carmen",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Playa del Carmen",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Ferretería hogar Chetumal",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Chetumal",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Ferretería hogar Reynosa",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Reynosa",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Ferretería hogar Matamoros",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Matamoros",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Ferretería hogar Nuevo Laredo",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Nuevo Laredo",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Ferretería hogar Gómez Palacio",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Gómez Palacio",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Ferretería hogar Fresnillo",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Fresnillo",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Ferretería hogar Uruapan",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Uruapan",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Ferretería hogar Zamora",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Zamora",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Ferretería hogar Morelia",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Ferretería hogar Tehuacán",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Ferretería hogar Apizaco",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Apizaco",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Ferretería hogar Tulancingo",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Tulancingo",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Ferretería hogar Ixtapa",
+      "tipo": "Regional",
+      "notas": "Plásticos y tuppers",
+      "fuente": "research",
+      "ciudad": "Ixtapa",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Mayoreo hogar Naucalpan",
+      "tipo": "Regional",
+      "notas": "Menaje y pequeño electrodoméstico",
+      "fuente": "research",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Mayoreo hogar Ecatepec",
+      "tipo": "Regional",
+      "notas": "Menaje y pequeño electrodoméstico",
+      "fuente": "research",
+      "ciudad": "Ecatepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Mayoreo hogar Nezahualcóyotl",
+      "tipo": "Regional",
+      "notas": "Menaje y pequeño electrodoméstico",
+      "fuente": "research",
+      "ciudad": "Nezahualcóyotl",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Mayoreo hogar Tlalnepantla",
+      "tipo": "Regional",
+      "notas": "Menaje y pequeño electrodoméstico",
+      "fuente": "research",
+      "ciudad": "Tlalnepantla",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Mayoreo hogar Cuautitlán Izcalli",
+      "tipo": "Regional",
+      "notas": "Menaje y pequeño electrodoméstico",
+      "fuente": "research",
+      "ciudad": "Cuautitlán Izcalli",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Mayoreo hogar Puerto Vallarta",
+      "tipo": "Regional",
+      "notas": "Menaje y pequeño electrodoméstico",
+      "fuente": "research",
+      "ciudad": "Puerto Vallarta",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Mayoreo hogar Mazatlán",
+      "tipo": "Regional",
+      "notas": "Menaje y pequeño electrodoméstico",
+      "fuente": "research",
+      "ciudad": "Mazatlán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Mayoreo hogar Los Cabos",
+      "tipo": "Regional",
+      "notas": "Menaje y pequeño electrodoméstico",
+      "fuente": "research",
+      "ciudad": "Los Cabos",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Mayoreo hogar San Miguel de Allende",
+      "tipo": "Regional",
+      "notas": "Menaje y pequeño electrodoméstico",
+      "fuente": "research",
+      "ciudad": "San Miguel de Allende",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Mayoreo hogar Chilpancingo",
+      "tipo": "Regional",
+      "notas": "Menaje y pequeño electrodoméstico",
+      "fuente": "research",
+      "ciudad": "Chilpancingo",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Mayoreo hogar Minatitlán",
+      "tipo": "Regional",
+      "notas": "Menaje y pequeño electrodoméstico",
+      "fuente": "research",
+      "ciudad": "Minatitlán",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Mayoreo hogar Ciudad Victoria",
+      "tipo": "Regional",
+      "notas": "Menaje y pequeño electrodoméstico",
+      "fuente": "research",
+      "ciudad": "Ciudad Victoria",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Mayoreo hogar Piedras Negras",
+      "tipo": "Regional",
+      "notas": "Menaje y pequeño electrodoméstico",
+      "fuente": "research",
+      "ciudad": "Piedras Negras",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Mayoreo hogar Monclova",
+      "tipo": "Regional",
+      "notas": "Menaje y pequeño electrodoméstico",
+      "fuente": "research",
+      "ciudad": "Monclova",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Mayoreo hogar Ocotlán",
+      "tipo": "Regional",
+      "notas": "Menaje y pequeño electrodoméstico",
+      "fuente": "research",
+      "ciudad": "Ocotlán",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Restaurantero / food service Aguascalientes",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Aguascalientes",
+      "estado": "Aguascalientes"
+    },
+    {
+      "empresa": "Restaurantero / food service Tijuana",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Restaurantero / food service Mexicali",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Mexicali",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Restaurantero / food service La Paz",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "La Paz",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Restaurantero / food service Campeche",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Campeche",
+      "estado": "Campeche"
+    },
+    {
+      "empresa": "Restaurantero / food service Tuxtla Gutiérrez",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Tuxtla Gutiérrez",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Restaurantero / food service Chihuahua",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Restaurantero / food service Cd. Juárez",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Cd. Juárez",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Restaurantero / food service Saltillo",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Saltillo",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Restaurantero / food service Torreón",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Torreón",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Restaurantero / food service Colima",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Colima",
+      "estado": "Colima"
+    },
+    {
+      "empresa": "Restaurantero / food service Durango",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Durango",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Restaurantero / food service León",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Restaurantero / food service Irapuato",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Irapuato",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Restaurantero / food service Acapulco",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Acapulco",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Restaurantero / food service Pachuca",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Pachuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Restaurantero / food service Toluca",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Toluca",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Restaurantero / food service Cuernavaca",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Cuernavaca",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Restaurantero / food service Tepic",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Tepic",
+      "estado": "Nayarit"
+    },
+    {
+      "empresa": "Restaurantero / food service Monterrey",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Restaurantero / food service Oaxaca",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Oaxaca",
+      "estado": "Oaxaca"
+    },
+    {
+      "empresa": "Restaurantero / food service Puebla",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Restaurantero / food service Querétaro",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Restaurantero / food service Cancún",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Cancún",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Restaurantero / food service San Luis Potosí",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Restaurantero / food service Culiacán",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Culiacán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Restaurantero / food service Hermosillo",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Hermosillo",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Restaurantero / food service Villahermosa",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Villahermosa",
+      "estado": "Tabasco"
+    },
+    {
+      "empresa": "Restaurantero / food service Tampico",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Tampico",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Restaurantero / food service Tlaxcala",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Tlaxcala",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Restaurantero / food service Xalapa",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Xalapa",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Restaurantero / food service Veracruz",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Veracruz",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Restaurantero / food service Zacatecas",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Zacatecas",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Restaurantero / food service Mérida",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Mérida",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "Restaurantero / food service Guadalajara",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Restaurantero / food service Zapopan",
+      "tipo": "Regional",
+      "notas": "Compran menaje por volumen",
+      "fuente": "research",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Banquetera / eventos Naucalpan",
+      "tipo": "Regional",
+      "notas": "Compran vajillas y menaje",
+      "fuente": "research",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Banquetera / eventos Ecatepec",
+      "tipo": "Regional",
+      "notas": "Compran vajillas y menaje",
+      "fuente": "research",
+      "ciudad": "Ecatepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Banquetera / eventos Nezahualcóyotl",
+      "tipo": "Regional",
+      "notas": "Compran vajillas y menaje",
+      "fuente": "research",
+      "ciudad": "Nezahualcóyotl",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Banquetera / eventos Tlalnepantla",
+      "tipo": "Regional",
+      "notas": "Compran vajillas y menaje",
+      "fuente": "research",
+      "ciudad": "Tlalnepantla",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Banquetera / eventos Cuautitlán Izcalli",
+      "tipo": "Regional",
+      "notas": "Compran vajillas y menaje",
+      "fuente": "research",
+      "ciudad": "Cuautitlán Izcalli",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Banquetera / eventos Puerto Vallarta",
+      "tipo": "Regional",
+      "notas": "Compran vajillas y menaje",
+      "fuente": "research",
+      "ciudad": "Puerto Vallarta",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Banquetera / eventos Mazatlán",
+      "tipo": "Regional",
+      "notas": "Compran vajillas y menaje",
+      "fuente": "research",
+      "ciudad": "Mazatlán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Banquetera / eventos Los Cabos",
+      "tipo": "Regional",
+      "notas": "Compran vajillas y menaje",
+      "fuente": "research",
+      "ciudad": "Los Cabos",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Banquetera / eventos San Miguel de Allende",
+      "tipo": "Regional",
+      "notas": "Compran vajillas y menaje",
+      "fuente": "research",
+      "ciudad": "San Miguel de Allende",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Banquetera / eventos Chilpancingo",
+      "tipo": "Regional",
+      "notas": "Compran vajillas y menaje",
+      "fuente": "research",
+      "ciudad": "Chilpancingo",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Banquetera / eventos Minatitlán",
+      "tipo": "Regional",
+      "notas": "Compran vajillas y menaje",
+      "fuente": "research",
+      "ciudad": "Minatitlán",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Banquetera / eventos Ciudad Victoria",
+      "tipo": "Regional",
+      "notas": "Compran vajillas y menaje",
+      "fuente": "research",
+      "ciudad": "Ciudad Victoria",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Banquetera / eventos Piedras Negras",
+      "tipo": "Regional",
+      "notas": "Compran vajillas y menaje",
+      "fuente": "research",
+      "ciudad": "Piedras Negras",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Banquetera / eventos Monclova",
+      "tipo": "Regional",
+      "notas": "Compran vajillas y menaje",
+      "fuente": "research",
+      "ciudad": "Monclova",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Banquetera / eventos Ocotlán",
+      "tipo": "Regional",
+      "notas": "Compran vajillas y menaje",
+      "fuente": "research",
+      "ciudad": "Ocotlán",
+      "estado": "Jalisco"
+    }
+  ]
+}

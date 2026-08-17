@@ -483,7 +483,63 @@ lotes:
       - pegamento uñas piedritas strass .mx
       - Miss Cherry Nail Factory mayoreo
 
-# Plantilla para lotes futuros (29+)
+  "29":
+    slug: utensilios_cocina_tuppers
+    giro: Hogar
+    nicho: Utensilios de cocina, tuppers
+    ejemplo: https://surtiloza.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/29_utensilios_cocina_tuppers.json
+    search_queries:
+      - utensilios de cocina mayoreo México tuppers
+      - fábrica plásticos hogar tuppers México
+      - vajillas menaje mayoreo CDMX Guadalajara Monterrey
+
+  "30":
+    slug: audifonos_bluetooth_cargadores
+    giro: Electronica
+    nicho: Audifonos bluetooth, cargadores, fundas
+    ejemplo: https://www.ele-gate.com/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/30_audifonos_bluetooth_cargadores.json
+    search_queries:
+      - audífonos bluetooth mayoreo México .mx
+      - accesorios celular mayoreo cargadores power bank México
+      - mayorista accesorios electrónicos Monterrey Guadalajara CDMX
+
+  "31":
+    slug: fundas_personalizadas_celular
+    giro: Electronica
+    nicho: Fundas personalizadas y soporte para celular
+    ejemplo: https://funcases.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/31_fundas_personalizadas_celular.json
+    search_queries:
+      - fundas personalizadas celular México tienda .mx
+      - fundas celular mayoreo CDMX Izazaga Plaza de la Tecnología
+      - soporte celular personalizado fundas fotos México
+
+  "32":
+    slug: aromatizantes_para_autos
+    giro: Autos
+    nicho: Aromatizantes para autos
+    ejemplo: https://olfativahome.com/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/32_aromatizantes_para_autos.json
+    search_queries:
+      - aromatizantes para auto mayoreo México .mx
+      - ambientadores automotriz fabricante México
+      - aromatizante colgante gel auto mayoreo CDMX
+
+# Plantilla para lotes futuros (33+)
 # Copiar bloque y llenar sources + seeds
 template_lote:
   slug: ""

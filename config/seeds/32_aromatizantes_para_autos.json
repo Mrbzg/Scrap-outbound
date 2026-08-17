@@ -1,0 +1,1791 @@
+{
+  "lote": "32",
+  "slug": "aromatizantes_para_autos",
+  "description": "Aromatizantes para autos MX",
+  "leads": [
+    {
+      "empresa": "Olfativa",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — aromatizantes para autos",
+      "fuente": "ejemplo_cliente",
+      "url": "https://olfativahome.com/"
+    },
+    {
+      "empresa": "Areon México",
+      "tipo": "Distribuidor",
+      "notas": "Polanco; catálogo Areon auto/hogar; distribuidores",
+      "fuente": "research",
+      "url": "https://areon-mexico.com/",
+      "email": "info@areon-mexico.com",
+      "telefono": "5591835294",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Areon contacto",
+      "tipo": "Canal",
+      "notas": "+52 55 9183 5294; WhatsApp",
+      "fuente": "research",
+      "url": "https://areon-mexico.com/contacto/",
+      "email": "info@areon-mexico.com",
+      "telefono": "5591835294",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "FAME IMPORT",
+      "tipo": "Distribuidor",
+      "notas": "Homero 538-303A Polanco; aromatizantes Areon al mayoreo",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Cristalinasshop MX",
+      "tipo": "Marca",
+      "notas": "Aromatizantes MX: coche premium con pinza, mikados",
+      "fuente": "research",
+      "url": "https://cristalinasshop.com.mx/"
+    },
+    {
+      "empresa": "Sanitaria Bencos",
+      "tipo": "Mayoreo",
+      "notas": "Vallejo; aromatizantes FAME/Areon",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "QUÍMICA ARBEN",
+      "tipo": "Fabricante",
+      "notas": "Aromatizantes industriales; Carretera Teoloyucan-Huehuetoca S/N",
+      "fuente": "research",
+      "telefono": "5585262422",
+      "ciudad": "Coyotepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Industrias San-Ber",
+      "tipo": "Fabricante",
+      "notas": "Aromatizantes al alcohol SAN-AIR; Siderúrgica 120, P.I. Escobedo",
+      "fuente": "research",
+      "telefono": "8141708011",
+      "ciudad": "Escobedo",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Olarte Especialidades Químicas",
+      "tipo": "Mayoreo",
+      "notas": "Aromatizantes larga duración; Av. Nacional 71, Sta. María Chiconautla",
+      "fuente": "research",
+      "telefono": "5585262305",
+      "ciudad": "Ecatepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Dalmick",
+      "tipo": "Mayoreo",
+      "notas": "Aromatizantes olor manzana; Ébano 30, Viveros Xalostoc",
+      "fuente": "research",
+      "ciudad": "Xalostoc",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Aromáticos y Químicos del Centro",
+      "tipo": "Mayoreo",
+      "notas": "Oficina corporativa; aromatizantes",
+      "fuente": "research",
+      "telefono": "5585266676"
+    },
+    {
+      "empresa": "Aislinn Productos de Limpieza",
+      "tipo": "Mayoreo",
+      "notas": "Aromatizante por litro 4L/20L, aromas Auto Nuevo, Cereza, Lavanda…",
+      "fuente": "research",
+      "url": "https://aislinn.com.mx/",
+      "email": "ventas@aislinn.com.mx",
+      "telefono": "553906964"
+    },
+    {
+      "empresa": "Wiese CDMX Distribuidor",
+      "tipo": "Distribuidor",
+      "notas": "Aromatizante auto 7ml, clip on y gel 70g; WA 55 3958 2119",
+      "fuente": "research",
+      "url": "https://wiese-aromatizante.com/",
+      "email": "wiesecdmx@gmail.com",
+      "telefono": "5589311558",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Automotriz 360",
+      "tipo": "Fabricante",
+      "notas": "Químicos automotriz; Altos Hornos 1273, P.I. El Álamo",
+      "fuente": "research",
+      "url": "https://www.auto360.com.mx/aromatizantes",
+      "email": "ventas@auto360.com.mx",
+      "telefono": "3333829489",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Abastecedora Industrial de Limpieza",
+      "tipo": "Fabricante",
+      "notas": "Aromas para auto, socio Cosmos desde 2009; Col. Pablo A. de la Garza",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Basic-chem de México",
+      "tipo": "Fabricante",
+      "notas": "Aromas para auto; Av. Lázaro Cárdenas 83, Doce de Diciembre",
+      "fuente": "research",
+      "ciudad": "Ecatepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Clean Chemical Products",
+      "tipo": "Fabricante",
+      "notas": "Aromas para auto; Calle 4 No. 390, Agrícola Pantitlán, Iztacalco",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Grupo Cirro Cooper",
+      "tipo": "Fabricante",
+      "notas": "Aromas para auto; socio Cosmos desde 2005",
+      "fuente": "research",
+      "ciudad": "Cuautitlán Izcalli",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Laboratorios Hersol",
+      "tipo": "Fabricante",
+      "notas": "Aromas para auto; Niños Héroes 116, Barrio La Concepción",
+      "fuente": "research",
+      "ciudad": "Metepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Distribuidora El Trébol (Dicotrel)",
+      "tipo": "Distribuidor",
+      "notas": "Aromas para auto; Col. La Perla",
+      "fuente": "research",
+      "ciudad": "Nezahualcóyotl",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Sapphire Flavors and Fragances",
+      "tipo": "Fabricante",
+      "notas": "San Rafael; fragancias y aromatizantes para ambiente",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "CLYNDEX",
+      "tipo": "Mayoreo",
+      "notas": "Insurgentes Sur 4342, Tlalpan",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "ONA Inspira México",
+      "tipo": "Fabricante",
+      "notas": "Eugenia 910, Benito Juárez; aromatizantes hogar/oficina",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Silicone Technology de México",
+      "tipo": "Fabricante",
+      "notas": "Enriqueta 3235, Bondojito; aromatizantes para automóvil",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "LAVA MUNDO",
+      "tipo": "Mayoreo",
+      "notas": "Carretera Lago de Guadalupe 98; aromatizantes autos",
+      "fuente": "research",
+      "ciudad": "San Mateo Tecoloapan",
+      "estado": "México"
+    },
+    {
+      "empresa": "Surtidora de limpieza Jalisco",
+      "tipo": "Mayoreo",
+      "notas": "Limpieza auto y aromatizantes; sucursal Zapopan 33 3805 6628",
+      "fuente": "research",
+      "telefono": "3336532518",
+      "ciudad": "Puerto Melaque",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Distribuidora Automotriz Jari",
+      "tipo": "Distribuidor",
+      "notas": "California Scents cajas 12 pzs",
+      "fuente": "research"
+    },
+    {
+      "empresa": "RECUBRA",
+      "tipo": "Distribuidor",
+      "notas": "Cristalinas para auto",
+      "fuente": "research"
+    },
+    {
+      "empresa": "HGMX",
+      "tipo": "Distribuidor",
+      "notas": "Kits ambientadores premium para auto",
+      "fuente": "research"
+    },
+    {
+      "empresa": "GAMAVAL",
+      "tipo": "Distribuidor",
+      "notas": "Fragancias 1L mayoreo",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Tauber",
+      "tipo": "Distribuidor",
+      "notas": "Lata California Scents 12 pzs",
+      "fuente": "research"
+    },
+    {
+      "empresa": "ECOMMSE",
+      "tipo": "Distribuidor",
+      "notas": "Axe gel / Jelly Belly auto",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Auto Lab",
+      "tipo": "Distribuidor",
+      "notas": "Little Trees exhibidores 60 pzs",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Pura Esencia",
+      "tipo": "Marca",
+      "notas": "Colgantes 5ml mayoreo 30/100 pzs",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Oxyglow",
+      "tipo": "Marca",
+      "notas": "Aromatizante inteligente para carro",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Slim Company",
+      "tipo": "Marca",
+      "notas": "Colgante ambientador de coche",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Febreze Car (P&G)",
+      "tipo": "Marca",
+      "notas": "Import; rejilla y spray",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Glade Car (SC Johnson)",
+      "tipo": "Marca",
+      "notas": "Gel 70g",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "California Scents",
+      "tipo": "Marca",
+      "notas": "Lata y gel, import",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Little Trees",
+      "tipo": "Marca",
+      "notas": "Colgante pinito, import",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Yankee Candle Car",
+      "tipo": "Marca",
+      "notas": "Esfera para auto",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Amazon MX aromatizantes auto",
+      "tipo": "Marketplace",
+      "notas": "Sellers aromatizantes",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=aromatizante+para+auto",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "ML aromatizantes mayoreo",
+      "tipo": "Marketplace",
+      "notas": "Mayoreo aromatizantes auto",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/aromatizantes-para-autos-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Autozone México",
+      "tipo": "Retail",
+      "notas": "Refaccionarias venden aromatizantes",
+      "fuente": "brand",
+      "url": "https://www.autozone.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "O'Reilly Auto Parts MX",
+      "tipo": "Retail",
+      "notas": "Refaccionarias",
+      "fuente": "brand",
+      "url": "https://www.oreillyauto.com.mx/"
+    },
+    {
+      "empresa": "Chedraui aromatizantes",
+      "tipo": "Retail",
+      "notas": "Autoservicio: Cristalinas",
+      "fuente": "brand",
+      "url": "https://www.chedraui.com.mx/aromatizante-cristalinas-3765142/p"
+    },
+    {
+      "empresa": "H-E-B aromatizantes",
+      "tipo": "Retail",
+      "notas": "Autoservicio: Cristalinas 100ml",
+      "fuente": "brand",
+      "url": "https://www.heb.com.mx/cristalinas-aromatizante-automovil100-ml-1-pz-901633/p"
+    },
+    {
+      "empresa": "Lavados de autos",
+      "tipo": "Canal B2B",
+      "notas": "Venden aromatizantes a clientes",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Detallado / estética automotriz",
+      "tipo": "Canal B2B",
+      "notas": "Aromatizantes como servicio",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Flotillas / taxis",
+      "tipo": "Canal B2B",
+      "notas": "Compra recurrente por volumen",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Vulcanizadoras / refaccionarias",
+      "tipo": "Canal B2B",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Aromatizantes auto Aguascalientes",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Aguascalientes",
+      "estado": "Aguascalientes"
+    },
+    {
+      "empresa": "Aromatizantes auto Tijuana",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Aromatizantes auto Mexicali",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Mexicali",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Aromatizantes auto La Paz",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "La Paz",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Aromatizantes auto Campeche",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Campeche",
+      "estado": "Campeche"
+    },
+    {
+      "empresa": "Aromatizantes auto Tuxtla Gutiérrez",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Tuxtla Gutiérrez",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Aromatizantes auto Chihuahua",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Aromatizantes auto Cd. Juárez",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Cd. Juárez",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Aromatizantes auto Saltillo",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Saltillo",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Aromatizantes auto Torreón",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Torreón",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Aromatizantes auto Colima",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Colima",
+      "estado": "Colima"
+    },
+    {
+      "empresa": "Aromatizantes auto Durango",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Durango",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Aromatizantes auto León",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Aromatizantes auto Irapuato",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Irapuato",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Aromatizantes auto Acapulco",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Acapulco",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Aromatizantes auto Pachuca",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Pachuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Aromatizantes auto Toluca",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Toluca",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Aromatizantes auto Cuernavaca",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Cuernavaca",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Aromatizantes auto Tepic",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Tepic",
+      "estado": "Nayarit"
+    },
+    {
+      "empresa": "Aromatizantes auto Monterrey",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Aromatizantes auto Oaxaca",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Oaxaca",
+      "estado": "Oaxaca"
+    },
+    {
+      "empresa": "Aromatizantes auto Puebla",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Aromatizantes auto Querétaro",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Aromatizantes auto Cancún",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Cancún",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Aromatizantes auto San Luis Potosí",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Aromatizantes auto Culiacán",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Culiacán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Aromatizantes auto Hermosillo",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Hermosillo",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Aromatizantes auto Villahermosa",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Villahermosa",
+      "estado": "Tabasco"
+    },
+    {
+      "empresa": "Aromatizantes auto Tampico",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Tampico",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Aromatizantes auto Tlaxcala",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Tlaxcala",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Aromatizantes auto Xalapa",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Xalapa",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Aromatizantes auto Veracruz",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Veracruz",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Aromatizantes auto Zacatecas",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Zacatecas",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Aromatizantes auto Mérida",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Mérida",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "Aromatizantes auto Guadalajara",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Aromatizantes auto Zapopan",
+      "tipo": "Regional",
+      "notas": "Gel, colgante y spray",
+      "fuente": "research",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Accesorios automotriz Celaya",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Celaya",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Accesorios automotriz Salamanca",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Salamanca",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Accesorios automotriz San Juan del Río",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "San Juan del Río",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Accesorios automotriz Cuautla",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Cuautla",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Accesorios automotriz Jiutepec",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Jiutepec",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Accesorios automotriz Córdoba",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Córdoba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Accesorios automotriz Orizaba",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Orizaba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Accesorios automotriz Poza Rica",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Poza Rica",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Accesorios automotriz Coatzacoalcos",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Coatzacoalcos",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Accesorios automotriz Tapachula",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Tapachula",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Accesorios automotriz Comitán",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Comitán",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Accesorios automotriz Los Mochis",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Los Mochis",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Accesorios automotriz Ciudad Obregón",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Ciudad Obregón",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Accesorios automotriz Nogales",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Nogales",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Accesorios automotriz Ensenada",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Ensenada",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Accesorios automotriz Playa del Carmen",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Playa del Carmen",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Accesorios automotriz Chetumal",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Chetumal",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Accesorios automotriz Reynosa",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Reynosa",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Accesorios automotriz Matamoros",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Matamoros",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Accesorios automotriz Nuevo Laredo",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Nuevo Laredo",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Accesorios automotriz Gómez Palacio",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Gómez Palacio",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Accesorios automotriz Fresnillo",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Fresnillo",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Accesorios automotriz Uruapan",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Uruapan",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Accesorios automotriz Zamora",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Zamora",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Accesorios automotriz Morelia",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Accesorios automotriz Tehuacán",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Accesorios automotriz Apizaco",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Apizaco",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Accesorios automotriz Tulancingo",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Tulancingo",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Accesorios automotriz Ixtapa",
+      "tipo": "Regional",
+      "notas": "Aromatizantes y limpieza",
+      "fuente": "research",
+      "ciudad": "Ixtapa",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Lavado / detallado auto Naucalpan",
+      "tipo": "Regional",
+      "notas": "Venden aromatizantes",
+      "fuente": "research",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Lavado / detallado auto Ecatepec",
+      "tipo": "Regional",
+      "notas": "Venden aromatizantes",
+      "fuente": "research",
+      "ciudad": "Ecatepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Lavado / detallado auto Nezahualcóyotl",
+      "tipo": "Regional",
+      "notas": "Venden aromatizantes",
+      "fuente": "research",
+      "ciudad": "Nezahualcóyotl",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Lavado / detallado auto Tlalnepantla",
+      "tipo": "Regional",
+      "notas": "Venden aromatizantes",
+      "fuente": "research",
+      "ciudad": "Tlalnepantla",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Lavado / detallado auto Cuautitlán Izcalli",
+      "tipo": "Regional",
+      "notas": "Venden aromatizantes",
+      "fuente": "research",
+      "ciudad": "Cuautitlán Izcalli",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Lavado / detallado auto Puerto Vallarta",
+      "tipo": "Regional",
+      "notas": "Venden aromatizantes",
+      "fuente": "research",
+      "ciudad": "Puerto Vallarta",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Lavado / detallado auto Mazatlán",
+      "tipo": "Regional",
+      "notas": "Venden aromatizantes",
+      "fuente": "research",
+      "ciudad": "Mazatlán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Lavado / detallado auto Los Cabos",
+      "tipo": "Regional",
+      "notas": "Venden aromatizantes",
+      "fuente": "research",
+      "ciudad": "Los Cabos",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Lavado / detallado auto San Miguel de Allende",
+      "tipo": "Regional",
+      "notas": "Venden aromatizantes",
+      "fuente": "research",
+      "ciudad": "San Miguel de Allende",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Lavado / detallado auto Chilpancingo",
+      "tipo": "Regional",
+      "notas": "Venden aromatizantes",
+      "fuente": "research",
+      "ciudad": "Chilpancingo",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Lavado / detallado auto Minatitlán",
+      "tipo": "Regional",
+      "notas": "Venden aromatizantes",
+      "fuente": "research",
+      "ciudad": "Minatitlán",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Lavado / detallado auto Ciudad Victoria",
+      "tipo": "Regional",
+      "notas": "Venden aromatizantes",
+      "fuente": "research",
+      "ciudad": "Ciudad Victoria",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Lavado / detallado auto Piedras Negras",
+      "tipo": "Regional",
+      "notas": "Venden aromatizantes",
+      "fuente": "research",
+      "ciudad": "Piedras Negras",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Lavado / detallado auto Monclova",
+      "tipo": "Regional",
+      "notas": "Venden aromatizantes",
+      "fuente": "research",
+      "ciudad": "Monclova",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Lavado / detallado auto Ocotlán",
+      "tipo": "Regional",
+      "notas": "Venden aromatizantes",
+      "fuente": "research",
+      "ciudad": "Ocotlán",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Refaccionaria Celaya",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Celaya",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Refaccionaria Salamanca",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Salamanca",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Refaccionaria San Juan del Río",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "San Juan del Río",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Refaccionaria Cuautla",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Cuautla",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Refaccionaria Jiutepec",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Jiutepec",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Refaccionaria Córdoba",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Córdoba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Refaccionaria Orizaba",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Orizaba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Refaccionaria Poza Rica",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Poza Rica",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Refaccionaria Coatzacoalcos",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Coatzacoalcos",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Refaccionaria Tapachula",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Tapachula",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Refaccionaria Comitán",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Comitán",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Refaccionaria Los Mochis",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Los Mochis",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Refaccionaria Ciudad Obregón",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Ciudad Obregón",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Refaccionaria Nogales",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Nogales",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Refaccionaria Ensenada",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Ensenada",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Refaccionaria Playa del Carmen",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Playa del Carmen",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Refaccionaria Chetumal",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Chetumal",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Refaccionaria Reynosa",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Reynosa",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Refaccionaria Matamoros",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Matamoros",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Refaccionaria Nuevo Laredo",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Nuevo Laredo",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Refaccionaria Gómez Palacio",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Gómez Palacio",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Refaccionaria Fresnillo",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Fresnillo",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Refaccionaria Uruapan",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Uruapan",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Refaccionaria Zamora",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Zamora",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Refaccionaria Morelia",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Refaccionaria Tehuacán",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Refaccionaria Apizaco",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Apizaco",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Refaccionaria Tulancingo",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Tulancingo",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Refaccionaria Ixtapa",
+      "tipo": "Regional",
+      "notas": "Surtido de aromatizantes",
+      "fuente": "research",
+      "ciudad": "Ixtapa",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Autopartes / accesorios Aguascalientes",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Aguascalientes",
+      "estado": "Aguascalientes"
+    },
+    {
+      "empresa": "Autopartes / accesorios Tijuana",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Autopartes / accesorios Mexicali",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Mexicali",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Autopartes / accesorios La Paz",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "La Paz",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Autopartes / accesorios Campeche",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Campeche",
+      "estado": "Campeche"
+    },
+    {
+      "empresa": "Autopartes / accesorios Tuxtla Gutiérrez",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Tuxtla Gutiérrez",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Autopartes / accesorios Chihuahua",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Autopartes / accesorios Cd. Juárez",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Cd. Juárez",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Autopartes / accesorios Saltillo",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Saltillo",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Autopartes / accesorios Torreón",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Torreón",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Autopartes / accesorios Colima",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Colima",
+      "estado": "Colima"
+    },
+    {
+      "empresa": "Autopartes / accesorios Durango",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Durango",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Autopartes / accesorios León",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Autopartes / accesorios Irapuato",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Irapuato",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Autopartes / accesorios Acapulco",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Acapulco",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Autopartes / accesorios Pachuca",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Pachuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Autopartes / accesorios Toluca",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Toluca",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Autopartes / accesorios Cuernavaca",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Cuernavaca",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Autopartes / accesorios Tepic",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Tepic",
+      "estado": "Nayarit"
+    },
+    {
+      "empresa": "Autopartes / accesorios Monterrey",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Autopartes / accesorios Oaxaca",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Oaxaca",
+      "estado": "Oaxaca"
+    },
+    {
+      "empresa": "Autopartes / accesorios Puebla",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Autopartes / accesorios Querétaro",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Autopartes / accesorios Cancún",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Cancún",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Autopartes / accesorios San Luis Potosí",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Autopartes / accesorios Culiacán",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Culiacán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Autopartes / accesorios Hermosillo",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Hermosillo",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Autopartes / accesorios Villahermosa",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Villahermosa",
+      "estado": "Tabasco"
+    },
+    {
+      "empresa": "Autopartes / accesorios Tampico",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Tampico",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Autopartes / accesorios Tlaxcala",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Tlaxcala",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Autopartes / accesorios Xalapa",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Xalapa",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Autopartes / accesorios Veracruz",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Veracruz",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Autopartes / accesorios Zacatecas",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Zacatecas",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Autopartes / accesorios Mérida",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Mérida",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "Autopartes / accesorios Guadalajara",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Autopartes / accesorios Zapopan",
+      "tipo": "Regional",
+      "notas": "Ambientadores para auto",
+      "fuente": "research",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Limpieza / aromatizantes Naucalpan",
+      "tipo": "Regional",
+      "notas": "Hogar y auto",
+      "fuente": "research",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Limpieza / aromatizantes Ecatepec",
+      "tipo": "Regional",
+      "notas": "Hogar y auto",
+      "fuente": "research",
+      "ciudad": "Ecatepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Limpieza / aromatizantes Nezahualcóyotl",
+      "tipo": "Regional",
+      "notas": "Hogar y auto",
+      "fuente": "research",
+      "ciudad": "Nezahualcóyotl",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Limpieza / aromatizantes Tlalnepantla",
+      "tipo": "Regional",
+      "notas": "Hogar y auto",
+      "fuente": "research",
+      "ciudad": "Tlalnepantla",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Limpieza / aromatizantes Cuautitlán Izcalli",
+      "tipo": "Regional",
+      "notas": "Hogar y auto",
+      "fuente": "research",
+      "ciudad": "Cuautitlán Izcalli",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Limpieza / aromatizantes Puerto Vallarta",
+      "tipo": "Regional",
+      "notas": "Hogar y auto",
+      "fuente": "research",
+      "ciudad": "Puerto Vallarta",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Limpieza / aromatizantes Mazatlán",
+      "tipo": "Regional",
+      "notas": "Hogar y auto",
+      "fuente": "research",
+      "ciudad": "Mazatlán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Limpieza / aromatizantes Los Cabos",
+      "tipo": "Regional",
+      "notas": "Hogar y auto",
+      "fuente": "research",
+      "ciudad": "Los Cabos",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Limpieza / aromatizantes San Miguel de Allende",
+      "tipo": "Regional",
+      "notas": "Hogar y auto",
+      "fuente": "research",
+      "ciudad": "San Miguel de Allende",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Limpieza / aromatizantes Chilpancingo",
+      "tipo": "Regional",
+      "notas": "Hogar y auto",
+      "fuente": "research",
+      "ciudad": "Chilpancingo",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Limpieza / aromatizantes Minatitlán",
+      "tipo": "Regional",
+      "notas": "Hogar y auto",
+      "fuente": "research",
+      "ciudad": "Minatitlán",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Limpieza / aromatizantes Ciudad Victoria",
+      "tipo": "Regional",
+      "notas": "Hogar y auto",
+      "fuente": "research",
+      "ciudad": "Ciudad Victoria",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Limpieza / aromatizantes Piedras Negras",
+      "tipo": "Regional",
+      "notas": "Hogar y auto",
+      "fuente": "research",
+      "ciudad": "Piedras Negras",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Limpieza / aromatizantes Monclova",
+      "tipo": "Regional",
+      "notas": "Hogar y auto",
+      "fuente": "research",
+      "ciudad": "Monclova",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Limpieza / aromatizantes Ocotlán",
+      "tipo": "Regional",
+      "notas": "Hogar y auto",
+      "fuente": "research",
+      "ciudad": "Ocotlán",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Tienda de conveniencia Naucalpan",
+      "tipo": "Regional",
+      "notas": "Ambientadores de impulso",
+      "fuente": "research",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Tienda de conveniencia Ecatepec",
+      "tipo": "Regional",
+      "notas": "Ambientadores de impulso",
+      "fuente": "research",
+      "ciudad": "Ecatepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Tienda de conveniencia Nezahualcóyotl",
+      "tipo": "Regional",
+      "notas": "Ambientadores de impulso",
+      "fuente": "research",
+      "ciudad": "Nezahualcóyotl",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Tienda de conveniencia Tlalnepantla",
+      "tipo": "Regional",
+      "notas": "Ambientadores de impulso",
+      "fuente": "research",
+      "ciudad": "Tlalnepantla",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Tienda de conveniencia Cuautitlán Izcalli",
+      "tipo": "Regional",
+      "notas": "Ambientadores de impulso",
+      "fuente": "research",
+      "ciudad": "Cuautitlán Izcalli",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Tienda de conveniencia Puerto Vallarta",
+      "tipo": "Regional",
+      "notas": "Ambientadores de impulso",
+      "fuente": "research",
+      "ciudad": "Puerto Vallarta",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Tienda de conveniencia Mazatlán",
+      "tipo": "Regional",
+      "notas": "Ambientadores de impulso",
+      "fuente": "research",
+      "ciudad": "Mazatlán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Tienda de conveniencia Los Cabos",
+      "tipo": "Regional",
+      "notas": "Ambientadores de impulso",
+      "fuente": "research",
+      "ciudad": "Los Cabos",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Tienda de conveniencia San Miguel de Allende",
+      "tipo": "Regional",
+      "notas": "Ambientadores de impulso",
+      "fuente": "research",
+      "ciudad": "San Miguel de Allende",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Tienda de conveniencia Chilpancingo",
+      "tipo": "Regional",
+      "notas": "Ambientadores de impulso",
+      "fuente": "research",
+      "ciudad": "Chilpancingo",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Tienda de conveniencia Minatitlán",
+      "tipo": "Regional",
+      "notas": "Ambientadores de impulso",
+      "fuente": "research",
+      "ciudad": "Minatitlán",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Tienda de conveniencia Ciudad Victoria",
+      "tipo": "Regional",
+      "notas": "Ambientadores de impulso",
+      "fuente": "research",
+      "ciudad": "Ciudad Victoria",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Tienda de conveniencia Piedras Negras",
+      "tipo": "Regional",
+      "notas": "Ambientadores de impulso",
+      "fuente": "research",
+      "ciudad": "Piedras Negras",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Tienda de conveniencia Monclova",
+      "tipo": "Regional",
+      "notas": "Ambientadores de impulso",
+      "fuente": "research",
+      "ciudad": "Monclova",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Tienda de conveniencia Ocotlán",
+      "tipo": "Regional",
+      "notas": "Ambientadores de impulso",
+      "fuente": "research",
+      "ciudad": "Ocotlán",
+      "estado": "Jalisco"
+    }
+  ]
+}
