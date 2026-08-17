@@ -735,7 +735,35 @@ lotes:
       - persianas cortinas a medida CDMX Guadalajara Monterrey
       - fábrica cortinas enrollables México
 
-# Plantilla para lotes futuros (47+)
+  "47":
+    slug: juguetes_sensoriales_mayoreo
+    giro: Juguetes
+    nicho: Juguetes sensoriales mayoreo
+    ejemplo: https://www.mayoreodidactico.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/47_juguetes_sensoriales_mayoreo.json
+    search_queries:
+      - juguetes didácticos mayoreo México distribuidor .mx
+      - fidget toys mayoreo México pop it squishy
+      - juguetes educativos por mayoreo fábrica México
+
+  "48":
+    slug: botellas_tapas_personalizados
+    giro: Proveedores
+    nicho: Botellas y tapas personalizados
+    ejemplo: https://escowill.com/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/48_botellas_tapas_personalizados.json
+    search_queries:
+      - botellas PET mayoreo México fábrica tapas
+      - termos tazas personalizados mayoreo México
+      - envases personalizados fábrica México
+
+# Plantilla para lotes futuros (49+)
 # Copiar bloque y llenar sources + seeds
 template_lote:
   slug: ""

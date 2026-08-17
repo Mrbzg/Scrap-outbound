@@ -116,6 +116,8 @@ leads/por_nicho/{ID}_{slug}.csv|.json|.md
 | 44 | Productos para el cabello (keratina, cremas, ampolletas) | `44_productos_cabello_keratina.*` |
 | 45 | Extensiones de pelo para salón | `45_extensiones_de_pelo.*` |
 | 46 | Cortinas | `46_cortinas.*` |
+| 47 | Juguetes sensoriales mayoreo | `47_juguetes_sensoriales_mayoreo.*` |
+| 48 | Botellas y tapas personalizados | `48_botellas_tapas_personalizados.*` |
 
 Catálogo: `leads/nichos.json` (58 nichos).
 
