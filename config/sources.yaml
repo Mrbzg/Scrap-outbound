@@ -427,7 +427,35 @@ lotes:
       - mercería hilos Centro CDMX Mesones
       - hilo macramé tienda .mx
 
-# Plantilla para lotes futuros (25+)
+  "25":
+    slug: bolsas_de_regalo
+    giro: Papeleria
+    nicho: Bolsas de regalo
+    ejemplo: https://creear.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/25_bolsas_de_regalo.json
+    search_queries:
+      - bolsas de regalo mayoreo México kraft
+      - fábrica bolsas papel personalizadas .mx
+      - envolturas moños papelería Centro CDMX
+
+  "26":
+    slug: tenis_botas_playeras
+    giro: Ropa y calzado
+    nicho: Tenis, botas, playeras
+    ejemplo: https://mikyshop.com.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/26_tenis_botas_playeras.json
+    search_queries:
+      - tenis mayoreo León San Francisco del Rincón
+      - playeras algodón mayoreo México .mx
+      - calzado Andy botas fábrica Guanajuato
+
+# Plantilla para lotes futuros (27+)
 # Copiar bloque y llenar sources + seeds
 template_lote:
   slug: ""

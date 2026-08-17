@@ -94,6 +94,8 @@ leads/por_nicho/{ID}_{slug}.csv|.json|.md
 | 22 | Tarot, lociones y velas esotéricas | `22_tarot_velas_esotericas.*` |
 | 23 | Shampoo artesanal / con tinte | `23_shampoo_artesanal_tinte.*` |
 | 24 | Hilos y estambre | `24_hilos_y_estambre.*` |
+| 25 | Bolsas de regalo | `25_bolsas_de_regalo.*` |
+| 26 | Tenis, botas y playeras | `26_tenis_botas_playeras.*` |
 
 Catálogo: `leads/nichos.json` (58 nichos).
 

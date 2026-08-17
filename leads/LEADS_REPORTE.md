@@ -499,9 +499,16 @@ Lote 15 exportado: `leads/por_nicho/15_insumos_para_tatuar.*` — **254 leads** 
 
 ### Papelería — Bolsas de regalo
 
+Lote 25 exportado: `leads/por_nicho/25_bolsas_de_regalo.*` — **202 leads** (53 Alta · 38 email · 54 teléfono).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| Creear (ejemplo) | https://creear.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
+| BolsaDeRegalo / Cachito Mío | https://bolsaderegalo.com/ | Mayoreo | **Alta** | Centro CDMX, hola@bolsaderegalo.com |
+| BK Bolsas | https://bolsasbk.com.mx/ | Fabricante | **Alta** | Naucalpan, ventas@bolsasbk.com.mx |
+| CORPER | https://corper.mx/ | Fabricante | **Alta** | ventas@corper.mx · 5544568805 |
+| Packsys | https://packsys.com/ | Mayoreo | **Alta** | Tepotzotlán, info@packsys.com |
+| Entelequia | https://desechablesbiodegradables.com/collections/bolsas-papel-kraft | Mayoreo | **Media** | Kraft alimentos |
+| Creear (ejemplo) | https://creear.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente — 5549491671 |
 
 ### Papelería — Invitaciones físicas
 
@@ -586,8 +593,16 @@ Lote 11 exportado: `leads/por_nicho/11_trajes_tipicos.*` — **296 leads** (27 A
 
 ### Ropa y calzado — Tenis, botas, playeras
 
+Lote 26 exportado: `leads/por_nicho/26_tenis_botas_playeras.*` — **202 leads** (33 Alta · 12 email · 42 teléfono).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
+| Tenis Mayoreo | https://tenismayoreo.com/ | Mayoreo | **Alta** | San Francisco del Rincón, 4761900834 |
+| Mayoreo de Tenis | https://www.mayoreodetenis.com.mx/ | Mayoreo | **Alta** | contacto@mayoreodetenis.com.mx |
+| Calzado Andy | https://calzadoandymexmayoreo.com/ | Fabricante | **Alta** | León, calzado.andy12331@gmail.com |
+| Mayoreo Tenis MTY | https://www.facebook.com/MayoreoTenisMTY/ | Mayoreo | **Alta** | shoesf56@gmail.com · 8115148837 |
+| Mi Tennis | https://www.mitennis.mx/ | Retail | **Alta** | Interlomas, 5594629696 |
+| Mistertennis | https://www.mistertennis.shop/ | Retail | **Alta** | Puebla, contacto@mtsport.com.mx |
 | Miky Shop (ejemplo) | https://mikyshop.com.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
 
 ### Salud — Colágeno hidrolizado
@@ -657,7 +672,6 @@ Estos nichos quedaron cortos en hallazgos frescos (solo ejemplo o 1 lead). Convi
 - **Juguetes / Juguetes mayoreo** (1 leads nuevos)
 - **Libros / Libros de colección** (1 leads nuevos)
 - **MedTech / Suministros médicos/farmacéuticos** (1 leads nuevos)
-- **Papelería / Bolsas de regalo** (0 leads nuevos)
 - **Papelería / Mochilas y útiles escolares** (1 leads nuevos)
 - **Ropa / Disfraces** (1 leads nuevos)
 
