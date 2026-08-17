@@ -75,6 +75,9 @@ leads/por_nicho/{ID}_{slug}.csv|.json|.md
 | 03 | Frutos secos | `03_frutos_secos.*` |
 | 04 | Cartas coleccionables / TCG | `04_cartas_coleccionables.*` |
 | 05 | Botanas y snacks mexicanos | `05_botanas_snacks.*` |
+| 06 | Maquillaje artístico / FX | `06_maquillaje_artistico.*` |
+| 07 | Disfraces | `07_disfraces.*` |
+| 08 | Cestas de regalo / arcones | `08_cestas_de_regalo.*` |
 
 Catálogo: `leads/nichos.json` (58 nichos).
 

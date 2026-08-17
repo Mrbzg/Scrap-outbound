@@ -156,7 +156,49 @@ lotes:
       - churritos totopos snacks mexicanos tienda .mx
       - distribuidor botanas frituras México
 
-# Plantilla para lotes futuros (06+)
+  "06":
+    slug: maquillaje_artistico
+    giro: Belleza
+    nicho: Maquillaje artistico
+    ejemplo: https://colibrix.com.mx/productos/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/06_maquillaje_artistico.json
+    search_queries:
+      - maquillaje artístico body paint México tienda
+      - Kryolan Mehron caracterización FX México
+      - face paint pinta caritas mayoreo CDMX
+
+  "07":
+    slug: disfraces
+    giro: Ropa
+    nicho: Disfraces
+    ejemplo: https://mykidsmx.com/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/07_disfraces.json
+    search_queries:
+      - fábrica disfraces México mayoreo
+      - tienda disfraces Halloween CDMX Guadalajara Monterrey
+      - renta disfraces México .mx
+
+  "08":
+    slug: cestas_de_regalo
+    giro: Regalos
+    nicho: Cestas de regalo
+    ejemplo: https://www.regalosycanastas.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/08_cestas_de_regalo.json
+    search_queries:
+      - arcones canastas navideñas mayoreo México
+      - regalos corporativos gourmet .mx
+      - fábrica canastas empresariales México
+
+# Plantilla para lotes futuros (09+)
 # Copiar bloque y llenar sources + seeds
 template_lote:
   slug: ""

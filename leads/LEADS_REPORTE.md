@@ -200,10 +200,15 @@ Lote 05 exportado: `leads/por_nicho/05_botanas_snacks.*` — **111 leads** (76 A
 
 ### Belleza — Maquillaje artístico
 
+Lote 06 exportado: `leads/por_nicho/06_maquillaje_artistico.*` — **127 leads** (55 Alta).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| MEGA Body Paint México | https://www.facebook.com/MegaBodyPaintMx/ | Servicio + producto | **Media** | Body paint y maquillaje artístico |
-| Don Checo Art | https://www.donchecoart.com/bodypaint | Servicio profesional | **Media** | Body paint eventos masivos MX |
+| Artist City | https://www.artistcity.com.mx/ | Tienda profesional | **Alta** | Distribuidor Kryolan, Roma Norte |
+| The Makeup Center | https://themakeupcenter.com/ | Academia + tienda | **Alta** | ventas@themakeupc.com |
+| Bond's Boutique | https://www.bondsboutique.com.mx/ | Tienda artística | **Alta** | Body paint, Mehron, face paint |
+| Bodyart Productos |  | Marca body paint | **Alta** | bodyartproductos@gmail.com |
+| Helios Body Paint | https://helios-body-paint.ueniweb.com/ | Estudio + producto | **Alta** | FX, carnaval, catrinas |
 | Colibrix (ejemplo) | https://colibrix.com.mx/productos/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
 
 ### Belleza — Pelucas de colores
@@ -480,9 +485,15 @@ Lote 05 exportado: `leads/por_nicho/05_botanas_snacks.*` — **111 leads** (76 A
 
 ### Ropa — Disfraces
 
+Lote 07 exportado: `leads/por_nicho/07_disfraces.*` — **126 leads** (43 Alta).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| Mercado Libre sellers MX | https://listado.mercadolibre.com.mx/disfraces | Marketplace | **Media** | Muchos vendedores MX de disfraces; scrapear tiendas oficiales |
+| La Festa Disfraces | https://lafestadisfraces.com/ | Fabricante/tienda | **Alta** | Mayoreo infantil CDMX |
+| Disfraces Mancera | https://disfracesmancera.com.mx/ | Mayoreo | **Alta** | Col. del Valle |
+| El Famundi | https://www.elfamundi.com.mx/ | Fabricante | **Alta** | +30 años, Merced |
+| Disfraces DePeli | https://disfracesdepeli.com/ | Multi-sucursal | **Alta** | Pedregal / Polanco |
+| Ghoulish Productions | https://ghoulishproductions.com.mx/ | Fabricante máscaras | **Alta** | Morelos |
 | My Kids MX (ejemplo) | https://mykidsmx.com/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
 
 ### Ropa — Trajes típicos
