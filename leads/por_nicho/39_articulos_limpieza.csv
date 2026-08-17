@@ -1,0 +1,25 @@
+giro,nicho,empresa,url,email,telefono,ciudad,estado,pais,tipo,prioridad,score_contacto,notas,fuente
+Hogar,Articulos de limpieza,Codelmex,https://www.codelmex.mx/,ventas@codelmex.mx,5557633898,CDMX,CDMX,México,Distribuidor,Alta,9,60+ años; 600+ artículos de limpieza mayoreo; Topacio 36 Centro,research
+Hogar,Articulos de limpieza,Energy Clean,https://www.energyclean.mx/,ventas@energyclean.mx,8130685708,Monterrey,Nuevo León,México,Fabricante,Alta,9,"Químicos, papel institucional y jarcería; Juventino Rosas 2008",research
+Hogar,Articulos de limpieza,La Avenida,https://laavenida.com.mx/,,8117672929,Monterrey,Nuevo León,México,Fabricante,Alta,6,Químicos de limpieza y desinfección; granel 1L-1000L; Ruiz Cortines 104 Pte,research
+Hogar,Articulos de limpieza,La Avenida Escobedo,https://laavenida.com.mx/,,8114920810,Escobedo,Nuevo León,México,Sucursal,Alta,5,"Calle Sétima 601, Praderas Girasoles",research
+Hogar,Articulos de limpieza,MayoreoTotal,https://www.mayoreototal.net/,mtnotificacion@gmail.com,5560752408,CDMX,CDMX,México,Mayoreo,Alta,9,"Abarrotes y limpieza al mayoreo CDMX; detergentes, cloro, papel",research
+Hogar,Articulos de limpieza,Yanitor,https://www.yanitor.com/,tiendaweb@yanitor.com,8112340500,Monterrey,Nuevo León,México,Fabricante,Alta,9,Limpieza industrial; distribuidor Rubbermaid/Purell/Diversey; Av. Fundidora 501,research
+Hogar,Articulos de limpieza,3M México,https://www.3m.com.mx/,,,CDMX,CDMX,México,Marca,Media,4,"Scotch-Brite, esponjas y limpiadores",brand
+Hogar,Articulos de limpieza,Alcodistribuidora,https://alcodistribuidora.com/,,,,,México,Distribuidor,Media,3,Distribuidor master de El Castor y grandes marcas de limpieza,research
+Hogar,Articulos de limpieza,Amazon MX limpieza,https://www.amazon.com.mx/s?k=articulos+de+limpieza,,,México,México,México,Marketplace,Media,2,Sellers de artículos de limpieza,research
+Hogar,Articulos de limpieza,Articulos de limpieza (ejemplo original),https://es.uline.mx/,,,,,México,Ejemplo original,Media,2,Seed del cliente,ejemplo_cliente
+Hogar,Articulos de limpieza,Cepillos El Castor,https://www.cepilloselcastor.com/,,,Guadalajara,Jalisco,México,Fabricante,Media,4,"70+ años; cepillos, escobas, trapeadores y jaladores profesionales",research
+Hogar,Articulos de limpieza,Clorox México,,,,CDMX,CDMX,México,Marca,Media,2,"Cloro, Pinol y desinfectantes",brand
+Hogar,Articulos de limpieza,Costco México,https://www.costco.com.mx/,,,CDMX,CDMX,México,Retail,Media,3,Limpieza por volumen,brand
+Hogar,Articulos de limpieza,Diversey México,https://diversey.com/es-mx,,,CDMX,CDMX,México,Marca,Media,4,Limpieza institucional e higiene,brand
+Hogar,Articulos de limpieza,Fábrica de Jabón La Corona,https://www.lacorona.com.mx/,,,CDMX,CDMX,México,Marca,Media,4,"Detergente Roma, Foca y jabones",brand
+Hogar,Articulos de limpieza,Grupo Kryss,,,,Aguascalientes,Aguascalientes,México,Fabricante,Media,2,"Escobas, cepillos y jarciería, marca mexicana",brand
+Hogar,Articulos de limpieza,Home Depot México,https://www.homedepot.com.mx/,,,CDMX,CDMX,México,Retail,Media,3,Limpieza y jarciería,brand
+Hogar,Articulos de limpieza,Mercado Libre limpieza,https://listado.mercadolibre.com.mx/articulos-de-limpieza-mayoreo,,,México,México,México,Marketplace,Media,2,Mayoreo de limpieza,research
+Hogar,Articulos de limpieza,P&G México (Ace / Mr. Clean),,,,CDMX,CDMX,México,Marca,Media,2,Detergentes y multiusos,brand
+Hogar,Articulos de limpieza,Purell / GOJO,,,,USA,,México,Marca,Media,2,"Sanitizantes y dispensadores, vía Yanitor",brand
+Hogar,Articulos de limpieza,Rubbermaid Commercial,,,,USA,,México,Marca,Media,2,"Contenedores y jarciería profesional, vía distribuidores MX",brand
+Hogar,Articulos de limpieza,Surtidora de Productos de Limpieza,,,3336532518,Puerto Melaque,Jalisco,México,Mayoreo,Media,4,"Almorol, aromatizantes y brillo a mayoreo; suc. Zapopan 33 3805 6628",research
+Hogar,Articulos de limpieza,Uline México (ejemplo),https://es.uline.mx/,,,CDMX,CDMX,México,Ejemplo original,Media,3,Ejemplo del cliente — artículos de limpieza y empaque,ejemplo_cliente
+Hogar,Articulos de limpieza,Walmart México,https://www.walmart.com.mx/,,,CDMX,CDMX,México,Retail,Media,3,Autoservicio: limpieza de hogar,brand

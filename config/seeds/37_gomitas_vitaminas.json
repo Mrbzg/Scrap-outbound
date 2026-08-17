@@ -1,0 +1,236 @@
+{
+  "lote": "37",
+  "slug": "gomitas_vitaminas",
+  "description": "Gomitas de vitaminas MX",
+  "leads": [
+    {
+      "empresa": "Vital Suplementos MX (ejemplo)",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — gomitas de vitaminas y suplementos",
+      "fuente": "ejemplo_cliente",
+      "url": "https://vitalsuplementosmex.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Gummy Life",
+      "tipo": "D2C",
+      "notas": "Marca mexicana: gomitas biotina, omega 3, magnesio; 150k+ unidades; ML/Amazon/TikTok",
+      "fuente": "research",
+      "url": "https://www.gummylife.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Gummy Life — Gomitas Néurus",
+      "tipo": "Producto",
+      "notas": "Omega 3 + L-Teanina + Complejo B en gomitas",
+      "fuente": "research",
+      "url": "https://www.gummylife.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Gummy Life — Gomitas Zenup",
+      "tipo": "Producto",
+      "notas": "Magnesio + 5-HTP",
+      "fuente": "research",
+      "url": "https://www.gummylife.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "B Life",
+      "tipo": "D2C",
+      "notas": "Suplementos y vitaminas, fuerte en ecom MX",
+      "fuente": "research",
+      "url": "https://www.blife.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Plenlife",
+      "tipo": "Marca",
+      "notas": "Gomitas calcio + Vit D, multivitamínico adulto; venta ML",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Geomed",
+      "tipo": "Distribuidor",
+      "notas": "Distribuye Plenlife en ML (4.9★, 125 reviews)",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Suplefit MX",
+      "tipo": "Distribuidor",
+      "notas": "Vitafusion, gomitas importadas vía ML",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "OK Vitaminas",
+      "tipo": "Distribuidor",
+      "notas": "Nature's Way y gomitas importadas vía ML",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Vitamin World",
+      "tipo": "Retail",
+      "notas": "Natrol melatonina gomitas vía ML",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Belabear",
+      "tipo": "Marca",
+      "notas": "Gomitas multivitamínico women 150 pzs",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "C-Boost",
+      "tipo": "Marca",
+      "notas": "Gomitas multivitamínicas 180 pzs, sabor cítrico",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Heally",
+      "tipo": "Marca",
+      "notas": "Multivitamínico + colágeno gomitas zarzamora",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Vitafusion",
+      "tipo": "Marca",
+      "notas": "Gomitas multivitamínicas y calcio+D3, importado",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Nature's Way",
+      "tipo": "Marca",
+      "notas": "Gomitas crecimiento y altura, importado",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Nature Made",
+      "tipo": "Marca",
+      "notas": "Gomitas omega 3 / magnesio, importado",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Centrum (Pfizer)",
+      "tipo": "Marca",
+      "notas": "Gomitas multivitamínico + omega, importado",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Natrol",
+      "tipo": "Marca",
+      "notas": "Melatonina gomitas, importado",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Nature's Bounty",
+      "tipo": "Marca",
+      "notas": "Gomitas zinc y multivitamínicas, importado",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Nature's Truth",
+      "tipo": "Marca",
+      "notas": "Vitamina D3 gomitas, importado",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Básicos de la casa",
+      "tipo": "Distribuidor",
+      "notas": "Vende Nature Made y Centrum en ML",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Farmacia San Pablo",
+      "tipo": "Retail",
+      "notas": "Cadena de farmacias con vitaminas",
+      "fuente": "brand",
+      "url": "https://farmaciasanpablo.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Farmacias del Ahorro",
+      "tipo": "Retail",
+      "notas": "Vende gomitas y suplementos",
+      "fuente": "brand",
+      "url": "https://www.fahorro.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Farmacias Guadalajara",
+      "tipo": "Retail",
+      "notas": "Cadena con línea de vitaminas",
+      "fuente": "brand",
+      "url": "https://www.farmaciasguadalajara.com.mx/",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Walmart México",
+      "tipo": "Retail",
+      "notas": "Autoservicio con sección de vitaminas",
+      "fuente": "brand",
+      "url": "https://www.walmart.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Costco México",
+      "tipo": "Retail",
+      "notas": "Gomitas por mayoreo (multipack)",
+      "fuente": "brand",
+      "url": "https://www.costco.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Amazon MX gomitas",
+      "tipo": "Marketplace",
+      "notas": "Sellers de gomitas vitamínicas",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=gomitas+de+vitaminas",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mercado Libre gomitas",
+      "tipo": "Marketplace",
+      "notas": "Mayoreo de vitaminas en gomitas",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/vitaminas-de-gomitas-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    }
+  ]
+}

@@ -1,11 +1,9 @@
 # Lote 08 — Regalos / Cestas de regalo
 
 **Slug:** `cestas_de_regalo`  
-**Total leads:** 244  
-**Alta:** 99 · **Media:** 43 · **Baja:** 102  
-**Con email:** 98 · **Con teléfono:** 99 · **Con URL:** 141
-
-Ejemplo original: https://www.regalosycanastas.mx/
+**Total leads:** 198  
+**Alta:** 99 · **Media:** 35 · **Baja:** 64  
+**Con email:** 98 · **Con teléfono:** 99 · **Con URL:** 133
 
 ## Alta prioridad
 
@@ -221,141 +219,95 @@ Ejemplo original: https://www.regalosycanastas.mx/
 | 104 | Canastas artesanales CDMX | https://arconesgourmet.com/ |  |  | CDMX | Media | Artesanal |
 | 105 | Cestas de regalo (ejemplo original) | https://www.regalosycanastas.mx/ |  |  |  | Media | Ejemplo original |
 | 106 | Chedraui Selecto canastas | https://www.chedraui.com.mx/ |  |  | México | Media | Supermercado |
-| 107 | Chedraui Selecto extra | https://www.chedraui.com.mx/ |  |  | México | Media | Súper |
-| 108 | Chocolate Mayordomo gift | https://www.mayordomo.com.mx/ |  |  | Oaxaca | Media | Chocolate + gift |
-| 109 | Chocolates Turin regalos | https://www.turin.com.mx/ |  |  | CDMX | Media | Chocolate + gift |
-| 110 | Costco canastas / gourmet | https://www.costco.com.mx/ |  |  | México | Media | Club de precio |
-| 111 | Costco gourmet extra | https://www.costco.com.mx/ |  |  | México | Media | Club |
-| 112 | Despensas El Fresno / canastas | https://elfresnoexpress.com/ |  |  | EdoMex | Media | Despensas + canastas |
-| 113 | Despensas navideñas El Fresno | https://elfresnoexpress.com/ |  |  | EdoMex | Media | Despensas |
-| 114 | El Palacio de Hierro gift baskets | https://www.elpalaciodehierro.com/ |  |  | CDMX | Media | Retail premium |
-| 115 | Enviaflores regalos | https://www.enviaflores.com/ |  |  | México | Media | Ecom regalos |
-| 116 | HEB canastas extra | https://www.heb.com.mx/ |  |  | Monterrey | Media | Súper |
-| 117 | HEB canastas norte | https://www.heb.com.mx/ |  |  | Monterrey | Media | Supermercado |
-| 118 | La Castellana canastas | https://www.lacastellana.com/ |  |  | CDMX | Media | Vinoteca |
-| 119 | La Comer / City Market gourmet baskets | https://www.lacomer.com.mx/ |  |  | CDMX | Media | Supermercado premium |
-| 120 | La Comer City Market extra | https://www.lacomer.com.mx/ |  |  | CDMX | Media | Súper premium |
-| 121 | La Europea canastas / vinos | https://www.laeuropea.com.mx/ |  |  | CDMX | Media | Vinoteca + regalos |
-| 122 | La Naval gourmet / vinos | https://www.lanaval.com.mx/ |  |  | CDMX | Media | Gourmet |
-| 123 | Liverpool arcones / canastas | https://www.liverpool.com.mx/ |  |  | CDMX | Media | Retail departamental |
-| 124 | Liverpool canastas navideñas | https://www.liverpool.com.mx/ |  |  | CDMX | Media | Retail |
-| 125 | María Orsini | https://mariaorsini.com.mx/ |  |  | CDMX | Media | Premium |
-| 126 | María Orsini extra legado | https://mariaorsini.com.mx/ |  |  | CDMX | Media | Premium |
-| 127 | María Orsini premium legado | https://mariaorsini.com.mx/ |  |  | CDMX | Media | Premium legado |
-| 128 | Nestlé gift boxes MX | https://www.nestle.com.mx/ |  |  | México | Media | Corporativo |
-| 129 | Office Depot regalos corporativos | https://www.officedepot.com.mx/ |  |  | México | Media | B2B office |
-| 130 | Palacio de Hierro canastas | https://www.elpalaciodehierro.com/ |  |  | CDMX | Media | Retail premium |
-| 131 | Regalos y Canastas | https://www.regalosycanastas.mx/ |  |  | CDMX | Media | Ejemplo original |
-| 132 | Regalos y Canastas ejemplo cliente | https://www.regalosycanastas.mx/ |  |  | CDMX | Media | Referencia |
-| 133 | Regalos y Canastas extra ejemplo | https://www.regalosycanastas.mx/ |  |  | CDMX | Media | Referencia |
-| 134 | Sam's Club arcones | https://www.sams.com.mx/ |  |  | México | Media | Club de precio |
-| 135 | Sam's Club arcones extra | https://www.sams.com.mx/ |  |  | México | Media | Club |
-| 136 | Sanborns gift extra | https://www.sanborns.com.mx/ |  |  | CDMX | Media | Retail |
-| 137 | Soriana canastas | https://www.soriana.com/ |  |  | México | Media | Retail |
-| 138 | Soriana canastas extra | https://www.soriana.com/ |  |  | México | Media | Súper |
-| 139 | Uline empaque para arcones | https://es.uline.mx/ |  |  | México | Media | Insumos empaque |
-| 140 | Vinoteca regalos gourmet | https://www.vinoteca.com/ |  |  | CDMX | Media | Vinoteca |
-| 141 | Walmart arcones extra | https://www.walmart.com.mx/ |  |  | México | Media | Retail |
-| 142 | Walmart arcones navidad | https://www.walmart.com.mx/ |  |  | México | Media | Retail |
-| 143 | 4Promotional MX |  |  |  | México | Baja | Promocionales |
-| 144 | Alianza / catálogo arcones |  |  |  | México | Baja | Canal |
-| 145 | Arcones de madera fabricantes |  |  |  | México | Baja | Insumos empaque |
-| 146 | Arcones La Gourmet |  |  |  | México | Baja | Marca / línea |
-| 147 | Boutique regalos Altacia León |  |  |  | León | Baja | Boutique |
-| 148 | Boutique regalos Andares / Zapopan |  |  |  | Zapopan | Baja | Boutique |
-| 149 | Boutique regalos Angelópolis Puebla |  |  |  | Puebla | Baja | Boutique |
-| 150 | Boutique regalos Antea Qro |  |  |  | Querétaro | Baja | Boutique |
-| 151 | Boutique regalos Condesa / Roma |  |  |  | CDMX | Baja | Boutique |
-| 152 | Boutique regalos Coyoacán |  |  |  | CDMX | Baja | Boutique |
-| 153 | Boutique regalos Interlomas |  |  |  | Huixquilucan | Baja | Boutique |
-| 154 | Boutique regalos Polanco extra |  |  |  | CDMX | Baja | Boutique |
-| 155 | Boutique regalos Providencia GDL |  |  |  | Guadalajara | Baja | Boutique |
-| 156 | Boutique regalos San Pedro extra |  |  |  | San Pedro | Baja | Boutique |
-| 157 | Boutique regalos San Ángel |  |  |  | CDMX | Baja | Boutique |
-| 158 | Boutique regalos Santa Fe |  |  |  | CDMX | Baja | Boutique |
-| 159 | Boutique regalos Satélite extra |  |  |  | Naucalpan | Baja | Boutique |
-| 160 | Boutique regalos Valle / Del Valle |  |  |  | CDMX | Baja | Boutique |
-| 161 | Boutique regalos Valle Oriente |  |  |  | San Pedro | Baja | Boutique |
-| 162 | Cacep chocolate gift |  |  |  | Tabasco | Baja | Chocolate origen |
-| 163 | Canastas Aguascalientes |  |  |  | Aguascalientes | Baja | Boutique regional |
-| 164 | Canastas baby / nacimiento |  |  |  | CDMX | Baja | Ocasión |
-| 165 | Canastas Celaya |  |  |  | Celaya | Baja | Boutique regional |
-| 166 | Canastas Chiapas café/chocolate |  |  |  | Tuxtla Gutiérrez | Baja | Boutique regional |
-| 167 | Canastas Cuernavaca |  |  |  | Cuernavaca | Baja | Boutique regional |
-| 168 | Canastas Culiacán boutique |  |  |  | Culiacán | Baja | Boutique regional |
-| 169 | Canastas de boda / recuerdos |  |  |  | CDMX | Baja | Ocasión |
-| 170 | Canastas de café Chiapas |  |  |  | Tuxtla Gutiérrez | Baja | Origen |
-| 171 | Canastas de café especialidad |  |  |  | CDMX | Baja | Café gift |
-| 172 | Canastas de café Oaxaca |  |  |  | Oaxaca | Baja | Origen |
-| 173 | Canastas de café Veracruz |  |  |  | Xalapa | Baja | Origen |
-| 174 | Canastas de cajeta Celaya |  |  |  | Celaya | Baja | Gourmet regional |
-| 175 | Canastas de carrizo mayoreo |  |  |  | CDMX | Baja | Insumos |
-| 176 | Canastas de chile / salsas Yucatán |  |  |  | Mérida | Baja | Gourmet regional |
-| 177 | Canastas de datil / dátil norte |  |  |  | México | Baja | Gourmet |
-| 178 | Canastas de galletas artesanales |  |  |  | CDMX | Baja | Repostería gift |
-| 179 | Canastas de miel y artesanal MX |  |  |  | México | Baja | Artesanal |
-| 180 | Canastas de mimbre La Merced |  |  |  | CDMX | Baja | Insumos / armado |
-| 181 | Canastas de mole / salsas Oaxaca |  |  |  | Oaxaca | Baja | Gourmet regional |
-| 182 | Canastas de nuez Chihuahua |  |  |  | Chihuahua | Baja | Origen |
-| 183 | Canastas de queso y vino independientes |  |  |  | CDMX | Baja | Gourmet |
-| 184 | Canastas de rompope / ponche |  |  |  | México | Baja | Temporada |
-| 185 | Canastas de té e infusiones |  |  |  | CDMX | Baja | Gourmet |
-| 186 | Canastas día del padre / madre |  |  |  | CDMX | Baja | Ocasión |
-| 187 | Canastas empresariales Cancún boutique |  |  |  | Cancún | Baja | Boutique hotelera |
-| 188 | Canastas empresariales GDL boutique |  |  |  | Guadalajara | Baja | Boutique regional |
-| 189 | Canastas empresariales León boutique |  |  |  | León | Baja | Boutique regional |
-| 190 | Canastas empresariales MTY boutique |  |  |  | Monterrey | Baja | Boutique regional |
-| 191 | Canastas empresariales Mérida boutique |  |  |  | Mérida | Baja | Boutique regional |
-| 192 | Canastas empresariales Puebla boutique |  |  |  | Puebla | Baja | Boutique regional |
-| 193 | Canastas empresariales Qro boutique |  |  |  | Querétaro | Baja | Boutique regional |
-| 194 | Canastas empresariales Tijuana boutique |  |  |  | Tijuana | Baja | Boutique fronteriza |
-| 195 | Canastas graduación |  |  |  | CDMX | Baja | Ocasión |
-| 196 | Canastas Hermosillo |  |  |  | Hermosillo | Baja | Boutique regional |
-| 197 | Canastas Lomas |  |  |  | CDMX | Baja | Zona premium |
-| 198 | Canastas Oaxaca gourmet |  |  |  | Oaxaca | Baja | Boutique regional |
-| 199 | Canastas posadas |  |  |  | CDMX | Baja | Temporada |
-| 200 | Canastas Reyes Magos |  |  |  | CDMX | Baja | Temporada |
-| 201 | Canastas San Valentín gourmet |  |  |  | CDMX | Baja | Ocasión |
-| 202 | Canastas Toluca |  |  |  | Toluca | Baja | Boutique regional |
-| 203 | Canastas Yucatán gourmet |  |  |  | Mérida | Baja | Boutique regional |
-| 204 | Cavas CDMX estuches |  |  |  | CDMX | Baja | Vinos |
-| 205 | Despensas empresariales GDL |  |  |  | Guadalajara | Baja | Despensas |
-| 206 | Despensas empresariales León |  |  |  | León | Baja | Despensas |
-| 207 | Despensas empresariales MTY |  |  |  | Monterrey | Baja | Despensas |
-| 208 | Despensas empresariales Puebla |  |  |  | Puebla | Baja | Despensas |
-| 209 | Despensas empresariales Qro |  |  |  | Querétaro | Baja | Despensas |
-| 210 | Despensas navideñas corporativas |  |  |  | CDMX | Baja | Despensas |
-| 211 | Fabricantes de arcones madera extra |  |  |  | México | Baja | Insumo |
-| 212 | Fabricantes de mimbre CDMX extra |  |  |  | CDMX | Baja | Insumo |
-| 213 | Florerías con canastas Cancún |  |  |  | Cancún | Baja | Florería + gift |
-| 214 | Florerías con canastas CDMX |  |  |  | CDMX | Baja | Florería + gift |
-| 215 | Florerías con canastas GDL |  |  |  | Guadalajara | Baja | Florería + gift |
-| 216 | Florerías con canastas León |  |  |  | León | Baja | Florería + gift |
-| 217 | Florerías con canastas MTY |  |  |  | Monterrey | Baja | Florería + gift |
-| 218 | Florerías con canastas Mérida |  |  |  | Mérida | Baja | Florería + gift |
-| 219 | Florerías con canastas Puebla |  |  |  | Puebla | Baja | Florería + gift |
-| 220 | Florerías con canastas Qro |  |  |  | Querétaro | Baja | Florería + gift |
-| 221 | Florerías con canastas Tijuana |  |  |  | Tijuana | Baja | Florería + gift |
-| 222 | Godiva México gift |  |  |  | CDMX | Baja | Chocolate premium |
-| 223 | Hotel amenities gift Cancún |  |  |  | Cancún | Baja | Hotel gift |
-| 224 | Hotel amenities gift Los Cabos |  |  |  | Los Cabos | Baja | Hotel gift |
-| 225 | Hotel amenities gift Puerto Vallarta |  |  |  | Puerto Vallarta | Baja | Hotel gift |
-| 226 | Imprentas tarjetas dedicadas extra |  |  |  | CDMX | Baja | Insumo |
-| 227 | iShop / Mixup gift extra |  |  |  | CDMX | Baja | Retail |
-| 228 | Ki'Xocolatl canastas |  |  |  | Mérida | Baja | Chocolate gourmet |
-| 229 | Logística última milla regalos extra |  |  |  | CDMX | Baja | 3PL |
-| 230 | Mezcalerías Oaxaca gift |  |  |  | Oaxaca | Baja | Destilados |
-| 231 | Moños y emplayado arcones |  |  |  | CDMX | Baja | Insumos packing |
-| 232 | Moños y listón mayoreo extra |  |  |  | CDMX | Baja | Insumo packing |
-| 233 | Paquetería corporativa arcones extra |  |  |  | México | Baja | 3PL |
-| 234 | PromoOpción regalos corporativos |  |  |  | México | Baja | Promocionales |
-| 235 | Queserías CDMX gift boxes |  |  |  | CDMX | Baja | Gourmet |
-| 236 | Regalos corporativos aeropuertos duty |  |  |  | México | Baja | Travel retail |
-| 237 | Regalos promocionales CDMX talleres |  |  |  | CDMX | Baja | Merch |
-| 238 | Sears arcones |  |  |  | México | Baja | Retail |
-| 239 | Sears arcones extra |  |  |  | México | Baja | Retail |
-| 240 | Spa / wellness gift baskets |  |  |  | CDMX | Baja | Wellness |
-| 241 | Teleflora / Interflora MX |  |  |  | México | Baja | Red floral + gifts |
-| 242 | Tequileras gift boxes Jalisco |  |  |  | Guadalajara | Baja | Destilados |
-| 243 | Vinos y canastas CDMX |  |  |  | CDMX | Baja | Línea vinos |
-| 244 | Wolter chocolate / café gift |  |  |  | Chiapas | Baja | Origen Chiapas |
+| 107 | Chocolate Mayordomo gift | https://www.mayordomo.com.mx/ |  |  | Oaxaca | Media | Chocolate + gift |
+| 108 | Chocolates Turin regalos | https://www.turin.com.mx/ |  |  | CDMX | Media | Chocolate + gift |
+| 109 | Costco canastas / gourmet | https://www.costco.com.mx/ |  |  | México | Media | Club de precio |
+| 110 | Despensas El Fresno / canastas | https://elfresnoexpress.com/ |  |  | EdoMex | Media | Despensas + canastas |
+| 111 | Despensas navideñas El Fresno | https://elfresnoexpress.com/ |  |  | EdoMex | Media | Despensas |
+| 112 | El Palacio de Hierro gift baskets | https://www.elpalaciodehierro.com/ |  |  | CDMX | Media | Retail premium |
+| 113 | Enviaflores regalos | https://www.enviaflores.com/ |  |  | México | Media | Ecom regalos |
+| 114 | HEB canastas norte | https://www.heb.com.mx/ |  |  | Monterrey | Media | Supermercado |
+| 115 | La Castellana canastas | https://www.lacastellana.com/ |  |  | CDMX | Media | Vinoteca |
+| 116 | La Comer / City Market gourmet baskets | https://www.lacomer.com.mx/ |  |  | CDMX | Media | Supermercado premium |
+| 117 | La Europea canastas / vinos | https://www.laeuropea.com.mx/ |  |  | CDMX | Media | Vinoteca + regalos |
+| 118 | La Naval gourmet / vinos | https://www.lanaval.com.mx/ |  |  | CDMX | Media | Gourmet |
+| 119 | Liverpool arcones / canastas | https://www.liverpool.com.mx/ |  |  | CDMX | Media | Retail departamental |
+| 120 | Liverpool canastas navideñas | https://www.liverpool.com.mx/ |  |  | CDMX | Media | Retail |
+| 121 | María Orsini | https://mariaorsini.com.mx/ |  |  | CDMX | Media | Premium |
+| 122 | María Orsini extra legado | https://mariaorsini.com.mx/ |  |  | CDMX | Media | Premium |
+| 123 | María Orsini premium legado | https://mariaorsini.com.mx/ |  |  | CDMX | Media | Premium legado |
+| 124 | Nestlé gift boxes MX | https://www.nestle.com.mx/ |  |  | México | Media | Corporativo |
+| 125 | Office Depot regalos corporativos | https://www.officedepot.com.mx/ |  |  | México | Media | B2B office |
+| 126 | Palacio de Hierro canastas | https://www.elpalaciodehierro.com/ |  |  | CDMX | Media | Retail premium |
+| 127 | Regalos y Canastas | https://www.regalosycanastas.mx/ |  |  | CDMX | Media | Ejemplo original |
+| 128 | Regalos y Canastas ejemplo cliente | https://www.regalosycanastas.mx/ |  |  | CDMX | Media | Referencia |
+| 129 | Regalos y Canastas extra ejemplo | https://www.regalosycanastas.mx/ |  |  | CDMX | Media | Referencia |
+| 130 | Sam's Club arcones | https://www.sams.com.mx/ |  |  | México | Media | Club de precio |
+| 131 | Soriana canastas | https://www.soriana.com/ |  |  | México | Media | Retail |
+| 132 | Uline empaque para arcones | https://es.uline.mx/ |  |  | México | Media | Insumos empaque |
+| 133 | Vinoteca regalos gourmet | https://www.vinoteca.com/ |  |  | CDMX | Media | Vinoteca |
+| 134 | Walmart arcones navidad | https://www.walmart.com.mx/ |  |  | México | Media | Retail |
+| 135 | 4Promotional MX |  |  |  | México | Baja | Promocionales |
+| 136 | Arcones de madera fabricantes |  |  |  | México | Baja | Insumos empaque |
+| 137 | Arcones La Gourmet |  |  |  | México | Baja | Marca / línea |
+| 138 | Boutique regalos Antea Qro |  |  |  | Querétaro | Baja | Boutique |
+| 139 | Boutique regalos Condesa / Roma |  |  |  | CDMX | Baja | Boutique |
+| 140 | Boutique regalos Coyoacán |  |  |  | CDMX | Baja | Boutique |
+| 141 | Boutique regalos Interlomas |  |  |  | Huixquilucan | Baja | Boutique |
+| 142 | Boutique regalos Providencia GDL |  |  |  | Guadalajara | Baja | Boutique |
+| 143 | Boutique regalos San Ángel |  |  |  | CDMX | Baja | Boutique |
+| 144 | Boutique regalos Santa Fe |  |  |  | CDMX | Baja | Boutique |
+| 145 | Boutique regalos Valle / Del Valle |  |  |  | CDMX | Baja | Boutique |
+| 146 | Boutique regalos Valle Oriente |  |  |  | San Pedro | Baja | Boutique |
+| 147 | Cacep chocolate gift |  |  |  | Tabasco | Baja | Chocolate origen |
+| 148 | Canastas baby / nacimiento |  |  |  | CDMX | Baja | Ocasión |
+| 149 | Canastas Chiapas café/chocolate |  |  |  | Tuxtla Gutiérrez | Baja | Boutique regional |
+| 150 | Canastas Culiacán boutique |  |  |  | Culiacán | Baja | Boutique regional |
+| 151 | Canastas de boda / recuerdos |  |  |  | CDMX | Baja | Ocasión |
+| 152 | Canastas de café Chiapas |  |  |  | Tuxtla Gutiérrez | Baja | Origen |
+| 153 | Canastas de café especialidad |  |  |  | CDMX | Baja | Café gift |
+| 154 | Canastas de carrizo mayoreo |  |  |  | CDMX | Baja | Insumos |
+| 155 | Canastas de chile / salsas Yucatán |  |  |  | Mérida | Baja | Gourmet regional |
+| 156 | Canastas de datil / dátil norte |  |  |  | México | Baja | Gourmet |
+| 157 | Canastas de galletas artesanales |  |  |  | CDMX | Baja | Repostería gift |
+| 158 | Canastas de miel y artesanal MX |  |  |  | México | Baja | Artesanal |
+| 159 | Canastas de mimbre La Merced |  |  |  | CDMX | Baja | Insumos / armado |
+| 160 | Canastas de queso y vino independientes |  |  |  | CDMX | Baja | Gourmet |
+| 161 | Canastas de té e infusiones |  |  |  | CDMX | Baja | Gourmet |
+| 162 | Canastas día del padre / madre |  |  |  | CDMX | Baja | Ocasión |
+| 163 | Canastas empresariales Cancún boutique |  |  |  | Cancún | Baja | Boutique hotelera |
+| 164 | Canastas empresariales GDL boutique |  |  |  | Guadalajara | Baja | Boutique regional |
+| 165 | Canastas empresariales León boutique |  |  |  | León | Baja | Boutique regional |
+| 166 | Canastas empresariales MTY boutique |  |  |  | Monterrey | Baja | Boutique regional |
+| 167 | Canastas empresariales Mérida boutique |  |  |  | Mérida | Baja | Boutique regional |
+| 168 | Canastas empresariales Puebla boutique |  |  |  | Puebla | Baja | Boutique regional |
+| 169 | Canastas empresariales Qro boutique |  |  |  | Querétaro | Baja | Boutique regional |
+| 170 | Canastas empresariales Tijuana boutique |  |  |  | Tijuana | Baja | Boutique fronteriza |
+| 171 | Canastas graduación |  |  |  | CDMX | Baja | Ocasión |
+| 172 | Canastas Lomas |  |  |  | CDMX | Baja | Zona premium |
+| 173 | Canastas Oaxaca gourmet |  |  |  | Oaxaca | Baja | Boutique regional |
+| 174 | Canastas San Valentín gourmet |  |  |  | CDMX | Baja | Ocasión |
+| 175 | Canastas Yucatán gourmet |  |  |  | Mérida | Baja | Boutique regional |
+| 176 | Cavas CDMX estuches |  |  |  | CDMX | Baja | Vinos |
+| 177 | Despensas empresariales GDL |  |  |  | Guadalajara | Baja | Despensas |
+| 178 | Despensas empresariales MTY |  |  |  | Monterrey | Baja | Despensas |
+| 179 | Despensas empresariales Qro |  |  |  | Querétaro | Baja | Despensas |
+| 180 | Despensas navideñas corporativas |  |  |  | CDMX | Baja | Despensas |
+| 181 | Florerías con canastas CDMX |  |  |  | CDMX | Baja | Florería + gift |
+| 182 | Florerías con canastas GDL |  |  |  | Guadalajara | Baja | Florería + gift |
+| 183 | Florerías con canastas MTY |  |  |  | Monterrey | Baja | Florería + gift |
+| 184 | Florerías con canastas Qro |  |  |  | Querétaro | Baja | Florería + gift |
+| 185 | Godiva México gift |  |  |  | CDMX | Baja | Chocolate premium |
+| 186 | Ki'Xocolatl canastas |  |  |  | Mérida | Baja | Chocolate gourmet |
+| 187 | Mezcalerías Oaxaca gift |  |  |  | Oaxaca | Baja | Destilados |
+| 188 | Moños y emplayado arcones |  |  |  | CDMX | Baja | Insumos packing |
+| 189 | PromoOpción regalos corporativos |  |  |  | México | Baja | Promocionales |
+| 190 | Queserías CDMX gift boxes |  |  |  | CDMX | Baja | Gourmet |
+| 191 | Regalos corporativos aeropuertos duty |  |  |  | México | Baja | Travel retail |
+| 192 | Regalos promocionales CDMX talleres |  |  |  | CDMX | Baja | Merch |
+| 193 | Sears arcones |  |  |  | México | Baja | Retail |
+| 194 | Spa / wellness gift baskets |  |  |  | CDMX | Baja | Wellness |
+| 195 | Teleflora / Interflora MX |  |  |  | México | Baja | Red floral + gifts |
+| 196 | Tequileras gift boxes Jalisco |  |  |  | Guadalajara | Baja | Destilados |
+| 197 | Vinos y canastas CDMX |  |  |  | CDMX | Baja | Línea vinos |
+| 198 | Wolter chocolate / café gift |  |  |  | Chiapas | Baja | Origen Chiapas |

@@ -1,0 +1,168 @@
+{
+  "lote": "40",
+  "slug": "perfumes",
+  "description": "Perfumes MX",
+  "leads": [
+    {
+      "empresa": "Arome (ejemplo)",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — perfumes",
+      "fuente": "ejemplo_cliente",
+      "url": "https://arome.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Perfumería La Rosa",
+      "tipo": "Mayoreo",
+      "notas": "Perfumes originales mayoreo sin compra mínima; tienda física; árabes y diseñador",
+      "fuente": "research",
+      "url": "https://perfumes-originales.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "PerfumeMayoreo",
+      "tipo": "Mayoreo",
+      "notas": "10+ años; 300 marcas; hasta 70% descuento; envíos MX",
+      "fuente": "research",
+      "url": "https://www.perfumemayoreo.mx/"
+    },
+    {
+      "empresa": "X Mayoreo",
+      "tipo": "Mayoreo",
+      "notas": "Perfumes al por mayor para distribuidores y regalos corporativos",
+      "fuente": "research",
+      "url": "https://xmayoreo.mx/"
+    },
+    {
+      "empresa": "Bellaroma",
+      "tipo": "Mayoreo",
+      "notas": "20+ años; perfumes importados originales; precio mayoreo desde 6 pzs",
+      "fuente": "research",
+      "url": "https://www.bellaroma.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Romar Perfumes Árabes",
+      "tipo": "Mayoreo",
+      "notas": "Perfumes árabes originales para reventa; envíos MX; importación directa",
+      "fuente": "research",
+      "url": "https://romarperfumes.com/"
+    },
+    {
+      "empresa": "Perfumerías Estrada",
+      "tipo": "Retail",
+      "notas": "Cadena de perfumerías con tienda en línea",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Juleriaque",
+      "tipo": "Retail",
+      "notas": "Perfumería con sucursales y ecom",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Jafra",
+      "tipo": "Marca",
+      "notas": "Venta por catálogo, perfumes y cosméticos",
+      "fuente": "brand",
+      "url": "https://www.jafra.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Zermat",
+      "tipo": "Marca",
+      "notas": "Perfumes y cosméticos por catálogo",
+      "fuente": "brand",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Yanbal",
+      "tipo": "Marca",
+      "notas": "Perfumería por catálogo",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Esika / L'Bel (Belcorp)",
+      "tipo": "Marca",
+      "notas": "Perfumería por catálogo",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Natura México",
+      "tipo": "Marca",
+      "notas": "Perfumes y cosmética por consultoría",
+      "fuente": "brand",
+      "url": "https://www.natura.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Liverpool Perfumería",
+      "tipo": "Retail",
+      "notas": "Perfumería de diseñador",
+      "fuente": "brand",
+      "url": "https://www.liverpool.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "El Palacio de Hierro",
+      "tipo": "Retail",
+      "notas": "Perfumería premium",
+      "fuente": "brand",
+      "url": "https://www.elpalaciodehierro.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Sears Perfumería",
+      "tipo": "Retail",
+      "notas": "Perfumería de diseñador",
+      "fuente": "brand",
+      "url": "https://www.sears.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Amazon MX perfumes",
+      "tipo": "Marketplace",
+      "notas": "Sellers de perfumes",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=perfumes",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mercado Libre perfumes",
+      "tipo": "Marketplace",
+      "notas": "Perfumes originales y de mayoreo",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/perfumes-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Perfume árabe — Amber Rouge",
+      "tipo": "Producto",
+      "notas": "Top-seller árabe, reventa",
+      "fuente": "research",
+      "url": "https://romarperfumes.com/"
+    },
+    {
+      "empresa": "Perfume árabe — Club de Nuit",
+      "tipo": "Producto",
+      "notas": "Club de Nuit Sillage / Woman",
+      "fuente": "research",
+      "url": "https://romarperfumes.com/"
+    }
+  ]
+}

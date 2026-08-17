@@ -1,0 +1,22 @@
+giro,nicho,empresa,url,email,telefono,ciudad,estado,pais,tipo,prioridad,score_contacto,notas,fuente
+Belleza,Perfumes,Amazon MX perfumes,https://www.amazon.com.mx/s?k=perfumes,,,México,México,México,Marketplace,Media,2,Sellers de perfumes,research
+Belleza,Perfumes,Arome (ejemplo),https://arome.mx/,,,CDMX,CDMX,México,Ejemplo original,Media,3,Ejemplo del cliente — perfumes,ejemplo_cliente
+Belleza,Perfumes,Bellaroma,https://www.bellaroma.mx/,,,CDMX,CDMX,México,Mayoreo,Media,4,20+ años; perfumes importados originales; precio mayoreo desde 6 pzs,research
+Belleza,Perfumes,El Palacio de Hierro,https://www.elpalaciodehierro.com/,,,CDMX,CDMX,México,Retail,Media,3,Perfumería premium,brand
+Belleza,Perfumes,Jafra,https://www.jafra.com.mx/,,,CDMX,CDMX,México,Marca,Media,4,"Venta por catálogo, perfumes y cosméticos",brand
+Belleza,Perfumes,Liverpool Perfumería,https://www.liverpool.com.mx/,,,CDMX,CDMX,México,Retail,Media,3,Perfumería de diseñador,brand
+Belleza,Perfumes,Mercado Libre perfumes,https://listado.mercadolibre.com.mx/perfumes-mayoreo,,,México,México,México,Marketplace,Media,2,Perfumes originales y de mayoreo,research
+Belleza,Perfumes,Natura México,https://www.natura.com.mx/,,,CDMX,CDMX,México,Marca,Media,4,Perfumes y cosmética por consultoría,brand
+Belleza,Perfumes,Perfume árabe — Amber Rouge,https://romarperfumes.com/,,,,,México,Producto,Media,2,"Top-seller árabe, reventa",research
+Belleza,Perfumes,Perfume árabe — Club de Nuit,https://romarperfumes.com/,,,,,México,Producto,Media,2,Club de Nuit Sillage / Woman,research
+Belleza,Perfumes,PerfumeMayoreo,https://www.perfumemayoreo.mx/,,,,,México,Mayoreo,Media,3,10+ años; 300 marcas; hasta 70% descuento; envíos MX,research
+Belleza,Perfumes,Perfumería La Rosa,https://perfumes-originales.com.mx/,,,CDMX,CDMX,México,Mayoreo,Media,4,Perfumes originales mayoreo sin compra mínima; tienda física; árabes y diseñador,research
+Belleza,Perfumes,Perfumes (ejemplo original),https://arome.mx/,,,,,México,Ejemplo original,Media,2,Seed del cliente,ejemplo_cliente
+Belleza,Perfumes,Romar Perfumes Árabes,https://romarperfumes.com/,,,,,México,Mayoreo,Media,3,Perfumes árabes originales para reventa; envíos MX; importación directa,research
+Belleza,Perfumes,Sears Perfumería,https://www.sears.com.mx/,,,CDMX,CDMX,México,Retail,Media,3,Perfumería de diseñador,brand
+Belleza,Perfumes,X Mayoreo,https://xmayoreo.mx/,,,,,México,Mayoreo,Media,3,Perfumes al por mayor para distribuidores y regalos corporativos,research
+Belleza,Perfumes,Zermat,,,,Puebla,Puebla,México,Marca,Media,2,Perfumes y cosméticos por catálogo,brand
+Belleza,Perfumes,Esika / L'Bel (Belcorp),,,,,,México,Marca,Baja,1,Perfumería por catálogo,brand
+Belleza,Perfumes,Juleriaque,,,,CDMX,CDMX,México,Retail,Baja,1,Perfumería con sucursales y ecom,brand
+Belleza,Perfumes,Perfumerías Estrada,,,,CDMX,CDMX,México,Retail,Baja,1,Cadena de perfumerías con tienda en línea,brand
+Belleza,Perfumes,Yanbal,,,,,,México,Marca,Baja,1,Perfumería por catálogo,brand

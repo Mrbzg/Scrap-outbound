@@ -480,30 +480,6 @@
       "estado": "CDMX"
     },
     {
-      "empresa": "Disfraces carnaval Veracruz",
-      "tipo": "Cluster carnaval",
-      "notas": "Comparsas y vestuario",
-      "fuente": "research",
-      "ciudad": "Veracruz",
-      "estado": "Veracruz"
-    },
-    {
-      "empresa": "Disfraces carnaval Mazatlán",
-      "tipo": "Cluster carnaval",
-      "notas": "Comparsas y vestuario",
-      "fuente": "research",
-      "ciudad": "Mazatlán",
-      "estado": "Sinaloa"
-    },
-    {
-      "empresa": "Disfraces carnaval Mérida",
-      "tipo": "Cluster carnaval",
-      "notas": "Temporada regional",
-      "fuente": "research",
-      "ciudad": "Mérida",
-      "estado": "Yucatán"
-    },
-    {
       "empresa": "Disfraces Puebla centro",
       "tipo": "Tienda regional",
       "notas": "Halloween y Día del Niño",
@@ -521,126 +497,6 @@
       "estado": "Guanajuato"
     },
     {
-      "empresa": "Disfraces Querétaro",
-      "tipo": "Tienda regional",
-      "notas": "Renta y venta",
-      "fuente": "research",
-      "ciudad": "Querétaro",
-      "estado": "Querétaro"
-    },
-    {
-      "empresa": "Disfraces Cancún",
-      "tipo": "Tienda regional",
-      "notas": "Hotelería y eventos",
-      "fuente": "research",
-      "ciudad": "Cancún",
-      "estado": "Q. Roo"
-    },
-    {
-      "empresa": "Disfraces Chihuahua",
-      "tipo": "Tienda regional",
-      "notas": "Temporada norte",
-      "fuente": "research",
-      "ciudad": "Chihuahua",
-      "estado": "Chihuahua"
-    },
-    {
-      "empresa": "Disfraces Hermosillo",
-      "tipo": "Tienda regional",
-      "notas": "Temporada norte",
-      "fuente": "research",
-      "ciudad": "Hermosillo",
-      "estado": "Sonora"
-    },
-    {
-      "empresa": "Disfraces Culiacán",
-      "tipo": "Tienda regional",
-      "notas": "Temporada",
-      "fuente": "research",
-      "ciudad": "Culiacán",
-      "estado": "Sinaloa"
-    },
-    {
-      "empresa": "Disfraces Morelia",
-      "tipo": "Tienda regional",
-      "notas": "Temporada",
-      "fuente": "research",
-      "ciudad": "Morelia",
-      "estado": "Michoacán"
-    },
-    {
-      "empresa": "Disfraces Oaxaca",
-      "tipo": "Tienda regional",
-      "notas": "Temporada y Guelaguetza adyacente",
-      "fuente": "research",
-      "ciudad": "Oaxaca",
-      "estado": "Oaxaca"
-    },
-    {
-      "empresa": "Disfraces San Luis Potosí",
-      "tipo": "Tienda regional",
-      "notas": "Temporada",
-      "fuente": "research",
-      "ciudad": "San Luis Potosí",
-      "estado": "SLP"
-    },
-    {
-      "empresa": "Disfraces Aguascalientes",
-      "tipo": "Tienda regional",
-      "notas": "Feria y temporada",
-      "fuente": "research",
-      "ciudad": "Aguascalientes",
-      "estado": "Aguascalientes"
-    },
-    {
-      "empresa": "Disfraces Saltillo",
-      "tipo": "Tienda regional",
-      "notas": "Temporada",
-      "fuente": "research",
-      "ciudad": "Saltillo",
-      "estado": "Coahuila"
-    },
-    {
-      "empresa": "Disfraces Torreón",
-      "tipo": "Tienda regional",
-      "notas": "Temporada",
-      "fuente": "research",
-      "ciudad": "Torreón",
-      "estado": "Coahuila"
-    },
-    {
-      "empresa": "Disfraces Juárez",
-      "tipo": "Tienda fronteriza",
-      "notas": "Temporada",
-      "fuente": "research",
-      "ciudad": "Cd. Juárez",
-      "estado": "Chihuahua"
-    },
-    {
-      "empresa": "Disfraces Mexicali",
-      "tipo": "Tienda fronteriza",
-      "notas": "Temporada",
-      "fuente": "research",
-      "ciudad": "Mexicali",
-      "estado": "BC"
-    },
-    {
-      "empresa": "Disfraces Ensenada",
-      "tipo": "Tienda regional",
-      "notas": "Temporada",
-      "fuente": "research",
-      "ciudad": "Ensenada",
-      "estado": "BC"
-    },
-    {
-      "empresa": "Disfraces Acapulco",
-      "tipo": "Tienda regional",
-      "notas": "Turismo y temporada",
-      "fuente": "research",
-      "ciudad": "Acapulco",
-      "estado": "Guerrero"
-    },
-    {
       "empresa": "Disfraces Tuxtla",
       "tipo": "Tienda regional",
       "notas": "Temporada",
@@ -649,52 +505,12 @@
       "estado": "Chiapas"
     },
     {
-      "empresa": "Disfraces Villahermosa",
-      "tipo": "Tienda regional",
-      "notas": "Temporada",
-      "fuente": "research",
-      "ciudad": "Villahermosa",
-      "estado": "Tabasco"
-    },
-    {
-      "empresa": "Disfraces Tampico",
-      "tipo": "Tienda regional",
-      "notas": "Temporada",
-      "fuente": "research",
-      "ciudad": "Tampico",
-      "estado": "Tamaulipas"
-    },
-    {
-      "empresa": "Disfraces Reynosa",
-      "tipo": "Tienda fronteriza",
-      "notas": "Temporada",
-      "fuente": "research",
-      "ciudad": "Reynosa",
-      "estado": "Tamaulipas"
-    },
-    {
       "empresa": "Cosplay CDMX tiendas",
       "tipo": "Canal cosplay",
       "notas": "Convenciones y ecom",
       "fuente": "research",
       "ciudad": "CDMX",
       "estado": "CDMX"
-    },
-    {
-      "empresa": "Cosplay Guadalajara",
-      "tipo": "Canal cosplay",
-      "notas": "Convenciones",
-      "fuente": "research",
-      "ciudad": "Guadalajara",
-      "estado": "Jalisco"
-    },
-    {
-      "empresa": "Cosplay Monterrey",
-      "tipo": "Canal cosplay",
-      "notas": "Convenciones",
-      "fuente": "research",
-      "ciudad": "Monterrey",
-      "estado": "NL"
     },
     {
       "empresa": "Botargas eventos CDMX",
@@ -712,14 +528,6 @@
       "fuente": "research",
       "ciudad": "Guadalajara",
       "estado": "Jalisco"
-    },
-    {
-      "empresa": "Botargas Monterrey",
-      "tipo": "Fabricante regional",
-      "notas": "Eventos y publicidad",
-      "fuente": "research",
-      "ciudad": "Monterrey",
-      "estado": "NL"
     },
     {
       "empresa": "Vestuario teatral CDMX",
@@ -756,22 +564,6 @@
       "fuente": "research",
       "ciudad": "CDMX",
       "estado": "CDMX"
-    },
-    {
-      "empresa": "Disfraces corporativos / team building",
-      "tipo": "Canal B2B",
-      "notas": "Eventos empresa",
-      "fuente": "research",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Disfraces hotelería Cancún",
-      "tipo": "Canal hotelero",
-      "notas": "Shows y animación",
-      "fuente": "research",
-      "ciudad": "Cancún",
-      "estado": "Q. Roo"
     },
     {
       "empresa": "Disfraces parques temáticos MX",
@@ -1089,22 +881,6 @@
       "fuente": "research",
       "ciudad": "CDMX",
       "estado": "CDMX"
-    },
-    {
-      "empresa": "Confección disfraces Ecatepec",
-      "tipo": "Taller",
-      "notas": "Maquila temporada",
-      "fuente": "research",
-      "ciudad": "Ecatepec",
-      "estado": "EdoMex"
-    },
-    {
-      "empresa": "Confección disfraces Nezahualcóyotl",
-      "tipo": "Taller",
-      "notas": "Maquila temporada",
-      "fuente": "research",
-      "ciudad": "Neza",
-      "estado": "EdoMex"
     },
     {
       "empresa": "Confección disfraces Toluca",
@@ -1550,22 +1326,6 @@
       "estado": "CDMX"
     },
     {
-      "empresa": "Confección Halloween Ecatepec extra",
-      "tipo": "Taller",
-      "notas": "Maquila",
-      "fuente": "research",
-      "ciudad": "Ecatepec",
-      "estado": "EdoMex"
-    },
-    {
-      "empresa": "Confección Halloween Neza extra",
-      "tipo": "Taller",
-      "notas": "Maquila",
-      "fuente": "research",
-      "ciudad": "Nezahualcóyotl",
-      "estado": "EdoMex"
-    },
-    {
       "empresa": "Confección Halloween Chimalhuacán",
       "tipo": "Taller + tienda",
       "notas": "Temporada",
@@ -1644,15 +1404,6 @@
       "fuente": "research",
       "telefono": "5553901103",
       "ciudad": "Tlalnepantla",
-      "estado": "EdoMex"
-    },
-    {
-      "empresa": "Botargas publicidad CDMX extra",
-      "tipo": "Publicidad",
-      "notas": "Eventos",
-      "fuente": "research",
-      "telefono": "5561895628",
-      "ciudad": "EdoMex",
       "estado": "EdoMex"
     },
     {
@@ -1812,192 +1563,6 @@
       "estado": "Morelos"
     },
     {
-      "empresa": "Funidelia ecom extra",
-      "tipo": "Ecom",
-      "notas": "Mascotas y adultos",
-      "fuente": "research",
-      "url": "https://www.funidelia.mx/",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "ABACOR fábrica extra",
-      "tipo": "Fábrica",
-      "notas": "Mayoreo calidad",
-      "fuente": "research",
-      "url": "https://disfracesabacor.com/",
-      "telefono": "5529611113",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Mancera mayorista extra",
-      "tipo": "Mayoreo",
-      "notas": "WhatsApp RFC",
-      "fuente": "research",
-      "url": "https://disfracesmancera.com.mx/",
-      "email": "contacto@disfracesmancera.com.mx",
-      "telefono": "5545010993",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "La Festa mayoreo infantil extra",
-      "tipo": "Mayoreo",
-      "notas": "Solo infantil mayoreo",
-      "fuente": "research",
-      "url": "https://lafestadisfraces.com/",
-      "email": "contacto@lafestadisfraces.com",
-      "telefono": "5552607406",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Elfamundi sucursales extra",
-      "tipo": "Multi-sucursal",
-      "notas": "Centro y Merced",
-      "fuente": "research",
-      "url": "https://www.elfamundi.com.mx/",
-      "telefono": "5555525294",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "DePeli sucursales extra",
-      "tipo": "Multi-sucursal",
-      "notas": "3+ sucursales",
-      "fuente": "research",
-      "url": "https://disfracesdepeli.com/",
-      "email": "contacto@disfracesdepeli.com",
-      "telefono": "5583935960",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Casita artesanal extra",
-      "tipo": "Artesanal",
-      "notas": "+35 años",
-      "fuente": "research",
-      "url": "http://lacasitadedisfraces.com.mx/",
-      "telefono": "5555986267",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "TuDi catálogo extra",
-      "tipo": "Catálogo",
-      "notas": "Infantil",
-      "fuente": "research",
-      "url": "https://disfraces-tudi.com/",
-      "telefono": "5510569978",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Disfrazia regionales extra",
-      "tipo": "Regionales",
-      "notas": "Típicos + fantasía",
-      "fuente": "research",
-      "url": "https://www.disfrazia.com.mx/",
-      "telefono": "5555262563",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Magia del Disfraz oficios extra",
-      "tipo": "Catálogo oficios",
-      "notas": "No solo Halloween",
-      "fuente": "research",
-      "url": "https://lamagiadeldisfraz.mx/",
-      "telefono": "5556784736",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Comienza la Función teatro extra",
-      "tipo": "Teatro",
-      "notas": "Vestuario escena",
-      "fuente": "research",
-      "url": "https://www.comienzalafuncion.com.mx/",
-      "telefono": "5555213037",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Artist City vestuario extra",
-      "tipo": "Teatro/danza",
-      "notas": "Show",
-      "fuente": "research",
-      "url": "https://www.artistcity.com.mx/",
-      "telefono": "(55) 3547-6444",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Luciérnaga botargas extra",
-      "tipo": "Botargas",
-      "notas": "Volumen",
-      "fuente": "research",
-      "url": "https://www.botargaslaluciernaga.com/",
-      "ciudad": "Chimalhuacán",
-      "estado": "EdoMex"
-    },
-    {
-      "empresa": "Fantasía Izcalli extra",
-      "tipo": "Tienda",
-      "notas": "Centro Urbano",
-      "fuente": "research",
-      "url": "https://www.ventadedisfracesfantasia.com/",
-      "ciudad": "Cuautitlán Izcalli",
-      "estado": "EdoMex"
-    },
-    {
-      "empresa": "Delmi extra",
-      "tipo": "Tienda",
-      "notas": "Venustiano Carranza",
-      "fuente": "research",
-      "email": "disfracesdelmi@gmail.com",
-      "telefono": "5544491501",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Que Disfraces extra",
-      "tipo": "Tienda",
-      "notas": "Centro",
-      "fuente": "research",
-      "telefono": "5555222783",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Luza Peluza extra",
-      "tipo": "Fiestas",
-      "notas": "Disfraces",
-      "fuente": "research",
-      "telefono": "5521064025",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Anita Mercado Carmen Serdán extra",
-      "tipo": "Mayoreo mercado",
-      "notas": "Coyoacán",
-      "fuente": "research",
-      "telefono": "5556326515",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Gabi Confecciones extra",
-      "tipo": "Mayoreo confección",
-      "notas": "Catálogo 100+",
-      "fuente": "research",
-      "telefono": "974773003",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
       "empresa": "Disfraces mascotas extra Funidelia",
       "tipo": "Mascotas",
       "notas": "Halloween pets",
@@ -2023,155 +1588,6 @@
       "fuente": "research",
       "url": "https://www.elfamundi.com.mx/",
       "telefono": "5555525294",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Carnaval Veracruz extra",
-      "tipo": "Carnaval",
-      "notas": "Comparsas",
-      "fuente": "research",
-      "ciudad": "Veracruz",
-      "estado": "Veracruz"
-    },
-    {
-      "empresa": "Carnaval Mazatlán extra",
-      "tipo": "Carnaval",
-      "notas": "Comparsas",
-      "fuente": "research",
-      "ciudad": "Mazatlán",
-      "estado": "Sinaloa"
-    },
-    {
-      "empresa": "Carnaval Mérida extra",
-      "tipo": "Carnaval",
-      "notas": "Temporada",
-      "fuente": "research",
-      "ciudad": "Mérida",
-      "estado": "Yucatán"
-    },
-    {
-      "empresa": "Hotelería Cancún extra",
-      "tipo": "Hotel",
-      "notas": "Animación",
-      "fuente": "research",
-      "ciudad": "Cancún",
-      "estado": "Q. Roo"
-    },
-    {
-      "empresa": "Parques temáticos extra",
-      "tipo": "Entretenimiento",
-      "notas": "Personajes",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Porras / universitarios extra",
-      "tipo": "Educativo",
-      "notas": "Teatro escolar",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Mascotas deportivas extra",
-      "tipo": "Deporte",
-      "notas": "Botargas equipos",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Corporativos / team building extra",
-      "tipo": "B2B",
-      "notas": "Eventos empresa",
-      "fuente": "research",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "XV años temáticos extra",
-      "tipo": "Eventos",
-      "notas": "Fantasía",
-      "fuente": "research",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Fiestas infantiles extra",
-      "tipo": "Infantil",
-      "notas": "Cumpleaños",
-      "fuente": "research",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Cosplay CDMX extra",
-      "tipo": "Cosplay",
-      "notas": "Convenciones",
-      "fuente": "research",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Cosplay GDL extra",
-      "tipo": "Cosplay",
-      "notas": "Convenciones",
-      "fuente": "research",
-      "ciudad": "Guadalajara",
-      "estado": "Jalisco"
-    },
-    {
-      "empresa": "Cosplay MTY extra",
-      "tipo": "Cosplay",
-      "notas": "Convenciones",
-      "fuente": "research",
-      "ciudad": "Monterrey",
-      "estado": "NL"
-    },
-    {
-      "empresa": "ML sellers extra",
-      "tipo": "Marketplace",
-      "notas": "Tiendas oficiales",
-      "fuente": "research",
-      "url": "https://listado.mercadolibre.com.mx/disfraces",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Amazon sellers extra",
-      "tipo": "Marketplace",
-      "notas": "Sellers MX",
-      "fuente": "research",
-      "url": "https://www.amazon.com.mx/s?k=disfraces",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Walmart temporada extra",
-      "tipo": "Retail",
-      "notas": "Halloween",
-      "fuente": "brand",
-      "url": "https://www.walmart.com.mx/",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Coppel temporada extra",
-      "tipo": "Retail",
-      "notas": "Halloween",
-      "fuente": "brand",
-      "url": "https://www.coppel.com/",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Liverpool Halloween extra",
-      "tipo": "Retail",
-      "notas": "Departamental",
-      "fuente": "brand",
-      "url": "https://www.liverpool.com.mx/",
       "ciudad": "CDMX",
       "estado": "CDMX"
     }

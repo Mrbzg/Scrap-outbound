@@ -1,11 +1,9 @@
 # Lote 05 — Alimentos / Botanas y snacks mexicanos
 
 **Slug:** `botanas_snacks`  
-**Total leads:** 232  
-**Alta:** 110 · **Media:** 86 · **Baja:** 36  
+**Total leads:** 230  
+**Alta:** 110 · **Media:** 86 · **Baja:** 34  
 **Con email:** 98 · **Con teléfono:** 114 · **Con URL:** 129
-
-Ejemplo original: https://chanchips.com/
 
 ## Alta prioridad
 
@@ -330,31 +328,29 @@ Ejemplo original: https://chanchips.com/
 | 202 | Botanas Jalisco cluster |  |  |  | Guadalajara | Baja | Cluster regional |
 | 203 | Botanas Leo |  |  |  | México | Baja | Marca regional |
 | 204 | Botanas Michel |  |  |  | México | Baja | Marca |
-| 205 | Botanas Neza cluster |  |  |  | Nezahualcóyotl | Baja | Cluster |
-| 206 | Botanas Nuevo León cluster |  |  |  | Monterrey | Baja | Cluster regional |
-| 207 | Botanas SLP cluster |  |  |  | San Luis Potosí | Baja | Cluster regional |
-| 208 | Botanas Sonora cluster |  |  |  | Sonora | Baja | Cluster regional |
-| 209 | Botanas Tláhuac / Milpa Alta |  |  |  | CDMX | Baja | Cluster |
-| 210 | Botanas Yucatán charritos cluster |  |  |  | Mérida | Baja | Cluster regional |
-| 211 | Cacahuates Karate |  |  |  | México | Baja | Marca cacahuate |
-| 212 | Cacahuates La Lupita |  |  |  | México | Baja | Marca cacahuate |
-| 213 | Chips de camote MX |  |  |  | México | Baja | Marca healthy |
-| 214 | Chips de nopal MX |  |  |  | México | Baja | Marca healthy |
-| 215 | Encanto Frituras |  |  |  | México | Baja | Marca frituras |
-| 216 | Encanto Frituras de Maíz |  |  |  | México | Baja | Marca frituras |
-| 217 | Maquilan Nuez Chimalhuacán |  |  |  | Chimalhuacán | Baja | Maquila |
-| 218 | Palomitas Morel |  |  |  | México | Baja | Marca palomitas |
-| 219 | Pepitas enchiladas mayoreo |  |  |  | México | Baja | Mayoreo semillas |
-| 220 | Prispas |  |  |  | México | Baja | Marca papas |
-| 221 | Semillas de girasol botana |  |  |  | México | Baja | Mayoreo |
-| 222 | Snaky |  |  |  | México | Baja | Marca botana |
-| 223 | Sol Tubi-Papa |  |  |  | México | Baja | Marca papas |
-| 224 | Tostadería Agustín Melgar |  |  |  | Chimalhuacán | Baja | Tostadería |
-| 225 | Tostadería Arisbeth |  |  |  | Chimalhuacán | Baja | Tostadería |
-| 226 | Tostadería Chiapas Chimalhuacán |  |  |  | Chimalhuacán | Baja | Tostadería |
-| 227 | Tostadería Kikis |  |  |  | Chimalhuacán | Baja | Tostadería |
-| 228 | Tostadería La Doradita |  |  |  | Chimalhuacán | Baja | Tostadería |
-| 229 | Tostadería La Perla de Occidente |  |  |  | Chimalhuacán | Baja | Tostadería |
-| 230 | Tostadería Mi Linda Soledad |  |  |  | Chimalhuacán | Baja | Tostadería |
-| 231 | Totopos Guerrero |  |  |  | México | Baja | Marca totopos |
-| 232 | Valley Foods |  |  |  | México | Baja | Marca papas |
+| 205 | Botanas Nuevo León cluster |  |  |  | Monterrey | Baja | Cluster regional |
+| 206 | Botanas SLP cluster |  |  |  | San Luis Potosí | Baja | Cluster regional |
+| 207 | Botanas Sonora cluster |  |  |  | Sonora | Baja | Cluster regional |
+| 208 | Botanas Yucatán charritos cluster |  |  |  | Mérida | Baja | Cluster regional |
+| 209 | Cacahuates Karate |  |  |  | México | Baja | Marca cacahuate |
+| 210 | Cacahuates La Lupita |  |  |  | México | Baja | Marca cacahuate |
+| 211 | Chips de camote MX |  |  |  | México | Baja | Marca healthy |
+| 212 | Chips de nopal MX |  |  |  | México | Baja | Marca healthy |
+| 213 | Encanto Frituras |  |  |  | México | Baja | Marca frituras |
+| 214 | Encanto Frituras de Maíz |  |  |  | México | Baja | Marca frituras |
+| 215 | Maquilan Nuez Chimalhuacán |  |  |  | Chimalhuacán | Baja | Maquila |
+| 216 | Palomitas Morel |  |  |  | México | Baja | Marca palomitas |
+| 217 | Pepitas enchiladas mayoreo |  |  |  | México | Baja | Mayoreo semillas |
+| 218 | Prispas |  |  |  | México | Baja | Marca papas |
+| 219 | Semillas de girasol botana |  |  |  | México | Baja | Mayoreo |
+| 220 | Snaky |  |  |  | México | Baja | Marca botana |
+| 221 | Sol Tubi-Papa |  |  |  | México | Baja | Marca papas |
+| 222 | Tostadería Agustín Melgar |  |  |  | Chimalhuacán | Baja | Tostadería |
+| 223 | Tostadería Arisbeth |  |  |  | Chimalhuacán | Baja | Tostadería |
+| 224 | Tostadería Chiapas Chimalhuacán |  |  |  | Chimalhuacán | Baja | Tostadería |
+| 225 | Tostadería Kikis |  |  |  | Chimalhuacán | Baja | Tostadería |
+| 226 | Tostadería La Doradita |  |  |  | Chimalhuacán | Baja | Tostadería |
+| 227 | Tostadería La Perla de Occidente |  |  |  | Chimalhuacán | Baja | Tostadería |
+| 228 | Tostadería Mi Linda Soledad |  |  |  | Chimalhuacán | Baja | Tostadería |
+| 229 | Totopos Guerrero |  |  |  | México | Baja | Marca totopos |
+| 230 | Valley Foods |  |  |  | México | Baja | Marca papas |

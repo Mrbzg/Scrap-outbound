@@ -595,7 +595,63 @@ lotes:
       - abonos biofertilizantes mayoreo México
       - nutrición vegetal viveros jardinería México
 
-# Plantilla para lotes futuros (37+)
+  "37":
+    slug: gomitas_vitaminas
+    giro: Alimentos
+    nicho: Gomitas de vitaminas
+    ejemplo: https://vitalsuplementosmex.com/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/37_gomitas_vitaminas.json
+    search_queries:
+      - gomitas de vitaminas México marca .mx
+      - gomitas vitamínicas mayoreo México
+      - vitaminas en gomitas COFEPRIS tienda online
+
+  "38":
+    slug: libros_coleccion
+    giro: Libros
+    nicho: Libros de coleccion
+    ejemplo: https://www.penguinlibros.com/mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/38_libros_coleccion.json
+    search_queries:
+      - libros de colección raros México librería .mx
+      - libros antiguos usados tienda CDMX Guadalajara
+      - libros raros firmados México coleccionista
+
+  "39":
+    slug: articulos_limpieza
+    giro: Hogar
+    nicho: Articulos de limpieza
+    ejemplo: https://es.uline.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/39_articulos_limpieza.json
+    search_queries:
+      - artículos de limpieza mayoreo México fabricante .mx
+      - productos de limpieza granel Monterrey CDMX
+      - escobas cepillos jarciería fabricante México
+
+  "40":
+    slug: perfumes
+    giro: Belleza
+    nicho: Perfumes
+    ejemplo: https://arome.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/40_perfumes.json
+    search_queries:
+      - perfumes mayoreo México originales .mx
+      - perfumes árabes mayoreo México distribuidor
+      - perfumería mayorista CDMX Guadalajara
+
+# Plantilla para lotes futuros (41+)
 # Copiar bloque y llenar sources + seeds
 template_lote:
   slug: ""

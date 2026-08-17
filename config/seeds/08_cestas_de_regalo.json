@@ -615,38 +615,6 @@
       "estado": "Guanajuato"
     },
     {
-      "empresa": "Canastas Celaya",
-      "tipo": "Boutique regional",
-      "notas": "Bajío industrial",
-      "fuente": "research",
-      "ciudad": "Celaya",
-      "estado": "Guanajuato"
-    },
-    {
-      "empresa": "Canastas Aguascalientes",
-      "tipo": "Boutique regional",
-      "notas": "Corporativos Ags",
-      "fuente": "research",
-      "ciudad": "Aguascalientes",
-      "estado": "Aguascalientes"
-    },
-    {
-      "empresa": "Canastas Toluca",
-      "tipo": "Boutique regional",
-      "notas": "Corporativos EdoMex",
-      "fuente": "research",
-      "ciudad": "Toluca",
-      "estado": "EdoMex"
-    },
-    {
-      "empresa": "Canastas Cuernavaca",
-      "tipo": "Boutique regional",
-      "notas": "Regalos Morelos",
-      "fuente": "research",
-      "ciudad": "Cuernavaca",
-      "estado": "Morelos"
-    },
-    {
       "empresa": "Canastas Pachuca",
       "tipo": "Cobertura",
       "notas": "Venta de arcones Pachuca",
@@ -711,14 +679,6 @@
       "telefono": "5599901630",
       "ciudad": "Cd. Juárez",
       "estado": "Chihuahua"
-    },
-    {
-      "empresa": "Canastas Hermosillo",
-      "tipo": "Boutique regional",
-      "notas": "Noroeste",
-      "fuente": "research",
-      "ciudad": "Hermosillo",
-      "estado": "Sonora"
     },
     {
       "empresa": "Canastas Culiacán boutique",
@@ -1234,14 +1194,6 @@
       "estado": "Puebla"
     },
     {
-      "empresa": "Alianza / catálogo arcones",
-      "tipo": "Canal",
-      "notas": "Catálogos compartidos temporada",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
       "empresa": "Arcones La Gourmet",
       "tipo": "Marca / línea",
       "notas": "Línea gourmet retail",
@@ -1596,28 +1548,12 @@
       "estado": "NL"
     },
     {
-      "empresa": "Despensas empresariales Puebla",
-      "tipo": "Despensas",
-      "notas": "RH",
-      "fuente": "research",
-      "ciudad": "Puebla",
-      "estado": "Puebla"
-    },
-    {
       "empresa": "Despensas empresariales Qro",
       "tipo": "Despensas",
       "notas": "RH Bajío",
       "fuente": "research",
       "ciudad": "Querétaro",
       "estado": "Querétaro"
-    },
-    {
-      "empresa": "Despensas empresariales León",
-      "tipo": "Despensas",
-      "notas": "RH",
-      "fuente": "research",
-      "ciudad": "León",
-      "estado": "Guanajuato"
     },
     {
       "empresa": "Canastas de queso y vino independientes",
@@ -1676,36 +1612,12 @@
       "estado": "México"
     },
     {
-      "empresa": "Canastas de mole / salsas Oaxaca",
-      "tipo": "Gourmet regional",
-      "notas": "Despensa gourmet",
-      "fuente": "research",
-      "ciudad": "Oaxaca",
-      "estado": "Oaxaca"
-    },
-    {
       "empresa": "Canastas de chile / salsas Yucatán",
       "tipo": "Gourmet regional",
       "notas": "Recados y salsas",
       "fuente": "research",
       "ciudad": "Mérida",
       "estado": "Yucatán"
-    },
-    {
-      "empresa": "Canastas de cajeta Celaya",
-      "tipo": "Gourmet regional",
-      "notas": "Dulce + canasta",
-      "fuente": "research",
-      "ciudad": "Celaya",
-      "estado": "Guanajuato"
-    },
-    {
-      "empresa": "Canastas de rompope / ponche",
-      "tipo": "Temporada",
-      "notas": "Navidad",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
     },
     {
       "empresa": "Canastas de galletas artesanales",
@@ -1716,36 +1628,12 @@
       "estado": "CDMX"
     },
     {
-      "empresa": "Canastas de café Veracruz",
-      "tipo": "Origen",
-      "notas": "Productores",
-      "fuente": "research",
-      "ciudad": "Xalapa",
-      "estado": "Veracruz"
-    },
-    {
       "empresa": "Canastas de café Chiapas",
       "tipo": "Origen",
       "notas": "Productores",
       "fuente": "research",
       "ciudad": "Tuxtla Gutiérrez",
       "estado": "Chiapas"
-    },
-    {
-      "empresa": "Canastas de café Oaxaca",
-      "tipo": "Origen",
-      "notas": "Pluma / especialidad",
-      "fuente": "research",
-      "ciudad": "Oaxaca",
-      "estado": "Oaxaca"
-    },
-    {
-      "empresa": "Canastas de nuez Chihuahua",
-      "tipo": "Origen",
-      "notas": "Pecana gift",
-      "fuente": "research",
-      "ciudad": "Chihuahua",
-      "estado": "Chihuahua"
     },
     {
       "empresa": "Canastas de datil / dátil norte",
@@ -1812,22 +1700,6 @@
       "estado": "CDMX"
     },
     {
-      "empresa": "Canastas posadas",
-      "tipo": "Temporada",
-      "notas": "Diciembre",
-      "fuente": "research",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Canastas Reyes Magos",
-      "tipo": "Temporada",
-      "notas": "Enero",
-      "fuente": "research",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
       "empresa": "Canastas graduación",
       "tipo": "Ocasión",
       "notas": "Junio / diciembre",
@@ -1860,14 +1732,6 @@
       "estado": "NL"
     },
     {
-      "empresa": "Florerías con canastas Puebla",
-      "tipo": "Florería + gift",
-      "notas": "Puebla",
-      "fuente": "research",
-      "ciudad": "Puebla",
-      "estado": "Puebla"
-    },
-    {
       "empresa": "Florerías con canastas Qro",
       "tipo": "Florería + gift",
       "notas": "Bajío",
@@ -1876,156 +1740,12 @@
       "estado": "Querétaro"
     },
     {
-      "empresa": "Florerías con canastas León",
-      "tipo": "Florería + gift",
-      "notas": "Bajío",
-      "fuente": "research",
-      "ciudad": "León",
-      "estado": "Guanajuato"
-    },
-    {
-      "empresa": "Florerías con canastas Mérida",
-      "tipo": "Florería + gift",
-      "notas": "Sureste",
-      "fuente": "research",
-      "ciudad": "Mérida",
-      "estado": "Yucatán"
-    },
-    {
-      "empresa": "Florerías con canastas Tijuana",
-      "tipo": "Florería + gift",
-      "notas": "Frontera",
-      "fuente": "research",
-      "ciudad": "Tijuana",
-      "estado": "BC"
-    },
-    {
-      "empresa": "Florerías con canastas Cancún",
-      "tipo": "Florería + gift",
-      "notas": "Turismo",
-      "fuente": "research",
-      "ciudad": "Cancún",
-      "estado": "Q. Roo"
-    },
-    {
-      "empresa": "Hotel amenities gift Cancún",
-      "tipo": "Hotel gift",
-      "notas": "VIP / corp",
-      "fuente": "research",
-      "ciudad": "Cancún",
-      "estado": "Q. Roo"
-    },
-    {
-      "empresa": "Hotel amenities gift Los Cabos",
-      "tipo": "Hotel gift",
-      "notas": "VIP",
-      "fuente": "research",
-      "ciudad": "Los Cabos",
-      "estado": "BCS"
-    },
-    {
-      "empresa": "Hotel amenities gift Puerto Vallarta",
-      "tipo": "Hotel gift",
-      "notas": "VIP",
-      "fuente": "research",
-      "ciudad": "Puerto Vallarta",
-      "estado": "Jalisco"
-    },
-    {
       "empresa": "Regalos corporativos aeropuertos duty",
       "tipo": "Travel retail",
       "notas": "Estuches",
       "fuente": "research",
       "ciudad": "México",
       "estado": "México"
-    },
-    {
-      "empresa": "Sam's Club arcones extra",
-      "tipo": "Club",
-      "notas": "Mayoreo consumidor",
-      "fuente": "brand",
-      "url": "https://www.sams.com.mx/",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Costco gourmet extra",
-      "tipo": "Club",
-      "notas": "Importados",
-      "fuente": "brand",
-      "url": "https://www.costco.com.mx/",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Walmart arcones extra",
-      "tipo": "Retail",
-      "notas": "Masivo",
-      "fuente": "brand",
-      "url": "https://www.walmart.com.mx/",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Chedraui Selecto extra",
-      "tipo": "Súper",
-      "notas": "Temporada",
-      "fuente": "brand",
-      "url": "https://www.chedraui.com.mx/",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "La Comer City Market extra",
-      "tipo": "Súper premium",
-      "notas": "Gourmet",
-      "fuente": "brand",
-      "url": "https://www.lacomer.com.mx/",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "HEB canastas extra",
-      "tipo": "Súper",
-      "notas": "Norte",
-      "fuente": "brand",
-      "url": "https://www.heb.com.mx/",
-      "ciudad": "Monterrey",
-      "estado": "NL"
-    },
-    {
-      "empresa": "Soriana canastas extra",
-      "tipo": "Súper",
-      "notas": "Temporada",
-      "fuente": "brand",
-      "url": "https://www.soriana.com/",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Sears arcones extra",
-      "tipo": "Retail",
-      "notas": "Temporada",
-      "fuente": "brand",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Sanborns gift extra",
-      "tipo": "Retail",
-      "notas": "Estuches",
-      "fuente": "brand",
-      "url": "https://www.sanborns.com.mx/",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "iShop / Mixup gift extra",
-      "tipo": "Retail",
-      "notas": "Tech + gift no food",
-      "fuente": "brand",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
     },
     {
       "empresa": "Office Depot regalos corporativos",
@@ -2042,54 +1762,6 @@
       "notas": "Cajas y relleno",
       "fuente": "brand",
       "url": "https://es.uline.mx/",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Fabricantes de mimbre CDMX extra",
-      "tipo": "Insumo",
-      "notas": "La Merced",
-      "fuente": "research",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Fabricantes de arcones madera extra",
-      "tipo": "Insumo",
-      "notas": "Cajas de madera",
-      "fuente": "research",
-      "ciudad": "México",
-      "estado": "México"
-    },
-    {
-      "empresa": "Imprentas tarjetas dedicadas extra",
-      "tipo": "Insumo",
-      "notas": "Branding canasta",
-      "fuente": "research",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Moños y listón mayoreo extra",
-      "tipo": "Insumo packing",
-      "notas": "Armado",
-      "fuente": "research",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Logística última milla regalos extra",
-      "tipo": "3PL",
-      "notas": "Diciembre pico",
-      "fuente": "research",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
-      "empresa": "Paquetería corporativa arcones extra",
-      "tipo": "3PL",
-      "notas": "Nacional",
-      "fuente": "research",
       "ciudad": "México",
       "estado": "México"
     },
@@ -2173,14 +1845,6 @@
       "estado": "CDMX"
     },
     {
-      "empresa": "Boutique regalos Polanco extra",
-      "tipo": "Boutique",
-      "notas": "Premium",
-      "fuente": "research",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
       "empresa": "Boutique regalos Santa Fe",
       "tipo": "Boutique",
       "notas": "Corporativo",
@@ -2213,28 +1877,12 @@
       "estado": "CDMX"
     },
     {
-      "empresa": "Boutique regalos Satélite extra",
-      "tipo": "Boutique",
-      "notas": "Poniente",
-      "fuente": "research",
-      "ciudad": "Naucalpan",
-      "estado": "EdoMex"
-    },
-    {
       "empresa": "Boutique regalos Interlomas",
       "tipo": "Boutique",
       "notas": "Premium",
       "fuente": "research",
       "ciudad": "Huixquilucan",
       "estado": "EdoMex"
-    },
-    {
-      "empresa": "Boutique regalos San Pedro extra",
-      "tipo": "Boutique",
-      "notas": "SPGG",
-      "fuente": "research",
-      "ciudad": "San Pedro",
-      "estado": "NL"
     },
     {
       "empresa": "Boutique regalos Valle Oriente",
@@ -2253,36 +1901,12 @@
       "estado": "Jalisco"
     },
     {
-      "empresa": "Boutique regalos Andares / Zapopan",
-      "tipo": "Boutique",
-      "notas": "Premium GDL",
-      "fuente": "research",
-      "ciudad": "Zapopan",
-      "estado": "Jalisco"
-    },
-    {
-      "empresa": "Boutique regalos Angelópolis Puebla",
-      "tipo": "Boutique",
-      "notas": "Premium",
-      "fuente": "research",
-      "ciudad": "Puebla",
-      "estado": "Puebla"
-    },
-    {
       "empresa": "Boutique regalos Antea Qro",
       "tipo": "Boutique",
       "notas": "Premium Bajío",
       "fuente": "research",
       "ciudad": "Querétaro",
       "estado": "Querétaro"
-    },
-    {
-      "empresa": "Boutique regalos Altacia León",
-      "tipo": "Boutique",
-      "notas": "Premium",
-      "fuente": "research",
-      "ciudad": "León",
-      "estado": "Guanajuato"
     }
   ]
 }

@@ -1583,22 +1583,6 @@
       "estado": "CDMX"
     },
     {
-      "empresa": "Botanas Neza cluster",
-      "tipo": "Cluster",
-      "notas": "Frituras populares",
-      "fuente": "research",
-      "ciudad": "Nezahualcóyotl",
-      "estado": "EdoMex"
-    },
-    {
-      "empresa": "Botanas Tláhuac / Milpa Alta",
-      "tipo": "Cluster",
-      "notas": "Tostadas y maíz",
-      "fuente": "research",
-      "ciudad": "CDMX",
-      "estado": "CDMX"
-    },
-    {
       "empresa": "Totopos Guerrero",
       "tipo": "Marca totopos",
       "notas": "Canal abarrotes",

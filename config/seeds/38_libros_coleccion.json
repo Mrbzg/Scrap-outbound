@@ -1,0 +1,193 @@
+{
+  "lote": "38",
+  "slug": "libros_coleccion",
+  "description": "Libros de colección MX",
+  "leads": [
+    {
+      "empresa": "Penguin Libros MX (ejemplo)",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — editorial y librería en línea",
+      "fuente": "ejemplo_cliente",
+      "url": "https://www.penguinlibros.com/mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Librero en Andanzas",
+      "tipo": "Ecom",
+      "notas": "Libros raros, usados y de colección; CDMX/GDL/Pachuca; compra bibliotecas",
+      "fuente": "research",
+      "url": "https://libreroenandanzas.com/",
+      "email": "contacto@libreroenandanzas.com",
+      "telefono": "5580820431",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Librero en Andanzas GDL",
+      "tipo": "Sucursal",
+      "notas": "López Cotilla 805 esq. Rayón, Americana",
+      "fuente": "research",
+      "url": "https://libreroenandanzas.com/",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Librero en Andanzas Pachuca",
+      "tipo": "Sucursal",
+      "notas": "Av. Juárez 102, Centro",
+      "fuente": "research",
+      "url": "https://libreroenandanzas.com/",
+      "ciudad": "Pachuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Valis Libros Raros",
+      "tipo": "Ecom",
+      "notas": "Libros raros, antiguos y firmados; envíos nacionales e internacionales",
+      "fuente": "research",
+      "url": "https://valislibrosraros.com/",
+      "email": "librosvalis@gmail.com",
+      "telefono": "5579627932",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Librería El Hallazgo",
+      "tipo": "Librería de viejo",
+      "notas": "Libros raros, usados, nuevos y de ocasión; desde 1996, Col. Roma",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Librería Jorge Cuesta",
+      "tipo": "Librería de viejo",
+      "notas": "Del mismo fundador de El Hallazgo; compra/venta de libros",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Libros Prohibidos",
+      "tipo": "Librería de viejo",
+      "notas": "Librería de usados y curiosidades editoriales, CDMX",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Subastas Morton",
+      "tipo": "Subasta",
+      "notas": "Subastas de arte, libros y piezas de colección",
+      "fuente": "research",
+      "url": "https://morton.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Gandhi",
+      "tipo": "Retail",
+      "notas": "Cadena de librerías y edición",
+      "fuente": "brand",
+      "url": "https://www.gandhi.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Porrúa",
+      "tipo": "Retail",
+      "notas": "Librería y editorial histórica",
+      "fuente": "brand",
+      "url": "https://porrua.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "El Péndulo",
+      "tipo": "Retail",
+      "notas": "Librerías con cafetería, CDMX",
+      "fuente": "brand",
+      "url": "https://pendulo.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "El Sótano",
+      "tipo": "Retail",
+      "notas": "Librería y papelería",
+      "fuente": "brand",
+      "url": "https://www.elsotano.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Fondo de Cultura Económica",
+      "tipo": "Editorial",
+      "notas": "Editorial estatal con librerías propias",
+      "fuente": "brand",
+      "url": "https://www.fondodeculturaeconomica.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Educal",
+      "tipo": "Retail",
+      "notas": "Red de librerías del Estado",
+      "fuente": "brand",
+      "url": "https://www.educal.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Librerías Gonvill",
+      "tipo": "Retail",
+      "notas": "Cadena de librerías del occidente",
+      "fuente": "brand",
+      "url": "https://gonvill.com.mx/",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Buscalibre México",
+      "tipo": "Ecom",
+      "notas": "Libros nuevos y usados, marketplace editorial",
+      "fuente": "research",
+      "url": "https://www.buscalibre.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Iberlibro",
+      "tipo": "Marketplace",
+      "notas": "Marketplace de libros raros y usados (vendedores MX)",
+      "fuente": "research",
+      "url": "https://www.iberlibro.com/"
+    },
+    {
+      "empresa": "eBay libros colección",
+      "tipo": "Marketplace",
+      "notas": "Vendedores de libros antiguos en español",
+      "fuente": "research",
+      "url": "https://www.ebay.com/b/Antiquarian-Collectible-Books-in-Spanish/29223/bn_43492545"
+    },
+    {
+      "empresa": "Amazon MX libros colección",
+      "tipo": "Marketplace",
+      "notas": "Sellers de libros de colección",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=libros+de+coleccion",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mercado Libre libros usados",
+      "tipo": "Marketplace",
+      "notas": "Libros usados y de colección",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/libros-usados",
+      "ciudad": "México",
+      "estado": "México"
+    }
+  ]
+}

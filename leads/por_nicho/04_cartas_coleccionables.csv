@@ -1,6 +1,6 @@
 giro,nicho,empresa,url,email,telefono,ciudad,estado,pais,tipo,prioridad,score_contacto,notas,fuente
 Coleccionables,Cartas/tarjetas de coleccion,Lofty TCG,https://loftytcg.com/,contacto@loftytcg.com,8124161170,San Pedro Garza García,NL,México,Tienda TCG + grading,Alta,9,R. de la Plata 203 Plaza Alejandria Piso 2,main_ecom
-Coleccionables,Cartas/tarjetas de coleccion,Mexplay,https://www.mexplay.com/,,+526648664124,Tijuana,BC,México,Tienda oficial Bandai/WPN,Alta,6,Aquiles Serdan 10875 Libertad; OP Pokémon MTG YGO Digimon,main_ecom
+Coleccionables,Cartas/tarjetas de coleccion,Mexplay,https://www.mexplay.com/,,+526648664124,Tijuana,BC,México,Tienda oficial Bandai/WPN,Alta,5,Aquiles Serdan 10875 Libertad; OP Pokémon MTG YGO Digimon,main_ecom
 Coleccionables,Cartas/tarjetas de coleccion,Mithrandir Store,https://www.mithrandirstore.com/,,4272265432,San Juan del Río,Querétaro,México,Tienda TCG + figuras,Alta,6,YGO Pokémon Digimon; Hacienda San Nicolás 159,main_ecom
 Coleccionables,Cartas/tarjetas de coleccion,ProCards México,https://procardsmexico.com.mx/,procardsmexico@gmail.com,7444894283,Acapulco,Guerrero,México,Ecom TCG,Alta,9,Pokémon YGO OP DB Digimon Lorcana; soporte@procardsmexico.com.mx,main_ecom
 Coleccionables,Cartas/tarjetas de coleccion,Akibara Xpress,https://akibaraxpress.com/,,,Monterrey,NL,México,Geek + TCG ecom,Media,4,Pokémon YGO Digimon DB; envíos nacionales,main_ecom
@@ -17,11 +17,8 @@ Coleccionables,Cartas/tarjetas de coleccion,Conejo Blanco TCG,,,,CDMX,CDMX,Méxi
 Coleccionables,Cartas/tarjetas de coleccion,Explosion Group wholesale,,,,Cd. Juárez,Chihuahua,México,Mayoreo TCG,Media,2,Mayoreo para tiendas/negocios,online
 Coleccionables,Cartas/tarjetas de coleccion,Explosion Shops,https://explosionshops.com.mx/,,,Cd. Juárez,Chihuahua,México,Retail + mayoreo TCG,Media,4,Distribuidor autorizado Pokémon; Av de los Aztecas 8020,main_ecom
 Coleccionables,Cartas/tarjetas de coleccion,Freak Corp,https://freakcorp.com/,,,,México,México,Coleccionismo + TCG,Media,2,OP MTG Lorcana línea,extra
-Coleccionables,Cartas/tarjetas de coleccion,Gamesmart,,,,CDMX,CDMX,México,WPN store,Media,2,Insurgentes mall; MTG community,cdmx_scene
-Coleccionables,Cartas/tarjetas de coleccion,Gamesmart online contact,,,,CDMX,CDMX,México,WPN físico,Media,2,Insurgentes,extra
 Coleccionables,Cartas/tarjetas de coleccion,Hidralistico,https://hidralistico.com.mx/,,,Guadalajara,Jalisco,México,Tienda grande + mayoreo,Media,4,Desde 2007; catálogo singles grande; Rio Nilo 7906,main_ecom
 Coleccionables,Cartas/tarjetas de coleccion,Hidralistico línea mayoreo,,,,Guadalajara,Jalisco,México,Mayoreo coleccionables,Media,2,Canal B2B Hidralistico,gdl_scene
-Coleccionables,Cartas/tarjetas de coleccion,Hobby Quest,,,,Monterrey,NL,México,Tienda grande multi-TCG,Media,2,Av Francisco I Madero 302 A esq Galeana Centro,digimon_auth_list
 Coleccionables,Cartas/tarjetas de coleccion,Kolecta Card,,,,Monterrey,NL,México,Tienda TCG,Media,2,Rangel Frias 231A Cumbres 2do sector,digimon_auth_list
 Coleccionables,Cartas/tarjetas de coleccion,La Caravana Gamelab GDL,,,,Guadalajara,Jalisco,México,Tienda TCG,Media,2,Área GDL,gdl_scene
 Coleccionables,Cartas/tarjetas de coleccion,MasterForce TCG,https://masterforcemx.com/,,,CDMX,CDMX,México,Tienda TCG + torneos,Media,4,Pokémon YGO One Piece Magic; Av Universidad 790 local 11,main_ecom
@@ -32,8 +29,7 @@ Coleccionables,Cartas/tarjetas de coleccion,MTGWolf,https://mtgwolf.com/,,,CDMX,
 Coleccionables,Cartas/tarjetas de coleccion,Palitroche Store,https://palitrochestore.com.mx/,,,CDMX,CDMX,México,Figuras + TCG torneos,Media,3,Pokémon OP Lorcana Gundam Riftbound DB,main_ecom
 Coleccionables,Cartas/tarjetas de coleccion,PokeCards MX,https://pokecards.com.mx/,,,,México,México,Ecom Pokémon,Media,3,Singles y sellado con garantía autenticidad,main_ecom
 Coleccionables,Cartas/tarjetas de coleccion,Sheer Cold Shop,,,,Monterrey,NL,México,Tienda TCG,Media,2,Plaza de la Tecnologia,mty_scene
-Coleccionables,Cartas/tarjetas de coleccion,TCG Empire,https://www.tcgempire.com.mx/,,,Zapopan,Jalisco,México,Cadena TCG GDL/CDMX,Media,4,Av Moctezuma 6484 Hacienda del Tepeyac,main_ecom
-Coleccionables,Cartas/tarjetas de coleccion,TCG Empire CDMX sucursal,,,,CDMX,CDMX,México,Cadena TCG,Media,2,Sucursal CDMX de TCG Empire,online
+Coleccionables,Cartas/tarjetas de coleccion,TCG Empire,https://www.tcgempire.com.mx/,,,Zapopan,Jalisco,México,Cadena TCG GDL/CDMX,Media,3,Av Moctezuma 6484 Hacienda del Tepeyac,main_ecom
 Coleccionables,Cartas/tarjetas de coleccion,TCG Pulse,https://tcg-pulse.com/,,,,México,México,Ecom TCG,Media,3,YGO Magic Pokémon envíos MX,main_ecom
 Coleccionables,Cartas/tarjetas de coleccion,TCGFever,https://tcgfever.com/,,,,México,México,Marketplace TCG,Media,2,Compra/venta Pokémon MTG YGO OP,main_ecom
 Coleccionables,Cartas/tarjetas de coleccion,The Hidden City,,,,Tijuana,BC,México,Tienda TCG,Media,2,3era Carrillo Puerto 8012 Zona Centro,digimon_auth_list
@@ -44,7 +40,7 @@ Coleccionables,Cartas/tarjetas de coleccion,Aguascalientes TCG shop B,,,,Aguasca
 Coleccionables,Cartas/tarjetas de coleccion,Akiba Center MTY,,,,Monterrey,NL,México,Centro geek,Baja,1,TCG y cultura pop,mty_scene
 Coleccionables,Cartas/tarjetas de coleccion,Amazon MX TCG sellers multi,,,,México,México,México,Marketplace multi,Baja,0,Sellado y singles,acc_market
 Coleccionables,Cartas/tarjetas de coleccion,Apodaca TCG shop,,,,Apodaca,NL,México,Tienda regional,Baja,1,ZMM,second_cities
-Coleccionables,Cartas/tarjetas de coleccion,Asmodee México,,,,México,México,México,Distribuidor juegos,Baja,0,Board games + TCG adyacente,publishers
+Coleccionables,Cartas/tarjetas de coleccion,Asmodee México,,,,México,México,México,Distribuidor juegos,Baja,1,Board games + TCG adyacente,publishers
 Coleccionables,Cartas/tarjetas de coleccion,Bandai authorized stores MX multi,,,,México,México,México,Tiendas autorizadas Bandai,Baja,0,OP Digimon events,events
 Coleccionables,Cartas/tarjetas de coleccion,Bandai Namco TCG MX,,,,México,México,México,Publisher Bandai,Baja,0,One Piece Digimon Gundam,publishers
 Coleccionables,Cartas/tarjetas de coleccion,Battle Spirits shops MX multi,,,,México,México,México,TCG,Baja,0,Battle Spirits,adjacent_tcg
@@ -60,14 +56,14 @@ Coleccionables,Cartas/tarjetas de coleccion,CFC Games,,,,Monterrey,NL,México,Ti
 Coleccionables,Cartas/tarjetas de coleccion,CGC grading MX multi,,,,México,México,México,Servicio grading,Baja,0,Cartas,acc_market
 Coleccionables,Cartas/tarjetas de coleccion,Chetumal TCG shop,,,,Chetumal,QRoo,México,Tienda regional,Baja,1,Frontera sur,second_cities
 Coleccionables,Cartas/tarjetas de coleccion,Chihuahua capital TCG shop B,,,,Chihuahua,Chihuahua,México,Tienda regional,Baja,0,Norte,second_cities
-Coleccionables,Cartas/tarjetas de coleccion,CIB Blanquita TCG hub,,,,CDMX,CDMX,México,Hub eventos TCG,Baja,0,Zona Bellas Artes,cdmx_scene
+Coleccionables,Cartas/tarjetas de coleccion,CIB Blanquita TCG hub,,,,CDMX,CDMX,México,Hub eventos TCG,Baja,1,Zona Bellas Artes,cdmx_scene
 Coleccionables,Cartas/tarjetas de coleccion,Coatzacoalcos Battle City complement,,,,Coatzacoalcos,Veracruz,México,Tienda regional,Baja,1,Ya en lista Digimon,second_cities
 Coleccionables,Cartas/tarjetas de coleccion,Colima TCG shop B,,,,Colima,Colima,México,Tienda regional,Baja,0,Pacífico,second_cities
 Coleccionables,Cartas/tarjetas de coleccion,Cuernavaca TCG shop B,,,,Cuernavaca,Morelos,México,Tienda regional,Baja,0,Centro,second_cities
 Coleccionables,Cartas/tarjetas de coleccion,Culiacán TCG shop B,,,,Culiacán,Sinaloa,México,Tienda regional,Baja,0,Pacífico,second_cities
 Coleccionables,Cartas/tarjetas de coleccion,D6GeekStore,,,,México,México,México,Tienda geek/TCG,Baja,0,Pedro Rosales de Leon 6326,digimon_auth_list
 Coleccionables,Cartas/tarjetas de coleccion,Dark Knight Hobbies,,,,CDMX,CDMX,México,Tienda hobbies/TCG,Baja,1,Eje Central #10 1er piso local 3-C,digimon_auth_list
-Coleccionables,Cartas/tarjetas de coleccion,Devir México,,,,México,México,México,Distribuidor juegos mesa,Baja,0,Board games,publishers
+Coleccionables,Cartas/tarjetas de coleccion,Devir México,,,,México,México,México,Distribuidor juegos mesa,Baja,1,Board games,publishers
 Coleccionables,Cartas/tarjetas de coleccion,Dopamina Geek,,,,Monterrey,NL,México,Tienda geek/TCG,Baja,1,Plaza Fiesta San Agustín; Magic+Pokémon,mty_scene
 Coleccionables,Cartas/tarjetas de coleccion,Dragon Ball Super / Fusion World shops multi,,,,México,México,México,TCG anime,Baja,0,DBS,adjacent_tcg
 Coleccionables,Cartas/tarjetas de coleccion,Dragon Shield MX sellers,,,,México,México,México,Accesorios,Baja,0,Sleeves,acc_market
@@ -85,76 +81,17 @@ Coleccionables,Cartas/tarjetas de coleccion,Frikiplaza CDMX multi-locales TCG,,,
 Coleccionables,Cartas/tarjetas de coleccion,Frikiplaza GDL multi-locales,,,,Guadalajara,Jalisco,México,Plaza multi-tiendas,Baja,0,Hub friki GDL,gdl_scene
 Coleccionables,Cartas/tarjetas de coleccion,Frikiplaza Monterrey multi-locales,,,,Monterrey,NL,México,Plaza friki,Baja,0,Múltiples sellers TCG,mty_scene
 Coleccionables,Cartas/tarjetas de coleccion,Gamegenic MX sellers,,,,México,México,México,Accesorios,Baja,0,Deckboxes,acc_market
+Coleccionables,Cartas/tarjetas de coleccion,Gamesmart,,,,CDMX,CDMX,México,WPN store,Baja,1,Insurgentes mall; MTG community,cdmx_scene
+Coleccionables,Cartas/tarjetas de coleccion,Gamesmart online contact,,,,CDMX,CDMX,México,WPN físico,Baja,1,Insurgentes,extra
 Coleccionables,Cartas/tarjetas de coleccion,GAMEX eventos gaming MX,,,,México,México,México,Evento gaming,Baja,0,Presencia TCG,events
 Coleccionables,Cartas/tarjetas de coleccion,Goblin Depot,,,,Monterrey,NL,México,Tienda Magic focused,Baja,1,Cumbres; singles MTG top recomendada,mty_scene
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Acapulco,,,,Acapulco,Guerrero,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Aguascalientes,,,,Aguascalientes,Aguascalientes,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Campeche,,,,Campeche,Campeche,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Cancún,,,,Cancún,Quintana Roo,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
 Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG CDMX,,,,CDMX,CDMX,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Chihuahua,,,,Chihuahua,Chihuahua,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Colima,,,,Colima,Colima,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Cuernavaca,,,,Cuernavaca,Morelos,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Culiacán,,,,Culiacán,Sinaloa,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Durango,,,,Durango,Durango,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Guadalajara,,,,Guadalajara,Jalisco,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Hermosillo,,,,Hermosillo,Sonora,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG La Paz,,,,La Paz,Baja California Sur,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG León,,,,León,Guanajuato,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Monterrey,,,,Monterrey,Nuevo León,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Morelia,,,,Morelia,Michoacán,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Mérida,,,,Mérida,Yucatán,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Oaxaca,,,,Oaxaca,Oaxaca,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Pachuca,,,,Pachuca,Hidalgo,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Puebla,,,,Puebla,Puebla,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Querétaro,,,,Querétaro,Querétaro,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Saltillo,,,,Saltillo,Coahuila,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG San Luis Potosí,,,,San Luis Potosí,San Luis Potosí,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Tampico,,,,Tampico,Tamaulipas,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Tepic,,,,Tepic,Nayarit,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Tijuana,,,,Tijuana,Baja California,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Tlaxcala,,,,Tlaxcala,Tlaxcala,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Toluca,,,,Toluca,EdoMex,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Tuxtla Gutiérrez,,,,Tuxtla Gutiérrez,Chiapas,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Veracruz,,,,Veracruz,Veracruz,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Villahermosa,,,,Villahermosa,Tabasco,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
-Coleccionables,Cartas/tarjetas de coleccion,Grupo Facebook TCG Zacatecas,,,,Zacatecas,Zacatecas,México,Comunidad local,Baja,0,Grupo compra/venta local TCG,community
 Coleccionables,Cartas/tarjetas de coleccion,Guadalupe NL TCG shop,,,,Guadalupe,NL,México,Tienda regional,Baja,1,ZMM,second_cities
 Coleccionables,Cartas/tarjetas de coleccion,Gundam Card Game shops MX multi,,,,México,México,México,TCG Bandai,Baja,0,Gundam,adjacent_tcg
 Coleccionables,Cartas/tarjetas de coleccion,Haru Store,,,,Monterrey,NL,México,Tienda Pokémon,Baja,1,Plaza Tecnologia; singles Pokémon,mty_scene
 Coleccionables,Cartas/tarjetas de coleccion,Hermosillo TCG shop B,,,,Hermosillo,Sonora,México,Tienda regional,Baja,0,Noroeste,second_cities
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Acapulco,,,,Acapulco,Guerrero,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Aguascalientes,,,,Aguascalientes,Aguascalientes,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Campeche,,,,Campeche,Campeche,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Cancún,,,,Cancún,Quintana Roo,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
+Coleccionables,Cartas/tarjetas de coleccion,Hobby Quest,,,,Monterrey,NL,México,Tienda grande multi-TCG,Baja,1,Av Francisco I Madero 302 A esq Galeana Centro,digimon_auth_list
 Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub CDMX,,,,CDMX,CDMX,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Chihuahua,,,,Chihuahua,Chihuahua,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Colima,,,,Colima,Colima,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Cuernavaca,,,,Cuernavaca,Morelos,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Culiacán,,,,Culiacán,Sinaloa,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Durango,,,,Durango,Durango,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Guadalajara,,,,Guadalajara,Jalisco,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Hermosillo,,,,Hermosillo,Sonora,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub La Paz,,,,La Paz,Baja California Sur,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub León,,,,León,Guanajuato,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Monterrey,,,,Monterrey,Nuevo León,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Morelia,,,,Morelia,Michoacán,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Mérida,,,,Mérida,Yucatán,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Oaxaca,,,,Oaxaca,Oaxaca,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Pachuca,,,,Pachuca,Hidalgo,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Puebla,,,,Puebla,Puebla,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Querétaro,,,,Querétaro,Querétaro,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Saltillo,,,,Saltillo,Coahuila,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub San Luis Potosí,,,,San Luis Potosí,San Luis Potosí,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Tampico,,,,Tampico,Tamaulipas,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Tepic,,,,Tepic,Nayarit,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Tijuana,,,,Tijuana,Baja California,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Tlaxcala,,,,Tlaxcala,Tlaxcala,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Toluca,,,,Toluca,EdoMex,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Tuxtla Gutiérrez,,,,Tuxtla Gutiérrez,Chiapas,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Veracruz,,,,Veracruz,Veracruz,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Villahermosa,,,,Villahermosa,Tabasco,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
-Coleccionables,Cartas/tarjetas de coleccion,Hobby shop / Frikiplaza TCG hub Zacatecas,,,,Zacatecas,Zacatecas,México,Hub regional friki/TCG,Baja,0,Punto de entrada para mapear tiendas TCG locales,hubs
 Coleccionables,Cartas/tarjetas de coleccion,Hololive OCG shops MX multi,,,,México,México,México,TCG,Baja,0,Hololive,adjacent_tcg
 Coleccionables,Cartas/tarjetas de coleccion,Iberian CardShow / card shows MX multi,,,,México,México,México,Evento cards,Baja,0,Card shows,events
 Coleccionables,Cartas/tarjetas de coleccion,Intergames,,,,México,México,México,Tienda TCG,Baja,1,Diego Ruiz 12 col Emiliano Zapata,digimon_auth_list
@@ -185,38 +122,7 @@ Coleccionables,Cartas/tarjetas de coleccion,Naucalpan TCG shop,,,,Naucalpan,EdoM
 Coleccionables,Cartas/tarjetas de coleccion,Nezahualcóyotl TCG shop,,,,Nezahualcóyotl,EdoMex,México,Tienda regional,Baja,1,ZMVM,second_cities
 Coleccionables,Cartas/tarjetas de coleccion,Nuevo Laredo TCG shop,,,,Nuevo Laredo,Tamaulipas,México,Tienda regional,Baja,1,Frontera,second_cities
 Coleccionables,Cartas/tarjetas de coleccion,Oaxaca TCG shop B,,,,Oaxaca,Oaxaca,México,Tienda regional,Baja,0,Sur,second_cities
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Acapulco,,,,Acapulco,Guerrero,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Aguascalientes,,,,Aguascalientes,Aguascalientes,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Campeche,,,,Campeche,Campeche,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Cancún,,,,Cancún,Quintana Roo,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
 Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales CDMX,,,,CDMX,CDMX,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Chihuahua,,,,Chihuahua,Chihuahua,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Colima,,,,Colima,Colima,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Cuernavaca,,,,Cuernavaca,Morelos,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Culiacán,,,,Culiacán,Sinaloa,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Durango,,,,Durango,Durango,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Guadalajara,,,,Guadalajara,Jalisco,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Hermosillo,,,,Hermosillo,Sonora,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales La Paz,,,,La Paz,Baja California Sur,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales León,,,,León,Guanajuato,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Monterrey,,,,Monterrey,Nuevo León,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Morelia,,,,Morelia,Michoacán,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Mérida,,,,Mérida,Yucatán,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Oaxaca,,,,Oaxaca,Oaxaca,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Pachuca,,,,Pachuca,Hidalgo,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Puebla,,,,Puebla,Puebla,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Querétaro,,,,Querétaro,Querétaro,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Saltillo,,,,Saltillo,Coahuila,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales San Luis Potosí,,,,San Luis Potosí,San Luis Potosí,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Tampico,,,,Tampico,Tamaulipas,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Tepic,,,,Tepic,Nayarit,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Tijuana,,,,Tijuana,Baja California,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Tlaxcala,,,,Tlaxcala,Tlaxcala,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Toluca,,,,Toluca,EdoMex,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Tuxtla Gutiérrez,,,,Tuxtla Gutiérrez,Chiapas,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Veracruz,,,,Veracruz,Veracruz,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Villahermosa,,,,Villahermosa,Tabasco,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
-Coleccionables,Cartas/tarjetas de coleccion,Organizador torneos locales Zacatecas,,,,Zacatecas,Zacatecas,México,Organizador,Baja,0,Ligas locales Pokémon/MTG/YGO,community
 Coleccionables,Cartas/tarjetas de coleccion,Pachuca TCG shop B,,,,Pachuca,Hidalgo,México,Tienda regional,Baja,0,Centro,second_cities
 Coleccionables,Cartas/tarjetas de coleccion,Photon Store,,,,México,México,México,Tienda TCG,Baja,1,Avenida Juarez 1217 Local-C,digimon_auth_list
 Coleccionables,Cartas/tarjetas de coleccion,Play Center Plaza del Sol GDL,,,,Guadalajara,Jalisco,México,Hub TCG,Baja,1,CardTemple pickup point,gdl_scene
@@ -252,6 +158,7 @@ Coleccionables,Cartas/tarjetas de coleccion,Sorcery Contested Realm shops MX mul
 Coleccionables,Cartas/tarjetas de coleccion,Star Wars Unlimited shops MX multi,,,,México,México,México,TCG,Baja,0,SWU,adjacent_tcg
 Coleccionables,Cartas/tarjetas de coleccion,TAG grading vía Lofty,,,,San Pedro,NL,México,Servicio grading,Baja,1,Monterrey,acc_market
 Coleccionables,Cartas/tarjetas de coleccion,Tampico TCG shop B,,,,Tampico,Tamaulipas,México,Tienda regional,Baja,0,Golfo,second_cities
+Coleccionables,Cartas/tarjetas de coleccion,TCG Empire CDMX sucursal,,,,CDMX,CDMX,México,Cadena TCG,Baja,1,Sucursal CDMX de TCG Empire,online
 Coleccionables,Cartas/tarjetas de coleccion,Tepic TCG shop B,,,,Tepic,Nayarit,México,Tienda regional,Baja,0,Pacífico,second_cities
 Coleccionables,Cartas/tarjetas de coleccion,The Pokémon Company International canal MX,,,,México,México,México,Publisher/licencia,Baja,0,Producto oficial vía distribuidores,publishers
 Coleccionables,Cartas/tarjetas de coleccion,Tienda TCG independiente Acapulco A,,,,Acapulco,Guerrero,México,Tienda regional,Baja,0,Lead seed ciudad - validar Maps,regional_seed
@@ -318,7 +225,6 @@ Coleccionables,Cartas/tarjetas de coleccion,Tienda TCG independiente Villahermos
 Coleccionables,Cartas/tarjetas de coleccion,Tienda TCG independiente Villahermosa B,,,,Villahermosa,Tabasco,México,Tienda regional,Baja,0,Lead seed ciudad - validar Maps,regional_seed
 Coleccionables,Cartas/tarjetas de coleccion,Tienda TCG independiente Zacatecas A,,,,Zacatecas,Zacatecas,México,Tienda regional,Baja,0,Lead seed ciudad - validar Maps,regional_seed
 Coleccionables,Cartas/tarjetas de coleccion,Tienda TCG independiente Zacatecas B,,,,Zacatecas,Zacatecas,México,Tienda regional,Baja,0,Lead seed ciudad - validar Maps,regional_seed
-Coleccionables,Cartas/tarjetas de coleccion,Tienda TCG Plaza Tecnologia Acapulco,,,,Acapulco,Guerrero,México,Tienda física,Baja,1,Av Cuautemoc 502 local 249 Plaza Tecnologia,digimon_auth_list
 Coleccionables,Cartas/tarjetas de coleccion,Tijuana extra shop cluster B,,,,Tijuana,BC,México,Cluster frontera,Baja,0,Segunda ola tiendas,second_cities
 Coleccionables,Cartas/tarjetas de coleccion,Tlalnepantla TCG shop,,,,Tlalnepantla,EdoMex,México,Tienda regional,Baja,1,ZMVM,second_cities
 Coleccionables,Cartas/tarjetas de coleccion,Tlaquepaque TCG shop,,,,Tlaquepaque,Jalisco,México,Tienda regional,Baja,1,ZMG,second_cities

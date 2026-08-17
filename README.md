@@ -106,6 +106,10 @@ leads/por_nicho/{ID}_{slug}.csv|.json|.md
 | 34 | Skincare y maquillaje | `34_skincare_maquillaje.*` |
 | 35 | Refacciones automotrices | `35_refacciones_automotrices.*` |
 | 36 | Vitaminas para plantas y abono | `36_vitaminas_plantas_abono.*` |
+| 37 | Gomitas de vitaminas | `37_gomitas_vitaminas.*` |
+| 38 | Libros de colección | `38_libros_coleccion.*` |
+| 39 | Artículos de limpieza | `39_articulos_limpieza.*` |
+| 40 | Perfumes | `40_perfumes.*` |
 
 Catálogo: `leads/nichos.json` (58 nichos).
 

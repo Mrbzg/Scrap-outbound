@@ -1,11 +1,7 @@
 giro,nicho,empresa,url,email,telefono,ciudad,estado,pais,tipo,prioridad,score_contacto,notas,fuente
 Tecnologia,"Cargadores, porta laptop",DataComponents,https://datacomponents.com.mx/,info@datacomponents.com.mx,5558948888,México,México,México,Mayoreo,Alta,8,IMAGES AND ENTERTAINMENT / B-Robotix,research
-Tecnologia,"Cargadores, porta laptop",DataComponents B-Robotix extra,https://datacomponents.com.mx/,info@datacomponents.com.mx,5558948888,México,México,México,Mayoreo,Alta,8,Guías y catálogo,research
 Tecnologia,"Cargadores, porta laptop",DDTech,https://www.ddtech.mx/,ventas@ddtech.mx,(33) 1523-2823,Guadalajara,Jalisco,México,Ecom + tienda,Alta,9,Componentes ASUS partner,research
-Tecnologia,"Cargadores, porta laptop",DDTech sucursal GDL extra,https://www.ddtech.mx/,ventas@ddtech.mx,(33) 1523-1303,Guadalajara,Jalisco,México,Tienda,Alta,8,Segundo tel,research
 Tecnologia,"Cargadores, porta laptop",Digitalife,https://www.digitalife.com.mx/,ventas.internet@digitalife.com.mx,3336300660,Guadalajara,Jalisco,México,Ecom + tienda,Alta,9,API Global / ASUS,research
-Tecnologia,"Cargadores, porta laptop",Digitalife sucursal GDL extra,https://www.digitalife.com.mx/,ventas.internet@digitalife.com.mx,3336300660,Guadalajara,Jalisco,México,Tienda,Alta,8,Ext 1020,research
-Tecnologia,"Cargadores, porta laptop",Ensamble PCs PCH extra,https://shop.pchconnect.com/,hola@pchconnect.com,(33) 1368-4390,México,México,México,Servicio,Alta,7,PCs gamer / oficina,research
 Tecnologia,"Cargadores, porta laptop",Fundas AirPods mayoreo,https://www.fundasmayoreo.com.mx/,,2411104310,Apizaco,Tlaxcala,México,Línea producto,Alta,5,Catálogo Fundas Mayoreo,research
 Tecnologia,"Cargadores, porta laptop",Fundas Mayoreo MX,https://www.fundasmayoreo.com.mx/,,2411104310,Apizaco,Tlaxcala,México,Mayoreo fundas,Alta,6,Josefa Ortiz 500 2do piso Centro,research
 Tecnologia,"Cargadores, porta laptop",Hikvision / Dahua canal MCA,https://www.mcachis.com.mx/,,9616132242,Tuxtla Gutiérrez,Chiapas,México,CCTV,Alta,5,Adyacente tech,research
@@ -13,128 +9,78 @@ Tecnologia,"Cargadores, porta laptop",Impresoras Lexmark Epson Brother canal,htt
 Tecnologia,"Cargadores, porta laptop",Koblenz / APC / Tripp Lite energía,https://www.mcachis.com.mx/,clientes@mcachis.com.mx,9616132242,Tuxtla Gutiérrez,Chiapas,México,Energía,Alta,8,Reguladores y UPS,research
 Tecnologia,"Cargadores, porta laptop",Mayoreo celular Eje Central,https://unicell.com.mx/,,5563681724,CDMX,CDMX,México,Cluster,Alta,5,Unicell y vecinos,research
 Tecnologia,"Cargadores, porta laptop",Mayoreo celular MTY centro,https://mocadistribuidora.com/,,813882554,Monterrey,NL,México,Cluster,Alta,5,Juárez 745,research
-Tecnologia,"Cargadores, porta laptop",Mayoreo fundas CDMX Unicell extra,https://unicell.com.mx/,,5563681724,CDMX,CDMX,México,Red nacional,Alta,5,Calidad/precio 15 años,research
-Tecnologia,"Cargadores, porta laptop",Mayoreo fundas Tlaxcala extra,https://www.fundasmayoreo.com.mx/,,2411104310,Apizaco,Tlaxcala,México,Fábrica/dist,Alta,5,Desde 1 pza,research
-Tecnologia,"Cargadores, porta laptop",Mayoreo MTY MOCA extra,https://mocadistribuidora.com/,,813882554,Monterrey,NL,México,Red sucursales,Alta,5,10k comunidad,research
 Tecnologia,"Cargadores, porta laptop",MCA Chiapas,https://www.mcachis.com.mx/,clientes@mcachis.com.mx,9616132242,Tuxtla Gutiérrez,Chiapas,México,Mayoreo cómputo,Alta,9,Belisario Domínguez 2007 Penipak desde 1997,research
-Tecnologia,"Cargadores, porta laptop",MCA Chiapas 1997 extra,https://www.mcachis.com.mx/,clientes@mcachis.com.mx,9616132242,Tuxtla Gutiérrez,Chiapas,México,Regional sureste,Alta,8,Dell HP Apple acc,research
 Tecnologia,"Cargadores, porta laptop",Micas / screen protectors mayoreo,https://unicell.com.mx/,,5563681724,CDMX,CDMX,México,Línea producto,Alta,5,Unicell,research
 Tecnologia,"Cargadores, porta laptop",MiPC Comunicaciones,https://www.mipc.com.mx/,ricardo.reynoso@mipc.com.mx,(33) 4770-3209,Guadalajara,Jalisco,México,Distribuidor,Alta,9,ASUS Pacífico,research
 Tecnologia,"Cargadores, porta laptop",MOCA Distribuidora,https://mocadistribuidora.com/,mocadistribuidora21@gmail.com,813882554,Monterrey,NL,México,Mayoreo accesorios,Alta,9,"Av. Juárez 745 Centro, +7 años, 5000+ SKU",research
 Tecnologia,"Cargadores, porta laptop",MOCA sucursal GDL Piso 3,,mocadistribuidora21@gmail.com,8112558769,Guadalajara,Jalisco,México,Sucursal mayoreo,Alta,7,16 de Septiembre 151 — 3328462843 Alondra,research
 Tecnologia,"Cargadores, porta laptop",OCURRE PCH recolecta,https://shop.pchconnect.com/,hola@pchconnect.com,(33) 1368-4390,México,México,México,Logística,Alta,7,Recoge en sucursal,research
 Tecnologia,"Cargadores, porta laptop",PCH Connect / Shop PCH,https://shop.pchconnect.com/,hola@pchconnect.com,(33) 1368-4390,CDMX,CDMX,México,Mayoreo tech,Alta,9,Iztaccíhuatl 322 — suc. CDMX/GDL/Mérida/Puebla,research
-Tecnologia,"Cargadores, porta laptop",PCH sucursal CDMX extra,https://shop.pchconnect.com/,hola@pchconnect.com,(33) 1368-4390,CDMX,CDMX,México,Sucursal,Alta,8,Iztaccíhuatl 322,research
 Tecnologia,"Cargadores, porta laptop",PCH sucursal Guadalajara,https://shop.pchconnect.com/,hola@pchconnect.com,(33) 1368-4390,Guadalajara,Jalisco,México,Sucursal,Alta,8,Occidente,research
 Tecnologia,"Cargadores, porta laptop",PCH sucursal Mérida,https://shop.pchconnect.com/,hola@pchconnect.com,(33) 1368-4390,Mérida,Yucatán,México,Sucursal,Alta,8,Sureste,research
 Tecnologia,"Cargadores, porta laptop",PCH sucursal Puebla,https://shop.pchconnect.com/,hola@pchconnect.com,(33) 1368-4390,Puebla,Puebla,México,Sucursal,Alta,8,Centro,research
 Tecnologia,"Cargadores, porta laptop",Refacciones display / batería,https://mocadistribuidora.com/,,813882554,Monterrey,NL,México,Refacciones,Alta,5,MOCA / Fixoem,research
-Tecnologia,"Cargadores, porta laptop",Soporte técnico MCA extra,https://www.mcachis.com.mx/,clientes@mcachis.com.mx,9616132242,Tuxtla Gutiérrez,Chiapas,México,Servicio,Alta,8,Redes y CCTV,research
 Tecnologia,"Cargadores, porta laptop",Soportes / car mounts mayoreo,https://www.fundasmayoreo.com.mx/,,2411104310,Apizaco,Tlaxcala,México,Línea producto,Alta,5,Fundas Mayoreo,research
 Tecnologia,"Cargadores, porta laptop",Unicell México,https://unicell.com.mx/,,5563681724,CDMX,CDMX,México,Mayoreo fundas,Alta,6,"+15 años, Eje Central 76 Local 3",research
 Tecnologia,"Cargadores, porta laptop",Ventronic,https://www.ventronic.mx/,online@ventronic.com.mx,3329620635,Guadalajara,Jalisco,México,Ecom,Alta,9,Componentes,research
 Tecnologia,"Cargadores, porta laptop",Amazon MX accesorios sellers,https://www.amazon.com.mx/,,,México,México,México,Marketplace,Media,2,Sellers MX,research
-Tecnologia,"Cargadores, porta laptop",ASUS where-to-buy partners extra,https://promos.asus.com/MX/where_to_buy/index.html,,,México,México,México,Canal marca,Media,3,DDTech Digitalife MiPC Ventronic,research
 Tecnologia,"Cargadores, porta laptop",Audífonos TWS mayoreo,https://coolook.mx/,,,México,México,México,Línea producto,Media,2,Coolook / ELE-GATE,research
 Tecnologia,"Cargadores, porta laptop","Cargadores, porta laptop (ejemplo original)",https://doto.com.mx/,,,,,México,Ejemplo original,Media,2,Seed del cliente,ejemplo_cliente
-Tecnologia,"Cargadores, porta laptop",Casa de las Carcasas extra,https://lacasadelascarcasas.com.mx/,,,México,México,México,Retail,Media,2,Personalización,research
-Tecnologia,"Cargadores, porta laptop",Celex Telcel extra,https://www.celex.com/,,,México,México,México,Telcel + acc,Media,2,25k SKU,research
 Tecnologia,"Cargadores, porta laptop",Celulandia,https://celulandia.com.mx/mayoreo/,,,México,México,México,Mayoreo / open box,Media,3,+6 equipos precio mayoreo,research
-Tecnologia,"Cargadores, porta laptop",Celulandia open box extra,https://celulandia.com.mx/mayoreo/,,,México,México,México,Reacondicionado,Media,2,Mayoreo 6+,research
 Tecnologia,"Cargadores, porta laptop",Celular Express / Celex,https://www.celex.com/,,,México,México,México,Mayoreo + Telcel,Media,3,"+25 mil productos, fundas y accesorios",research
 Tecnologia,"Cargadores, porta laptop",Centro celular Tepito,,,,CDMX,CDMX,México,Mayoreo popular,Media,2,Fundas y cables,research
 Tecnologia,"Cargadores, porta laptop",Chapur,https://www.chapur.com.mx/,,,Mérida,Yucatán,México,Departamental sureste,Media,3,Tech + hogar,brand
-Tecnologia,"Cargadores, porta laptop",Chapur extra,https://www.chapur.com.mx/,,,Mérida,Yucatán,México,Departamental,Media,3,Sureste,brand
 Tecnologia,"Cargadores, porta laptop",Compumex,https://www.compumex.mx/,,,México,México,México,Cadena,Media,2,Cómputo,research
-Tecnologia,"Cargadores, porta laptop",Compumex extra,https://www.compumex.mx/,,,México,México,México,Cadena,Media,2,Cómputo,research
 Tecnologia,"Cargadores, porta laptop",Compusoluciones,https://www.compusoluciones.com/,,,Guadalajara,Jalisco,México,Integrador,Media,3,B2B,research
-Tecnologia,"Cargadores, porta laptop",Compusoluciones extra,https://www.compusoluciones.com/,,,Guadalajara,Jalisco,México,Integrador,Media,3,B2B,research
 Tecnologia,"Cargadores, porta laptop",Comunitel,https://celularesmayoreocomunitel.com/,,,Guadalajara,Jalisco,México,Mayoreo celulares,Media,4,"Samsung, Moto, Xiaomi, Huawei, Apple",research
 Tecnologia,"Cargadores, porta laptop",Comunitel sucursal matriz GDL,https://celularesmayoreocomunitel.com/,,,Guadalajara,Jalisco,México,Matriz,Media,3,Centro GDL + 2 suc,research
 Tecnologia,"Cargadores, porta laptop",Coolook,https://coolook.mx/,,,México,México,México,Mayoreo accesorios,Media,3,"Mínimo $2,000 — Litio, Novoline, Tauro, Kingston",research
-Tecnologia,"Cargadores, porta laptop",Coolook China-LATAM extra,https://coolook.mx/,,,México,México,México,Importador,Media,2,"CN, CR, PA, VE, MX",research
 Tecnologia,"Cargadores, porta laptop",Coppel celulares/acc,https://www.coppel.com/,,,México,México,México,Retail crédito,Media,2,Volumen,brand
-Tecnologia,"Cargadores, porta laptop",Coppel fundas extra,https://www.coppel.com/,,,México,México,México,Retail,Media,2,Accesorios baratos,brand
-Tecnologia,"Cargadores, porta laptop",Costco Anker / Belkin extra,https://www.costco.com.mx/,,,México,México,México,Club,Media,2,Marcas acc,brand
-Tecnologia,"Cargadores, porta laptop",CVA mayoreo extra,https://www.cva.com.mx/,,,México,México,México,Mayorista,Media,2,Channel,research
 Tecnologia,"Cargadores, porta laptop",CVA México,https://www.cva.com.mx/,,,México,México,México,Distribuidor mayorista,Media,3,Cómputo,research
 Tecnologia,"Cargadores, porta laptop",Cyberpuerta,https://www.cyberpuerta.mx/,,,México,México,México,Ecom componentes,Media,3,PC y accesorios,research
-Tecnologia,"Cargadores, porta laptop",Cyberpuerta ecom extra,https://www.cyberpuerta.mx/,,,México,México,México,Ecom líder,Media,3,Componentes,research
 Tecnologia,"Cargadores, porta laptop",Doto,https://doto.com.mx/,,,México,México,México,Ejemplo original,Media,2,Ejemplo del cliente — cargadores y porta laptop,ejemplo_cliente
-Tecnologia,"Cargadores, porta laptop",Doto accesorios extra,https://doto.com.mx/,,,México,México,México,Ecom,Media,3,Cargadores / porta laptop,research
-Tecnologia,"Cargadores, porta laptop",Dropshipping ELE-GATE extra,https://www.ele-gate.com/acerca-de-ele-gate/,,,México,México,México,Modelo dropship,Media,2,Shopify / Tiendanube / TikTok Shop,research
 Tecnologia,"Cargadores, porta laptop",ELE-GATE,https://www.ele-gate.com/,,,México,México,México,Mayoreo B2B,Media,3,"ELEGATE SA DE CV desde 2012, dropshipping 32 estados",research
-Tecnologia,"Cargadores, porta laptop",ELE-GATE 2012 extra,https://www.ele-gate.com/,,,México,México,México,Plataforma B2B,Media,3,Electrónica + hogar + juguetes,research
 Tecnologia,"Cargadores, porta laptop",Elektra celulares,https://www.elektra.mx/,,,México,México,México,Retail crédito,Media,2,Volumen,brand
 Tecnologia,"Cargadores, porta laptop",Exel del Norte,,,,Monterrey,NL,México,Distribuidor norte,Media,2,Cómputo,research
 Tecnologia,"Cargadores, porta laptop",FunCases,https://funcases.mx/,,,México,México,México,D2C,Media,3,Fundas personalizadas — ejemplo adyacente,research
-Tecnologia,"Cargadores, porta laptop",FunCases extra,https://funcases.mx/,,,México,México,México,D2C,Media,3,Personalizadas,research
 Tecnologia,"Cargadores, porta laptop",Gama Plus,https://gamaplus.com.mx/,,,Guadalajara,Jalisco,México,Mayoreo equipos+acc,Media,4,"Mínimo accesorios $1,500",research
-Tecnologia,"Cargadores, porta laptop",Gama Plus GDL extra,https://gamaplus.com.mx/,,,Guadalajara,Jalisco,México,Mayoreo mixto,Media,4,Equipos+acc,research
 Tecnologia,"Cargadores, porta laptop",Gameplanet,https://gameplanet.com/,,,CDMX,CDMX,México,Retail gamer,Media,3,Accesorios,brand
-Tecnologia,"Cargadores, porta laptop",Gameplanet acc extra,https://gameplanet.com/,,,CDMX,CDMX,México,Gamer retail,Media,3,Periféricos,brand
-Tecnologia,"Cargadores, porta laptop",Gloma extra,https://www.glomastore.mx/,,,México,México,México,Ecom,Media,3,Norte/golfo,research
 Tecnologia,"Cargadores, porta laptop",Gloma Store / Loma del Norte,https://www.glomastore.mx/,,,México,México,México,Ecom,Media,3,ASUS Golfo,research
 Tecnologia,"Cargadores, porta laptop",Grupo DECME,https://www.grupodecme.com/,,,México,México,México,Ecom / ML,Media,3,Componentes,research
-Tecnologia,"Cargadores, porta laptop",Grupo DECME extra,https://www.grupodecme.com/,,,México,México,México,Ecom/ML,Media,3,RAM y fuentes,research
 Tecnologia,"Cargadores, porta laptop",Happy Case,https://happycase.com.mx/,,,México,México,México,D2C,Media,3,Fundas personalizadas,research
-Tecnologia,"Cargadores, porta laptop",Happy Case extra,https://happycase.com.mx/,,,México,México,México,D2C,Media,3,Fundas,research
-Tecnologia,"Cargadores, porta laptop",HEB tech norte extra,https://www.heb.com.mx/,,,Monterrey,NL,México,Súper,Media,3,Accesorios,brand
 Tecnologia,"Cargadores, porta laptop",InstaCase,https://instacase.mx/,,,CDMX,CDMX,México,D2C fundas,Media,4,"+200 modelos, CDMX/Puebla/Cuernavaca",research
-Tecnologia,"Cargadores, porta laptop",InstaCase sucursales extra,https://instacase.mx/,,,CDMX,CDMX,México,D2C multi,Media,4,Puebla/Cuernavaca,research
 Tecnologia,"Cargadores, porta laptop",Intercompras,https://www.intercompras.com/,,,México,México,México,Ecom,Media,3,Tech,research
-Tecnologia,"Cargadores, porta laptop",Intercompras extra,https://www.intercompras.com/,,,México,México,México,Ecom,Media,3,Tech,research
-Tecnologia,"Cargadores, porta laptop",iShop extra,https://www.ishopmixup.com/,,,CDMX,CDMX,México,Apple retail,Media,3,Accesorios,brand
 Tecnologia,"Cargadores, porta laptop",iShop Mixup,https://www.ishopmixup.com/,,,CDMX,CDMX,México,Retail Apple/acc,Media,3,Cadena nacional,brand
 Tecnologia,"Cargadores, porta laptop",Kingston / Adata / Sandisk canal,https://coolook.mx/,,,México,México,México,Storage,Media,2,Vía Coolook y mayoristas,research
 Tecnologia,"Cargadores, porta laptop",La Casa de las Carcasas,https://lacasadelascarcasas.com.mx/,,,México,México,México,Retail fundas,Media,2,"Personalización, envíos MX",research
-Tecnologia,"Cargadores, porta laptop",Laptops Dell Vostro PCH extra,https://shop.pchconnect.com/,,(33) 1368-4390,México,México,México,SKU,Media,4,Oficina,research
 Tecnologia,"Cargadores, porta laptop",Litio / Novoline / Tauro,https://coolook.mx/,,,México,México,México,Marcas accesorios,Media,3,Asociados Coolook,research
-Tecnologia,"Cargadores, porta laptop",Liverpool Apple Shop extra,https://www.liverpool.com.mx/,,,CDMX,CDMX,México,Shop-in-shop,Media,3,Accesorios Apple,brand
 Tecnologia,"Cargadores, porta laptop",Liverpool tech,https://www.liverpool.com.mx/,,,CDMX,CDMX,México,Departamental,Media,3,Accesorios,brand
 Tecnologia,"Cargadores, porta laptop",Lumen,https://www.lumen.com.mx/,,,México,México,México,Cadena papelería/tech,Media,2,Sucursales,brand
-Tecnologia,"Cargadores, porta laptop",Lumen sucursales extra,https://www.lumen.com.mx/,,,México,México,México,Cadena,Media,2,Papelería+tech,brand
 Tecnologia,"Cargadores, porta laptop",Mayoreo celular GDL centro,,,3328462843,Guadalajara,Jalisco,México,Cluster,Media,3,16 de Septiembre / Juárez,research
-Tecnologia,"Cargadores, porta laptop",Mayoreo GDL MOCA extra,,,3328462843,Guadalajara,Jalisco,México,Sucursal,Media,3,Piso 3,research
 Tecnologia,"Cargadores, porta laptop",Mercado Libre accesorios,https://listado.mercadolibre.com.mx/cargadores-celular,,,México,México,México,Marketplace,Media,2,Official stores,research
 Tecnologia,"Cargadores, porta laptop",Misceláneas canal ELE-GATE,https://www.ele-gate.com/,,,México,México,México,Canal retail chico,Media,2,Papelerías y accesorios,research
 Tecnologia,"Cargadores, porta laptop",Mixup música + acc,https://www.ishopmixup.com/,,,CDMX,CDMX,México,Retail,Media,3,iShop grupo,brand
-Tecnologia,"Cargadores, porta laptop",Office Depot cables extra,https://www.officedepot.com.mx/,,,México,México,México,Oficina,Media,2,Cargadores laptop,brand
 Tecnologia,"Cargadores, porta laptop",Office Depot tech,https://www.officedepot.com.mx/,,,México,México,México,Retail oficina,Media,2,"Cables, mochilas, cargadores",brand
 Tecnologia,"Cargadores, porta laptop",Ofix,https://www.ofix.com.mx/,,,México,México,México,Oficina + tech,Media,2,Sucursales,research
-Tecnologia,"Cargadores, porta laptop",Ofix extra,https://www.ofix.com.mx/,,,México,México,México,Cadena,Media,2,Oficina,research
 Tecnologia,"Cargadores, porta laptop",Palacio tech,https://www.elpalaciodehierro.com/,,,CDMX,CDMX,México,Departamental,Media,3,Premium acc,brand
-Tecnologia,"Cargadores, porta laptop",Palacio tech premium extra,https://www.elpalaciodehierro.com/,,,CDMX,CDMX,México,Premium,Media,3,Marcas,brand
 Tecnologia,"Cargadores, porta laptop",PCEL / PC en Línea,https://pcel.com/,,,Monterrey,NL,México,Ecom + tienda,Media,4,"Componentes, tienda física MTY",research
-Tecnologia,"Cargadores, porta laptop",PCEL tienda Monterrey extra,https://pcel.com/,,,Monterrey,NL,México,Tienda física,Media,3,Norte,research
 Tecnologia,"Cargadores, porta laptop",PCH Mayoreo,https://www.pchmayoreo.com/,,,México,México,México,Mayoreo,Media,3,Distribución tecnología,research
 Tecnologia,"Cargadores, porta laptop",Plaza de la Tecnología CDMX,,,,CDMX,CDMX,México,Cluster mayoreo,Media,2,Centro — accesorios celular,research
-Tecnologia,"Cargadores, porta laptop",Sam's accesorios extra,https://www.sams.com.mx/,,,México,México,México,Club,Media,2,Mayoreo cons,brand
 Tecnologia,"Cargadores, porta laptop",Samsonite tech / porta laptop,https://samsonite.com.mx/,,,México,México,México,Marca maletas,Media,3,Línea business,brand
-Tecnologia,"Cargadores, porta laptop",Samsung acc extra,https://www.samsung.com/mx/,,,México,México,México,OEM acc,Media,2,Fundas oficiales,brand
 Tecnologia,"Cargadores, porta laptop",Samsung Business distribuidores,https://www.samsung.com/mx/business/contact-us/,,,México,México,México,Canal Samsung,Media,2,Precio fábrica,brand
 Tecnologia,"Cargadores, porta laptop",Samsung Experience Store acc,https://www.samsung.com/mx/,,,México,México,México,Marca,Media,3,Distribuidores,brand
-Tecnologia,"Cargadores, porta laptop",Sanborns cables extra,https://www.sanborns.com.mx/,,,CDMX,CDMX,México,Retail,Media,3,Último momento,brand
 Tecnologia,"Cargadores, porta laptop",Sanborns electrónica,https://www.sanborns.com.mx/,,,CDMX,CDMX,México,Retail,Media,3,Cables y accesorios,brand
 Tecnologia,"Cargadores, porta laptop",Steren,https://www.steren.com.mx/,,,CDMX,CDMX,México,Cadena electrónica,Media,3,"Cables, cargadores, accesorios",brand
-Tecnologia,"Cargadores, porta laptop",Steren sucursales extra,https://www.steren.com.mx/,,,CDMX,CDMX,México,Cadena,Media,3,Cables nacionales,brand
 Tecnologia,"Cargadores, porta laptop",TARLA,https://tarla.com.mx/,,,México,México,México,D2C,Media,3,Fundas piel + joyería,research
-Tecnologia,"Cargadores, porta laptop",TARLA piel extra,https://tarla.com.mx/,,,México,México,México,D2C premium,Media,3,Piel,research
 Tecnologia,"Cargadores, porta laptop",Telcel distribuidores accesorios,https://www.telcel.com/,,,México,México,México,Canal Telcel,Media,2,Equipos + acc,brand
 Tecnologia,"Cargadores, porta laptop",Todo para Smartphones,,,,Monterrey,NL,México,Mayoreo accesorios,Media,2,Inventario online,research
-Tecnologia,"Cargadores, porta laptop",Todo para Smartphones MTY extra,,,,Monterrey,NL,México,Mayoreo,Media,2,Inventario,research
-Tecnologia,"Cargadores, porta laptop",Valta CDMX extra,https://www.valta.com.mx/,,,CDMX,CDMX,México,Mayoreo equipos,Media,4,Registro web,research
 Tecnologia,"Cargadores, porta laptop",Valta mayoreo celulares,https://www.valta.com.mx/,,,CDMX,CDMX,México,Mayoreo equipos,Media,4,Envío gratis >$20k,research
 Tecnologia,"Cargadores, porta laptop",Vendedores ML/Amazon vía ELE-GATE,https://www.ele-gate.com/,,,México,México,México,Canal marketplace,Media,2,Abasto 32 estados,research
 Tecnologia,"Cargadores, porta laptop",Walmart accesorios,https://www.walmart.com.mx/,,,México,México,México,Retail,Media,2,Onn / marcas,brand
-Tecnologia,"Cargadores, porta laptop",Walmart Onn acc extra,https://www.walmart.com.mx/,,,México,México,México,Private label,Media,2,Cables / audífonos,brand
 Tecnologia,"Cargadores, porta laptop",Zegucom,https://www.zegucom.com.mx/,,,Guadalajara,Jalisco,México,Ecom GDL,Media,4,Componentes,research
-Tecnologia,"Cargadores, porta laptop",Zegucom GDL extra,https://www.zegucom.com.mx/,,,Guadalajara,Jalisco,México,Ecom GDL,Media,4,Stock/velocidad,research
 Tecnologia,"Cargadores, porta laptop",Anker México,,,,México,México,México,Marca accesorios,Baja,1,Power banks / GaN,brand
-Tecnologia,"Cargadores, porta laptop",Apple acc extra,,,,México,México,México,OEM acc,Baja,0,iShop,brand
 Tecnologia,"Cargadores, porta laptop",Apple accesorios autorizados,,,,México,México,México,Marca,Baja,1,iShop / MacStore,brand
 Tecnologia,"Cargadores, porta laptop",Baseus México,,,,México,México,México,Marca accesorios,Baja,1,Cables y cargadores,brand
-Tecnologia,"Cargadores, porta laptop",Belkin / Anker / Baseus retail extra,,,,México,México,México,Marcas acc,Baja,1,Canal moderno,brand
 Tecnologia,"Cargadores, porta laptop",Belkin México,,,,México,México,México,Marca accesorios,Baja,1,Cargadores y hubs,brand
 Tecnologia,"Cargadores, porta laptop",Best Buy MX legado online,,,,México,México,México,Ecom legado,Baja,1,Cerrado físico,brand
 Tecnologia,"Cargadores, porta laptop",Cables USB-C mayoreo,,,,CDMX,CDMX,México,Línea producto,Baja,1,Plaza Tecnología,research
@@ -143,40 +89,18 @@ Tecnologia,"Cargadores, porta laptop",Cargadores GaN mayoreo,,,,CDMX,CDMX,Méxic
 Tecnologia,"Cargadores, porta laptop",Case Logic México,,,,México,México,México,Marca maletines,Baja,1,Porta laptop,brand
 Tecnologia,"Cargadores, porta laptop",CT Internacional,,,,México,México,México,Distribuidor,Baja,1,Channel,research
 Tecnologia,"Cargadores, porta laptop",Dimercom,,,,Puebla,Puebla,México,Tienda regional,Baja,1,Componentes Puebla,research
-Tecnologia,"Cargadores, porta laptop",Dimercom Puebla extra,,,,Puebla,Puebla,México,Regional,Baja,1,Componentes,research
 Tecnologia,"Cargadores, porta laptop",Dimovil,,,,México,México,México,Mayoreo accesorios,Baja,1,Proveedor listado Tiendanube,research
 Tecnologia,"Cargadores, porta laptop",Fixoem,,,,Monterrey,NL,México,Refacciones,Baja,1,"Suc. MTY, Puebla, Tijuana",research
-Tecnologia,"Cargadores, porta laptop",Fixoem MTY extra,,,,Monterrey,NL,México,Refacciones,Baja,1,Técnico/mayorista,research
-Tecnologia,"Cargadores, porta laptop",Fixoem Puebla extra,,,,Puebla,Puebla,México,Refacciones,Baja,1,Sucursal,research
-Tecnologia,"Cargadores, porta laptop",Fixoem Tijuana extra,,,,Tijuana,BC,México,Refacciones,Baja,1,Frontera,research
 Tecnologia,"Cargadores, porta laptop",Grupo Dice,,,,México,México,México,Distribuidor,Baja,1,Channel,research
 Tecnologia,"Cargadores, porta laptop",High Pro,,,,México,México,México,Ecom gamer,Baja,1,Componentes,research
-Tecnologia,"Cargadores, porta laptop",High Pro / gamer acc extra,,,,México,México,México,Gamer,Baja,0,Periféricos,research
 Tecnologia,"Cargadores, porta laptop",Huawei / Honor accesorios MX,,,,México,México,México,Marca,Baja,1,Retail,brand
 Tecnologia,"Cargadores, porta laptop",Hubs USB-C / docks mayoreo,,,,México,México,México,Línea producto,Baja,0,Ugreen / Belkin,research
 Tecnologia,"Cargadores, porta laptop",Human Computer,,,,México,México,México,Ecom,Baja,1,Componentes,research
-Tecnologia,"Cargadores, porta laptop",Ignite Mérida,,,,Mérida,Yucatán,México,Tienda regional,Baja,1,Componentes sureste,research
-Tecnologia,"Cargadores, porta laptop",Ignite Mérida extra,,,,Mérida,Yucatán,México,Regional,Baja,1,Sureste,research
-Tecnologia,"Cargadores, porta laptop",Ingram extra,,,,México,México,México,Mayorista,Baja,0,Enterprise,brand
 Tecnologia,"Cargadores, porta laptop",Ingram Micro México,,,,México,México,México,Distribuidor mayorista,Baja,1,Enterprise/channel,brand
-Tecnologia,"Cargadores, porta laptop",Intcomex extra,,,,México,México,México,Mayorista,Baja,0,Channel,brand
 Tecnologia,"Cargadores, porta laptop",Intcomex México,,,,México,México,México,Distribuidor mayorista,Baja,1,Channel,brand
 Tecnologia,"Cargadores, porta laptop",Logitech México,,,,México,México,México,Marca períferos,Baja,1,Mice / teclados,brand
-Tecnologia,"Cargadores, porta laptop",Logitech retail extra,,,,México,México,México,Periféricos,Baja,0,Retail,brand
 Tecnologia,"Cargadores, porta laptop",MacStore,,,,CDMX,CDMX,México,Retail Apple,Baja,1,Autorizado,brand
 Tecnologia,"Cargadores, porta laptop",MagSafe / magnéticos mayoreo,,,,CDMX,CDMX,México,Línea producto,Baja,1,Fundas y pads,research
-Tecnologia,"Cargadores, porta laptop",Mayoreo celular Cancún,,,,Cancún,Q. Roo,México,Cluster turismo,Baja,1,Accesorios,research
-Tecnologia,"Cargadores, porta laptop",Mayoreo celular Chihuahua,,,,Chihuahua,Chihuahua,México,Cluster norte,Baja,1,Accesorios,research
-Tecnologia,"Cargadores, porta laptop",Mayoreo celular Culiacán,,,,Culiacán,Sinaloa,México,Cluster noroeste,Baja,1,Accesorios,research
-Tecnologia,"Cargadores, porta laptop",Mayoreo celular Hermosillo,,,,Hermosillo,Sonora,México,Cluster noroeste,Baja,1,Accesorios,research
-Tecnologia,"Cargadores, porta laptop",Mayoreo celular Juárez,,,,Cd. Juárez,Chihuahua,México,Cluster frontera,Baja,1,Accesorios,research
-Tecnologia,"Cargadores, porta laptop",Mayoreo celular León,,,,León,Guanajuato,México,Cluster Bajío,Baja,1,Accesorios,research
-Tecnologia,"Cargadores, porta laptop",Mayoreo celular Mexicali,,,,Mexicali,BC,México,Cluster frontera,Baja,1,Accesorios,research
-Tecnologia,"Cargadores, porta laptop",Mayoreo celular Mérida extra,,,,Mérida,Yucatán,México,Cluster sureste,Baja,1,PCH + locales,research
-Tecnologia,"Cargadores, porta laptop",Mayoreo celular Puebla,,,,Puebla,Puebla,México,Cluster,Baja,1,Centro / Fixoem,research
-Tecnologia,"Cargadores, porta laptop",Mayoreo celular Querétaro,,,,Querétaro,Querétaro,México,Cluster Bajío,Baja,1,Accesorios,research
-Tecnologia,"Cargadores, porta laptop",Mayoreo celular Tijuana,,,,Tijuana,BC,México,Cluster frontera,Baja,1,Fixoem + locales,research
-Tecnologia,"Cargadores, porta laptop",Mayoreo celular Veracruz,,,,Veracruz,Veracruz,México,Cluster golfo,Baja,1,Accesorios,research
 Tecnologia,"Cargadores, porta laptop",Mochilas porta laptop mayoreo,,,,México,México,México,Línea producto,Baja,0,Targus / Case Logic / Doto,research
 Tecnologia,"Cargadores, porta laptop",Motorola accesorios MX,,,,México,México,México,Marca,Baja,1,Retail,brand
 Tecnologia,"Cargadores, porta laptop",OfficeMax MX,,,,México,México,México,Retail oficina,Baja,0,Accesorios,brand
@@ -184,23 +108,15 @@ Tecnologia,"Cargadores, porta laptop",OtterBox México,,,,México,México,Méxic
 Tecnologia,"Cargadores, porta laptop",PC México,,,,México,México,México,Ecom,Baja,1,Componentes,research
 Tecnologia,"Cargadores, porta laptop",PCMR México,,,,México,México,México,Ecom gamer,Baja,1,Componentes,research
 Tecnologia,"Cargadores, porta laptop",PCX,,,,México,México,México,Ecom,Baja,1,Componentes,research
-Tecnologia,"Cargadores, porta laptop",Plaza Computación extra locales,,,,CDMX,CDMX,México,Cluster,Baja,1,Cómputo,research
-Tecnologia,"Cargadores, porta laptop",Plaza de la Computación CDMX,,,,CDMX,CDMX,México,Cluster,Baja,1,Cómputo centro,research
-Tecnologia,"Cargadores, porta laptop",Plaza Tecnología extra locales,,,,CDMX,CDMX,México,Cluster,Baja,1,Decenas de locales,research
 Tecnologia,"Cargadores, porta laptop",Power banks mayoreo,,,,CDMX,CDMX,México,Línea producto,Baja,1,Mayoreo celular,research
 Tecnologia,"Cargadores, porta laptop",Productos x mayoreo accesorios,,,,México,México,México,Mayoreo,Baja,1,Accesorios celular,research
 Tecnologia,"Cargadores, porta laptop",RadioShack MX residual / sucursales,,,,México,México,México,Retail legado,Baja,0,Accesorios,brand
 Tecnologia,"Cargadores, porta laptop",Razer / HyperX / Corsair canal MX,,,,México,México,México,Gamer marcas,Baja,1,Retail ecom,brand
 Tecnologia,"Cargadores, porta laptop",Ringke / ESR México,,,,México,México,México,Marca fundas,Baja,1,Ecom,brand
-Tecnologia,"Cargadores, porta laptop",Siglo XXI cómputo,,,,CDMX,CDMX,México,Cluster,Baja,1,Vendedores reunidos,research
 Tecnologia,"Cargadores, porta laptop",Sola Basic México,,,,México,México,México,Energía,Baja,0,Reguladores,brand
-Tecnologia,"Cargadores, porta laptop",Spigen / OtterBox retail extra,,,,México,México,México,Marcas fundas,Baja,1,Premium,brand
 Tecnologia,"Cargadores, porta laptop",Spigen México,,,,México,México,México,Marca fundas,Baja,1,Retail / ecom,brand
 Tecnologia,"Cargadores, porta laptop",Swissgear MX,,,,México,México,México,Marca mochilas,Baja,1,Laptop bags,brand
-Tecnologia,"Cargadores, porta laptop",Targus / Case Logic extra,,,,México,México,México,Porta laptop,Baja,0,Business,brand
 Tecnologia,"Cargadores, porta laptop",Targus México,,,,México,México,México,Marca porta laptop,Baja,1,Maletines,brand
-Tecnologia,"Cargadores, porta laptop",Tepito accesorios extra,,,,CDMX,CDMX,México,Popular,Baja,1,Cables/fundas,research
 Tecnologia,"Cargadores, porta laptop",Ugreen México,,,,México,México,México,Marca accesorios,Baja,1,Hubs y cables,brand
 Tecnologia,"Cargadores, porta laptop",Xiaomi / Mi Store MX,,,,México,México,México,Marca + accesorios,Baja,1,Cargadores y fundas,brand
 Tecnologia,"Cargadores, porta laptop",Xiaomi authorized acc MX,,,,México,México,México,Canal Xiaomi,Baja,0,Fundas y cargadores,brand
-Tecnologia,"Cargadores, porta laptop",Xiaomi Mi acc extra,,,,México,México,México,Ecosistema,Baja,0,Cargadores,brand
