@@ -390,8 +390,14 @@ Lote 09 exportado: `leads/por_nicho/09_almohadas_cobijas.*` — **215 leads** (5
 
 ### Juguetes — Artículos miniatura o a escala
 
+Lote 14 exportado: `leads/por_nicho/14_articulos_miniatura.*` — **217 leads** (53 Alta).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
+| Trenes.mx | https://trenes.mx/ | Importador | **Alta** | Tamiya/Revell, Plaza Satélite desde 1974 |
+| Hobby Models | https://hobbymodels.com.mx/ | Mayoreo/menudeo | **Alta** | Morelia, modelismo y RC |
+| Hobbymex | https://hobbymex.com.mx/ | Tienda | **Alta** | Escandón CDMX |
+| Fenix Hobby | https://fenixhobby.com.mx/ | Tienda + ecom | **Alta** | Guadalajara |
 | Trenes.mx (ejemplo) | https://trenes.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
 
 ### Juguetes — Juguetes mayoreo
@@ -584,7 +590,7 @@ Estos nichos quedaron cortos en hallazgos frescos (solo ejemplo o 1 lead). Convi
 - **Fintech / Envío de tarjetas** (1 leads nuevos)
 - **Hogar / Artículos de limpieza** (1 leads nuevos)
 - **Hogar / Utensilios de cocina, tuppers** (0 leads nuevos)
-- **Juguetes / Artículos miniatura o a escala** (0 leads nuevos)
+
 - **Juguetes / Juguetes mayoreo** (1 leads nuevos)
 - **Libros / Libros de colección** (1 leads nuevos)
 - **MedTech / Suministros médicos/farmacéuticos** (1 leads nuevos)

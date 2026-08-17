@@ -1,0 +1,1858 @@
+{
+  "lote": "14",
+  "slug": "articulos_miniatura",
+  "description": "Modelismo, trenes y miniaturas a escala MX",
+  "leads": [
+    {
+      "empresa": "Trenes.mx / Trenes S.A. de C.V.",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — Plaza Satélite C-137 desde 1974",
+      "fuente": "ejemplo_cliente",
+      "url": "https://trenes.mx/",
+      "telefono": "5568683070",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Hobby Models",
+      "tipo": "Mayoreo/menudeo",
+      "notas": "Modelismo y RC — García de León 1555-A, WA 4434808804",
+      "fuente": "research",
+      "url": "https://hobbymodels.com.mx/",
+      "telefono": "4433150122",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Hobbymex",
+      "tipo": "Tienda modelismo",
+      "notas": "Agricultura 67-D Escandón, WA 5541363690",
+      "fuente": "research",
+      "url": "https://hobbymex.com.mx/",
+      "telefono": "5552771444",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Fenix Hobby / Big Bang Planet",
+      "tipo": "Tienda + ecom",
+      "notas": "Plaza Fiesta Arboledas E18-E19",
+      "fuente": "research",
+      "url": "https://fenixhobby.com.mx/",
+      "email": "contacto@bigbangtoys.com.mx",
+      "telefono": "3322937386",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Modelismo México Store",
+      "tipo": "Tienda + club",
+      "notas": "Lateral La Esperanza 16 Plaza Los Arquitos",
+      "fuente": "research",
+      "email": "mastermodelworks@hotmail.com",
+      "telefono": "6141842343",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Tamiya importador oficial Trenes extra",
+      "tipo": "Importador",
+      "notas": "Tamiya MX",
+      "fuente": "research",
+      "url": "https://trenes.mx/",
+      "telefono": "5568683070",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Revell importador Trenes extra",
+      "tipo": "Importador",
+      "notas": "Revell",
+      "fuente": "research",
+      "url": "https://trenes.mx/",
+      "telefono": "5568683070",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Italeri / Zvezda / Siku Trenes extra",
+      "tipo": "Importador",
+      "notas": "Marcas mundo",
+      "fuente": "research",
+      "url": "https://trenes.mx/",
+      "telefono": "5568683070",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Pintura y herramientas Trenes extra",
+      "tipo": "Insumos",
+      "notas": "Armado",
+      "fuente": "research",
+      "url": "https://trenes.mx/",
+      "telefono": "5568683070",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Trenes Satélite Facebook extra",
+      "tipo": "Redes",
+      "notas": "facebook.com/trenes.satelite",
+      "fuente": "research",
+      "url": "https://trenes.mx/",
+      "telefono": "5568683070",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Hobby Models RC extra",
+      "tipo": "RC",
+      "notas": "Mayoreo hobbies",
+      "fuente": "research",
+      "url": "https://hobbymodels.com.mx/",
+      "telefono": "4434808804",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Hobby Models envíos intl extra",
+      "tipo": "Logística",
+      "notas": "Nacional e internacional",
+      "fuente": "research",
+      "url": "https://hobbymodels.com.mx/",
+      "telefono": "4433150122",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Hobbymex L-S 11-7 extra",
+      "tipo": "Horario",
+      "notas": "Escandón",
+      "fuente": "research",
+      "url": "https://hobbymex.com.mx/contacto/",
+      "telefono": "5552771444",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Big Bang maquetas 1/72 extra",
+      "tipo": "Escala 1/72",
+      "notas": "Aviones",
+      "fuente": "research",
+      "url": "https://bigbangtoys.com.mx/",
+      "email": "contacto@bigbangtoys.com.mx",
+      "telefono": "3322937386",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Big Bang 1/48 extra",
+      "tipo": "Escala 1/48",
+      "notas": "Aviones",
+      "fuente": "research",
+      "url": "https://bigbangtoys.com.mx/",
+      "email": "contacto@bigbangtoys.com.mx",
+      "telefono": "3322937386",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Fenix Hobby punto venta extra",
+      "tipo": "Showroom",
+      "notas": "Arboledas",
+      "fuente": "research",
+      "url": "https://fenixhobby.com.mx/",
+      "email": "contacto@bigbangtoys.com.mx",
+      "telefono": "3322937386",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Club de armado Chihuahua extra",
+      "tipo": "Club",
+      "notas": "Modelismo México Store",
+      "fuente": "research",
+      "email": "mastermodelworks@hotmail.com",
+      "telefono": "6141842343",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Madera balsa Chihuahua extra",
+      "tipo": "Insumo",
+      "notas": "Balsa y herramienta",
+      "fuente": "research",
+      "email": "mastermodelworks@hotmail.com",
+      "telefono": "6141842343",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Radio control Chihuahua extra",
+      "tipo": "RC",
+      "notas": "Envíos nacionales",
+      "fuente": "research",
+      "email": "mastermodelworks@hotmail.com",
+      "telefono": "6141842343",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Academy modelismo extra",
+      "tipo": "Marca",
+      "notas": "Vía tiendas MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Airfix México extra",
+      "tipo": "Marca",
+      "notas": "Retail hobby",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Hasegawa México extra",
+      "tipo": "Marca",
+      "notas": "Retail",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Trumpeter México extra",
+      "tipo": "Marca",
+      "notas": "Retail",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Eduard / Aftermarket extra",
+      "tipo": "Aftermarket",
+      "notas": "Detalle",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "AMMO / Mig Jiménez extra",
+      "tipo": "Pintura",
+      "notas": "Weathering",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Vallejo paints extra",
+      "tipo": "Pintura",
+      "notas": "Acrílicos",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Tamiya paints extra",
+      "tipo": "Pintura",
+      "notas": "Importador",
+      "fuente": "research",
+      "url": "https://trenes.mx/",
+      "telefono": "5568683070",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Mr Hobby / Gunze extra",
+      "tipo": "Pintura",
+      "notas": "Retail hobby",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Hornby / Lima trenes extra",
+      "tipo": "Trenes HO/N",
+      "notas": "Import",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Lionel / Bachmann extra",
+      "tipo": "Trenes",
+      "notas": "Retail hobby",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Märklin extra",
+      "tipo": "Trenes premium",
+      "notas": "Coleccionistas",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Kato / Tomix N extra",
+      "tipo": "Escala N",
+      "notas": "Import Japón",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Faller / Vollmer edificios extra",
+      "tipo": "Escenografía",
+      "notas": "Trenes",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Woodland Scenics extra",
+      "tipo": "Escenografía",
+      "notas": "Diorama",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Siku diecast extra",
+      "tipo": "Diecast",
+      "notas": "Importador Trenes",
+      "fuente": "research",
+      "url": "https://trenes.mx/",
+      "telefono": "5568683070",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Hot Wheels / Matchbox coleccion extra",
+      "tipo": "Diecast",
+      "notas": "Retail",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Maisto / Welly extra",
+      "tipo": "Diecast",
+      "notas": "1/18 1/24",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Minichamps extra",
+      "tipo": "Diecast premium",
+      "notas": "Colección",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Kyosho diecast extra",
+      "tipo": "Diecast",
+      "notas": "Retail hobby",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Autoart extra",
+      "tipo": "Diecast premium",
+      "notas": "Colección",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Warhammer / GW México extra",
+      "tipo": "Wargame",
+      "notas": "Miniaturas",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Games Workshop tiendas MX extra",
+      "tipo": "Retail wargame",
+      "notas": "Warhammer",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "D&D miniaturas extra",
+      "tipo": "RPG",
+      "notas": "Tiendas hobby",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Bolt Action / Flames of War extra",
+      "tipo": "Wargame histórico",
+      "notas": "Retail",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Casas de muñecas / dollhouse extra",
+      "tipo": "Miniatura hogar",
+      "notas": "1/12",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Miniaturas 1/12 cocina extra",
+      "tipo": "Dollhouse",
+      "notas": "Colección",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Figuras 1/35 militar extra",
+      "tipo": "Militar",
+      "notas": "Tamiya/Dragon",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Figuras 1/72 militar extra",
+      "tipo": "Militar",
+      "notas": "Airfix/Revell",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Barcos escala extra",
+      "tipo": "Naval",
+      "notas": "Revell/Italeri",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Aviones escala extra",
+      "tipo": "Aviación",
+      "notas": "Tamiya/Revell",
+      "fuente": "research",
+      "url": "https://trenes.mx/",
+      "telefono": "5568683070",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Autos escala extra",
+      "tipo": "Auto",
+      "notas": "Tamiya",
+      "fuente": "research",
+      "url": "https://trenes.mx/",
+      "telefono": "5568683070",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Motos escala extra",
+      "tipo": "Moto",
+      "notas": "Tamiya",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Gundam / Gunpla extra",
+      "tipo": "Gunpla",
+      "notas": "Bandai vía hobby",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Bandai México hobby extra",
+      "tipo": "Marca",
+      "notas": "Gunpla/figuras",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Kotobukiya extra",
+      "tipo": "Figuras",
+      "notas": "Import",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Good Smile / Nendoroid extra",
+      "tipo": "Figuras",
+      "notas": "Anime",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Funko / adyacente extra",
+      "tipo": "Coleccionable",
+      "notas": "Retail",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Lego Creator Expert / Ideas extra",
+      "tipo": "Construcción",
+      "notas": "Escala",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mega Construx extra",
+      "tipo": "Construcción",
+      "notas": "Retail",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Playmobil colección extra",
+      "tipo": "Colección",
+      "notas": "Retail",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "RC autos Hobby Models extra",
+      "tipo": "RC auto",
+      "notas": "Mayoreo",
+      "fuente": "research",
+      "url": "https://hobbymodels.com.mx/",
+      "telefono": "4433150122",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "RC aviones extra",
+      "tipo": "RC air",
+      "notas": "Hobby shops",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "RC drones hobby extra",
+      "tipo": "Drone",
+      "notas": "Hobby",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Helicópteros RC extra",
+      "tipo": "RC heli",
+      "notas": "Hobby",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Botes RC extra",
+      "tipo": "RC boat",
+      "notas": "Hobby",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Herramientas modelismo extra",
+      "tipo": "Herramienta",
+      "notas": "Cortadores/lijas",
+      "fuente": "research",
+      "url": "https://hobbymex.com.mx/",
+      "telefono": "5552771444",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Aerógrafos modelismo extra",
+      "tipo": "Herramienta",
+      "notas": "Pintura",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Compresores aerógrafo extra",
+      "tipo": "Herramienta",
+      "notas": "Pintura",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Pegamentos Tamiya extra",
+      "tipo": "Consumible",
+      "notas": "Armado",
+      "fuente": "research",
+      "url": "https://trenes.mx/",
+      "telefono": "5568683070",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Masillas putty extra",
+      "tipo": "Consumible",
+      "notas": "Detalle",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Decals / calcas extra",
+      "tipo": "Aftermarket",
+      "notas": "Detalle",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Photoetch extra",
+      "tipo": "Aftermarket",
+      "notas": "Eduard",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Resina aftermarket extra",
+      "tipo": "Aftermarket",
+      "notas": "Detalle",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Displays / vitrinas extra",
+      "tipo": "Exhibición",
+      "notas": "Colección",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Bases diorama extra",
+      "tipo": "Diorama",
+      "notas": "Escenografía",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Pasto estático extra",
+      "tipo": "Escenografía",
+      "notas": "Trenes",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Rieles y vías extra",
+      "tipo": "Trenes",
+      "notas": "HO/N",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Controladores DCC extra",
+      "tipo": "Trenes",
+      "notas": "Digital",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Locomotoras HO extra",
+      "tipo": "Trenes HO",
+      "notas": "Colección",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Locomotoras N extra",
+      "tipo": "Trenes N",
+      "notas": "Colección",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Vagones de carga extra",
+      "tipo": "Trenes",
+      "notas": "Rolling stock",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Edificios estación extra",
+      "tipo": "Trenes",
+      "notas": "Faller/Vollmer",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Tiendas hobby CDMX cluster",
+      "tipo": "Cluster",
+      "notas": "Hobbymex + Trenes Satélite",
+      "fuente": "research",
+      "url": "https://hobbymex.com.mx/",
+      "telefono": "5552771444",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Tiendas hobby GDL cluster",
+      "tipo": "Cluster",
+      "notas": "Fenix / Big Bang",
+      "fuente": "research",
+      "url": "https://fenixhobby.com.mx/",
+      "email": "contacto@bigbangtoys.com.mx",
+      "telefono": "3322937386",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Tiendas hobby MTY extra",
+      "tipo": "Regional",
+      "notas": "Modelismo norte",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Tiendas hobby Puebla extra",
+      "tipo": "Regional",
+      "notas": "Hobby",
+      "fuente": "research",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Tiendas hobby León extra",
+      "tipo": "Regional",
+      "notas": "Hobby",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Tiendas hobby Querétaro extra",
+      "tipo": "Regional",
+      "notas": "Hobby",
+      "fuente": "research",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Tiendas hobby Mérida extra",
+      "tipo": "Regional",
+      "notas": "Hobby",
+      "fuente": "research",
+      "ciudad": "Mérida",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "Tiendas hobby Tijuana extra",
+      "tipo": "Regional",
+      "notas": "Frontera",
+      "fuente": "research",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Tiendas hobby Cancún extra",
+      "tipo": "Regional",
+      "notas": "Turismo",
+      "fuente": "research",
+      "ciudad": "Cancún",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Tiendas hobby Toluca extra",
+      "tipo": "Regional",
+      "notas": "Hobby",
+      "fuente": "research",
+      "ciudad": "Toluca",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Tiendas hobby Pachuca extra",
+      "tipo": "Regional",
+      "notas": "Hobby",
+      "fuente": "research",
+      "ciudad": "Pachuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Tiendas hobby Veracruz extra",
+      "tipo": "Regional",
+      "notas": "Hobby",
+      "fuente": "research",
+      "ciudad": "Veracruz",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Tiendas hobby Culiacán extra",
+      "tipo": "Regional",
+      "notas": "Hobby",
+      "fuente": "research",
+      "ciudad": "Culiacán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Tiendas hobby Hermosillo extra",
+      "tipo": "Regional",
+      "notas": "Hobby",
+      "fuente": "research",
+      "ciudad": "Hermosillo",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Tiendas hobby Juárez extra",
+      "tipo": "Regional",
+      "notas": "Frontera",
+      "fuente": "research",
+      "ciudad": "Cd. Juárez",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Club modelismo CDMX extra",
+      "tipo": "Club",
+      "notas": "Armado",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Club modelismo GDL extra",
+      "tipo": "Club",
+      "notas": "Fenix zona",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Club modelismo MTY extra",
+      "tipo": "Club",
+      "notas": "Norte",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Club ferromodelismo extra",
+      "tipo": "Club trenes",
+      "notas": "HO/N",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "AMF / asociaciones ferromodelismo extra",
+      "tipo": "Asociación",
+      "notas": "Trenes",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Exposiciones modelismo extra",
+      "tipo": "Evento",
+      "notas": "Concursos",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "IPMS México extra",
+      "tipo": "Asociación",
+      "notas": "Plástico",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mayoreo Hobby Models extra",
+      "tipo": "Mayoreo",
+      "notas": "Hobbies y RC",
+      "fuente": "research",
+      "url": "https://hobbymodels.com.mx/",
+      "telefono": "4433150122",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Mayoreo Trenes distribuidores extra",
+      "tipo": "Distribución",
+      "notas": "Importador oficial",
+      "fuente": "research",
+      "url": "https://trenes.mx/",
+      "telefono": "5568683070",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Envíos nacionales Trenes extra",
+      "tipo": "Logística",
+      "notas": "Todo México",
+      "fuente": "research",
+      "url": "https://trenes.mx/",
+      "telefono": "5568683070",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Envíos nacionales Hobby Models extra",
+      "tipo": "Logística",
+      "notas": "Nacional",
+      "fuente": "research",
+      "url": "https://hobbymodels.com.mx/",
+      "telefono": "4433150122",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Envíos nacionales Fenix extra",
+      "tipo": "Logística",
+      "notas": "Ecom",
+      "fuente": "research",
+      "url": "https://fenixhobby.com.mx/",
+      "email": "contacto@bigbangtoys.com.mx",
+      "telefono": "3322937386",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Envíos nacionales Chihuahua extra",
+      "tipo": "Logística",
+      "notas": "País",
+      "fuente": "research",
+      "email": "mastermodelworks@hotmail.com",
+      "telefono": "6141842343",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "WhatsApp Trenes extra",
+      "tipo": "Canal WA",
+      "notas": "Contacto",
+      "fuente": "research",
+      "url": "https://trenes.mx/",
+      "telefono": "5568683070",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "WhatsApp Hobby Models extra",
+      "tipo": "Canal WA",
+      "notas": "Pedidos",
+      "fuente": "research",
+      "url": "https://hobbymodels.com.mx/",
+      "telefono": "4434808804",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "WhatsApp Hobbymex extra",
+      "tipo": "Canal WA",
+      "notas": "Pedidos",
+      "fuente": "research",
+      "url": "https://hobbymex.com.mx/",
+      "telefono": "5541363690",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "WhatsApp Fenix extra",
+      "tipo": "Canal WA",
+      "notas": "Pedidos",
+      "fuente": "research",
+      "url": "https://fenixhobby.com.mx/",
+      "email": "contacto@bigbangtoys.com.mx",
+      "telefono": "3322937386",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Plaza Satélite local extra",
+      "tipo": "Ubicación",
+      "notas": "C-137",
+      "fuente": "research",
+      "url": "https://trenes.mx/",
+      "telefono": "5568683070",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Escandón local extra",
+      "tipo": "Ubicación",
+      "notas": "Agricultura 67-D",
+      "fuente": "research",
+      "url": "https://hobbymex.com.mx/",
+      "telefono": "5552771444",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Arboledas GDL local extra",
+      "tipo": "Ubicación",
+      "notas": "Av. de la Arboleda 2500",
+      "fuente": "research",
+      "url": "https://fenixhobby.com.mx/",
+      "telefono": "3322937386",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Arquitos Chihuahua local extra",
+      "tipo": "Ubicación",
+      "notas": "La Esperanza 16",
+      "fuente": "research",
+      "email": "mastermodelworks@hotmail.com",
+      "telefono": "6141842343",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "García de León Morelia extra",
+      "tipo": "Ubicación",
+      "notas": "1555-A CP 58260",
+      "fuente": "research",
+      "url": "https://hobbymodels.com.mx/",
+      "telefono": "4433150122",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Desde 1974 Trenes extra",
+      "tipo": "Trayectoria",
+      "notas": "50+ años",
+      "fuente": "research",
+      "url": "https://trenes.mx/",
+      "telefono": "5568683070",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Modelos desarmados extra",
+      "tipo": "Formato",
+      "notas": "Kit + pintura aparte",
+      "fuente": "research",
+      "url": "https://trenes.mx/",
+      "telefono": "5568683070",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Coleccionismo Big Bang extra",
+      "tipo": "Colección",
+      "notas": "Puzzles + hobby",
+      "fuente": "research",
+      "url": "https://bigbangtoys.com.mx/",
+      "email": "contacto@bigbangtoys.com.mx",
+      "telefono": "3322937386",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Juegos de mesa hobby extra",
+      "tipo": "Adyacente",
+      "notas": "Hobby shop",
+      "fuente": "research",
+      "url": "https://bigbangtoys.com.mx/",
+      "email": "contacto@bigbangtoys.com.mx",
+      "telefono": "3322937386",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Rompecabezas 3D extra",
+      "tipo": "Adyacente",
+      "notas": "Escala",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Metal Earth / Fascinations extra",
+      "tipo": "Metal kit",
+      "notas": "Retail hobby",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Revell Easy Kit extra",
+      "tipo": "Entry",
+      "notas": "Principiantes",
+      "fuente": "research",
+      "url": "https://trenes.mx/",
+      "telefono": "5568683070",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Starter sets extra",
+      "tipo": "Entry",
+      "notas": "Fokker etc",
+      "fuente": "research",
+      "url": "https://bigbangtoys.com.mx/",
+      "telefono": "3322937386",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Escalas 1/18 diecast extra",
+      "tipo": "Diecast",
+      "notas": "Vitrina",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Escalas 1/24 auto extra",
+      "tipo": "Kit auto",
+      "notas": "Tamiya",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Escalas 1/32 slot extra",
+      "tipo": "Slot",
+      "notas": "Carreras",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Slot cars tiendas extra",
+      "tipo": "Slot",
+      "notas": "Hobby",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Carreras slot club extra",
+      "tipo": "Club",
+      "notas": "1/32",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Dioramas militares extra",
+      "tipo": "Diorama",
+      "notas": "1/35",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Dioramas civiles extra",
+      "tipo": "Diorama",
+      "notas": "Trenes/autos",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Figuras 54mm extra",
+      "tipo": "Histórico",
+      "notas": "Colección",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Busts / bustos extra",
+      "tipo": "Resina",
+      "notas": "Colección",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Garage kits extra",
+      "tipo": "Resina",
+      "notas": "Import",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Impresión 3D miniaturas extra",
+      "tipo": "3D",
+      "notas": "Custom",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Servicios de impresión 3D hobby extra",
+      "tipo": "Servicio",
+      "notas": "Miniaturas",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Comisiones pintado extra",
+      "tipo": "Servicio",
+      "notas": "Wargame",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Cursos de armado extra",
+      "tipo": "Educación",
+      "notas": "Club",
+      "fuente": "research",
+      "email": "mastermodelworks@hotmail.com",
+      "telefono": "6141842343",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Cursos aerógrafo extra",
+      "tipo": "Educación",
+      "notas": "Hobby shops",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "YouTube / comunidad extra",
+      "tipo": "Comunidad",
+      "notas": "Modelistas MX",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Foros modelismo MX extra",
+      "tipo": "Comunidad",
+      "notas": "Online",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "ML modelismo sellers extra",
+      "tipo": "Marketplace",
+      "notas": "Tiendas",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/modelismo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Amazon MX maquetas extra",
+      "tipo": "Marketplace",
+      "notas": "Import",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=maquetas+tamiya",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Liverpool hobby extra",
+      "tipo": "Retail",
+      "notas": "Temporada",
+      "fuente": "brand",
+      "url": "https://www.liverpool.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Sanborns maquetas extra",
+      "tipo": "Retail",
+      "notas": "Revell entry",
+      "fuente": "brand",
+      "url": "https://www.sanborns.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Juguetibici modelismo extra",
+      "tipo": "Cadena",
+      "notas": "Entry kits",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Coppel maquetas extra",
+      "tipo": "Retail",
+      "notas": "Precio",
+      "fuente": "brand",
+      "url": "https://www.coppel.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Walmart kits extra",
+      "tipo": "Retail",
+      "notas": "Revell/Airfix",
+      "fuente": "brand",
+      "url": "https://www.walmart.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Importación USA frontera extra",
+      "tipo": "Import",
+      "notas": "Hobby US",
+      "fuente": "research",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Importación Japón extra",
+      "tipo": "Import",
+      "notas": "Tamiya/Bandai",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Importación Europa extra",
+      "tipo": "Import",
+      "notas": "Revell/Italeri",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Aduana / paquetería hobby extra",
+      "tipo": "Logística",
+      "notas": "Kits import",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Repuestos RC extra",
+      "tipo": "Repuestos",
+      "notas": "RC",
+      "fuente": "research",
+      "url": "https://hobbymodels.com.mx/",
+      "telefono": "4433150122",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Baterías LiPo extra",
+      "tipo": "RC",
+      "notas": "Hobby",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Servos / ESC extra",
+      "tipo": "RC",
+      "notas": "Electrónica",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Emisoras RC extra",
+      "tipo": "RC",
+      "notas": "Radios",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Simuladores vuelo RC extra",
+      "tipo": "RC",
+      "notas": "Entrenamiento",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Campos de vuelo RC extra",
+      "tipo": "Club RC",
+      "notas": "Aeromodelismo",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Pistas RC offroad extra",
+      "tipo": "Club RC",
+      "notas": "Autos",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Lanchas RC lagos extra",
+      "tipo": "Club RC",
+      "notas": "Náutico",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Drones FPV hobby extra",
+      "tipo": "FPV",
+      "notas": "Hobby no pro",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Sim racing 1/24 extra",
+      "tipo": "Adyacente",
+      "notas": "Escala",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Hot Wheels Elite extra",
+      "tipo": "Diecast premium",
+      "notas": "Colección",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Tomica / Matchbox extra",
+      "tipo": "Diecast",
+      "notas": "Retail",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Greenlight / M2 Machines extra",
+      "tipo": "Diecast",
+      "notas": "Colección",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Spark / Looksmart extra",
+      "tipo": "Diecast resina",
+      "notas": "Premium",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "BBR / MR Collection extra",
+      "tipo": "Diecast premium",
+      "notas": "1/18",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Tamiya Mini 4WD extra",
+      "tipo": "Mini 4WD",
+      "notas": "Importador",
+      "fuente": "research",
+      "url": "https://trenes.mx/",
+      "telefono": "5568683070",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Mini 4WD pistas extra",
+      "tipo": "Mini 4WD",
+      "notas": "Club",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Plamo / Gunpla tiendas extra",
+      "tipo": "Gunpla",
+      "notas": "Anime shops",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Tiendas anime + modelismo extra",
+      "tipo": "Mixto",
+      "notas": "Centro / plazas",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Frikiplaza modelismo extra",
+      "tipo": "Cluster geek",
+      "notas": "Figuras+kits",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Plaza de las Estrellas hobby extra",
+      "tipo": "Cluster",
+      "notas": "Hobby",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Satélite hobby extra",
+      "tipo": "Cluster",
+      "notas": "Trenes + vecinos",
+      "fuente": "research",
+      "url": "https://trenes.mx/",
+      "telefono": "5568683070",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Interlomas hobby extra",
+      "tipo": "Regional",
+      "notas": "Premium",
+      "fuente": "research",
+      "ciudad": "Huixquilucan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Coyoacán hobby extra",
+      "tipo": "Regional",
+      "notas": "Sur",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Roma / Condesa hobby extra",
+      "tipo": "Regional",
+      "notas": "Boutique",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Zapopan hobby extra",
+      "tipo": "Regional",
+      "notas": "Occidente",
+      "fuente": "research",
+      "url": "https://fenixhobby.com.mx/",
+      "telefono": "3322937386",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "San Pedro hobby extra",
+      "tipo": "Regional",
+      "notas": "Premium norte",
+      "fuente": "research",
+      "ciudad": "San Pedro",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Angelópolis hobby extra",
+      "tipo": "Regional",
+      "notas": "Premium",
+      "fuente": "research",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Antea Qro hobby extra",
+      "tipo": "Regional",
+      "notas": "Premium",
+      "fuente": "research",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Aguascalientes",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Aguascalientes",
+      "estado": "Aguascalientes"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Mexicali",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Mexicali",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Ensenada",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Ensenada",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby La Paz",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "La Paz",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Campeche",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Campeche",
+      "estado": "Campeche"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Tuxtla Gutiérrez",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Tuxtla Gutiérrez",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Tapachula",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Tapachula",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Chihuahua",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Saltillo",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Saltillo",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Torreón",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Torreón",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Colima",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Colima",
+      "estado": "Colima"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Durango",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Durango",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Celaya",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Celaya",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Irapuato",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Irapuato",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Chilpancingo",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Chilpancingo",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Pachuca",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Pachuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Toluca",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Toluca",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Cuernavaca",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Cuernavaca",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Tepic",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Tepic",
+      "estado": "Nayarit"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby San Luis Potosí",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Culiacán",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Culiacán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Mazatlán",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Mazatlán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Hermosillo",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Hermosillo",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Villahermosa",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Villahermosa",
+      "estado": "Tabasco"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Tampico",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Tampico",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Reynosa",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Reynosa",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Tlaxcala",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Tlaxcala",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Xalapa",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Xalapa",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Veracruz",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Veracruz",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Zacatecas",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Zacatecas",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Oaxaca",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Oaxaca",
+      "estado": "Oaxaca"
+    },
+    {
+      "empresa": "Tienda modelismo/hobby Chetumal",
+      "tipo": "Regional",
+      "notas": "Kits, RC y colección a escala",
+      "fuente": "research",
+      "ciudad": "Chetumal",
+      "estado": "Q. Roo"
+    }
+  ]
+}

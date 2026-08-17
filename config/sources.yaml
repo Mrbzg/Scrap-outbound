@@ -254,7 +254,35 @@ lotes:
       - tienda ballet Capezio Bloch México
       - calzado flamenco jazz tap .mx
 
-# Plantilla para lotes futuros (13+)
+  "13":
+    slug: juguetes_sensoriales
+    giro: Juguetes
+    nicho: Juguetes sensoriales y terapeuticos
+    ejemplo: https://www.coconini.com.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/13_juguetes_sensoriales.json
+    search_queries:
+      - juguetes sensoriales Montessori TEA México mayoreo
+      - material didáctico terapéutico tienda .mx
+      - Pikler squishy pop-it mayoreo México
+
+  "14":
+    slug: articulos_miniatura
+    giro: Juguetes
+    nicho: Articulos miniatura o a escala
+    ejemplo: https://trenes.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/14_articulos_miniatura.json
+    search_queries:
+      - modelismo escala México Tamiya Revell tienda
+      - trenes HO N ferromodelismo México
+      - hobby RC maquetas mayoreo .mx
+
+# Plantilla para lotes futuros (15+)
 # Copiar bloque y llenar sources + seeds
 template_lote:
   slug: ""
