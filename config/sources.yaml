@@ -371,7 +371,35 @@ lotes:
       - lentes de contacto cosméticos mayoreo FreshLook
       - óptica pupilentes Halloween Freshlady
 
-# Plantilla para lotes futuros (21+)
+  "21":
+    slug: insumos_unas_press_on
+    giro: Belleza
+    nicho: Insumos para uñas, uñas press on
+    ejemplo: https://unikastudiomexico.com/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/21_insumos_unas_press_on.json
+    search_queries:
+      - uñas press on mayoreo México tienda .mx
+      - insumos uñas Organic Fantasy Wapizima
+      - esmaltes gel tips acrílico mayoreo
+
+  "22":
+    slug: tarot_velas_esotericas
+    giro: Articulos religiosos
+    nicho: Tarot, lociones y velas esotericas
+    ejemplo: https://pinka.com.mx/tarots-y-oraculos/tarot/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/22_tarot_velas_esotericas.json
+    search_queries:
+      - tienda esotérica México tarot velas .mx
+      - velas mágicas mayoreo Centro CDMX
+      - cuarzos sahumerios oráculos tienda
+
+# Plantilla para lotes futuros (23+)
 # Copiar bloque y llenar sources + seeds
 template_lote:
   slug: ""

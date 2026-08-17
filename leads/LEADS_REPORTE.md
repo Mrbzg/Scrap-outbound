@@ -76,10 +76,14 @@
 | Belleza | Pupilentes | Lentematic | https://lentematic.com/collections/vista-pupilentes-de-colores | SPGG desde 2012, clientes@lentematic.com |
 | Belleza | Pupilentes | GioLens Vision Care | https://www.giolensvisioncare.com.mx/ | Tijuana mayoreo, giolens@hotmail.com |
 | Belleza | Pupilentes | SColorsMX | https://www.scolorsmx.com/ | Freshlady, scolorsmx@gmail.com |
-| Belleza | Insumos para uñas / press on | Círculo B | https://circulob.mx/ | Esmaltes, pegamentos, piedritas |
-| Artículos religiosos / Esoterismo | Tarot, lociones y velas esotéricas | Stellum | https://www.stellum.mx/ | Monterrey, tarot, velas mágicas |
-| Artículos religiosos / Esoterismo | Tarot, lociones y velas esotéricas | Tienda Esotérica MX | https://tiendaesoterica.com.mx/ | Tarot, velas, wicca, amuletos |
-| Artículos religiosos / Esoterismo | Tarot, lociones y velas esotéricas | Magic Ways MX | https://magicways.mx/ | Velas, tarot, cuarzos - Metepec |
+| Belleza | Insumos para uñas / press on | Círculo B | https://circulob.mx/ | Tehuacán, contacto@circulob.mx |
+| Belleza | Insumos para uñas / press on | Nails Shop SLP | https://www.nailsshop.com.mx/ | Mayoreo Fantasy/Organic/Wapizima |
+| Belleza | Insumos para uñas / press on | Wapizima | https://wapizima.shop/ | Marca nacional, antonio@wapizima.info |
+| Belleza | Insumos para uñas / press on | Kiss México | https://www.kissmexico.mx/collections/press-on | imPRESS press-on |
+| Artículos religiosos / Esoterismo | Tarot, lociones y velas esotéricas | Stellum | https://www.stellum.mx/ | Monterrey, tienda.stellum@icloud.com |
+| Artículos religiosos / Esoterismo | Tarot, lociones y velas esotéricas | Tarots del Mundo | https://tarotsdelmundo.com/ | Polanco, info@tarotsdelmundo.com |
+| Artículos religiosos / Esoterismo | Tarot, lociones y velas esotéricas | Magic Ways MX | https://magicways.mx/ | Metepec, velas soya y cuarzos |
+| Artículos religiosos / Esoterismo | Tarot, lociones y velas esotéricas | Rinconcito Mágico | https://www.rinconcitomagico.mx/ | Pachuca, info@rinconcitomagico.mx |
 | Belleza | Jabones y shampoos | Rizos Mexicanos (ejemplo) | https://www.rizosmexicanos.com/ | Cuidado cabello rizado MX |
 | Belleza | Productos para el cabello | Don Juan MX | https://donjuan.mx/ | Keratinas, cremas, ampolletas |
 | Mercería | Hilos y estambre | Hilos y Estambres de México | https://www.hilosyestambresdemexicosadecv.com/ | Centro CDMX Mesones 128, +22 años |
@@ -207,11 +211,16 @@ Lote 17 exportado: `leads/por_nicho/17_miel_afrodisiaca.*` — **256 leads** (71
 
 ### Belleza — Insumos para uñas / press on
 
+Lote 21 exportado: `leads/por_nicho/21_insumos_unas_press_on.*` — **214 leads** (51 Alta · 16 email · 51 teléfono).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| Círculo B | https://circulob.mx/ | Insumos uñas | **Alta** | Esmaltes, pegamentos, piedritas |
-| Mi Shop MX | https://www.mishop.mx/ | Mayoreo belleza | **Media** | Press on y accesorios mayoreo |
-| MC Nails (vía ML) | https://listado.mercadolibre.com.mx/uñas-press-on | Marca tips | **Media** | Tips press on mayoreo |
+| Círculo B | https://circulob.mx/ | Mayoreo | **Alta** | Tehuacán, contacto@circulob.mx · 2381270502 |
+| Nails Shop SLP | https://www.nailsshop.com.mx/ | Mayoreo | **Alta** | Fantasy/Organic/Wapizima, 4448096424 |
+| Fantasy Nails Shop CDMX | https://www.facebook.com/fantasynailscdmx/ | Mayoreo | **Alta** | 5579007784 |
+| Wapizima | https://wapizima.shop/ | Marca | **Alta** | antonio@wapizima.info |
+| Cololab |  | Tienda | **Alta** | Izazaga 89, 5539946917 |
+| Kiss México | https://www.kissmexico.mx/collections/press-on | Marca | **Media** | imPRESS |
 | Unika Studio (ejemplo) | https://unikastudiomexico.com/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
 
 ### Belleza — Jabones y shampoos

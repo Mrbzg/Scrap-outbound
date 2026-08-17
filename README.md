@@ -90,6 +90,8 @@ leads/por_nicho/{ID}_{slug}.csv|.json|.md
 | 18 | Tijeras con patrón al corte | `18_tijeras_patron_al_corte.*` |
 | 19 | Charms / dijes plata 925 | `19_charms.*` |
 | 20 | Pupilentes de color | `20_pupilentes.*` |
+| 21 | Insumos para uñas / press on | `21_insumos_unas_press_on.*` |
+| 22 | Tarot, lociones y velas esotéricas | `22_tarot_velas_esotericas.*` |
 
 Catálogo: `leads/nichos.json` (58 nichos).
 

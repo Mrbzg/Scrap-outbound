@@ -1,0 +1,1848 @@
+{
+  "lote": "22",
+  "slug": "tarot_velas_esotericas",
+  "description": "Tarot, lociones y velas esotéricas MX",
+  "leads": [
+    {
+      "empresa": "Pinka",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — tarots y oráculos",
+      "fuente": "ejemplo_cliente",
+      "url": "https://pinka.com.mx/tarots-y-oraculos/tarot/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Stellum",
+      "tipo": "Tienda",
+      "notas": "Plaza Fiesta San Agustín 222, velas mágicas y tarot",
+      "fuente": "research",
+      "url": "https://www.stellum.mx/",
+      "email": "tienda.stellum@icloud.com",
+      "telefono": "8123619626",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Tienda Esotérica MX",
+      "tipo": "Ecom",
+      "notas": "Tarot, velas, wicca, amuletos, runas",
+      "fuente": "research",
+      "url": "https://tiendaesoterica.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Esotérica MX mayoreo extra",
+      "tipo": "Mayoreo",
+      "notas": "Kits, velas, tarot, péndulos",
+      "fuente": "research",
+      "url": "https://esotericamx.com/collections/mayoreo-joyeria",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Magic Ways",
+      "tipo": "D2C",
+      "notas": "Paseo San Isidro 202, velas soya / cuarzos / tarot",
+      "fuente": "research",
+      "url": "https://magicways.mx/",
+      "ciudad": "Metepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Tarots del Mundo",
+      "tipo": "Tienda",
+      "notas": "Horacio 136 Polanco, 555335000 / WA 5590228817",
+      "fuente": "research",
+      "url": "https://tarotsdelmundo.com/",
+      "email": "info@tarotsdelmundo.com",
+      "telefono": "5519983301",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Tarots del Mundo Polanco extra",
+      "tipo": "Sucursal",
+      "notas": "Frente Liverpool Polanco",
+      "fuente": "research",
+      "url": "https://tarotsdelmundo.com/",
+      "email": "info@tarotsdelmundo.com",
+      "telefono": "5555311300",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Tarots del Mundo WA extra",
+      "tipo": "Canal WA",
+      "notas": "Soporte",
+      "fuente": "research",
+      "url": "https://tarotsdelmundo.com/pages/contacto",
+      "email": "info@tarotsdelmundo.com",
+      "telefono": "5590228817",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Rinconcito Mágico",
+      "tipo": "Tienda",
+      "notas": "Cita previa, velas y esoterismo",
+      "fuente": "research",
+      "url": "https://www.rinconcitomagico.mx/",
+      "email": "info@rinconcitomagico.mx",
+      "telefono": "7711429045",
+      "ciudad": "Pachuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Tarot México León",
+      "tipo": "Servicio + retail",
+      "notas": "Loma 103 Jardines del Moral",
+      "fuente": "research",
+      "url": "https://tarotmexico.com.mx/",
+      "email": "informes@tarotmexico.com",
+      "telefono": "4771843418",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Tarot México email extra",
+      "tipo": "Canal",
+      "notas": "Consultas",
+      "fuente": "research",
+      "url": "https://tarotmexico.com.mx/contactame/",
+      "email": "tarotevolutivoleon@gmail.com",
+      "telefono": "4771843418",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Los 7 Arcángeles Boutique",
+      "tipo": "Tienda",
+      "notas": "Av. Cuauhtémoc 24 local 1, lecturas + retail",
+      "fuente": "research",
+      "telefono": "5536431447",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Tiara Mayorista Uruguay",
+      "tipo": "Mayoreo",
+      "notas": "República de Uruguay 66, velas / santería / Yoruba",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Plaza del Artesano extra",
+      "tipo": "Cluster",
+      "notas": "Uruguay 75, incienso y ritual",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Stellum velas extra",
+      "tipo": "Línea",
+      "notas": "Velas mágicas / aguas astrales",
+      "fuente": "research",
+      "url": "https://www.stellum.mx/",
+      "email": "tienda.stellum@icloud.com",
+      "telefono": "8123619626",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Stellum tarots extra",
+      "tipo": "Línea",
+      "notas": "Tarots y oráculos",
+      "fuente": "research",
+      "url": "https://www.stellum.mx/",
+      "email": "tienda.stellum@icloud.com",
+      "telefono": "8123619626",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Magic Ways velas extra",
+      "tipo": "Línea",
+      "notas": "Abre caminos / palo santo / spell candles",
+      "fuente": "research",
+      "url": "https://magicways.mx/",
+      "ciudad": "Metepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Magic Ways horario extra",
+      "tipo": "Operación",
+      "notas": "Mar-Sáb 11-19",
+      "fuente": "research",
+      "url": "https://magicways.mx/",
+      "ciudad": "Metepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Magic Ways envío extra",
+      "tipo": "Logística",
+      "notas": "Gratis >$1400, pickup tienda",
+      "fuente": "research",
+      "url": "https://magicways.mx/",
+      "ciudad": "Metepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Pinka tarot extra",
+      "tipo": "Línea",
+      "notas": "Barajas y oráculos",
+      "fuente": "research",
+      "url": "https://pinka.com.mx/tarots-y-oraculos/tarot/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Rider Waite extra",
+      "tipo": "SKU",
+      "notas": "Clásico",
+      "fuente": "research",
+      "url": "https://pinka.com.mx/tarots-y-oraculos/tarot/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Oráculos extra",
+      "tipo": "SKU",
+      "notas": "Ángeles / animales",
+      "fuente": "research",
+      "url": "https://pinka.com.mx/tarots-y-oraculos/tarot/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Lenormand extra",
+      "tipo": "SKU",
+      "notas": "36 cartas",
+      "fuente": "research",
+      "url": "https://tarotsdelmundo.com/",
+      "email": "info@tarotsdelmundo.com",
+      "telefono": "5519983301",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Tarot Marsella extra",
+      "tipo": "SKU",
+      "notas": "Tradicional",
+      "fuente": "research",
+      "url": "https://tarotsdelmundo.com/",
+      "email": "info@tarotsdelmundo.com",
+      "telefono": "5519983301",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Runas extra",
+      "tipo": "Producto",
+      "notas": "Piedras rúnicas",
+      "fuente": "research",
+      "url": "https://tiendaesoterica.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Péndulos extra",
+      "tipo": "Producto",
+      "notas": "Radiestesia",
+      "fuente": "research",
+      "url": "https://www.stellum.mx/",
+      "email": "tienda.stellum@icloud.com",
+      "telefono": "8123619626",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Cuarzos extra",
+      "tipo": "Producto",
+      "notas": "Péndulos y kits",
+      "fuente": "research",
+      "url": "https://magicways.mx/",
+      "ciudad": "Metepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Velas de soya extra",
+      "tipo": "Producto",
+      "notas": "Intencionadas",
+      "fuente": "research",
+      "url": "https://magicways.mx/",
+      "ciudad": "Metepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Veladoras 7 días extra",
+      "tipo": "Producto",
+      "notas": "Mayoreo Centro",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Velón 7 potencias extra",
+      "tipo": "Producto",
+      "notas": "Santería",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Lociones / aguas extra",
+      "tipo": "Producto",
+      "notas": "Aguas astrales",
+      "fuente": "research",
+      "url": "https://www.stellum.mx/",
+      "email": "tienda.stellum@icloud.com",
+      "telefono": "8123619626",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Aceites ritual extra",
+      "tipo": "Producto",
+      "notas": "Sahumerios y aceites",
+      "fuente": "research",
+      "url": "https://www.stellum.mx/",
+      "telefono": "8123619626",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Sahumerios / palo santo extra",
+      "tipo": "Producto",
+      "notas": "Limpia",
+      "fuente": "research",
+      "url": "https://magicways.mx/",
+      "ciudad": "Metepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Incienso Centro extra",
+      "tipo": "Mayoreo",
+      "notas": "Uruguay / Zócalo",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Sprays mágicos extra",
+      "tipo": "Producto",
+      "notas": "Mists + cuarzo",
+      "fuente": "research",
+      "url": "https://magicways.mx/",
+      "ciudad": "Metepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Spell jars extra",
+      "tipo": "Producto",
+      "notas": "Pócimas",
+      "fuente": "research",
+      "url": "https://magicways.mx/",
+      "ciudad": "Metepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Caja de bruja extra",
+      "tipo": "Paquete",
+      "notas": "Kit inicio",
+      "fuente": "research",
+      "url": "https://magicways.mx/",
+      "ciudad": "Metepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Libro de las sombras extra",
+      "tipo": "Producto",
+      "notas": "Wicca",
+      "fuente": "research",
+      "url": "https://tiendaesoterica.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Amuletos / talismanes extra",
+      "tipo": "Producto",
+      "notas": "Protección",
+      "fuente": "research",
+      "url": "https://tiendaesoterica.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mal de ojo extra",
+      "tipo": "Línea",
+      "notas": "Joyería mágica",
+      "fuente": "research",
+      "url": "https://esotericamx.com/collections/mayoreo-joyeria",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Nudo de bruja extra",
+      "tipo": "Línea",
+      "notas": "Cuarzos",
+      "fuente": "research",
+      "url": "https://esotericamx.com/collections/mayoreo-joyeria",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Santería / Yoruba extra",
+      "tipo": "Línea",
+      "notas": "Tiara / Uruguay",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Arcángeles figuras extra",
+      "tipo": "Línea",
+      "notas": "7 arcángeles",
+      "fuente": "research",
+      "url": "https://www.stellum.mx/",
+      "telefono": "8123619626",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Lecturas de tarot extra",
+      "tipo": "Servicio",
+      "notas": "Presencial",
+      "fuente": "research",
+      "url": "https://www.stellum.mx/",
+      "email": "tienda.stellum@icloud.com",
+      "telefono": "8123619626",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Limpias energéticas extra",
+      "tipo": "Servicio",
+      "notas": "Terapias",
+      "fuente": "research",
+      "url": "https://www.stellum.mx/",
+      "telefono": "8123619626",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Consultas León extra",
+      "tipo": "Servicio",
+      "notas": "Tarot evolutivo",
+      "fuente": "research",
+      "url": "https://tarotmexico.com.mx/",
+      "email": "informes@tarotmexico.com",
+      "telefono": "4771843418",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Amazon MX tarot extra",
+      "tipo": "Marketplace",
+      "notas": "Barajas",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=tarot+baraja",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "ML velas esotéricas extra",
+      "tipo": "Marketplace",
+      "notas": "Ritual",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/velas-esotericas",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "ML tarot extra",
+      "tipo": "Marketplace",
+      "notas": "Oráculos",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/tarot-baraja",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Cluster Uruguay CDMX extra",
+      "tipo": "Cluster",
+      "notas": "Mayoreo esotérico Centro",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Cluster Sonora / Lagunilla extra",
+      "tipo": "Cluster",
+      "notas": "Religioso popular",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Cluster Metepec extra",
+      "tipo": "Cluster",
+      "notas": "Magic Ways zona",
+      "fuente": "research",
+      "url": "https://magicways.mx/",
+      "ciudad": "Metepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Cluster MTY extra",
+      "tipo": "Cluster",
+      "notas": "San Agustín",
+      "fuente": "research",
+      "url": "https://www.stellum.mx/",
+      "email": "tienda.stellum@icloud.com",
+      "telefono": "8123619626",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Librerías esotéricas extra",
+      "tipo": "Canal",
+      "notas": "Libros + tarot",
+      "fuente": "research",
+      "url": "https://tiendaesoterica.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Herbolarias canal extra",
+      "tipo": "Canal",
+      "notas": "Lociones / velas",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Yoga / wellness extra",
+      "tipo": "Canal",
+      "notas": "Cuarzos y sahumo",
+      "fuente": "research",
+      "url": "https://magicways.mx/",
+      "ciudad": "Metepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Cafeterías ritual extra",
+      "tipo": "Canal",
+      "notas": "Café Libertad / Condesa",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Talleres herbales extra",
+      "tipo": "Educación",
+      "notas": "Sahumar / plantas",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Cursos tarot extra",
+      "tipo": "Educación",
+      "notas": "Lectura",
+      "fuente": "research",
+      "url": "https://tarotmexico.com.mx/",
+      "email": "informes@tarotmexico.com",
+      "telefono": "4771843418",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Instagram Magic Ways extra",
+      "tipo": "Canal digital",
+      "notas": "Social",
+      "fuente": "research",
+      "url": "https://magicways.mx/",
+      "ciudad": "Metepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Facebook Stellum extra",
+      "tipo": "Canal",
+      "notas": "Plaza Fiesta",
+      "fuente": "research",
+      "url": "https://www.stellum.mx/",
+      "email": "tienda.stellum@icloud.com",
+      "telefono": "8123619626",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Halloween kits extra",
+      "tipo": "Temporada",
+      "notas": "Colección",
+      "fuente": "research",
+      "url": "https://esotericamx.com/collections/mayoreo-joyeria",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Día de muertos extra",
+      "tipo": "Temporada",
+      "notas": "Veladoras / copal",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Año nuevo ritual extra",
+      "tipo": "Temporada",
+      "notas": "Abundancia",
+      "fuente": "research",
+      "url": "https://magicways.mx/",
+      "ciudad": "Metepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "San Valentín amor extra",
+      "tipo": "Temporada",
+      "notas": "Velas amor",
+      "fuente": "research",
+      "url": "https://magicways.mx/",
+      "ciudad": "Metepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Envíos nacionales Esotérica extra",
+      "tipo": "Logística",
+      "notas": "Ecom",
+      "fuente": "research",
+      "url": "https://tiendaesoterica.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Pickup Metepec extra",
+      "tipo": "Logística",
+      "notas": "Sin costo",
+      "fuente": "research",
+      "url": "https://magicways.mx/",
+      "ciudad": "Metepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Cita Pachuca extra",
+      "tipo": "Operación",
+      "notas": "Previa cita",
+      "fuente": "research",
+      "url": "https://www.rinconcitomagico.mx/contacto/",
+      "email": "info@rinconcitomagico.mx",
+      "telefono": "7711429045",
+      "ciudad": "Pachuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Mayoreo kits extra",
+      "tipo": "Mayoreo",
+      "notas": "Libro + velas + tarot",
+      "fuente": "research",
+      "url": "https://esotericamx.com/collections/mayoreo-joyeria",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Revendedores Centro extra",
+      "tipo": "Canal B2B",
+      "notas": "Tiara / Uruguay",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Boutiques místicas extra",
+      "tipo": "Canal",
+      "notas": "Roma / Condesa",
+      "fuente": "research",
+      "telefono": "5536431447",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Mercados brujos extra",
+      "tipo": "Cluster",
+      "notas": "Tradicional",
+      "fuente": "research",
+      "ciudad": "Catemaco",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Catemaco brujos extra",
+      "tipo": "Cluster",
+      "notas": "Retail ritual",
+      "fuente": "research",
+      "ciudad": "Catemaco",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Sonora Market extra",
+      "tipo": "Cluster",
+      "notas": "Hierbas y velas",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Mercado de Sonora extra",
+      "tipo": "Cluster",
+      "notas": "Mayoreo popular",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Copal / resinas extra",
+      "tipo": "Insumo",
+      "notas": "Sahumar",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Sal negra / baños extra",
+      "tipo": "Insumo",
+      "notas": "Limpia",
+      "fuente": "research",
+      "url": "https://esotericamx.com/collections/mayoreo-joyeria",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Morteros extra",
+      "tipo": "Insumo",
+      "notas": "Kit",
+      "fuente": "research",
+      "url": "https://esotericamx.com/collections/mayoreo-joyeria",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Altares / paños extra",
+      "tipo": "Insumo",
+      "notas": "Wicca",
+      "fuente": "research",
+      "url": "https://tiendaesoterica.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Figuras deidades extra",
+      "tipo": "Producto",
+      "notas": "Resina",
+      "fuente": "research",
+      "url": "https://tiendaesoterica.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Lámparas de sal extra",
+      "tipo": "Producto",
+      "notas": "Ambiente",
+      "fuente": "research",
+      "url": "https://tiendaesoterica.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Jabones ritual extra",
+      "tipo": "Adyacente",
+      "notas": "Cuarzo",
+      "fuente": "research",
+      "url": "https://magicways.mx/",
+      "ciudad": "Metepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Joyería mágica extra",
+      "tipo": "Adyacente",
+      "notas": "Mayoreo",
+      "fuente": "research",
+      "url": "https://esotericamx.com/collections/mayoreo-joyeria",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Brazalete italiano extra",
+      "tipo": "Adyacente",
+      "notas": "Arma tu pulsera",
+      "fuente": "research",
+      "url": "https://esotericamx.com/collections/mayoreo-joyeria",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Zodiaco línea extra",
+      "tipo": "Línea",
+      "notas": "Rituales",
+      "fuente": "research",
+      "url": "https://magicways.mx/",
+      "ciudad": "Metepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Luna / estrellas extra",
+      "tipo": "Línea",
+      "notas": "Colección",
+      "fuente": "research",
+      "url": "https://esotericamx.com/collections/mayoreo-joyeria",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Números ángel extra",
+      "tipo": "Línea",
+      "notas": "Manifestar",
+      "fuente": "research",
+      "url": "https://esotericamx.com/collections/mayoreo-joyeria",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Protección extra",
+      "tipo": "Intención",
+      "notas": "Amuletos",
+      "fuente": "research",
+      "url": "https://magicways.mx/",
+      "ciudad": "Metepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Abundancia extra",
+      "tipo": "Intención",
+      "notas": "Velas",
+      "fuente": "research",
+      "url": "https://magicways.mx/",
+      "ciudad": "Metepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Amor extra",
+      "tipo": "Intención",
+      "notas": "Hechizos / velas",
+      "fuente": "research",
+      "url": "https://magicways.mx/",
+      "ciudad": "Metepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Abre caminos extra",
+      "tipo": "Intención",
+      "notas": "Vela $420",
+      "fuente": "research",
+      "url": "https://magicways.mx/",
+      "ciudad": "Metepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Casa 7 incienso extra",
+      "tipo": "Tienda",
+      "notas": "Naturales, aceites y kits",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "The Wizard Shop extra",
+      "tipo": "Tienda",
+      "notas": "Bienestar espiritual",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Brujá extra",
+      "tipo": "Tienda",
+      "notas": "Desde 2018, velas intención",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Gul's Incienso extra",
+      "tipo": "Mayoreo",
+      "notas": "Centro / Zócalo",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Tienda Esotérica & más extra",
+      "tipo": "Tienda",
+      "notas": "L-S 9-19 Dom 9-16",
+      "fuente": "research",
+      "telefono": "8117639786",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "El Rincón Espiritual extra",
+      "tipo": "Tienda",
+      "notas": "Sesiones + retail",
+      "fuente": "research",
+      "telefono": "8125894981",
+      "ciudad": "Nezahualcóyotl",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Influencers bruja extra",
+      "tipo": "Canal",
+      "notas": "TikTok / IG",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Ferias místicas extra",
+      "tipo": "Expo",
+      "notas": "Cuarzos / tarot",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Expo esotérica CDMX extra",
+      "tipo": "Expo",
+      "notas": "Retail booth",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Iglesias / veladoras extra",
+      "tipo": "Canal adyacente",
+      "notas": "Religioso popular",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Santería Centro extra",
+      "tipo": "Canal",
+      "notas": "Yoruba / imágenes",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Wicca comunidad extra",
+      "tipo": "Canal",
+      "notas": "Retail especializado",
+      "fuente": "research",
+      "url": "https://tiendaesoterica.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Astrología / carta natal extra",
+      "tipo": "Servicio",
+      "notas": "Adyacente tarot",
+      "fuente": "research",
+      "url": "https://tarotmexico.com.mx/",
+      "telefono": "4771843418",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Numerología extra",
+      "tipo": "Servicio",
+      "notas": "Consultas",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Péndulo dowsing extra",
+      "tipo": "Servicio",
+      "notas": "Retail + uso",
+      "fuente": "research",
+      "url": "https://www.stellum.mx/",
+      "telefono": "8123619626",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Tienda esotérica Aguascalientes",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Aguascalientes",
+      "estado": "Aguascalientes"
+    },
+    {
+      "empresa": "Tienda esotérica Tijuana",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Tienda esotérica Mexicali",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Mexicali",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Tienda esotérica La Paz",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "La Paz",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Tienda esotérica Campeche",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Campeche",
+      "estado": "Campeche"
+    },
+    {
+      "empresa": "Tienda esotérica Tuxtla Gutiérrez",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Tuxtla Gutiérrez",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Tienda esotérica Chihuahua",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Tienda esotérica Cd. Juárez",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Cd. Juárez",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Tienda esotérica Saltillo",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Saltillo",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Tienda esotérica Torreón",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Torreón",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Tienda esotérica Colima",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Colima",
+      "estado": "Colima"
+    },
+    {
+      "empresa": "Tienda esotérica Durango",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Durango",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Tienda esotérica León",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Tienda esotérica Irapuato",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Irapuato",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Tienda esotérica Acapulco",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Acapulco",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Tienda esotérica Pachuca",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Pachuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Tienda esotérica Toluca",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Toluca",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Tienda esotérica Cuernavaca",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Cuernavaca",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Tienda esotérica Tepic",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Tepic",
+      "estado": "Nayarit"
+    },
+    {
+      "empresa": "Tienda esotérica Monterrey",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Tienda esotérica Oaxaca",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Oaxaca",
+      "estado": "Oaxaca"
+    },
+    {
+      "empresa": "Tienda esotérica Puebla",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Tienda esotérica Querétaro",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Tienda esotérica Cancún",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Cancún",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Tienda esotérica San Luis Potosí",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Tienda esotérica Culiacán",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Culiacán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Tienda esotérica Hermosillo",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Hermosillo",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Tienda esotérica Villahermosa",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Villahermosa",
+      "estado": "Tabasco"
+    },
+    {
+      "empresa": "Tienda esotérica Tampico",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Tampico",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Tienda esotérica Tlaxcala",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Tlaxcala",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Tienda esotérica Xalapa",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Xalapa",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Tienda esotérica Veracruz",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Veracruz",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Tienda esotérica Zacatecas",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Zacatecas",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Tienda esotérica Mérida",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Mérida",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "Tienda esotérica Guadalajara",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Tienda esotérica Zapopan",
+      "tipo": "Regional",
+      "notas": "Tarot, velas y cuarzos",
+      "fuente": "research",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Veladoras / ritual Celaya",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Celaya",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Veladoras / ritual Salamanca",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Salamanca",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Veladoras / ritual San Juan del Río",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "San Juan del Río",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Veladoras / ritual Cuautla",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Cuautla",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Veladoras / ritual Jiutepec",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Jiutepec",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Veladoras / ritual Córdoba",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Córdoba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Veladoras / ritual Orizaba",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Orizaba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Veladoras / ritual Poza Rica",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Poza Rica",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Veladoras / ritual Coatzacoalcos",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Coatzacoalcos",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Veladoras / ritual Tapachula",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Tapachula",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Veladoras / ritual Comitán",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Comitán",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Veladoras / ritual Los Mochis",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Los Mochis",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Veladoras / ritual Ciudad Obregón",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Ciudad Obregón",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Veladoras / ritual Nogales",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Nogales",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Veladoras / ritual Ensenada",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Ensenada",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Veladoras / ritual Playa del Carmen",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Playa del Carmen",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Veladoras / ritual Chetumal",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Chetumal",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Veladoras / ritual Reynosa",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Reynosa",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Veladoras / ritual Matamoros",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Matamoros",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Veladoras / ritual Nuevo Laredo",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Nuevo Laredo",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Veladoras / ritual Gómez Palacio",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Gómez Palacio",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Veladoras / ritual Fresnillo",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Fresnillo",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Veladoras / ritual Uruapan",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Uruapan",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Veladoras / ritual Zamora",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Zamora",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Veladoras / ritual Morelia",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Veladoras / ritual Tehuacán",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Veladoras / ritual Apizaco",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Apizaco",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Veladoras / ritual Tulancingo",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Tulancingo",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Veladoras / ritual Ixtapa",
+      "tipo": "Regional",
+      "notas": "Mayoreo lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Ixtapa",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Lectora / tarotista Celaya",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Celaya",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Lectora / tarotista Salamanca",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Salamanca",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Lectora / tarotista San Juan del Río",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "San Juan del Río",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Lectora / tarotista Cuautla",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Cuautla",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Lectora / tarotista Jiutepec",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Jiutepec",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Lectora / tarotista Córdoba",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Córdoba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Lectora / tarotista Orizaba",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Orizaba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Lectora / tarotista Poza Rica",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Poza Rica",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Lectora / tarotista Coatzacoalcos",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Coatzacoalcos",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Lectora / tarotista Tapachula",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Tapachula",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Lectora / tarotista Comitán",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Comitán",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Lectora / tarotista Los Mochis",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Los Mochis",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Lectora / tarotista Ciudad Obregón",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Ciudad Obregón",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Lectora / tarotista Nogales",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Nogales",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Lectora / tarotista Ensenada",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Ensenada",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Lectora / tarotista Playa del Carmen",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Playa del Carmen",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Lectora / tarotista Chetumal",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Chetumal",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Lectora / tarotista Reynosa",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Reynosa",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Lectora / tarotista Matamoros",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Matamoros",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Lectora / tarotista Nuevo Laredo",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Nuevo Laredo",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Lectora / tarotista Gómez Palacio",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Gómez Palacio",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Lectora / tarotista Fresnillo",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Fresnillo",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Lectora / tarotista Uruapan",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Uruapan",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Lectora / tarotista Zamora",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Zamora",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Lectora / tarotista Morelia",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Lectora / tarotista Tehuacán",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Lectora / tarotista Apizaco",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Apizaco",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Lectora / tarotista Tulancingo",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Tulancingo",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Lectora / tarotista Ixtapa",
+      "tipo": "Regional",
+      "notas": "Consultas + retail oráculos",
+      "fuente": "research",
+      "ciudad": "Ixtapa",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Herbolaria / velas Naucalpan",
+      "tipo": "Regional",
+      "notas": "Lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Herbolaria / velas Ecatepec",
+      "tipo": "Regional",
+      "notas": "Lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Ecatepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Herbolaria / velas Nezahualcóyotl",
+      "tipo": "Regional",
+      "notas": "Lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Nezahualcóyotl",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Herbolaria / velas Tlalnepantla",
+      "tipo": "Regional",
+      "notas": "Lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Tlalnepantla",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Herbolaria / velas Cuautitlán Izcalli",
+      "tipo": "Regional",
+      "notas": "Lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Cuautitlán Izcalli",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Herbolaria / velas Puerto Vallarta",
+      "tipo": "Regional",
+      "notas": "Lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Puerto Vallarta",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Herbolaria / velas Mazatlán",
+      "tipo": "Regional",
+      "notas": "Lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Mazatlán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Herbolaria / velas Los Cabos",
+      "tipo": "Regional",
+      "notas": "Lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Los Cabos",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Herbolaria / velas San Miguel de Allende",
+      "tipo": "Regional",
+      "notas": "Lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "San Miguel de Allende",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Herbolaria / velas Chilpancingo",
+      "tipo": "Regional",
+      "notas": "Lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Chilpancingo",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Herbolaria / velas Minatitlán",
+      "tipo": "Regional",
+      "notas": "Lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Minatitlán",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Herbolaria / velas Ciudad Victoria",
+      "tipo": "Regional",
+      "notas": "Lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Ciudad Victoria",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Herbolaria / velas Piedras Negras",
+      "tipo": "Regional",
+      "notas": "Lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Piedras Negras",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Herbolaria / velas Monclova",
+      "tipo": "Regional",
+      "notas": "Lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Monclova",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Herbolaria / velas Ocotlán",
+      "tipo": "Regional",
+      "notas": "Lociones y sahumerios",
+      "fuente": "research",
+      "ciudad": "Ocotlán",
+      "estado": "Jalisco"
+    }
+  ]
+}
