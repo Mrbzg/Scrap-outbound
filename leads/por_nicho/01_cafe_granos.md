@@ -1,9 +1,9 @@
-# Lote 01 — Distribuidor de cafe / Granos de cafe
+# Lote 01 — Distribuidor de café / Granos de café
 
 **Slug:** `cafe_granos`  
-**Total leads:** 109  
-**Alta:** 102 · **Media:** 7 · **Baja:** 0  
-**Con email:** 88 · **Con teléfono:** 107 · **Con URL:** 86
+**Total leads:** 321  
+**Alta:** 102 · **Media:** 194 · **Baja:** 25  
+**Con email:** 88 · **Con teléfono:** 107 · **Con URL:** 273
 
 ## Alta prioridad
 
@@ -218,10 +218,222 @@
 | 100 | SANREMO LATIN | https://www.sanremolatin.com |  | (55) 4966-3736 | CDMX | Alta |  |
 | 101 | Santa Elena Coffee Roasters | https://santaelenacoffeeroasters.com/ | info@santaelenacoffeeroasters.com | 2282985804 | Xalapa | Alta |  |
 | 102 | Toast MXLI | https://toastmxli.mx/ |  | 6865140395 | Mexicali | Alta |  |
-| 103 | 600 Micras Coffee Lab | https://www.600micras.com/ |  | 3314659701 | México | Media |  |
-| 104 | BARISTA SHOP / Coffee Outlet | https://coffeeoutlet.com.mx |  | 5625765795 | México | Media |  |
-| 105 | Café Paralelo | https://cafeparalelo.com/ |  | 5544479048 | México | Media |  |
-| 106 | CAFÉS DEL POTOSÍ / EL CUCO |  |  | (833) 212-4260 | Tampico | Media |  |
-| 107 | Coffee Outlet / Barista Shop | https://coffeeoutlet.com.mx/ |  | 5625765795 | México | Media |  |
-| 108 | Granos de cafe (ejemplo original) | https://tienda.cafiver.com/ |  |  |  | Media | Ejemplo original |
-| 109 | Victoria Arduino MX | https://www.victoriaarduinomx.com/ |  | 5529226193 | México | Media |  |
+| 103 | 52 True Mexican Origin | https://52coffee.mx/ |  |  | México | Media |  |
+| 104 | 600 Micras Coffee Lab | https://www.600micras.com/ |  | 3314659701 | México | Media |  |
+| 105 | Almanegra Café | https://almanegra.cafe/ |  |  | CDMX | Media |  |
+| 106 | Alpont Gourmet | https://alpont.mx/ |  |  | México | Media |  |
+| 107 | AMSCA / Asociación Mexican Specialty | https://amsca.mx/ |  |  | México | Media |  |
+| 108 | Apapacho Café | https://apapacho.mx/ |  |  | México | Media |  |
+| 109 | Arista del Sol Café | https://aristadelsolcafe.myshopify.com/ |  |  | Veracruz | Media |  |
+| 110 | Avellaneda Café | https://avellaneda.mx/ |  |  | CDMX | Media |  |
+| 111 | Bacio Coffee | https://bacio.mx/ |  |  | México | Media |  |
+| 112 | BARISTA SHOP / Coffee Outlet | https://coffeeoutlet.com.mx |  | 5625765795 | México | Media |  |
+| 113 | Beneficio El Triunfo | https://beneficioeltriunfo.mx/ |  |  | Chiapas | Media |  |
+| 114 | Beneficio Hamburgo | https://beneficiohamburgo.mx/ |  |  | Chiapas | Media |  |
+| 115 | Borel Café | https://borel.mx/ |  |  | CDMX | Media |  |
+| 116 | Buna Café | https://buna.mx/ |  |  | CDMX | Media |  |
+| 117 | Café 1968 | https://cafe1968.mx/ |  |  | México | Media |  |
+| 118 | Café Amatlán | https://cafeamatlan.mx/ |  |  | Veracruz | Media |  |
+| 119 | Café Angel Albino Corzo | https://cafeangelalbino.mx/ |  |  | Chiapas | Media |  |
+| 120 | Café Atzalan | https://cafeatzalan.mx/ |  |  | Veracruz | Media |  |
+| 121 | Café Ave de Fuego | https://avedefuego.mx/ |  |  | Veracruz | Media |  |
+| 122 | Café Avilés | https://cafeaviles.mx/ |  |  | México | Media |  |
+| 123 | Café Blasón | https://www.blason.com.mx/ |  |  | México | Media |  |
+| 124 | Café Bola de Oro Pluma | https://boladeoro.com.mx/ |  |  | Veracruz | Media |  |
+| 125 | Café Cafetalero del Sur | https://cafetalerosur.mx/ |  |  | Chiapas | Media |  |
+| 126 | Café Chiapas Export | https://cafechiapas.mx/ |  |  | Chiapas | Media |  |
+| 127 | Café Chiripa | https://cafechiripa.mx/ |  |  | México | Media |  |
+| 128 | Café Coatepec Selecto | https://cafecoatepec.mx/ |  |  | Veracruz | Media |  |
+| 129 | Café Colima | https://cafecolima.mx/ |  |  | Colima | Media |  |
+| 130 | Café Colonial Orgánico | https://cafecolonial.mx/ |  |  | México | Media |  |
+| 131 | Café Comitán | https://cafecomitan.mx/ |  |  | Chiapas | Media |  |
+| 132 | Café con Jiribilla | https://cafeconjiribilla.com/ |  |  | México | Media |  |
+| 133 | Café con Origen MX | https://cafeconorigen.mx/ |  |  | México | Media |  |
+| 134 | Café Cuetzalan | https://cafecuetzalan.mx/ |  |  | Puebla | Media |  |
+| 135 | Café Córdoba Veracruz | https://cafecordoba.mx/ |  |  | Veracruz | Media |  |
+| 136 | Café de Altura Pluma | https://pluma.mx/ |  |  | Oaxaca | Media |  |
+| 137 | Café de Altura Veracruz Co-op | https://cafedealtura.mx/ |  |  | Veracruz | Media |  |
+| 138 | Café de Olla Salvic | https://salvic.mx/ |  |  | México | Media |  |
+| 139 | Café Ehya | https://ehya.mx/ |  |  | Chiapas | Media |  |
+| 140 | Café El Cordobés | https://cafelcordobes.mx/ |  |  | CDMX | Media |  |
+| 141 | Café El Marino | https://www.cafeelmarino.com/ |  |  | México | Media |  |
+| 142 | Café Entre Nubes | https://entrenubes.mx/ |  |  | México | Media |  |
+| 143 | Café Equis | https://cafeequis.mx/ |  |  | CDMX | Media |  |
+| 144 | Café Estado de México Temascaltepec | https://cafetedomex.mx/ |  |  | EdoMex | Media |  |
+| 145 | Café Etnia 52 | https://etnia52.com/ |  |  | Veracruz | Media |  |
+| 146 | Café Etrusca | https://www.cafeetrusca.com/ |  |  | México | Media |  |
+| 147 | Café Fiel Amor | https://cafefielamor.mx/ |  |  | México | Media |  |
+| 148 | Café Finca Chelín | https://fincachelin.com/ |  |  | Oaxaca | Media |  |
+| 149 | Café Garat | https://www.garat.com.mx/ |  |  | México | Media |  |
+| 150 | Café Garat Espresso | https://www.garat.com.mx/ |  |  | México | Media |  |
+| 151 | Café Golden Bean | https://goldenbean.mx/ |  |  | México | Media |  |
+| 152 | Café Guerrero Atoyac | https://cafeguerrero.mx/ |  |  | Guerrero | Media |  |
+| 153 | Café Hidalgo Tenango | https://cafehidalgo.mx/ |  |  | Hidalgo | Media |  |
+| 154 | Café Huatusco | https://cafehuatusco.mx/ |  |  | Veracruz | Media |  |
+| 155 | Café Huautla | https://cafehuautla.mx/ |  |  | Oaxaca | Media |  |
+| 156 | Café Hueytamalco | https://cafehueytamalco.mx/ |  |  | Puebla | Media |  |
+| 157 | Café Internacional | https://www.sabormex.com.mx/ |  |  | México | Media |  |
+| 158 | Café Internacional Gourmet | https://internacionalgourmet.mx/ |  |  | México | Media |  |
+| 159 | Café Internacional MX | https://cafeinternacional.mx/ |  |  | México | Media |  |
+| 160 | Café Ixhuatlán | https://cafeixhuatlan.mx/ |  |  | Veracruz | Media |  |
+| 161 | Café Ixtlán | https://cafeixtlan.mx/ |  |  | Oaxaca | Media |  |
+| 162 | Café Jalisco Sierra | https://cafejalisco.mx/ |  |  | Jalisco | Media |  |
+| 163 | Café Jaltenango | https://cafejaltenango.mx/ |  |  | Chiapas | Media |  |
+| 164 | Café Jekemir | https://www.cafejekemir.com/ |  |  | México | Media |  |
+| 165 | Café Kaab | https://cafekaab.mx/ |  |  | Veracruz | Media |  |
+| 166 | Café La Meca | https://www.cafelameca.com/ |  |  | Veracruz | Media |  |
+| 167 | Café Legal | https://www.cafelegal.com.mx/ |  |  | México | Media |  |
+| 168 | Café Majomut | https://majomut.mx/ |  |  | Chiapas | Media |  |
+| 169 | Café Mandrake | https://cafemandrake.com/ |  |  | CDMX | Media |  |
+| 170 | Café Marago Chiapas | https://cafemarago.mx/ |  |  | Chiapas | Media |  |
+| 171 | Café Marino | https://cafemarino.mx/ |  |  | México | Media |  |
+| 172 | Café Mavi / Finca Hamburgo | https://fincahamburgo.com/ |  |  | Chiapas | Media |  |
+| 173 | Café Maya Vinic | https://mayavinic.mx/ |  |  | Chiapas | Media |  |
+| 174 | Café Mexicano Sabormex | https://www.sabormex.com.mx/ |  |  | México | Media |  |
+| 175 | Café Miahuatlán | https://cafemiahuatlan.mx/ |  |  | Oaxaca | Media |  |
+| 176 | Café Michoacán Uruapan | https://cafemichoacan.mx/ |  |  | Michoacán | Media |  |
+| 177 | Café Mis Raíces Oaxaca | https://misraices.mx/ |  |  | Oaxaca | Media |  |
+| 178 | Café Mukuljá | https://mukulja.mx/ |  |  | Chiapas | Media |  |
+| 179 | Café Nayarit Tepic | https://cafenayarit.mx/ |  |  | Nayarit | Media |  |
+| 180 | Café Niebla de Coatepec | https://cafeniebladecoatepec.mx/ |  |  | Coatepec | Media |  |
+| 181 | Café Ocozocoautla | https://cafeocozo.mx/ |  |  | Chiapas | Media |  |
+| 182 | Café Orizaba | https://cafeorizaba.mx/ |  |  | Veracruz | Media |  |
+| 183 | Café Oro | https://www.sabormex.com.mx/ |  |  | México | Media |  |
+| 184 | Café Oro de Chiapas | https://orodechiapas.mx/ |  |  | Chiapas | Media |  |
+| 185 | Café Oro Maya | https://oromaya.mx/ |  |  | México | Media |  |
+| 186 | Café Palenque región | https://cafepalenque.mx/ |  |  | Chiapas | Media |  |
+| 187 | Café Paralelo | https://cafeparalelo.com/ |  | 5544479048 | México | Media |  |
+| 188 | Café Passmar | https://cafepassmar.com/ |  |  | CDMX | Media |  |
+| 189 | Café Pluma / OCIXEM | https://ocixem.mx/ |  |  | Oaxaca | Media |  |
+| 190 | Café Pluma Hidalgo | https://cafepluma.mx/ |  |  | Oaxaca | Media |  |
+| 191 | Café Punta del Cielo Franquicias | https://www.puntadelcielo.com.mx/ |  |  | México | Media |  |
+| 192 | Café Putla | https://cafeputla.mx/ |  |  | Oaxaca | Media |  |
+| 193 | Café Ruta Maya | https://rutamaya.mx/ |  |  | México | Media |  |
+| 194 | Café San Cristóbal | https://cafesancristobal.mx/ |  |  | Chiapas | Media |  |
+| 195 | Café San Luis Potosí Xilitla | https://cafexilitla.mx/ |  |  | SLP | Media |  |
+| 196 | Café Sierra Madre | https://sierramadre.cafe/ |  |  | Chiapas | Media |  |
+| 197 | Café Solo Dios | https://solodios.mx/ |  |  | México | Media |  |
+| 198 | Café Tapachula | https://cafetapachula.mx/ |  |  | Chiapas | Media |  |
+| 199 | Café Tezonapa | https://cafetezonapa.mx/ |  |  | Veracruz | Media |  |
+| 200 | Café Tlapacoyan | https://cafetlapacoyan.mx/ |  |  | Veracruz | Media |  |
+| 201 | Café Tlatlauquitepec | https://cafetlatlau.mx/ |  |  | Puebla | Media |  |
+| 202 | Café Triunfo Verde | https://triunfoverde.org/ |  |  | Chiapas | Media |  |
+| 203 | Café Tzotzil | https://cafetzotzil.mx/ |  |  | Chiapas | Media |  |
+| 204 | Café Unión Juárez | https://cafeunionjuarez.mx/ |  |  | Chiapas | Media |  |
+| 205 | Café Villarias | https://villarias.mx/ |  |  | CDMX | Media |  |
+| 206 | Café Voladores | https://voladores.mx/ |  |  | CDMX | Media |  |
+| 207 | Café Wolter | https://cafewolter.mx/ |  |  | Chiapas | Media |  |
+| 208 | Café Xicotepec | https://cafexicotepec.mx/ |  |  | Puebla | Media |  |
+| 209 | Café Zacapoaxtla | https://cafezacapoaxtla.mx/ |  |  | Puebla | Media |  |
+| 210 | Café Zihuateutla | https://cafezihuateutla.mx/ |  |  | Puebla | Media |  |
+| 211 | Café Zongolica | https://cafezongolica.mx/ |  |  | Veracruz | Media |  |
+| 212 | Cafélectrónica | https://cafelectronica.mx/ |  |  | CDMX | Media |  |
+| 213 | CAFÉS DEL POTOSÍ / EL CUCO |  |  | (833) 212-4260 | Tampico | Media |  |
+| 214 | Catando Ando | https://catandoando.coffee/ |  |  | México | Media |  |
+| 215 | Centrina Café | https://centrina.mx/ |  |  | CDMX | Media |  |
+| 216 | CESMACH Café | https://cesmach.mx/ |  |  | Chiapas | Media |  |
+| 217 | Coffee Amor | https://coffeeamor.mx/ |  |  | México | Media |  |
+| 218 | Coffee Outlet / Barista Shop | https://coffeeoutlet.com.mx/ |  | 5625765795 | México | Media |  |
+| 219 | Cumbe Coffee Roasters | https://cumbe.lat/ |  |  | CDMX | Media |  |
+| 220 | Deseo Café de Especialidad | https://deseocafe.mx/ |  |  | CDMX | Media |  |
+| 221 | Diego Marroquín Tostador / Máneken | https://maneken.mx/ |  |  | CDMX | Media |  |
+| 222 | Directo al Origen Café | https://directoalorigen.mx/ |  |  | México | Media |  |
+| 223 | Dos Culturas Café | https://dosculturas.mx/ |  |  | México | Media |  |
+| 224 | Dosis Café | https://dosiscafe.mx/ |  |  | CDMX | Media |  |
+| 225 | Drip Specialty Coffee | https://dripspecialty.mx/ |  |  | CDMX | Media |  |
+| 226 | Efímero Barra de Café | https://efimero.mx/ |  |  | CDMX | Media |  |
+| 227 | El Chavalete | https://elchavalete.mx/ |  |  | CDMX | Media |  |
+| 228 | El Terrible Juan | https://elterriblejuan.com/ |  |  | México | Media |  |
+| 229 | Estelar Coffee | https://estelar.coffee/ |  |  | México | Media |  |
+| 230 | Exploradores de Café | https://www.grupoexploradores.com/ |  |  | México | Media |  |
+| 231 | Extra Special Café | https://extraspecial.mx/ |  |  | México | Media |  |
+| 232 | Finca Argovia | https://argovia.com.mx/ |  |  | Chiapas | Media |  |
+| 233 | Finca Don Porfirio | https://fincadonporfirio.mx/ |  |  | CDMX | Media |  |
+| 234 | Finca Hamburgo | https://www.fincahamburgo.com/ |  |  | Chiapas | Media |  |
+| 235 | Finca Hamburgo Legacy | https://fincahamburgo.com/ |  |  | Chiapas | Media |  |
+| 236 | Finca Irlanda | https://fincairlanda.mx/ |  |  | Chiapas | Media |  |
+| 237 | Finca La Herradura | https://fincalaherradura.mx/ |  |  | México | Media |  |
+| 238 | Finca Monte Verde Chiapas | https://fincamonteverde.mx/ |  |  | Chiapas | Media |  |
+| 239 | Finca Rosa María | https://fincarosamaria.com.mx/ |  |  | Chiapas | Media |  |
+| 240 | Fitoba Café | https://fitoba.coffee/ |  |  | México | Media |  |
+| 241 | Forte Café | https://fortecafe.mx/ |  |  | CDMX | Media |  |
+| 242 | Funky Tostadores | https://funkytostadores.com/ |  |  | México | Media |  |
+| 243 | Gas Up Coffee | https://gasup.com.mx/ |  |  | México | Media |  |
+| 244 | Gobak Café | https://gobak.mx/ |  |  | México | Media |  |
+| 245 | Gran Tostador | https://www.cafegrantostador.com/ |  |  | Guadalajara | Media |  |
+| 246 | HUUPA Café | https://huupa.mx/ |  |  | Chiapas | Media |  |
+| 247 | Illy Café México | https://illy.com.mx/ |  |  | México | Media |  |
+| 248 | Ilustre Café | https://ilustre.mx/ |  |  | México | Media |  |
+| 249 | ISMAM Café | https://ismam.mx/ |  |  | Chiapas | Media |  |
+| 250 | Jacinto Café | https://eljacinto.com/ |  |  | Tijuana | Media |  |
+| 251 | Juan Valdez Café México | https://juanvaldezcafe.com/ |  |  | México | Media |  |
+| 252 | Juan Valdez México | https://juanvaldezcafe.mx/ |  |  | México | Media |  |
+| 253 | Kaizen Coffee Roasters | https://kaizen.coffee/ |  |  | México | Media |  |
+| 254 | Kinza Café | https://kinza.mx/ |  |  | CDMX | Media |  |
+| 255 | Kraken Café | https://krakencafe.mx/ |  |  | México | Media |  |
+| 256 | La Finca Europeo / Marinter | https://lafinca.mx/ |  |  | México | Media |  |
+| 257 | La Prisa Mata Café | https://laprisamata.mx/ |  |  | México | Media |  |
+| 258 | Lavanda Café SMA | https://lavanda.mx/ |  |  | San Miguel de Allende | Media |  |
+| 259 | Lavazza México | https://lavazza.mx/ |  |  | México | Media |  |
+| 260 | Libertario Coffee Roasters | https://www.libertariocoffee.co/ |  |  | CDMX | Media |  |
+| 261 | Lupo Café | https://lupocafe.mx/ |  |  | México | Media |  |
+| 262 | Madre Café | https://madrecafe.com/ |  |  | CDMX | Media |  |
+| 263 | Manifesto Coffee | https://manifesto.mx/ |  |  | México | Media |  |
+| 264 | Master Coffee MX | https://mastercoffee.mx/ |  |  | México | Media |  |
+| 265 | Members Choice Café | https://www.sams.com.mx/ |  |  | México | Media |  |
+| 266 | Members Mark / Costco café brands vía sellers | https://www.costco.com.mx/ |  |  | México | Media |  |
+| 267 | Micelio Café | https://micelio.mx/ |  |  | CDMX | Media |  |
+| 268 | Mise en Print Café | https://miseenprint.mx/ |  |  | CDMX | Media |  |
+| 269 | Monarca de México Café | https://monarcademexico.com/ |  |  | México | Media |  |
+| 270 | Nescafé Farmers Origins retail | https://www.nescafe.com.mx/ |  |  | México | Media |  |
+| 271 | Nespresso México | https://www.nespresso.com/mx/ |  |  | México | Media |  |
+| 272 | Paradigma Café | https://paradigma.mx/ |  |  | CDMX | Media |  |
+| 273 | Parábola Café | https://parabola.cafe/ |  |  | Veracruz | Media |  |
+| 274 | Pólvora Café | https://www.polvoracafe.com/ |  |  | México | Media |  |
+| 275 | Revista Roast / Unidos por el Café | https://unidosporelcafe.revistaroast.com/ |  |  | México | Media |  |
+| 276 | Rolo Coffee | https://rolocoffee.mx/ |  |  | México | Media |  |
+| 277 | Selvaggio Café | https://selvaggio.mx/ |  |  | México | Media |  |
+| 278 | SF Bay Coffee MX | https://sfbaycoffee.mx/ |  |  | México | Media |  |
+| 279 | Simbiosis Café | https://simbiosis.cafe/ |  |  | México | Media |  |
+| 280 | Sirius Coffee | https://siriuscoffee.mx/ |  |  | México | Media |  |
+| 281 | Starbucks México retail beans | https://www.starbucks.com.mx/ |  |  | México | Media |  |
+| 282 | Tasters Choice MX retail | https://www.nescafe.com.mx/ |  |  | México | Media |  |
+| 283 | The Coffee Farmers Coop | https://coffeefarmerscoop.mx/ |  |  | México | Media |  |
+| 284 | Tiemelonla Nich Klum | https://tiemelonla.mx/ |  |  | Chiapas | Media |  |
+| 285 | Tierra Garat | https://www.tierragarat.mx/ |  |  | CDMX | Media |  |
+| 286 | Tostadora de Café La Fuente | https://tostadoralafuente.mx/ |  |  | México | Media |  |
+| 287 | Tostadores de Cafés Extraordinarios | https://extraordinarios.mx/ |  |  | CDMX | Media |  |
+| 288 | Tostadores y Molinos Combate | https://cafecombate.mx/ |  |  | Chihuahua | Media |  |
+| 289 | TOSTADORES Y MOLINOS DE CAFÉ COMBATE | https://www.cafecombate.com.mx |  |  | Chihuahua | Media |  |
+| 290 | Tresso Café | https://tresso.mx/ |  |  | Veracruz | Media |  |
+| 291 | Tueste Café | https://tuestecafe.com/ |  |  | México | Media |  |
+| 292 | UCIRI Café | https://uciri.mx/ |  |  | Oaxaca | Media |  |
+| 293 | Victoria Arduino MX | https://www.victoriaarduinomx.com/ |  | 5529226193 | México | Media |  |
+| 294 | XKMEX | https://www.puntadelcielo.com.mx |  |  | CDMX | Media |  |
+| 295 | XKMEX / Punta del Cielo related | https://www.puntadelcielo.com.mx/ |  |  | México | Media |  |
+| 296 | Yomol A'tel / Capeltic | https://capeltic.org/ |  |  | Chiapas | Media |  |
+| 297 | AMECAFE |  |  |  | México | Baja |  |
+| 298 | AMSCA Asociación |  |  |  | México | Baja |  |
+| 299 | Beneficio La Mesa |  |  |  | Chiapas | Baja |  |
+| 300 | Beneficio Primero de Mayo |  |  |  | Veracruz | Baja |  |
+| 301 | CAFE SUPERIOR |  |  |  | Celaya | Baja |  |
+| 302 | Café Chiapas DO |  |  |  | Chiapas | Baja |  |
+| 303 | Café Colón Xalapa |  |  |  | Xalapa | Baja |  |
+| 304 | Café de Altura Coatepec Mercado |  |  |  | Coatepec | Baja |  |
+| 305 | Café El Emporio |  |  |  | Xalapa | Baja |  |
+| 306 | Café La Habana |  |  |  | CDMX | Baja |  |
+| 307 | CALUFE |  |  |  | México | Baja |  |
+| 308 | Consejo Regulador Café Veracruz |  |  |  | Veracruz | Baja |  |
+| 309 | DIRECTO AL ORIGEN |  |  |  | México | Baja |  |
+| 310 | Dobie Café |  |  |  | México | Baja |  |
+| 311 | DOS CULTURAS |  |  |  | México | Baja |  |
+| 312 | El Jarocho Coyoacán |  |  |  | CDMX | Baja |  |
+| 313 | GOBAK |  |  |  | México | Baja |  |
+| 314 | Italian Coffee Company MX |  |  |  | México | Baja |  |
+| 315 | Mercado de Café Coatepec productores |  |  |  | Coatepec | Baja |  |
+| 316 | Molino El Viejo |  |  |  | CDMX | Baja |  |
+| 317 | Pluma Hidalgo DO productores |  |  |  | Oaxaca | Baja |  |
+| 318 | The Italian Coffee Company |  |  |  | México | Baja |  |
+| 319 | Tim Hortons MX |  |  |  | México | Baja |  |
+| 320 | TOSTADORES Y MOLINOS |  |  |  | México | Baja |  |
+| 321 | TOSTADORES Y MOLINOS DE CAFÉ COSTEÑITO |  |  |  | México | Baja |  |

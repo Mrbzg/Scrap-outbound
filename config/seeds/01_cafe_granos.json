@@ -1,7 +1,7 @@
 {
   "lote": "01",
   "slug": "cafe_granos",
-  "description": "Semillas manuales / curadas para lote 01",
+  "description": "Semillas curadas café",
   "leads": [
     {
       "empresa": "AbasCafé",
@@ -12,722 +12,7 @@
       "estado": "Veracruz",
       "tipo": "",
       "notas": "Café + equipos cafetería; Café insumos equipos",
-      "fuente": "seed_from_export|manual/research"
-    },
-    {
-      "empresa": "AGROINDUSTRIAS UNIDAS / OMNICAFE",
-      "url": "https://www.ecomtrading.com",
-      "email": "contact@ecomtrading.com",
-      "telefono": "(55) 5257-6500",
-      "ciudad": "CDMX",
-      "estado": "CDMX",
-      "tipo": "",
-      "notas": "Trading ECOM",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "Barizzimo",
-      "url": "https://www.barizzimo.com/",
-      "email": "contacto@barizzimo.com",
-      "telefono": "4496882993",
-      "ciudad": "Aguascalientes",
-      "estado": "Ags",
-      "tipo": "",
-      "notas": "Cold brew + especialidad; Cold brew especialidad",
-      "fuente": "seed_from_export|manual/research"
-    },
-    {
-      "empresa": "Bola de Oro",
-      "url": "https://boladeoro.com.mx/",
-      "email": "contacto@boladeoro.com.mx",
-      "telefono": "",
-      "ciudad": "Coatepec/Puebla",
-      "estado": "Veracruz",
-      "tipo": "",
-      "notas": "Productor Coatepec",
-      "fuente": "seed_from_export|manual/research"
-    },
-    {
-      "empresa": "BOLA DE ORO REFORMA",
-      "url": "https://www.boladeoro.com.mx",
-      "email": "contacto@boladeoro.com.mx",
-      "telefono": "(222) 232-2572",
-      "ciudad": "Puebla",
-      "estado": "Puebla",
-      "tipo": "",
-      "notas": "Coatepec",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFE BERSA",
-      "url": "https://www.grupobersa.com",
-      "email": "info@cafebersa.com",
-      "telefono": "(55) 5018-0464",
-      "ciudad": "Veracruz",
-      "estado": "Veracruz",
-      "tipo": "",
-      "notas": "Kits hoteleros cafeterías",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFE CAPUCHINO",
-      "url": "https://www.cafecapuchinotampico.com.mx",
-      "email": "gerardogochicoa@prodigy.net.mx",
-      "telefono": "(833) 213-6582",
-      "ciudad": "Tampico",
-      "estado": "Tamaulipas",
-      "tipo": "",
-      "notas": "Exportación",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFE CHAZARO",
-      "url": "https://www.cafechazaro.mx",
-      "email": "cafechazaro@hotmail.com",
-      "telefono": "(442) 214-1672",
-      "ciudad": "Querétaro",
-      "estado": "Qro",
-      "tipo": "",
-      "notas": "Tostador molino",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFE CONCORDIA",
-      "url": "https://www.cafeconcordia.net",
-      "email": "cafe.concordia.gourmet@gmail.com",
-      "telefono": "(228) 165-8847",
-      "ciudad": "Emiliano Zapata",
-      "estado": "Veracruz",
-      "tipo": "",
-      "notas": "Mayoreo desde 5kg Horeca",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFE COSTEÑO",
-      "url": "https://www.cafecosteno.com",
-      "email": "industrialtrinidad@hotmail.com",
-      "telefono": "(443) 312-6622",
-      "ciudad": "Morelia",
-      "estado": "Michoacán",
-      "tipo": "",
-      "notas": "",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFE CUMBRE",
-      "url": "https://www.cafecumbre.com",
-      "email": "info@cafecumbre.com",
-      "telefono": "(33) 3627-2372",
-      "ciudad": "Zapopan",
-      "estado": "Jalisco",
-      "tipo": "",
-      "notas": "Pergamino oro Horeca",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFE DE POTOSI / COSTENITO",
-      "url": "https://www.cafecostenito.com.mx",
-      "email": "cafecostenito@gmail.com",
-      "telefono": "(833) 212-2143",
-      "ciudad": "Tampico",
-      "estado": "Tamaulipas",
-      "tipo": "",
-      "notas": "Soluble",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFE EL MARINO",
-      "url": "https://www.cafemarino.com.mx",
-      "email": "marino.online@cafemarino.com.mx",
-      "telefono": "800-718-0090",
-      "ciudad": "CDMX",
-      "estado": "CDMX",
-      "tipo": "",
-      "notas": "Gourmet tostado",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFE EL MARINO CULIACAN",
-      "url": "https://www.cafemarino.com.mx",
-      "email": "culiacan@cafemarino.com.mx",
-      "telefono": "(667) 713-2454",
-      "ciudad": "Culiacán",
-      "estado": "Sinaloa",
-      "tipo": "",
-      "notas": "Sucursal",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFE EUROPA",
-      "url": "https://www.cafeeuropa.com",
-      "email": "comunicacion.cafeeuropa@gmail.com",
-      "telefono": "(443) 312-0600",
-      "ciudad": "Morelia",
-      "estado": "Michoacán",
-      "tipo": "",
-      "notas": "",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFE GABILONDO",
-      "url": "https://www.cafegabilondo.com",
-      "email": "gabilondojuancarlos@yahoo.com.mx",
-      "telefono": "(55) 5393-0220",
-      "ciudad": "Naucalpan",
-      "estado": "EdoMex",
-      "tipo": "",
-      "notas": "Altura",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFE JEKEMIR",
-      "url": "https://www.cafejekemir.com",
-      "email": "jekem@prodigy.net.mx",
-      "telefono": "(55) 5681-3613",
-      "ciudad": "CDMX",
-      "estado": "CDMX",
-      "tipo": "",
-      "notas": "Restaurantes oficinas",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFE MONTE GRANDE",
-      "url": "https://www.montegrande.com.mx",
-      "email": "contacto@montegrande.com.mx",
-      "telefono": "(55) 5521-1522",
-      "ciudad": "CDMX",
-      "estado": "CDMX",
-      "tipo": "",
-      "notas": "Exportación 100% puro",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFE ROYAL",
-      "url": "https://www.caferoyal.mx",
-      "email": "royalcafepuro@hotmail.com",
-      "telefono": "(81) 8331-2422",
-      "ciudad": "Monterrey",
-      "estado": "NL",
-      "tipo": "",
-      "notas": "WhatsApp 8182046952",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFE SOLO DIOS",
-      "url": "https://www.cafesolodios.com.mx",
-      "email": "ventas@cafesolodios.com.mx",
-      "telefono": "(55) 1520-1644",
-      "ciudad": "CDMX",
-      "estado": "CDMX",
-      "tipo": "",
-      "notas": "Tostado molido",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFE TOSTADO DE EXPORTACION / CATOEX",
-      "url": "https://www.catoex.com.mx",
-      "email": "catoexm2@catoex.com.mx",
-      "telefono": "(271) 714-4644",
-      "ciudad": "Córdoba",
-      "estado": "Veracruz",
-      "tipo": "",
-      "notas": "Soluble descafeinado export",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFE WADI",
-      "url": "https://www.cafewadi.mx",
-      "email": "ventas@cafewadi.mx",
-      "telefono": "(744) 483-7555",
-      "ciudad": "Acapulco",
-      "estado": "Guerrero",
-      "tipo": "",
-      "notas": "Horeca export",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFES BASA DE CORDOBA",
-      "url": "https://www.cafecordoba.com.mx",
-      "email": "ventascbc@prodigy.net.mx",
-      "telefono": "01-800-849-1699",
-      "ciudad": "Córdoba",
-      "estado": "Veracruz",
-      "tipo": "",
-      "notas": "Córdoba y Basa",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFESCA",
-      "url": "https://www.cafesca.com",
-      "email": "cafescatrade@cafesca.com",
-      "telefono": "(962) 620-1470",
-      "ciudad": "Tapachula",
-      "estado": "Chiapas",
-      "tipo": "",
-      "notas": "Liofilizado ECOM",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFETALERA SAN FELIPE",
-      "url": "https://www.cafesanfelipe.com",
-      "email": "ventas@cafesanfelipe.com",
-      "telefono": "(271) 716-6109",
-      "ciudad": "Córdoba",
-      "estado": "Veracruz",
-      "tipo": "",
-      "notas": "Arábica especialidad robusta",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "Caffenio / Café del Pacífico",
-      "url": "https://www.caffenio.com/",
-      "email": "clientes@caffenio.com",
-      "telefono": "80022333646",
-      "ciudad": "Hermosillo",
-      "estado": "Sonora",
-      "tipo": "",
-      "notas": "Cadena + comercial",
-      "fuente": "seed_from_export|manual/research"
-    },
-    {
-      "empresa": "CAFINCO",
-      "url": "https://www.cafinco.com",
-      "email": "ventas@cafinco.com",
-      "telefono": "(271) 714-8484",
-      "ciudad": "Córdoba",
-      "estado": "Veracruz",
-      "tipo": "",
-      "notas": "Export Internacional",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFIVER",
-      "url": "https://tienda.cafiver.com/",
-      "email": "ventas@cafiver.com.mx",
-      "telefono": "800-712-3058",
-      "ciudad": "Orizaba",
-      "estado": "Veracruz",
-      "tipo": "",
-      "notas": "Ejemplo original + mayoreo; Ejemplo + industrial",
-      "fuente": "seed_from_export|manual/research"
-    },
-    {
-      "empresa": "Café Andrade",
-      "url": "https://www.cafeandrade.com/",
-      "email": "cafeandrade@hotmail.com",
-      "telefono": "2299328224",
-      "ciudad": "Veracruz",
-      "estado": "Veracruz",
-      "tipo": "",
-      "notas": "Productor/exportador; Productor exportador",
-      "fuente": "seed_from_export|manual/research"
-    },
-    {
-      "empresa": "Café Aroma High Grown",
-      "url": "https://www.aromahg.mx/",
-      "email": "hola@aromahg.com",
-      "telefono": "2222326077",
-      "ciudad": "Puebla",
-      "estado": "Puebla",
-      "tipo": "",
-      "notas": "Finca Nextlalpa",
-      "fuente": "seed_from_export|manual/research"
-    },
-    {
-      "empresa": "CAFÉ BOATO",
-      "url": "https://www.cafeboato.com",
-      "email": "ventas@cafeboato.com",
-      "telefono": "(81) 8357-3609",
-      "ciudad": "Monterrey",
-      "estado": "NL",
-      "tipo": "",
-      "notas": "Córdoba + equipos",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFÉ BOLA DE ORO",
-      "url": "https://www.boladeoro.com.mx",
-      "email": "xalapaoficinatostador@gmail.com",
-      "telefono": "800-717-8242",
-      "ciudad": "Xalapa",
-      "estado": "Veracruz",
-      "tipo": "",
-      "notas": "Tostador Coatepec",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "Café Capuchino Tampico",
-      "url": "https://www.cafecapuchinotampico.com.mx/",
-      "email": "gerardogochicoa@prodigy.net.mx",
-      "telefono": "8332136582",
-      "ciudad": "Tampico",
-      "estado": "Tamaulipas",
-      "tipo": "",
-      "notas": "Tostador local",
-      "fuente": "seed_from_export|manual/research"
-    },
-    {
-      "empresa": "Café Cardommo",
-      "url": "https://www.cardommo.com/",
-      "email": "info@cardommo.com",
-      "telefono": "8123132365",
-      "ciudad": "Monterrey",
-      "estado": "NL",
-      "tipo": "",
-      "notas": "Tueste al vacío; Tueste vacío arábica",
-      "fuente": "seed_from_export|manual/research"
-    },
-    {
-      "empresa": "Café Cházaro",
-      "url": "https://www.cafechazaro.mx/",
-      "email": "cafechazaro@hotmail.com",
-      "telefono": "4422141672",
-      "ciudad": "Querétaro",
-      "estado": "Qro",
-      "tipo": "",
-      "notas": "Tostador/molino",
-      "fuente": "seed_from_export|manual/research"
-    },
-    {
-      "empresa": "CAFÉ COMBATE",
-      "url": "https://www.cafecombate.com.mx",
-      "email": "contacto@cafecombate.com.mx",
-      "telefono": "(614) 418-3511",
-      "ciudad": "Chihuahua",
-      "estado": "Chihuahua",
-      "tipo": "",
-      "notas": "Tostador",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "Café Costeñito",
-      "url": "https://www.cafecostenito.com.mx/",
-      "email": "cafecostenito@gmail.com",
-      "telefono": "8332122143",
-      "ciudad": "Tampico",
-      "estado": "Tamaulipas",
-      "tipo": "",
-      "notas": "Soluble/tostado",
-      "fuente": "seed_from_export|manual/research"
-    },
-    {
-      "empresa": "Café Costeño Morelia",
-      "url": "https://www.cafecosteno.com/",
-      "email": "industrialtrinidad@hotmail.com",
-      "telefono": "4433126622",
-      "ciudad": "Morelia",
-      "estado": "Michoacán",
-      "tipo": "",
-      "notas": "Tostador",
-      "fuente": "seed_from_export|manual/research"
-    },
-    {
-      "empresa": "Café de Veracruz",
-      "url": "https://cafedeveracruz.com.mx/",
-      "email": "cafedeveracruzxalapa@gmail.com",
-      "telefono": "2282159328",
-      "ciudad": "Xalapa",
-      "estado": "Veracruz",
-      "tipo": "",
-      "notas": "Directo productor",
-      "fuente": "seed_from_export|manual/research"
-    },
-    {
-      "empresa": "CAFÉ DEL PACÍFICO / CAFFENIO",
-      "url": "https://www.caffenio.com",
-      "email": "clientes@caffenio.com",
-      "telefono": "800-223-33646",
-      "ciudad": "Hermosillo",
-      "estado": "Sonora",
-      "tipo": "",
-      "notas": "Hoteles restaurantes",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFÉ DOS SIERRAS / COLPOS",
-      "url": "https://www.colposcordoba.mx",
-      "email": "cafecordoba@colpos.mx",
-      "telefono": "(271) 716-6000",
-      "ciudad": "Amatlán",
-      "estado": "Veracruz",
-      "tipo": "",
-      "notas": "Campus Córdoba",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFÉ EL GRANDE",
-      "url": "https://www.cafeelgrande.com",
-      "email": "ventas@cafeelgrande.com",
-      "telefono": "(81) 8317-0653",
-      "ciudad": "Guadalupe",
-      "estado": "NL",
-      "tipo": "",
-      "notas": "Tostado grano mayoreo abastos",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFÉ FINCA MONTE AZUL",
-      "url": "https://www.fincamonteazul.com",
-      "email": "marketing@fincamonteazul.com",
-      "telefono": "(271) 688-3969",
-      "ciudad": "Huatusco",
-      "estado": "Veracruz",
-      "tipo": "",
-      "notas": "Arábigo",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "Café Flor de mi Corazón / Samari",
-      "url": "https://www.facebook.com/CafeMielSamari",
-      "email": "samuelluisrojas@gmail.com",
-      "telefono": "2331175902",
-      "ciudad": "Zapotitlán",
-      "estado": "Puebla",
-      "tipo": "",
-      "notas": "Mayoreo desde 5kg",
-      "fuente": "seed_from_export|manual/research"
-    },
-    {
-      "empresa": "Café Gabilondo",
-      "url": "https://www.cafegabilondo.com/",
-      "email": "gabilondojuancarlos@yahoo.com.mx",
-      "telefono": "5553930220",
-      "ciudad": "Naucalpan",
-      "estado": "EdoMex",
-      "tipo": "",
-      "notas": "Café de altura",
-      "fuente": "seed_from_export|manual/research"
-    },
-    {
-      "empresa": "CAFÉ GENUINO LA NEGRITA",
-      "url": "https://www.cafelanegrita.com",
-      "email": "vnader@cafelanegrita.com",
-      "telefono": "(33) 3812-1703",
-      "ciudad": "Guadalajara",
-      "estado": "Jalisco",
-      "tipo": "",
-      "notas": "",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "Café La Selva",
-      "url": "https://cafelaselva.com/",
-      "email": "cafelaselva@prodigy.net.mx",
-      "telefono": "(777) 317-5821",
-      "ciudad": "México",
-      "estado": "México",
-      "tipo": "",
-      "notas": "Comercio justo; Hoteles restaurantes",
-      "fuente": "seed_from_export|manual/research"
-    },
-    {
-      "empresa": "CAFÉ MONTEVIRGEN",
-      "url": "https://www.cafemontevirgen.com.mx",
-      "email": "ventascafemontevirgen@hotmail.com",
-      "telefono": "(967) 688-2588",
-      "ciudad": "San Cristóbal",
-      "estado": "Chiapas",
-      "tipo": "",
-      "notas": "Kilos a toneladas",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFÉ ORIENTAL VÁZQUEZ HERMANOS",
-      "url": "https://www.cafeoriental.com.mx",
-      "email": "ventas@cafeoriental.com.mx",
-      "telefono": "(55) 5558-2510",
-      "ciudad": "CDMX",
-      "estado": "CDMX",
-      "tipo": "",
-      "notas": "Tostador maquila",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "Café Porte Alto",
-      "url": "https://www.portealto.com/",
-      "email": "ventas@portealto.com",
-      "telefono": "5519547770",
-      "ciudad": "CDMX",
-      "estado": "CDMX",
-      "tipo": "",
-      "notas": "Gourmet menudeo/mayoreo; Gourmet menudeo/mayoreo envío gratis >5kg",
-      "fuente": "seed_from_export|manual/research"
-    },
-    {
-      "empresa": "Café Texin / Agro Texin",
-      "url": "https://www.cafetexin.com/",
-      "email": "texin1975@hotmail.com",
-      "telefono": "2288160188",
-      "ciudad": "Coatepec",
-      "estado": "Veracruz",
-      "tipo": "",
-      "notas": "Productor",
-      "fuente": "seed_from_export|manual/research"
-    },
-    {
-      "empresa": "Café Yajalón",
-      "url": "https://cafeyajalon.mx/",
-      "email": "cafes_yajalon@hotmail.com",
-      "telefono": "9196741863",
-      "ciudad": "Chiapas",
-      "estado": "Chiapas",
-      "tipo": "",
-      "notas": "Gourmet arábica/robusta",
-      "fuente": "seed_from_export|manual/research"
-    },
-    {
-      "empresa": "Finca Monte Azul",
-      "url": "https://www.fincamonteazul.com/",
-      "email": "marketing@fincamonteazul.com",
-      "telefono": "2716883969",
-      "ciudad": "Veracruz",
-      "estado": "Veracruz",
-      "tipo": "",
-      "notas": "Arábigo grano",
-      "fuente": "seed_from_export|manual/research"
-    },
-    {
-      "empresa": "LA LUCHA",
-      "url": "https://www.facebook.com/cafelaluchaoficial",
-      "email": "quejasysugerencias@cafelalucha.mx",
-      "telefono": "(452) 688-2688",
-      "ciudad": "Uruapan",
-      "estado": "Michoacán",
-      "tipo": "",
-      "notas": "",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "MACHINE COFFEE",
-      "url": "https://www.machinecoffee.com",
-      "email": "info@machinecoffee.com",
-      "telefono": "800-908-9080",
-      "ciudad": "CDMX",
-      "estado": "CDMX",
-      "tipo": "",
-      "notas": "Molido + máquinas",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "MERCAFE / Café Fincasa",
-      "url": "https://www.cafefincasa.com.mx",
-      "email": "cafefincasa@hotmail.com",
-      "telefono": "(222) 244-4823",
-      "ciudad": "Puebla",
-      "estado": "Puebla",
-      "tipo": "",
-      "notas": "Altura exportación",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "MUNDO ERANDY CAFÉ",
-      "url": "https://www.mundoerandy.com.mx",
-      "email": "adriana.orrala@mundoerandy.com.mx",
-      "telefono": "(55) 4437-6990",
-      "ciudad": "CDMX",
-      "estado": "CDMX",
-      "tipo": "",
-      "notas": "Pods grano Horeca",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "OMNICAFE / ECOM",
-      "url": "https://www.ecomtrading.com/",
-      "email": "contact@ecomtrading.com",
-      "telefono": "5552576500",
-      "ciudad": "CDMX",
-      "estado": "CDMX",
-      "tipo": "",
-      "notas": "Trading café",
-      "fuente": "seed_from_export|manual/research"
-    },
-    {
-      "empresa": "PARTICIPACIONES MARIANO / ILLY MX",
-      "url": "https://www.partimar.com",
-      "email": "partimar@partimar.com",
-      "telefono": "(55) 5566-3544",
-      "ciudad": "CDMX",
-      "estado": "CDMX",
-      "tipo": "",
-      "notas": "Illy exclusivo Horeca",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "Productos Narcia",
-      "url": "https://productosnarcia.mx/",
-      "email": "pronar2022@gmail.com",
-      "telefono": "(961) 178-0192",
-      "ciudad": "México",
-      "estado": "México",
-      "tipo": "",
-      "notas": "Orgánico gourmet 500g",
-      "fuente": "seed_from_export|manual/research"
-    },
-    {
-      "empresa": "Punta del Cielo",
-      "url": "https://www.puntadelcielo.com.mx/",
-      "email": "jonathan@puntadelcielo.com.mx",
-      "telefono": "(55) 5516-8020",
-      "ciudad": "México",
-      "estado": "México",
-      "tipo": "",
-      "notas": "Cadena + grano",
-      "fuente": "seed_from_export|manual/research"
-    },
-    {
-      "empresa": "Roasting & Blending",
-      "url": "https://www.roasting-blending.com/",
-      "email": "informes@roasting-blending.com",
-      "telefono": "5553537415",
-      "ciudad": "CDMX",
-      "estado": "CDMX",
-      "tipo": "",
-      "notas": "Tostadores finos; Finos gourmet saborizados",
-      "fuente": "seed_from_export|manual/research"
-    },
-    {
-      "empresa": "RODRÍGUEZ FÚNEZ / Pico del Oro",
-      "url": "https://www.cafepicodeloro.com",
-      "email": "cafe-picodeloro@hotmail.com",
-      "telefono": "(963) 118-5607",
-      "ciudad": "Amatenango",
-      "estado": "Chiapas",
-      "tipo": "",
-      "notas": "Productores familiares",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "SABORMEX",
-      "url": "https://www.sabormex.com.mx",
-      "email": "contacto@sabormex.com.mx",
-      "telefono": "800-017-2267",
-      "ciudad": "CDMX",
-      "estado": "CDMX",
-      "tipo": "",
-      "notas": "Legal Oro Garat Internacional",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "SAMARI AGROINDUSTRIAL",
-      "url": "https://cafeflordemicorazon.com.mx",
-      "email": "ventas@cafeflordemicorazon.com.mx",
-      "telefono": "(233) 117-5902",
-      "ciudad": "Zapotitlán",
-      "estado": "Puebla",
-      "tipo": "",
-      "notas": "Flor de mi Corazón",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "Santa Elena Coffee Roasters",
-      "url": "https://santaelenacoffeeroasters.com/",
-      "email": "info@santaelenacoffeeroasters.com",
-      "telefono": "2282985804",
-      "ciudad": "Xalapa",
-      "estado": "Veracruz",
-      "tipo": "",
-      "notas": "Mayoreo tostado",
-      "fuente": "seed_from_export|manual/research"
+      "fuente": "seed_from_export"
     },
     {
       "empresa": "AGRO TEXIN / Café TEXIN",
@@ -738,7 +23,7 @@
       "estado": "Veracruz",
       "tipo": "",
       "notas": "Productor",
-      "fuente": "seed_from_export|dirind"
+      "fuente": "seed_from_export"
     },
     {
       "empresa": "AGROCAFES LA INDIA",
@@ -749,249 +34,29 @@
       "estado": "Veracruz",
       "tipo": "",
       "notas": "",
-      "fuente": "seed_from_export|dirind"
+      "fuente": "seed_from_export"
     },
     {
-      "empresa": "CAFE COLON DE XALAPA",
-      "url": "",
-      "email": "bcmsa@prodigy.net.mx",
-      "telefono": "(228) 817-1758",
-      "ciudad": "Xalapa",
-      "estado": "Veracruz",
-      "tipo": "",
-      "notas": "",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFE DE LA MEDIA LUNA",
-      "url": "",
-      "email": "cafemedialunaflorencia@hotmail.com",
-      "telefono": "(55) 5511-2777",
+      "empresa": "AGROINDUSTRIAS UNIDAS / OMNICAFE",
+      "url": "https://www.ecomtrading.com",
+      "email": "contact@ecomtrading.com",
+      "telefono": "(55) 5257-6500",
       "ciudad": "CDMX",
       "estado": "CDMX",
       "tipo": "",
-      "notas": "100% puro Juárez",
-      "fuente": "seed_from_export|dirind"
+      "notas": "Trading ECOM",
+      "fuente": "seed_from_export"
     },
     {
-      "empresa": "CAFE DEL CENTRO HISTORICO TAPATIO",
-      "url": "",
-      "email": "gabriel_macro@hotmail.com",
-      "telefono": "(33) 3614-3996",
-      "ciudad": "Guadalajara",
-      "estado": "Jalisco",
+      "empresa": "Barizzimo",
+      "url": "https://www.barizzimo.com/",
+      "email": "contacto@barizzimo.com",
+      "telefono": "4496882993",
+      "ciudad": "Aguascalientes",
+      "estado": "Ags",
       "tipo": "",
-      "notas": "",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFE MYRNA",
-      "url": "",
-      "email": "cms.cfdi@gmail.com",
-      "telefono": "(228) 816-1325",
-      "ciudad": "Coatepec",
-      "estado": "Veracruz",
-      "tipo": "",
-      "notas": "Con azúcar y puro",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFE SAN JUAN XITOLTEPEQUE",
-      "url": "",
-      "email": "cafesanjuanxit@hotmail.com",
-      "telefono": "(919) 685-9047",
-      "ciudad": "Jitotol",
-      "estado": "Chiapas",
-      "tipo": "",
-      "notas": "Puro",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFE ZIHUATLAN",
-      "url": "",
-      "email": "cafe_zihuatlan@hotmail.com",
-      "telefono": "(755) 544-6019",
-      "ciudad": "Zihuatanejo",
-      "estado": "Guerrero",
-      "tipo": "",
-      "notas": "Especialidad verde tostado",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFES MOKA",
-      "url": "",
-      "email": "tostadorcafesmoka@hotmail.com",
-      "telefono": "(33) 3614-4069",
-      "ciudad": "Guadalajara",
-      "estado": "Jalisco",
-      "tipo": "",
-      "notas": "Tostados varios + León",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFETERA MEXICANA",
-      "url": "",
-      "email": "cafemonterrey@gmail.com",
-      "telefono": "(81) 8375-4715",
-      "ciudad": "Monterrey",
-      "estado": "NL",
-      "tipo": "",
-      "notas": "Caracolillo México Morelia",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFETICULTORES SELVA NORTE TUMBALA",
-      "url": "",
-      "email": "cafetumbala@yahoo.com.mx",
-      "telefono": "(55) 5594-1812",
-      "ciudad": "CDMX",
-      "estado": "CDMX",
-      "tipo": "",
-      "notas": "Orgánico altura granel",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFÉ EL COMALTECO",
-      "url": "",
-      "email": "cafecomalteco@hotmail.com",
-      "telefono": "(312) 315-5562",
-      "ciudad": "Comala",
-      "estado": "Colima",
-      "tipo": "",
-      "notas": "Exportación",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFÉ FLOR DE MI CORAZÓN",
-      "url": "",
-      "email": "samuelluisrojas@gmail.com",
-      "telefono": "(233) 117-5902",
-      "ciudad": "Zapotitlán",
-      "estado": "Puebla",
-      "tipo": "",
-      "notas": "Mayoreo desde 5kg",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFÉ LA PIEDRA",
-      "url": "",
-      "email": "moises_cuetoh@hotmail.com",
-      "telefono": "(55) 3373-0441",
-      "ciudad": "Tonalá",
-      "estado": "Jalisco",
-      "tipo": "",
-      "notas": "Maquila alimentos café",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFÉ PALACIO",
-      "url": "",
-      "email": "cafepalacio@hotmail.com",
-      "telefono": "800-713-3685",
-      "ciudad": "Córdoba",
-      "estado": "Veracruz",
-      "tipo": "",
-      "notas": "Café ARA",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFÉ TOSTADO SOCONUSCO",
-      "url": "",
-      "email": "cafesoconusco@hotmail.com",
-      "telefono": "(962) 625-0069",
-      "ciudad": "Tapachula",
-      "estado": "Chiapas",
-      "tipo": "",
-      "notas": "100% puro",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFÉ VERDE (Marino Córdoba)",
-      "url": "",
-      "email": "delfinocarballo@hotmail.com",
-      "telefono": "(271) 713-0837",
-      "ciudad": "Fortín",
-      "estado": "Veracruz",
-      "tipo": "",
-      "notas": "",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFÉS DE HUEYTLALPAN",
-      "url": "",
-      "email": "lgonzalezg.tifer@gmail.com",
-      "telefono": "(233) 116-6412",
-      "ciudad": "Hueytlalpan",
-      "estado": "Puebla",
-      "tipo": "",
-      "notas": "Especialidad desde 5kg Horeca",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFÉS REGIONALES DE ALTURA / REGIOMOKA",
-      "url": "",
-      "email": "regiomok@hotmail.com",
-      "telefono": "(271) 712-4462",
-      "ciudad": "Córdoba",
-      "estado": "Veracruz",
-      "tipo": "",
-      "notas": "Maquila",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "CAFÉS YAJALÓN SCL",
-      "url": "",
-      "email": "cafes_yajalon@hotmail.com",
-      "telefono": "(919) 674-1863",
-      "ciudad": "Yajalón",
-      "estado": "Chiapas",
-      "tipo": "",
-      "notas": "Gourmet arábica robusta",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "PAQUIGUA Y CAFÉ",
-      "url": "",
-      "email": "paquigua@prodigy.net.mx",
-      "telefono": "(664) 631-1898",
-      "ciudad": "Tijuana",
-      "estado": "BC",
-      "tipo": "",
-      "notas": "Gourmet Horeca",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "SAN JERÓNIMO CAFETERÍAS",
-      "url": "",
-      "email": "cafesanjeronimocolima@gmail.com",
-      "telefono": "(312) 114-5178",
-      "ciudad": "Colima",
-      "estado": "Colima",
-      "tipo": "",
-      "notas": "Artesanal Cuauhtémoc Colima",
-      "fuente": "seed_from_export|dirind"
-    },
-    {
-      "empresa": "600 Micras Coffee Lab",
-      "url": "https://www.600micras.com/",
-      "email": "",
-      "telefono": "3314659701",
-      "ciudad": "México",
-      "estado": "México",
-      "tipo": "",
-      "notas": "Coffee lab/tostador; Expo Café",
-      "fuente": "seed_from_export|manual/research"
-    },
-    {
-      "empresa": "BARISTA SHOP / Coffee Outlet",
-      "url": "https://coffeeoutlet.com.mx",
-      "email": "",
-      "telefono": "5625765795",
-      "ciudad": "México",
-      "estado": "México",
-      "tipo": "",
-      "notas": "Expo",
-      "fuente": "seed_from_export|dirind/expo"
+      "notas": "Cold brew + especialidad; Cold brew especialidad",
+      "fuente": "seed_from_export"
     },
     {
       "empresa": "Blend Station",
@@ -1002,7 +67,249 @@
       "estado": "CDMX",
       "tipo": "",
       "notas": "Tostador/cafetería",
-      "fuente": "seed_from_export|manual/research"
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "Bola de Oro",
+      "url": "https://boladeoro.com.mx/",
+      "email": "contacto@boladeoro.com.mx",
+      "telefono": "",
+      "ciudad": "Coatepec/Puebla",
+      "estado": "Veracruz",
+      "tipo": "",
+      "notas": "Productor Coatepec",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "BOLA DE ORO REFORMA",
+      "url": "https://www.boladeoro.com.mx",
+      "email": "contacto@boladeoro.com.mx",
+      "telefono": "(222) 232-2572",
+      "ciudad": "Puebla",
+      "estado": "Puebla",
+      "tipo": "",
+      "notas": "Coatepec",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFE BERSA",
+      "url": "https://www.grupobersa.com",
+      "email": "info@cafebersa.com",
+      "telefono": "(55) 5018-0464",
+      "ciudad": "Veracruz",
+      "estado": "Veracruz",
+      "tipo": "",
+      "notas": "Kits hoteleros cafeterías",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFE CAPUCHINO",
+      "url": "https://www.cafecapuchinotampico.com.mx",
+      "email": "gerardogochicoa@prodigy.net.mx",
+      "telefono": "(833) 213-6582",
+      "ciudad": "Tampico",
+      "estado": "Tamaulipas",
+      "tipo": "",
+      "notas": "Exportación",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFE CHAZARO",
+      "url": "https://www.cafechazaro.mx",
+      "email": "cafechazaro@hotmail.com",
+      "telefono": "(442) 214-1672",
+      "ciudad": "Querétaro",
+      "estado": "Qro",
+      "tipo": "",
+      "notas": "Tostador molino",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFE COLON DE XALAPA",
+      "url": "",
+      "email": "bcmsa@prodigy.net.mx",
+      "telefono": "(228) 817-1758",
+      "ciudad": "Xalapa",
+      "estado": "Veracruz",
+      "tipo": "",
+      "notas": "",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFE CONCORDIA",
+      "url": "https://www.cafeconcordia.net",
+      "email": "cafe.concordia.gourmet@gmail.com",
+      "telefono": "(228) 165-8847",
+      "ciudad": "Emiliano Zapata",
+      "estado": "Veracruz",
+      "tipo": "",
+      "notas": "Mayoreo desde 5kg Horeca",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFE COSTEÑO",
+      "url": "https://www.cafecosteno.com",
+      "email": "industrialtrinidad@hotmail.com",
+      "telefono": "(443) 312-6622",
+      "ciudad": "Morelia",
+      "estado": "Michoacán",
+      "tipo": "",
+      "notas": "",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFE CUMBRE",
+      "url": "https://www.cafecumbre.com",
+      "email": "info@cafecumbre.com",
+      "telefono": "(33) 3627-2372",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco",
+      "tipo": "",
+      "notas": "Pergamino oro Horeca",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFE DE LA MEDIA LUNA",
+      "url": "",
+      "email": "cafemedialunaflorencia@hotmail.com",
+      "telefono": "(55) 5511-2777",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "",
+      "notas": "100% puro Juárez",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFE DE POTOSI / COSTENITO",
+      "url": "https://www.cafecostenito.com.mx",
+      "email": "cafecostenito@gmail.com",
+      "telefono": "(833) 212-2143",
+      "ciudad": "Tampico",
+      "estado": "Tamaulipas",
+      "tipo": "",
+      "notas": "Soluble",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFE DEL CENTRO HISTORICO TAPATIO",
+      "url": "",
+      "email": "gabriel_macro@hotmail.com",
+      "telefono": "(33) 3614-3996",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco",
+      "tipo": "",
+      "notas": "",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFE EL MARINO",
+      "url": "https://www.cafemarino.com.mx",
+      "email": "marino.online@cafemarino.com.mx",
+      "telefono": "800-718-0090",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "",
+      "notas": "Gourmet tostado",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFE EL MARINO CULIACAN",
+      "url": "https://www.cafemarino.com.mx",
+      "email": "culiacan@cafemarino.com.mx",
+      "telefono": "(667) 713-2454",
+      "ciudad": "Culiacán",
+      "estado": "Sinaloa",
+      "tipo": "",
+      "notas": "Sucursal",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFE EUROPA",
+      "url": "https://www.cafeeuropa.com",
+      "email": "comunicacion.cafeeuropa@gmail.com",
+      "telefono": "(443) 312-0600",
+      "ciudad": "Morelia",
+      "estado": "Michoacán",
+      "tipo": "",
+      "notas": "",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFE GABILONDO",
+      "url": "https://www.cafegabilondo.com",
+      "email": "gabilondojuancarlos@yahoo.com.mx",
+      "telefono": "(55) 5393-0220",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex",
+      "tipo": "",
+      "notas": "Altura",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFE JEKEMIR",
+      "url": "https://www.cafejekemir.com",
+      "email": "jekem@prodigy.net.mx",
+      "telefono": "(55) 5681-3613",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "",
+      "notas": "Restaurantes oficinas",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFE MONTE GRANDE",
+      "url": "https://www.montegrande.com.mx",
+      "email": "contacto@montegrande.com.mx",
+      "telefono": "(55) 5521-1522",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "",
+      "notas": "Exportación 100% puro",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFE MYRNA",
+      "url": "",
+      "email": "cms.cfdi@gmail.com",
+      "telefono": "(228) 816-1325",
+      "ciudad": "Coatepec",
+      "estado": "Veracruz",
+      "tipo": "",
+      "notas": "Con azúcar y puro",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFE ROYAL",
+      "url": "https://www.caferoyal.mx",
+      "email": "royalcafepuro@hotmail.com",
+      "telefono": "(81) 8331-2422",
+      "ciudad": "Monterrey",
+      "estado": "NL",
+      "tipo": "",
+      "notas": "WhatsApp 8182046952",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFE SAN JUAN XITOLTEPEQUE",
+      "url": "",
+      "email": "cafesanjuanxit@hotmail.com",
+      "telefono": "(919) 685-9047",
+      "ciudad": "Jitotol",
+      "estado": "Chiapas",
+      "tipo": "",
+      "notas": "Puro",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFE SOLO DIOS",
+      "url": "https://www.cafesolodios.com.mx",
+      "email": "ventas@cafesolodios.com.mx",
+      "telefono": "(55) 1520-1644",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "",
+      "notas": "Tostado molido",
+      "fuente": "seed_from_export"
     },
     {
       "empresa": "CAFE TAZA DE ORO",
@@ -1013,7 +320,359 @@
       "estado": "Jalisco",
       "tipo": "",
       "notas": "Altura tostado",
-      "fuente": "seed_from_export|dirind"
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFE TOSTADO DE EXPORTACION / CATOEX",
+      "url": "https://www.catoex.com.mx",
+      "email": "catoexm2@catoex.com.mx",
+      "telefono": "(271) 714-4644",
+      "ciudad": "Córdoba",
+      "estado": "Veracruz",
+      "tipo": "",
+      "notas": "Soluble descafeinado export",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFE WADI",
+      "url": "https://www.cafewadi.mx",
+      "email": "ventas@cafewadi.mx",
+      "telefono": "(744) 483-7555",
+      "ciudad": "Acapulco",
+      "estado": "Guerrero",
+      "tipo": "",
+      "notas": "Horeca export",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFE ZIHUATLAN",
+      "url": "",
+      "email": "cafe_zihuatlan@hotmail.com",
+      "telefono": "(755) 544-6019",
+      "ciudad": "Zihuatanejo",
+      "estado": "Guerrero",
+      "tipo": "",
+      "notas": "Especialidad verde tostado",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFES BASA DE CORDOBA",
+      "url": "https://www.cafecordoba.com.mx",
+      "email": "ventascbc@prodigy.net.mx",
+      "telefono": "01-800-849-1699",
+      "ciudad": "Córdoba",
+      "estado": "Veracruz",
+      "tipo": "",
+      "notas": "Córdoba y Basa",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFES MOKA",
+      "url": "",
+      "email": "tostadorcafesmoka@hotmail.com",
+      "telefono": "(33) 3614-4069",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco",
+      "tipo": "",
+      "notas": "Tostados varios + León",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFESCA",
+      "url": "https://www.cafesca.com",
+      "email": "cafescatrade@cafesca.com",
+      "telefono": "(962) 620-1470",
+      "ciudad": "Tapachula",
+      "estado": "Chiapas",
+      "tipo": "",
+      "notas": "Liofilizado ECOM",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFETALERA SAN FELIPE",
+      "url": "https://www.cafesanfelipe.com",
+      "email": "ventas@cafesanfelipe.com",
+      "telefono": "(271) 716-6109",
+      "ciudad": "Córdoba",
+      "estado": "Veracruz",
+      "tipo": "",
+      "notas": "Arábica especialidad robusta",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFETERA MEXICANA",
+      "url": "",
+      "email": "cafemonterrey@gmail.com",
+      "telefono": "(81) 8375-4715",
+      "ciudad": "Monterrey",
+      "estado": "NL",
+      "tipo": "",
+      "notas": "Caracolillo México Morelia",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFETICULTORES SELVA NORTE TUMBALA",
+      "url": "",
+      "email": "cafetumbala@yahoo.com.mx",
+      "telefono": "(55) 5594-1812",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "",
+      "notas": "Orgánico altura granel",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "Caffenio / Café del Pacífico",
+      "url": "https://www.caffenio.com/",
+      "email": "clientes@caffenio.com",
+      "telefono": "80022333646",
+      "ciudad": "Hermosillo",
+      "estado": "Sonora",
+      "tipo": "",
+      "notas": "Cadena + comercial",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFINCO",
+      "url": "https://www.cafinco.com",
+      "email": "ventas@cafinco.com",
+      "telefono": "(271) 714-8484",
+      "ciudad": "Córdoba",
+      "estado": "Veracruz",
+      "tipo": "",
+      "notas": "Export Internacional",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFIVER",
+      "url": "https://tienda.cafiver.com/",
+      "email": "ventas@cafiver.com.mx",
+      "telefono": "800-712-3058",
+      "ciudad": "Orizaba",
+      "estado": "Veracruz",
+      "tipo": "",
+      "notas": "Ejemplo original + mayoreo; Ejemplo + industrial",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "Café Andrade",
+      "url": "https://www.cafeandrade.com/",
+      "email": "cafeandrade@hotmail.com",
+      "telefono": "2299328224",
+      "ciudad": "Veracruz",
+      "estado": "Veracruz",
+      "tipo": "",
+      "notas": "Productor/exportador; Productor exportador",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "Café Aroma High Grown",
+      "url": "https://www.aromahg.mx/",
+      "email": "hola@aromahg.com",
+      "telefono": "2222326077",
+      "ciudad": "Puebla",
+      "estado": "Puebla",
+      "tipo": "",
+      "notas": "Finca Nextlalpa",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFÉ BOATO",
+      "url": "https://www.cafeboato.com",
+      "email": "ventas@cafeboato.com",
+      "telefono": "(81) 8357-3609",
+      "ciudad": "Monterrey",
+      "estado": "NL",
+      "tipo": "",
+      "notas": "Córdoba + equipos",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFÉ BOLA DE ORO",
+      "url": "https://www.boladeoro.com.mx",
+      "email": "xalapaoficinatostador@gmail.com",
+      "telefono": "800-717-8242",
+      "ciudad": "Xalapa",
+      "estado": "Veracruz",
+      "tipo": "",
+      "notas": "Tostador Coatepec",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "Café Capuchino Tampico",
+      "url": "https://www.cafecapuchinotampico.com.mx/",
+      "email": "gerardogochicoa@prodigy.net.mx",
+      "telefono": "8332136582",
+      "ciudad": "Tampico",
+      "estado": "Tamaulipas",
+      "tipo": "",
+      "notas": "Tostador local",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "Café Cardommo",
+      "url": "https://www.cardommo.com/",
+      "email": "info@cardommo.com",
+      "telefono": "8123132365",
+      "ciudad": "Monterrey",
+      "estado": "NL",
+      "tipo": "",
+      "notas": "Tueste al vacío; Tueste vacío arábica",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "Café Cházaro",
+      "url": "https://www.cafechazaro.mx/",
+      "email": "cafechazaro@hotmail.com",
+      "telefono": "4422141672",
+      "ciudad": "Querétaro",
+      "estado": "Qro",
+      "tipo": "",
+      "notas": "Tostador/molino",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFÉ COMBATE",
+      "url": "https://www.cafecombate.com.mx",
+      "email": "contacto@cafecombate.com.mx",
+      "telefono": "(614) 418-3511",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua",
+      "tipo": "",
+      "notas": "Tostador",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "Café Costeñito",
+      "url": "https://www.cafecostenito.com.mx/",
+      "email": "cafecostenito@gmail.com",
+      "telefono": "8332122143",
+      "ciudad": "Tampico",
+      "estado": "Tamaulipas",
+      "tipo": "",
+      "notas": "Soluble/tostado",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "Café Costeño Morelia",
+      "url": "https://www.cafecosteno.com/",
+      "email": "industrialtrinidad@hotmail.com",
+      "telefono": "4433126622",
+      "ciudad": "Morelia",
+      "estado": "Michoacán",
+      "tipo": "",
+      "notas": "Tostador",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "Café de Veracruz",
+      "url": "https://cafedeveracruz.com.mx/",
+      "email": "cafedeveracruzxalapa@gmail.com",
+      "telefono": "2282159328",
+      "ciudad": "Xalapa",
+      "estado": "Veracruz",
+      "tipo": "",
+      "notas": "Directo productor",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFÉ DEL PACÍFICO / CAFFENIO",
+      "url": "https://www.caffenio.com",
+      "email": "clientes@caffenio.com",
+      "telefono": "800-223-33646",
+      "ciudad": "Hermosillo",
+      "estado": "Sonora",
+      "tipo": "",
+      "notas": "Hoteles restaurantes",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFÉ DOS SIERRAS / COLPOS",
+      "url": "https://www.colposcordoba.mx",
+      "email": "cafecordoba@colpos.mx",
+      "telefono": "(271) 716-6000",
+      "ciudad": "Amatlán",
+      "estado": "Veracruz",
+      "tipo": "",
+      "notas": "Campus Córdoba",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFÉ EL COMALTECO",
+      "url": "",
+      "email": "cafecomalteco@hotmail.com",
+      "telefono": "(312) 315-5562",
+      "ciudad": "Comala",
+      "estado": "Colima",
+      "tipo": "",
+      "notas": "Exportación",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFÉ EL GRANDE",
+      "url": "https://www.cafeelgrande.com",
+      "email": "ventas@cafeelgrande.com",
+      "telefono": "(81) 8317-0653",
+      "ciudad": "Guadalupe",
+      "estado": "NL",
+      "tipo": "",
+      "notas": "Tostado grano mayoreo abastos",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFÉ FINCA MONTE AZUL",
+      "url": "https://www.fincamonteazul.com",
+      "email": "marketing@fincamonteazul.com",
+      "telefono": "(271) 688-3969",
+      "ciudad": "Huatusco",
+      "estado": "Veracruz",
+      "tipo": "",
+      "notas": "Arábigo",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFÉ FLOR DE MI CORAZÓN",
+      "url": "",
+      "email": "samuelluisrojas@gmail.com",
+      "telefono": "(233) 117-5902",
+      "ciudad": "Zapotitlán",
+      "estado": "Puebla",
+      "tipo": "",
+      "notas": "Mayoreo desde 5kg",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "Café Flor de mi Corazón / Samari",
+      "url": "https://www.facebook.com/CafeMielSamari",
+      "email": "samuelluisrojas@gmail.com",
+      "telefono": "2331175902",
+      "ciudad": "Zapotitlán",
+      "estado": "Puebla",
+      "tipo": "",
+      "notas": "Mayoreo desde 5kg",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "Café Gabilondo",
+      "url": "https://www.cafegabilondo.com/",
+      "email": "gabilondojuancarlos@yahoo.com.mx",
+      "telefono": "5553930220",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex",
+      "tipo": "",
+      "notas": "Café de altura",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFÉ GENUINO LA NEGRITA",
+      "url": "https://www.cafelanegrita.com",
+      "email": "vnader@cafelanegrita.com",
+      "telefono": "(33) 3812-1703",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco",
+      "tipo": "",
+      "notas": "",
+      "fuente": "seed_from_export"
     },
     {
       "empresa": "Café La Floresta",
@@ -1024,7 +683,7 @@
       "estado": "CDMX",
       "tipo": "",
       "notas": "Estricta altura export",
-      "fuente": "seed_from_export|manual/research"
+      "fuente": "seed_from_export"
     },
     {
       "empresa": "Café La Negrita",
@@ -1035,18 +694,84 @@
       "estado": "BC",
       "tipo": "",
       "notas": "Tostador; 100% puro",
-      "fuente": "seed_from_export|manual/research"
+      "fuente": "seed_from_export"
     },
     {
-      "empresa": "Café Paralelo",
-      "url": "https://cafeparalelo.com/",
-      "email": "",
-      "telefono": "5544479048",
+      "empresa": "CAFÉ LA PIEDRA",
+      "url": "",
+      "email": "moises_cuetoh@hotmail.com",
+      "telefono": "(55) 3373-0441",
+      "ciudad": "Tonalá",
+      "estado": "Jalisco",
+      "tipo": "",
+      "notas": "Maquila alimentos café",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "Café La Selva",
+      "url": "https://cafelaselva.com/",
+      "email": "cafelaselva@prodigy.net.mx",
+      "telefono": "(777) 317-5821",
       "ciudad": "México",
       "estado": "México",
       "tipo": "",
-      "notas": "Tostador; Expo tostador",
-      "fuente": "seed_from_export|manual/research"
+      "notas": "Comercio justo; Hoteles restaurantes",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFÉ MONTEVIRGEN",
+      "url": "https://www.cafemontevirgen.com.mx",
+      "email": "ventascafemontevirgen@hotmail.com",
+      "telefono": "(967) 688-2588",
+      "ciudad": "San Cristóbal",
+      "estado": "Chiapas",
+      "tipo": "",
+      "notas": "Kilos a toneladas",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFÉ ORIENTAL VÁZQUEZ HERMANOS",
+      "url": "https://www.cafeoriental.com.mx",
+      "email": "ventas@cafeoriental.com.mx",
+      "telefono": "(55) 5558-2510",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "",
+      "notas": "Tostador maquila",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFÉ PALACIO",
+      "url": "",
+      "email": "cafepalacio@hotmail.com",
+      "telefono": "800-713-3685",
+      "ciudad": "Córdoba",
+      "estado": "Veracruz",
+      "tipo": "",
+      "notas": "Café ARA",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "Café Porte Alto",
+      "url": "https://www.portealto.com/",
+      "email": "ventas@portealto.com",
+      "telefono": "5519547770",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "",
+      "notas": "Gourmet menudeo/mayoreo; Gourmet menudeo/mayoreo envío gratis >5kg",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "Café Texin / Agro Texin",
+      "url": "https://www.cafetexin.com/",
+      "email": "texin1975@hotmail.com",
+      "telefono": "2288160188",
+      "ciudad": "Coatepec",
+      "estado": "Veracruz",
+      "tipo": "",
+      "notas": "Productor",
+      "fuente": "seed_from_export"
     },
     {
       "empresa": "Café Tierra Sagrada",
@@ -1057,7 +782,7 @@
       "estado": "Chiapas",
       "tipo": "",
       "notas": "Productor/tostador; Expo",
-      "fuente": "seed_from_export|manual/research"
+      "fuente": "seed_from_export"
     },
     {
       "empresa": "Café Tierra y Nube",
@@ -1068,18 +793,73 @@
       "estado": "CDMX",
       "tipo": "",
       "notas": "Especialidad Oaxaca",
-      "fuente": "seed_from_export|manual/research"
+      "fuente": "seed_from_export"
     },
     {
-      "empresa": "Coffee Outlet / Barista Shop",
-      "url": "https://coffeeoutlet.com.mx/",
-      "email": "",
-      "telefono": "5625765795",
-      "ciudad": "México",
-      "estado": "México",
+      "empresa": "CAFÉ TOSTADO SOCONUSCO",
+      "url": "",
+      "email": "cafesoconusco@hotmail.com",
+      "telefono": "(962) 625-0069",
+      "ciudad": "Tapachula",
+      "estado": "Chiapas",
       "tipo": "",
-      "notas": "Insumos + café",
-      "fuente": "seed_from_export|manual/research"
+      "notas": "100% puro",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFÉ VERDE (Marino Córdoba)",
+      "url": "",
+      "email": "delfinocarballo@hotmail.com",
+      "telefono": "(271) 713-0837",
+      "ciudad": "Fortín",
+      "estado": "Veracruz",
+      "tipo": "",
+      "notas": "",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "Café Yajalón",
+      "url": "https://cafeyajalon.mx/",
+      "email": "cafes_yajalon@hotmail.com",
+      "telefono": "9196741863",
+      "ciudad": "Chiapas",
+      "estado": "Chiapas",
+      "tipo": "",
+      "notas": "Gourmet arábica/robusta",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFÉS DE HUEYTLALPAN",
+      "url": "",
+      "email": "lgonzalezg.tifer@gmail.com",
+      "telefono": "(233) 116-6412",
+      "ciudad": "Hueytlalpan",
+      "estado": "Puebla",
+      "tipo": "",
+      "notas": "Especialidad desde 5kg Horeca",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFÉS REGIONALES DE ALTURA / REGIOMOKA",
+      "url": "",
+      "email": "regiomok@hotmail.com",
+      "telefono": "(271) 712-4462",
+      "ciudad": "Córdoba",
+      "estado": "Veracruz",
+      "tipo": "",
+      "notas": "Maquila",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "CAFÉS YAJALÓN SCL",
+      "url": "",
+      "email": "cafes_yajalon@hotmail.com",
+      "telefono": "(919) 674-1863",
+      "ciudad": "Yajalón",
+      "estado": "Chiapas",
+      "tipo": "",
+      "notas": "Gourmet arábica robusta",
+      "fuente": "seed_from_export"
     },
     {
       "empresa": "Expendio de Café",
@@ -1090,7 +870,18 @@
       "estado": "CDMX",
       "tipo": "",
       "notas": "Tuestan en casa",
-      "fuente": "seed_from_export|manual/research"
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "Finca Monte Azul",
+      "url": "https://www.fincamonteazul.com/",
+      "email": "marketing@fincamonteazul.com",
+      "telefono": "2716883969",
+      "ciudad": "Veracruz",
+      "estado": "Veracruz",
+      "tipo": "",
+      "notas": "Arábigo grano",
+      "fuente": "seed_from_export"
     },
     {
       "empresa": "FINCA NUEVO MEXICO",
@@ -1101,7 +892,7 @@
       "estado": "Chiapas",
       "tipo": "",
       "notas": "Expo",
-      "fuente": "seed_from_export|dirind/expo"
+      "fuente": "seed_from_export"
     },
     {
       "empresa": "Finca Nuevo México",
@@ -1112,7 +903,51 @@
       "estado": "Chiapas",
       "tipo": "",
       "notas": "Finca/tostador",
-      "fuente": "seed_from_export|manual/research"
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "LA LUCHA",
+      "url": "https://www.facebook.com/cafelaluchaoficial",
+      "email": "quejasysugerencias@cafelalucha.mx",
+      "telefono": "(452) 688-2688",
+      "ciudad": "Uruapan",
+      "estado": "Michoacán",
+      "tipo": "",
+      "notas": "",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "MACHINE COFFEE",
+      "url": "https://www.machinecoffee.com",
+      "email": "info@machinecoffee.com",
+      "telefono": "800-908-9080",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "",
+      "notas": "Molido + máquinas",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "MERCAFE / Café Fincasa",
+      "url": "https://www.cafefincasa.com.mx",
+      "email": "cafefincasa@hotmail.com",
+      "telefono": "(222) 244-4823",
+      "ciudad": "Puebla",
+      "estado": "Puebla",
+      "tipo": "",
+      "notas": "Altura exportación",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "MUNDO ERANDY CAFÉ",
+      "url": "https://www.mundoerandy.com.mx",
+      "email": "adriana.orrala@mundoerandy.com.mx",
+      "telefono": "(55) 4437-6990",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "",
+      "notas": "Pods grano Horeca",
+      "fuente": "seed_from_export"
     },
     {
       "empresa": "Nudo Verde Coffee Roasters",
@@ -1123,7 +958,95 @@
       "estado": "Jalisco",
       "tipo": "",
       "notas": "Tostador",
-      "fuente": "seed_from_export|manual/research"
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "OMNICAFE / ECOM",
+      "url": "https://www.ecomtrading.com/",
+      "email": "contact@ecomtrading.com",
+      "telefono": "5552576500",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "",
+      "notas": "Trading café",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "PAQUIGUA Y CAFÉ",
+      "url": "",
+      "email": "paquigua@prodigy.net.mx",
+      "telefono": "(664) 631-1898",
+      "ciudad": "Tijuana",
+      "estado": "BC",
+      "tipo": "",
+      "notas": "Gourmet Horeca",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "PARTICIPACIONES MARIANO / ILLY MX",
+      "url": "https://www.partimar.com",
+      "email": "partimar@partimar.com",
+      "telefono": "(55) 5566-3544",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "",
+      "notas": "Illy exclusivo Horeca",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "Productos Narcia",
+      "url": "https://productosnarcia.mx/",
+      "email": "pronar2022@gmail.com",
+      "telefono": "(961) 178-0192",
+      "ciudad": "México",
+      "estado": "México",
+      "tipo": "",
+      "notas": "Orgánico gourmet 500g",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "Punta del Cielo",
+      "url": "https://www.puntadelcielo.com.mx/",
+      "email": "jonathan@puntadelcielo.com.mx",
+      "telefono": "(55) 5516-8020",
+      "ciudad": "México",
+      "estado": "México",
+      "tipo": "",
+      "notas": "Cadena + grano",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "Roasting & Blending",
+      "url": "https://www.roasting-blending.com/",
+      "email": "informes@roasting-blending.com",
+      "telefono": "5553537415",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "",
+      "notas": "Tostadores finos; Finos gourmet saborizados",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "RODRÍGUEZ FÚNEZ / Pico del Oro",
+      "url": "https://www.cafepicodeloro.com",
+      "email": "cafe-picodeloro@hotmail.com",
+      "telefono": "(963) 118-5607",
+      "ciudad": "Amatenango",
+      "estado": "Chiapas",
+      "tipo": "",
+      "notas": "Productores familiares",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "SABORMEX",
+      "url": "https://www.sabormex.com.mx",
+      "email": "contacto@sabormex.com.mx",
+      "telefono": "800-017-2267",
+      "ciudad": "CDMX",
+      "estado": "CDMX",
+      "tipo": "",
+      "notas": "Legal Oro Garat Internacional",
+      "fuente": "seed_from_export"
     },
     {
       "empresa": "Saku Café / Grupo Cafetalero San Francisco",
@@ -1134,7 +1057,7 @@
       "estado": "Veracruz",
       "tipo": "",
       "notas": "Productor/tostador",
-      "fuente": "seed_from_export|manual/research"
+      "fuente": "seed_from_export"
     },
     {
       "empresa": "SAKU CAFÉ / Grupo Cafetalero SF",
@@ -1145,7 +1068,29 @@
       "estado": "Veracruz",
       "tipo": "",
       "notas": "Expo",
-      "fuente": "seed_from_export|dirind/expo"
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "SAMARI AGROINDUSTRIAL",
+      "url": "https://cafeflordemicorazon.com.mx",
+      "email": "ventas@cafeflordemicorazon.com.mx",
+      "telefono": "(233) 117-5902",
+      "ciudad": "Zapotitlán",
+      "estado": "Puebla",
+      "tipo": "",
+      "notas": "Flor de mi Corazón",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "SAN JERÓNIMO CAFETERÍAS",
+      "url": "",
+      "email": "cafesanjeronimocolima@gmail.com",
+      "telefono": "(312) 114-5178",
+      "ciudad": "Colima",
+      "estado": "Colima",
+      "tipo": "",
+      "notas": "Artesanal Cuauhtémoc Colima",
+      "fuente": "seed_from_export"
     },
     {
       "empresa": "SANREMO LATIN",
@@ -1156,7 +1101,18 @@
       "estado": "CDMX",
       "tipo": "",
       "notas": "Equipo+producto cafeterías",
-      "fuente": "seed_from_export|dirind"
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "Santa Elena Coffee Roasters",
+      "url": "https://santaelenacoffeeroasters.com/",
+      "email": "info@santaelenacoffeeroasters.com",
+      "telefono": "2282985804",
+      "ciudad": "Xalapa",
+      "estado": "Veracruz",
+      "tipo": "",
+      "notas": "Mayoreo tostado",
+      "fuente": "seed_from_export"
     },
     {
       "empresa": "Toast MXLI",
@@ -1167,7 +1123,51 @@
       "estado": "BC",
       "tipo": "",
       "notas": "Especialidad",
-      "fuente": "seed_from_export|manual/research"
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "600 Micras Coffee Lab",
+      "url": "https://www.600micras.com/",
+      "email": "",
+      "telefono": "3314659701",
+      "ciudad": "México",
+      "estado": "México",
+      "tipo": "",
+      "notas": "Coffee lab/tostador; Expo Café",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "BARISTA SHOP / Coffee Outlet",
+      "url": "https://coffeeoutlet.com.mx",
+      "email": "",
+      "telefono": "5625765795",
+      "ciudad": "México",
+      "estado": "México",
+      "tipo": "",
+      "notas": "Expo",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "Café Paralelo",
+      "url": "https://cafeparalelo.com/",
+      "email": "",
+      "telefono": "5544479048",
+      "ciudad": "México",
+      "estado": "México",
+      "tipo": "",
+      "notas": "Tostador; Expo tostador",
+      "fuente": "seed_from_export"
+    },
+    {
+      "empresa": "Coffee Outlet / Barista Shop",
+      "url": "https://coffeeoutlet.com.mx/",
+      "email": "",
+      "telefono": "5625765795",
+      "ciudad": "México",
+      "estado": "México",
+      "tipo": "",
+      "notas": "Insumos + café",
+      "fuente": "seed_from_export"
     },
     {
       "empresa": "Victoria Arduino MX",
@@ -1178,18 +1178,7 @@
       "estado": "México",
       "tipo": "",
       "notas": "Equipos + café; Equipos+café",
-      "fuente": "seed_from_export|manual/research"
-    },
-    {
-      "empresa": "CAFÉS DEL POTOSÍ / EL CUCO",
-      "url": "",
-      "email": "",
-      "telefono": "(833) 212-4260",
-      "ciudad": "Tampico",
-      "estado": "Tamaulipas",
-      "tipo": "",
-      "notas": "",
-      "fuente": "seed_from_export|dirind"
+      "fuente": "seed_from_export"
     }
   ]
 }
