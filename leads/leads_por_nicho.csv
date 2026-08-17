@@ -1,0 +1,150 @@
+giro,nicho,empresa,url,tipo,notas,prioridad
+Distribuidor de café,Granos de café,Café Tierra y Nube,https://www.tierraynube.com/,D2C / productor,"Café de especialidad Oaxaca, grano y molido, envíos MX",Alta
+Distribuidor de café,Granos de café,Finca Rosa María,https://fincarosamaria.com.mx/,D2C / productor,"Café Chiapas tostado en grano, tienda online",Alta
+Distribuidor de café,Granos de café,Bola de Oro,https://boladeoro.com.mx/tienda-en-linea-cafe-molido-y-en-grano/,Productor,"Productores Coatepec, molido y grano",Alta
+Distribuidor de café,Granos de café,CAFIVER (ejemplo dado),https://tienda.cafiver.com/,Ejemplo original,Ejemplo del cliente,Referencia
+Salud,Colágeno hidrolizado,The Blue Formula (ejemplo),https://theblueformula.com/,Ejemplo original,Ejemplo del cliente,Referencia
+Salud,Colágeno hidrolizado,B Life / Life360+,https://www.blife.mx/,Marca D2C,"Suplementos y colágeno, fuerte en ecom MX",Alta
+Salud,Colágeno hidrolizado,Supernaturista,https://supernaturista.com/,Retail online,"Colágeno Vidanat, Pronat, Ypenza",Media
+Salud,Colágeno hidrolizado,Videm Superfoods,https://videm.mx/,Marca D2C,Colágeno en polvo sabores,Media
+Salud,Colágeno hidrolizado,Muscle Max Plus,https://musclemaxplus.com/collections/colageno,Retail suplementos,+105 productos colágeno,Media
+Alimentos,Frutos secos,El Eden MX (ejemplo),https://eledenmx.com/,Ejemplo original,Ejemplo del cliente,Referencia
+Alimentos,Frutos secos,Fun Fruit,https://funfruit.com.mx/,Mayoreo B2B,"Mayorista frutos secos y semillas, envíos nacionales",Alta
+Alimentos,Frutos secos,El Fresno Express,https://elfresnoexpress.com/,Mayoreo B2B,"Mayoreo CDMX/Edomex, repostería y abarrotes",Alta
+Alimentos,Frutos secos,Mayoreo Online (Ruiseñor),https://mayoreo.online/collections/nueces,Mayoreo,"Cajas 10-22kg almendras, nuez, etc.",Alta
+Alimentos,Frutos secos,Carmeluz,https://www.carmeluz.com/collections/nueces-y-frutas-deshidratadas,Granel / D2C,Monterrey + envíos MX,Media
+Alimentos,Frutos secos,Venta de Nuez Almendra y Granos,https://ventadenuezalmendraygranos.com/nueces-almendras-venta-mayoreo/,Mayoreo,"Desde 1kg hasta toneladas, CDMX",Alta
+Coleccionables,Cartas/tarjetas de colección,Tienda Panini (ejemplo),https://tiendapanini.com.mx/,Ejemplo original,Ejemplo del cliente,Referencia
+Coleccionables,Cartas/tarjetas de colección,MasterForce TCG,https://masterforcemx.com/,Tienda TCG,"Pokémon, YGO, One Piece, Magic",Alta
+Coleccionables,Cartas/tarjetas de colección,Hidralistico,https://hidralistico.com.mx/,Tienda TCG,"Desde 2007, catálogo singles grande MX",Alta
+Coleccionables,Cartas/tarjetas de colección,Colecciona MX,https://colecciona.mx/,Tienda online TCG,"Pokémon, MTG, One Piece, Lorcana",Alta
+Coleccionables,Cartas/tarjetas de colección,ProCards México,https://procardsmexico.com.mx/,Tienda TCG,"TCG originales, envíos nacionales",Alta
+Coleccionables,Cartas/tarjetas de colección,Akibara Xpress,https://akibaraxpress.com/collections/tcg-mexico-cartas-coleccionables-y-accesorios,Tienda geek/TCG,Pokémon y más TCG,Media
+Coleccionables,Cartas/tarjetas de colección,Explosion Shops,https://explosionshops.com.mx/,Tienda TCG,"Cd. Juárez, envíos DHL/FedEx",Media
+Alimentos,Botanas y snacks mexicanos,Chan Chips (ejemplo),https://chanchips.com/,Ejemplo original,Ejemplo del cliente,Referencia
+Alimentos,Botanas y snacks mexicanos,Botanas Torritos,https://botanastorritos.com/,Fabricante D2C,"Botanas yucatecas desde 1953, tienda online",Alta
+Alimentos,Botanas y snacks mexicanos,Botanas Los Compadres,https://botanasloscompadres.com/,Fabricante/distribuidor,"Proveedor tiendas y supermercados, Yucatán",Alta
+Alimentos,Botanas y snacks mexicanos,Totis,https://www.totis.com.mx/,Marca nacional,Botanas mexicanas clásicas,Media
+Alimentos,Botanas y snacks mexicanos,Botanas Lily,https://www.botanaslily.com.mx,Fabricante,"GDL, cronchitos y tostis",Media
+Alimentos,Botanas y snacks mexicanos,Productos Don Tacho,https://www.productosdontacho.com/,Fábrica botanas,"SLP, frituras y botanas",Media
+Belleza,Maquillaje artístico,Colibrix (ejemplo),https://colibrix.com.mx/productos/,Ejemplo original,Ejemplo del cliente,Referencia
+Belleza,Maquillaje artístico,MEGA Body Paint México,https://www.facebook.com/MegaBodyPaintMx/,Servicio + producto,Body paint y maquillaje artístico,Media
+Belleza,Maquillaje artístico,Don Checo Art,https://www.donchecoart.com/bodypaint,Servicio profesional,Body paint eventos masivos MX,Media
+Ropa,Disfraces,My Kids MX (ejemplo),https://mykidsmx.com/,Ejemplo original,Ejemplo del cliente,Referencia
+Ropa,Disfraces,Mercado Libre sellers MX,https://listado.mercadolibre.com.mx/disfraces,Marketplace,Muchos vendedores MX de disfraces; scrapear tiendas oficiales,Media
+Regalos,Cestas de regalo,Regalos y Canastas (ejemplo),https://www.regalosycanastas.mx/,Ejemplo original,Ejemplo del cliente,Referencia
+Regalos,Cestas de regalo,Arcones Gourmet,https://arconesgourmet.com/,D2C regalos,"Canastas gourmet CDMX, productos artesanales MX",Alta
+Regalos,Cestas de regalo,Canastas y Arcones MX,https://canastasyarcones.mx/,B2B/B2C,"Arcones empresariales, mayoreo, logística nacional",Alta
+Regalos,Cestas de regalo,Arcones.mx,https://arcones.mx/,D2C,Canastas gourmet y corporativas,Alta
+Regalos,Cestas de regalo,María Orsini,https://mariaorsini.com.mx/,Premium regalos,"+40 años, canastas premium CDMX",Alta
+Blancos,"Almohadas, cobijas",Mint and Lime (ejemplo),https://mintandlime.mx/,Ejemplo original,Ejemplo del cliente,Referencia
+Blancos,"Almohadas, cobijas",Blancos Azteca,https://listado.mercadolibre.com.mx/almohadas_Store_blancos-azteca,Marca D2C,Almohadas muy vendidas MX,Alta
+Blancos,"Almohadas, cobijas",Sognare,https://www.sognare.com.mx/,Marca colchones/blancos,Almohadas y blancos premium,Media
+Blancos,"Almohadas, cobijas",Luuna,https://luuna.mx/,Marca D2C,Almohadas memory foam,Media
+Tecnología,"Cargadores, porta laptop",Doto (ejemplo),https://doto.com.mx/,Ejemplo original,Ejemplo del cliente,Referencia
+Electrónica,"Audífonos, cargadores, fundas",Ele-Gate,https://www.ele-gate.com/,Ejemplo / retail,Accesorios electrónicos,Alta
+Electrónica,Fundas personalizadas,FunCases (ejemplo),https://funcases.mx/,Ejemplo original,Ejemplo del cliente,Referencia
+Electrónica,Fundas personalizadas,InstaCase,https://instacase.mx/,D2C personalizado,"+200 modelos, sucursales CDMX/Puebla/Cuernavaca",Alta
+Electrónica,Fundas personalizadas,La Casa de las Carcasas,https://lacasadelascarcasas.com.mx/,Retail fundas,"Fundas y personalización, envíos MX",Alta
+Electrónica,Fundas personalizadas,Happy Case,https://happycase.com.mx/,D2C,Fundas personalizadas,Media
+Electrónica,Fundas personalizadas,TARLA,https://tarla.com.mx/,D2C,Fundas piel personalizadas + joyería,Media
+Ropa,Trajes típicos,Dos Malinches (ejemplo),https://dosmalinches.com/,Ejemplo original,Ejemplo del cliente,Referencia
+Ropa,Trajes típicos,El Charro,https://www.elcharro1.com/,Fabricante,"Mariachi, folklórico, tiendas GDL/CDMX/El Paso",Alta
+Zapatos,Zapatos para danza,Calzado Manzano (ejemplo),https://calzadomanzano.com/,Ejemplo original,Ejemplo del cliente,Referencia
+Zapatos,Zapatos para danza,ZA&ZA Dancewear,https://info.zazadancewear.com/,Retail multimarca,"MTY, Puebla, Oaxaca + online, ballet/jazz/flamenco",Alta
+Zapatos,Zapatos para danza,Pirouette Dancewear,https://www.pirouette.mx/,Retail danza,"GDL, jazz/tap/flamenco/ballet",Alta
+Zapatos,Zapatos para danza,Allegro Dance Store,https://allegro.mx/,Retail danza,"Puebla, Bloch/Grishko/Capezio",Alta
+Zapatos,Zapatos para danza,Miguelito Dancing Shoes,https://miguelitousa.com/home.html,Fabricante,"Calzado teatral CDMX, ballet/flamenco/folklore",Alta
+Zapatos,Zapatos para danza,Kuali Shoes,https://listado.mercadolibre.com.mx/zapatos-flamenco-danza_Store_kuali-shoes,Marca ML,Zapatos danza folklórica,Media
+Juguetes,Juguetes sensoriales y terapéuticos,Coconini (ejemplo),https://www.coconini.com.mx/,Ejemplo original,Ejemplo del cliente,Referencia
+Juguetes,Juguetes sensoriales y terapéuticos,Mayoreo Didáctico,https://www.mayoreodidactico.mx/,Mayoreo,"Sensoriales, antiestrés, envíos MX y USA",Alta
+Juguetes,Juguetes sensoriales y terapéuticos,XMajo Didácticos,https://xmajodidacticos.com/,Retail educativo,"MTY, Montessori, TEA, sensoriales",Alta
+Juguetes,Juguetes mayoreo,D'Toys,http://www.dtoys.com.mx/,Mayoreo juguetes,"Distribuidor GDL, cobertura nacional",Media
+Juguetes,Artículos miniatura o a escala,Trenes.mx (ejemplo),https://trenes.mx/,Ejemplo original,Ejemplo del cliente,Referencia
+Medicina / Suministros,Insumos para tatuar,Soulflower (ejemplo),https://soulflower.mx/,Ejemplo original,Ejemplo del cliente,Referencia
+Medicina / Suministros,Insumos para tatuar,Zebra Tattoo Supply,https://zebratattoosupply.com/,Tattoo supply,"Máquinas, cartuchos, PMU, envíos MX",Alta
+Medicina / Suministros,Insumos para tatuar,Make Art Supply,https://makeartsupply.com/,Tattoo supply,Insumos profesionales tatuadores,Alta
+Medicina / Suministros,Insumos para tatuar,Inkside Supply,https://inksidesupply.com/,Tattoo supply,"CDMX, tintas, cartuchos, máquinas",Alta
+Medicina / Suministros,Insumos para tatuar,Daruma Supply Tattoo,https://daruma-supply-tattoo.ueniweb.com/,Tattoo supply,"CDMX, cobertura nacional",Media
+Papelería,Invitaciones físicas,Paradisa Print (ejemplo),https://paradisaprint.com/,Ejemplo original,Ejemplo del cliente,Referencia
+Papelería,Invitaciones físicas,Samsara Invitaciones,https://www.samsarainvitaciones.com.mx/,Imprenta eventos,"Bodas, XV, hot stamping, digitales",Alta
+Papelería,Invitaciones físicas,Print The Joy / Tienda de Invitaciones,https://tiendadeinvitaciones.com/,Imprenta,"SLP, envíos nacionales gratis >$3500",Alta
+Papelería,Invitaciones físicas,Empapelarte,https://empapelarte.com.mx/,Papelería eventos,"Invitaciones boda/XV, mayoreo y menudeo",Media
+Alimentos,Miel afrodisíaca,Mieles de Malasia MX (ejemplo),https://www.mielesdemalasiamx.com/,Ejemplo original,Ejemplo del cliente - Puebla,Referencia
+Alimentos,Miel afrodisíaca,Cannaland,https://cannaland.mx/,Retail wellness,Royal Honey y similares,Media
+Papelería,Tijeras con patrón al corte,Yoyi (ejemplo),https://yoyi.com.mx/,Ejemplo original,Ejemplo del cliente,Referencia
+Joyería,Charms,Charms Lab (ejemplo),https://charmslab.mx/,Ejemplo original,Ejemplo del cliente,Referencia
+Joyería,Charms,Plarte Charms,https://plarte.com.mx/collections/dijes-para-pulseras-y-pulseras,Joyería plata,Charms plata 925,Alta
+Joyería,Charms,Charms MX / Charms SMX,https://www.charmssmx.com/,D2C charms,"Dijes plata 925, entrega CDMX metro",Alta
+Joyería,Charms,Malandra Jewelry,https://malandra.mx/,Joyería,Colección charms + joyería general,Media
+Belleza,Pupilentes,Pupilentes.shop (ejemplo),https://pupilentes.shop/,Ejemplo original,Ejemplo del cliente,Referencia
+Belleza,Pupilentes,Lentes en México,https://www.lentesenmexico.com.mx/13-pupilentes-de-color,Óptica online,"Air Optix Colors, FreshLook, etc.",Alta
+Belleza,Pupilentes,Lentematic,https://lentematic.com/collections/vista-pupilentes-de-colores,Óptica online,Pupilentes cosméticos marcas premium,Alta
+Belleza,Pupilentes,GioLens Vision Care,https://www.giolensvisioncare.com.mx/,Marca/retail,Pupilentes de color varios modelos,Media
+Belleza,Insumos para uñas / press on,Unika Studio (ejemplo),https://unikastudiomexico.com/,Ejemplo original,Ejemplo del cliente,Referencia
+Belleza,Insumos para uñas / press on,Círculo B,https://circulob.mx/,Insumos uñas,"Esmaltes, pegamentos, piedritas",Alta
+Belleza,Insumos para uñas / press on,Mi Shop MX,https://www.mishop.mx/,Mayoreo belleza,Press on y accesorios mayoreo,Media
+Belleza,Insumos para uñas / press on,MC Nails (vía ML),https://listado.mercadolibre.com.mx/uñas-press-on,Marca tips,Tips press on mayoreo,Media
+Artículos religiosos / Esoterismo,"Tarot, lociones y velas esotéricas",Pinka (ejemplo),https://pinka.com.mx/tarots-y-oraculos/tarot/,Ejemplo original,Ejemplo del cliente,Referencia
+Artículos religiosos / Esoterismo,"Tarot, lociones y velas esotéricas",Stellum,https://www.stellum.mx/,Tienda esotérica,"Monterrey, tarot, velas mágicas",Alta
+Artículos religiosos / Esoterismo,"Tarot, lociones y velas esotéricas",Tienda Esotérica MX,https://tiendaesoterica.com.mx/,Ecom esoterismo,"Tarot, velas, wicca, amuletos",Alta
+Artículos religiosos / Esoterismo,"Tarot, lociones y velas esotéricas",Magic Ways MX,https://magicways.mx/,D2C místico,"Velas, tarot, cuarzos - Metepec",Alta
+Belleza,Shampoo artesanal / con tinte,Meidu (ejemplo),https://www.meidu.com.mx/,Ejemplo original,Ejemplo del cliente,Referencia
+Belleza,Jabones y shampoos,Rizos Mexicanos (ejemplo),https://www.rizosmexicanos.com/,Ejemplo original,Cuidado cabello rizado MX,Alta
+Belleza,Productos para el cabello,Don Juan MX,https://donjuan.mx/,Retail profesional cabello,"Keratinas, cremas, ampolletas",Alta
+Mercería,Hilos y estambre,Makrama (ejemplo),https://makrama.com.mx/,Ejemplo original,Ejemplo del cliente,Referencia
+Mercería,Hilos y estambre,Hilos y Estambres de México,https://www.hilosyestambresdemexicosadecv.com/,Mayoreo mercería,"Centro CDMX Mesones 128, +22 años",Alta
+Mercería,Hilos y estambre,Mercería San Sebastián,http://www.estambressansebastian.com.mx/inicio.html,Mayoreo fábrica,Precios de fábrica hilos/estambres,Alta
+Mercería,Hilos y estambre,Tapyarte de México,https://www.estambresymerceria.com.mx/,Distribuidor,Mayoreo y menudeo estambres,Alta
+Papelería,Bolsas de regalo,Creear (ejemplo),https://creear.mx/,Ejemplo original,Ejemplo del cliente,Referencia
+Ropa y calzado,"Tenis, botas, playeras",Miky Shop (ejemplo),https://mikyshop.com.mx/,Ejemplo original,Ejemplo del cliente,Referencia
+Belleza,"Skincare, cosméticos",Meriti Cosmetics (ejemplo),https://meriticosmetics.com.mx/,Ejemplo original,Ejemplo del cliente,Referencia
+Belleza,Skincare y maquillaje,Beauty Care Latam (ejemplo),https://beautycarelatam.com.mx/,Ejemplo original,Ejemplo del cliente,Referencia
+Belleza,Skincare Coreano,Halo Skin (ejemplo),https://haloskin.mx/,Ejemplo original,Ejemplo del cliente,Referencia
+Belleza,Skincare Coreano,Yoon Lab,https://yoonlab.mx/,K-beauty,Skincare coreano auténtico MX,Alta
+Belleza,Skincare Coreano,Youngmi,https://youngmi.mx/,K-beauty,"+800 productos COSRX, Anua, Medicube",Alta
+Belleza,Skincare Coreano,Klara Beauty,https://klarabeauty.com.mx/,K-beauty,"León Gto, marcas coreanas originales",Alta
+Belleza,Skincare Coreano,Nahima Korean Beauty,https://nahima.mx/,K-beauty,"Mexicali, K-beauty",Media
+Belleza,Skincare Coreano,KBeauty MX,https://kbeautymx.com/,K-beauty,"Skin1004, Tocobo, Medicube",Alta
+Hogar,"Utensilios de cocina, tuppers",Surtiloza (ejemplo),https://surtiloza.mx/,Ejemplo original,Ejemplo del cliente,Referencia
+Hogar,Artículos de limpieza,Uline MX (ejemplo),https://es.uline.mx/,Ejemplo / B2B,Insumos limpieza y papelería mayoreo,Media
+Hogar,Cortinas,Cortinas.com (ejemplo),https://cortinas.com/,Ejemplo original,Ejemplo del cliente,Referencia
+Hogar,Cortinas,Meya Design,https://www.meya-design.mx/,A medida,"Persianas, cortinas, toldos MX",Alta
+Hogar,Cortinas,Cortilum,https://www.cortilum.mx/,Fábrica,"GDL, +15 años, enrollables y toldos",Alta
+Hogar,Cortinas,Persianas y Cortinas.com,https://persianasycortinas.com/,Ecom,"Envíos nacionales, a medida",Alta
+Hogar,Cortinas,Farz,https://www.farz.mx/,Fabricante premium,"Persianas, cortinas, toldos, pérgolas",Alta
+Autos,Aromatizantes para autos,Olfativa Home (ejemplo),https://olfativahome.com/,Ejemplo original,Ejemplo del cliente,Referencia
+Autos,Aromatizantes para autos,Cristalinas Shop,https://cristalinasshop.com.mx/122-aromatizantes-de-coche,D2C fragancias,Aromatizantes coche premium,Alta
+Autos,Aromatizantes para autos,Miniso MX,https://www.miniso.com.mx/hogar/ferreteria-y-automotriz/accesorios-para-auto,Retail,Aromatizantes clip/gel auto,Baja
+Autos,Refacciones automotrices,Motorstore (ejemplo),https://motorstore.mx/,Ejemplo original,Ejemplo del cliente,Referencia
+Autos,Accesorios y refacciones pequeñas,Más Refacciones (ejemplo),https://www.masrefacciones.mx/,Ejemplo original,Ejemplo del cliente,Referencia
+Papelería,Mochilas y útiles escolares,Samsonite MX (ejemplo),https://samsonite.com.mx/collections/mochilas-escolares,Ejemplo original,Marca grande - menos prioritario outbound SME,Baja
+Jardín,Vitaminas para plantas y abono,Nucle.ag (ejemplo),https://mexico.nucle.ag/,Ejemplo original,Ejemplo del cliente,Referencia
+Jardín,Vitaminas para plantas y abono,Selva Urban Farming,https://shopselva.com/collections/nutrientes,Grow shop,"Nutrientes hidroponía, Biobizz, GH",Alta
+Jardín,Vitaminas para plantas y abono,Hydro Environment,https://hydroenv.com.mx/,Hidroponía B2B/B2C,Soluciones nutritivas mayoreo,Alta
+Jardín,Vitaminas para plantas y abono,VitaBloom,https://vitabloom.mx/,Fertilizantes orgánicos,VitaHuertos y línea orgánica,Media
+Alimentos / Salud,Gomitas de vitaminas,Vital Suplementos (ejemplo),https://vitalsuplementosmex.com/,Ejemplo original,Ejemplo del cliente,Referencia
+Salud,Vitaminas y suplementos,B Life (ejemplo),https://www.blife.mx/,Marca D2C,Suplementos MX fuerte ecom,Alta
+Libros,Libros de colección,Penguin Libros MX (ejemplo),https://www.penguinlibros.com/mx/,Ejemplo original,Editorial grande - menos SME,Baja
+Belleza,Perfumes,Arome (ejemplo),https://arome.mx/,Ejemplo original,Ejemplo del cliente,Referencia
+Adultos,Artículos para adultos,Tienda Venus (ejemplo),https://www.tiendavenus.com/,Ejemplo original,Ejemplo del cliente,Referencia
+Belleza,Extensiones de pelo para salón,Beauty Art (ejemplo),https://shop.beautyart.com.mx/,Ejemplo original,Ejemplo del cliente,Referencia
+Belleza,Pelucas de colores,Elfa Mundi (ejemplo),https://www.elfamundi.com.mx/,Ejemplo original,Ejemplo del cliente,Referencia
+Belleza,Pelucas y extensiones,Crazy Hair,https://www.crazyhair.com.mx/,Mayoreo pelucas,"Mayoreo pelucas/extensiones, CDMX y GDL",Alta
+Belleza,Pelucas y extensiones,Denovedad,https://denovedad.com/accesorios-de-belleza/extensiones-de-cabello.html,Mayoreo accesorios,Extensiones mayoreo moda,Media
+Belleza,Pelucas y extensiones,Supreme Hair México,https://www.facebook.com/supremehairmexico/,Retail/mayoreo,"Pelucas, postizos, extensiones CDMX",Media
+Proveedores,Botellas y tapas personalizados,Escowill (ejemplo),https://escowill.com/,Ejemplo original,Ejemplo del cliente,Referencia
+Proveedores,Botellas y tapas personalizados,Envases La Merced,https://envaseslamerced.mx/,Fabricante PET,"5 sucursales, mayoreo PET nacional",Alta
+Proveedores,Botellas y tapas personalizados,Shoperia MX,https://shoperiamx.com/,Envases vidrio/tapas,"Tapas, corchos, frascos mayoreo",Alta
+Proveedores,Botellas y tapas personalizados,Envidrio,https://envidrio.mx/,Envases vidrio,Frascos mayoreo farmacéutica/cosmética,Alta
+Proveedores,Botellas y tapas personalizados,FrascoFlex,https://www.frascoflex.com.mx/,Distribuidor envases,"Vidrio, PET, aluminio, cartón",Alta
+Proveedores,Botellas y tapas personalizados,Envases América,https://envasesamerica.com.mx/,Envases alimentos,Vidrio y plástico alimenticio,Media
+Comercializadora,Equipo de iluminación,Vyorsa (ejemplo),https://vyorsa.com.mx/,Ejemplo original,Foto/iluminación,Referencia
+Fintech,Envío de tarjetas,Banco Plata (ejemplo),https://bancoplata.mx/es,Ejemplo original,Fintech - outbound distinto (enterprise),Baja
+MedTech,Suministros médicos/farmacéuticos,PISA (ejemplo),https://www.pisa.com.mx/,Ejemplo original,Farmacéutica grande - enterprise,Baja
+Grooming,Barbería y cuidado masculino,Sensa Bien (ejemplo),https://www.sensabien.com/,Ejemplo original,Ejemplo del cliente,Referencia
+Grooming,Barbería y cuidado masculino,BarberLife,https://productosdebarberia.com.mx/,Mayoreo barbería,"Ceras, after shave, herramientas",Alta
+Grooming,Barbería y cuidado masculino,Barber México,https://www.barbermexico.com/shop,Productos barbería,"After shave, ceras, minoxidil",Alta
+Grooming,Barbería y cuidado masculino,BarbaNegra,https://barbanegra.mx/,Barbería + ecom,Productos Ossion y más,Alta
+Grooming,Barbería y cuidado masculino,Charle's México,https://charlesmexico.com.mx/,Marca masculina,"Ceras, after shave, skincare hombre",Alta
+Grooming,Barbería y cuidado masculino,Barber Style,https://barberstyle.com.mx/,Marca,"Gel, cera, crema cabello/barba",Media

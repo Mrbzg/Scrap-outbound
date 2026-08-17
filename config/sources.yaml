@@ -1,0 +1,160 @@
+# Fuentes de prospección por nicho (México)
+# Usado por: scripts/run_lote.py
+
+meta:
+  country: MX
+  default_min_leads: 100
+  default_max_leads: 300
+  output_dir: leads/por_nicho
+  cache_dir: data/cache
+  raw_dir: data/raw
+
+# Directorios genéricos reutilizables
+directories:
+  dirind:
+    name: Dirind - Directorio Industrial MX
+    base_url: https://www.dirind.com
+    type: industrial_directory
+    notes: Empresas con tel/email/web por categoría alimentaria y más
+  quiminet:
+    name: QuimiNet
+    base_url: https://www.quiminet.com
+    type: b2b_suppliers
+    notes: Proveedores químicos, ingredientes, mayoreo
+  cosmos:
+    name: Cosmos
+    base_url: https://www.cosmos.com.mx
+    type: b2b_suppliers
+    notes: Directorio de empresas y productos MX
+  expo_cafe:
+    name: Expo Café y Gourmet
+    base_url: https://www.cafeygourmet.com
+    type: trade_show
+    notes: Expositores tostadores y café
+  digimon_stores_mx:
+    name: Digimon Card authorized stores MX
+    base_url: https://world.digimoncard.com/products/store/list_la/list_mexico.php
+    type: authorized_retail_list
+    notes: Lista oficial de tiendas Digimon en México (multi-TCG)
+
+# Mapeo lote -> nicho + fuentes específicas
+lotes:
+  "01":
+    slug: cafe_granos
+    giro: Distribuidor de cafe
+    nicho: Granos de cafe
+    ejemplo: https://tienda.cafiver.com/
+    sources:
+      - id: dirind_cafe
+        kind: dirind
+        urls:
+          - https://www.dirind.com/dag/cafe1.html
+          - https://www.dirind.com/dag/cafe2.html
+          - https://www.dirind.com/dag/cafe3.html
+      - id: expo_tostadores
+        kind: generic_list
+        urls:
+          - https://www.cafeygourmet.com/negocios-247/categoria/tostadores-de-cafe/
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/01_cafe_granos.json
+    search_queries:
+      - tienda online café especialidad grano México .mx
+      - tostadora café mayoreo México
+      - café en grano productor México envíos
+
+  "02":
+    slug: colageno_hidrolizado
+    giro: Salud
+    nicho: Colageno hidrolizado
+    ejemplo: https://theblueformula.com/
+    sources:
+      - id: dirind_naturistas
+        kind: dirind
+        urls:
+          - https://www.dirind.com/dag/alimentos-naturistas-suplementos-alimenticios1.html
+          - https://www.dirind.com/dag/alimentos-naturistas-suplementos-alimenticios2.html
+      - id: quiminet_colageno
+        kind: quiminet
+        urls:
+          - https://www.quiminet.com/proveedores/colageno-hidrolizado-533684065.htm
+          - https://www.quiminet.com/proveedores/colageno-hidrolizado-al-mayoreo-128715467401.htm
+          - https://www.quiminet.com/proveedores/colageno-hidrolizado-a-granel-grado-128715388726.htm
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/02_colageno_hidrolizado.json
+    search_queries:
+      - colágeno hidrolizado marca México tienda
+      - colágeno mayoreo laboratorio México
+      - suplementos colágeno D2C .mx
+
+  "03":
+    slug: frutos_secos
+    giro: Alimentos
+    nicho: Frutos secos
+    ejemplo: https://eledenmx.com/
+    sources:
+      - id: dirind_nuez
+        kind: dirind
+        urls:
+          - https://www.dirind.com/dag/nuez-almendras-frutas-secas1.html
+      - id: cosmos_frutos
+        kind: generic_list
+        urls:
+          - https://www.cosmos.com.mx/producto/frutos-secos-l3xq/
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/03_frutos_secos.json
+    search_queries:
+      - frutos secos mayoreo México almendra nuez
+      - empacadora nuez pecanera México
+      - proveedor almendras granel CDMX
+
+  "04":
+    slug: cartas_coleccionables
+    giro: Coleccionables
+    nicho: Cartas/tarjetas de coleccion
+    ejemplo: https://tiendapanini.com.mx/
+    sources:
+      - id: digimon_mx
+        kind: digimon_stores
+        urls:
+          - https://world.digimoncard.com/products/store/list_la/list_mexico.php
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/04_cartas_coleccionables.json
+    search_queries:
+      - tienda TCG México Pokémon Magic Yu-Gi-Oh .mx
+      - tienda cartas coleccionables Monterrey Guadalajara CDMX
+      - mayoreo cartas Pokémon México distribuidor
+
+  "05":
+    slug: botanas_snacks
+    giro: Alimentos
+    nicho: Botanas y snacks mexicanos
+    ejemplo: https://chanchips.com/
+    sources:
+      - id: dirind_botanas
+        kind: dirind
+        urls:
+          - https://www.dirind.com/dag/botanas1.html
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/05_botanas_snacks.json
+    search_queries:
+      - fábrica botanas México mayoreo
+      - churritos totopos snacks mexicanos tienda .mx
+      - distribuidor botanas frituras México
+
+# Plantilla para lotes futuros (06+)
+# Copiar bloque y llenar sources + seeds
+template_lote:
+  slug: ""
+  giro: ""
+  nicho: ""
+  ejemplo: ""
+  sources:
+    - id: seed_manual
+      kind: seeds
+      file: config/seeds/NN_slug.json
+  search_queries: []

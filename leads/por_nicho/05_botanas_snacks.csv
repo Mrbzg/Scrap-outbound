@@ -1,0 +1,7 @@
+giro,nicho,empresa,url,email,telefono,ciudad,estado,pais,tipo,prioridad,score_contacto,notas,fuente
+Alimentos,Botanas y snacks mexicanos,Botanas Los Compadres,https://botanasloscompadres.com/,,9991779873,Kanasín,Yucatán,México,Fabricante/distribuidor,Alta,6,,seeds:seed_manual
+Alimentos,Botanas y snacks mexicanos,Botanas Lily,https://www.botanaslily.com.mx,,,Guadalajara,Jalisco,México,Fabricante,Media,4,,seeds:seed_manual
+Alimentos,Botanas y snacks mexicanos,Botanas Torritos,https://botanastorritos.com/,,,Yucatán,Yucatán,México,Fabricante D2C,Media,4,Botanas yucatecas desde 1953,seeds:seed_manual
+Alimentos,Botanas y snacks mexicanos,Botanas y snacks mexicanos (ejemplo original),https://chanchips.com/,,,,,México,Ejemplo original,Media,2,Seed del cliente,ejemplo_cliente
+Alimentos,Botanas y snacks mexicanos,Chan Chips,https://chanchips.com/,,,,,México,Ejemplo original,Media,2,Ejemplo del cliente,ejemplo_cliente
+Alimentos,Botanas y snacks mexicanos,Totis,https://www.totis.com.mx/,,,,,México,Marca nacional,Media,3,,seeds:seed_manual

@@ -1,0 +1,1343 @@
+[
+  {
+    "giro": "Distribuidor de café",
+    "nicho": "Granos de café",
+    "empresa": "Café Tierra y Nube",
+    "url": "https://www.tierraynube.com/",
+    "tipo": "D2C / productor",
+    "notas": "Café de especialidad Oaxaca, grano y molido, envíos MX",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Distribuidor de café",
+    "nicho": "Granos de café",
+    "empresa": "Finca Rosa María",
+    "url": "https://fincarosamaria.com.mx/",
+    "tipo": "D2C / productor",
+    "notas": "Café Chiapas tostado en grano, tienda online",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Distribuidor de café",
+    "nicho": "Granos de café",
+    "empresa": "Bola de Oro",
+    "url": "https://boladeoro.com.mx/tienda-en-linea-cafe-molido-y-en-grano/",
+    "tipo": "Productor",
+    "notas": "Productores Coatepec, molido y grano",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Distribuidor de café",
+    "nicho": "Granos de café",
+    "empresa": "CAFIVER (ejemplo dado)",
+    "url": "https://tienda.cafiver.com/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Salud",
+    "nicho": "Colágeno hidrolizado",
+    "empresa": "The Blue Formula (ejemplo)",
+    "url": "https://theblueformula.com/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Salud",
+    "nicho": "Colágeno hidrolizado",
+    "empresa": "B Life / Life360+",
+    "url": "https://www.blife.mx/",
+    "tipo": "Marca D2C",
+    "notas": "Suplementos y colágeno, fuerte en ecom MX",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Salud",
+    "nicho": "Colágeno hidrolizado",
+    "empresa": "Supernaturista",
+    "url": "https://supernaturista.com/",
+    "tipo": "Retail online",
+    "notas": "Colágeno Vidanat, Pronat, Ypenza",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Salud",
+    "nicho": "Colágeno hidrolizado",
+    "empresa": "Videm Superfoods",
+    "url": "https://videm.mx/",
+    "tipo": "Marca D2C",
+    "notas": "Colágeno en polvo sabores",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Salud",
+    "nicho": "Colágeno hidrolizado",
+    "empresa": "Muscle Max Plus",
+    "url": "https://musclemaxplus.com/collections/colageno",
+    "tipo": "Retail suplementos",
+    "notas": "+105 productos colágeno",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "El Eden MX (ejemplo)",
+    "url": "https://eledenmx.com/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Fun Fruit",
+    "url": "https://funfruit.com.mx/",
+    "tipo": "Mayoreo B2B",
+    "notas": "Mayorista frutos secos y semillas, envíos nacionales",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "El Fresno Express",
+    "url": "https://elfresnoexpress.com/",
+    "tipo": "Mayoreo B2B",
+    "notas": "Mayoreo CDMX/Edomex, repostería y abarrotes",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Mayoreo Online (Ruiseñor)",
+    "url": "https://mayoreo.online/collections/nueces",
+    "tipo": "Mayoreo",
+    "notas": "Cajas 10-22kg almendras, nuez, etc.",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Carmeluz",
+    "url": "https://www.carmeluz.com/collections/nueces-y-frutas-deshidratadas",
+    "tipo": "Granel / D2C",
+    "notas": "Monterrey + envíos MX",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Frutos secos",
+    "empresa": "Venta de Nuez Almendra y Granos",
+    "url": "https://ventadenuezalmendraygranos.com/nueces-almendras-venta-mayoreo/",
+    "tipo": "Mayoreo",
+    "notas": "Desde 1kg hasta toneladas, CDMX",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Coleccionables",
+    "nicho": "Cartas/tarjetas de colección",
+    "empresa": "Tienda Panini (ejemplo)",
+    "url": "https://tiendapanini.com.mx/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Coleccionables",
+    "nicho": "Cartas/tarjetas de colección",
+    "empresa": "MasterForce TCG",
+    "url": "https://masterforcemx.com/",
+    "tipo": "Tienda TCG",
+    "notas": "Pokémon, YGO, One Piece, Magic",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Coleccionables",
+    "nicho": "Cartas/tarjetas de colección",
+    "empresa": "Hidralistico",
+    "url": "https://hidralistico.com.mx/",
+    "tipo": "Tienda TCG",
+    "notas": "Desde 2007, catálogo singles grande MX",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Coleccionables",
+    "nicho": "Cartas/tarjetas de colección",
+    "empresa": "Colecciona MX",
+    "url": "https://colecciona.mx/",
+    "tipo": "Tienda online TCG",
+    "notas": "Pokémon, MTG, One Piece, Lorcana",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Coleccionables",
+    "nicho": "Cartas/tarjetas de colección",
+    "empresa": "ProCards México",
+    "url": "https://procardsmexico.com.mx/",
+    "tipo": "Tienda TCG",
+    "notas": "TCG originales, envíos nacionales",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Coleccionables",
+    "nicho": "Cartas/tarjetas de colección",
+    "empresa": "Akibara Xpress",
+    "url": "https://akibaraxpress.com/collections/tcg-mexico-cartas-coleccionables-y-accesorios",
+    "tipo": "Tienda geek/TCG",
+    "notas": "Pokémon y más TCG",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Coleccionables",
+    "nicho": "Cartas/tarjetas de colección",
+    "empresa": "Explosion Shops",
+    "url": "https://explosionshops.com.mx/",
+    "tipo": "Tienda TCG",
+    "notas": "Cd. Juárez, envíos DHL/FedEx",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Botanas y snacks mexicanos",
+    "empresa": "Chan Chips (ejemplo)",
+    "url": "https://chanchips.com/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Botanas y snacks mexicanos",
+    "empresa": "Botanas Torritos",
+    "url": "https://botanastorritos.com/",
+    "tipo": "Fabricante D2C",
+    "notas": "Botanas yucatecas desde 1953, tienda online",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Botanas y snacks mexicanos",
+    "empresa": "Botanas Los Compadres",
+    "url": "https://botanasloscompadres.com/",
+    "tipo": "Fabricante/distribuidor",
+    "notas": "Proveedor tiendas y supermercados, Yucatán",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Botanas y snacks mexicanos",
+    "empresa": "Totis",
+    "url": "https://www.totis.com.mx/",
+    "tipo": "Marca nacional",
+    "notas": "Botanas mexicanas clásicas",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Botanas y snacks mexicanos",
+    "empresa": "Botanas Lily",
+    "url": "https://www.botanaslily.com.mx",
+    "tipo": "Fabricante",
+    "notas": "GDL, cronchitos y tostis",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Botanas y snacks mexicanos",
+    "empresa": "Productos Don Tacho",
+    "url": "https://www.productosdontacho.com/",
+    "tipo": "Fábrica botanas",
+    "notas": "SLP, frituras y botanas",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Maquillaje artístico",
+    "empresa": "Colibrix (ejemplo)",
+    "url": "https://colibrix.com.mx/productos/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Maquillaje artístico",
+    "empresa": "MEGA Body Paint México",
+    "url": "https://www.facebook.com/MegaBodyPaintMx/",
+    "tipo": "Servicio + producto",
+    "notas": "Body paint y maquillaje artístico",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Maquillaje artístico",
+    "empresa": "Don Checo Art",
+    "url": "https://www.donchecoart.com/bodypaint",
+    "tipo": "Servicio profesional",
+    "notas": "Body paint eventos masivos MX",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Ropa",
+    "nicho": "Disfraces",
+    "empresa": "My Kids MX (ejemplo)",
+    "url": "https://mykidsmx.com/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Ropa",
+    "nicho": "Disfraces",
+    "empresa": "Mercado Libre sellers MX",
+    "url": "https://listado.mercadolibre.com.mx/disfraces",
+    "tipo": "Marketplace",
+    "notas": "Muchos vendedores MX de disfraces; scrapear tiendas oficiales",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Regalos",
+    "nicho": "Cestas de regalo",
+    "empresa": "Regalos y Canastas (ejemplo)",
+    "url": "https://www.regalosycanastas.mx/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Regalos",
+    "nicho": "Cestas de regalo",
+    "empresa": "Arcones Gourmet",
+    "url": "https://arconesgourmet.com/",
+    "tipo": "D2C regalos",
+    "notas": "Canastas gourmet CDMX, productos artesanales MX",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Regalos",
+    "nicho": "Cestas de regalo",
+    "empresa": "Canastas y Arcones MX",
+    "url": "https://canastasyarcones.mx/",
+    "tipo": "B2B/B2C",
+    "notas": "Arcones empresariales, mayoreo, logística nacional",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Regalos",
+    "nicho": "Cestas de regalo",
+    "empresa": "Arcones.mx",
+    "url": "https://arcones.mx/",
+    "tipo": "D2C",
+    "notas": "Canastas gourmet y corporativas",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Regalos",
+    "nicho": "Cestas de regalo",
+    "empresa": "María Orsini",
+    "url": "https://mariaorsini.com.mx/",
+    "tipo": "Premium regalos",
+    "notas": "+40 años, canastas premium CDMX",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Blancos",
+    "nicho": "Almohadas, cobijas",
+    "empresa": "Mint and Lime (ejemplo)",
+    "url": "https://mintandlime.mx/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Blancos",
+    "nicho": "Almohadas, cobijas",
+    "empresa": "Blancos Azteca",
+    "url": "https://listado.mercadolibre.com.mx/almohadas_Store_blancos-azteca",
+    "tipo": "Marca D2C",
+    "notas": "Almohadas muy vendidas MX",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Blancos",
+    "nicho": "Almohadas, cobijas",
+    "empresa": "Sognare",
+    "url": "https://www.sognare.com.mx/",
+    "tipo": "Marca colchones/blancos",
+    "notas": "Almohadas y blancos premium",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Blancos",
+    "nicho": "Almohadas, cobijas",
+    "empresa": "Luuna",
+    "url": "https://luuna.mx/",
+    "tipo": "Marca D2C",
+    "notas": "Almohadas memory foam",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Tecnología",
+    "nicho": "Cargadores, porta laptop",
+    "empresa": "Doto (ejemplo)",
+    "url": "https://doto.com.mx/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Electrónica",
+    "nicho": "Audífonos, cargadores, fundas",
+    "empresa": "Ele-Gate",
+    "url": "https://www.ele-gate.com/",
+    "tipo": "Ejemplo / retail",
+    "notas": "Accesorios electrónicos",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Electrónica",
+    "nicho": "Fundas personalizadas",
+    "empresa": "FunCases (ejemplo)",
+    "url": "https://funcases.mx/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Electrónica",
+    "nicho": "Fundas personalizadas",
+    "empresa": "InstaCase",
+    "url": "https://instacase.mx/",
+    "tipo": "D2C personalizado",
+    "notas": "+200 modelos, sucursales CDMX/Puebla/Cuernavaca",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Electrónica",
+    "nicho": "Fundas personalizadas",
+    "empresa": "La Casa de las Carcasas",
+    "url": "https://lacasadelascarcasas.com.mx/",
+    "tipo": "Retail fundas",
+    "notas": "Fundas y personalización, envíos MX",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Electrónica",
+    "nicho": "Fundas personalizadas",
+    "empresa": "Happy Case",
+    "url": "https://happycase.com.mx/",
+    "tipo": "D2C",
+    "notas": "Fundas personalizadas",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Electrónica",
+    "nicho": "Fundas personalizadas",
+    "empresa": "TARLA",
+    "url": "https://tarla.com.mx/",
+    "tipo": "D2C",
+    "notas": "Fundas piel personalizadas + joyería",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Ropa",
+    "nicho": "Trajes típicos",
+    "empresa": "Dos Malinches (ejemplo)",
+    "url": "https://dosmalinches.com/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Ropa",
+    "nicho": "Trajes típicos",
+    "empresa": "El Charro",
+    "url": "https://www.elcharro1.com/",
+    "tipo": "Fabricante",
+    "notas": "Mariachi, folklórico, tiendas GDL/CDMX/El Paso",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Zapatos",
+    "nicho": "Zapatos para danza",
+    "empresa": "Calzado Manzano (ejemplo)",
+    "url": "https://calzadomanzano.com/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Zapatos",
+    "nicho": "Zapatos para danza",
+    "empresa": "ZA&ZA Dancewear",
+    "url": "https://info.zazadancewear.com/",
+    "tipo": "Retail multimarca",
+    "notas": "MTY, Puebla, Oaxaca + online, ballet/jazz/flamenco",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Zapatos",
+    "nicho": "Zapatos para danza",
+    "empresa": "Pirouette Dancewear",
+    "url": "https://www.pirouette.mx/",
+    "tipo": "Retail danza",
+    "notas": "GDL, jazz/tap/flamenco/ballet",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Zapatos",
+    "nicho": "Zapatos para danza",
+    "empresa": "Allegro Dance Store",
+    "url": "https://allegro.mx/",
+    "tipo": "Retail danza",
+    "notas": "Puebla, Bloch/Grishko/Capezio",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Zapatos",
+    "nicho": "Zapatos para danza",
+    "empresa": "Miguelito Dancing Shoes",
+    "url": "https://miguelitousa.com/home.html",
+    "tipo": "Fabricante",
+    "notas": "Calzado teatral CDMX, ballet/flamenco/folklore",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Zapatos",
+    "nicho": "Zapatos para danza",
+    "empresa": "Kuali Shoes",
+    "url": "https://listado.mercadolibre.com.mx/zapatos-flamenco-danza_Store_kuali-shoes",
+    "tipo": "Marca ML",
+    "notas": "Zapatos danza folklórica",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Juguetes",
+    "nicho": "Juguetes sensoriales y terapéuticos",
+    "empresa": "Coconini (ejemplo)",
+    "url": "https://www.coconini.com.mx/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Juguetes",
+    "nicho": "Juguetes sensoriales y terapéuticos",
+    "empresa": "Mayoreo Didáctico",
+    "url": "https://www.mayoreodidactico.mx/",
+    "tipo": "Mayoreo",
+    "notas": "Sensoriales, antiestrés, envíos MX y USA",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Juguetes",
+    "nicho": "Juguetes sensoriales y terapéuticos",
+    "empresa": "XMajo Didácticos",
+    "url": "https://xmajodidacticos.com/",
+    "tipo": "Retail educativo",
+    "notas": "MTY, Montessori, TEA, sensoriales",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Juguetes",
+    "nicho": "Juguetes mayoreo",
+    "empresa": "D'Toys",
+    "url": "http://www.dtoys.com.mx/",
+    "tipo": "Mayoreo juguetes",
+    "notas": "Distribuidor GDL, cobertura nacional",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Juguetes",
+    "nicho": "Artículos miniatura o a escala",
+    "empresa": "Trenes.mx (ejemplo)",
+    "url": "https://trenes.mx/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Medicina / Suministros",
+    "nicho": "Insumos para tatuar",
+    "empresa": "Soulflower (ejemplo)",
+    "url": "https://soulflower.mx/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Medicina / Suministros",
+    "nicho": "Insumos para tatuar",
+    "empresa": "Zebra Tattoo Supply",
+    "url": "https://zebratattoosupply.com/",
+    "tipo": "Tattoo supply",
+    "notas": "Máquinas, cartuchos, PMU, envíos MX",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Medicina / Suministros",
+    "nicho": "Insumos para tatuar",
+    "empresa": "Make Art Supply",
+    "url": "https://makeartsupply.com/",
+    "tipo": "Tattoo supply",
+    "notas": "Insumos profesionales tatuadores",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Medicina / Suministros",
+    "nicho": "Insumos para tatuar",
+    "empresa": "Inkside Supply",
+    "url": "https://inksidesupply.com/",
+    "tipo": "Tattoo supply",
+    "notas": "CDMX, tintas, cartuchos, máquinas",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Medicina / Suministros",
+    "nicho": "Insumos para tatuar",
+    "empresa": "Daruma Supply Tattoo",
+    "url": "https://daruma-supply-tattoo.ueniweb.com/",
+    "tipo": "Tattoo supply",
+    "notas": "CDMX, cobertura nacional",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Papelería",
+    "nicho": "Invitaciones físicas",
+    "empresa": "Paradisa Print (ejemplo)",
+    "url": "https://paradisaprint.com/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Papelería",
+    "nicho": "Invitaciones físicas",
+    "empresa": "Samsara Invitaciones",
+    "url": "https://www.samsarainvitaciones.com.mx/",
+    "tipo": "Imprenta eventos",
+    "notas": "Bodas, XV, hot stamping, digitales",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Papelería",
+    "nicho": "Invitaciones físicas",
+    "empresa": "Print The Joy / Tienda de Invitaciones",
+    "url": "https://tiendadeinvitaciones.com/",
+    "tipo": "Imprenta",
+    "notas": "SLP, envíos nacionales gratis >$3500",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Papelería",
+    "nicho": "Invitaciones físicas",
+    "empresa": "Empapelarte",
+    "url": "https://empapelarte.com.mx/",
+    "tipo": "Papelería eventos",
+    "notas": "Invitaciones boda/XV, mayoreo y menudeo",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Miel afrodisíaca",
+    "empresa": "Mieles de Malasia MX (ejemplo)",
+    "url": "https://www.mielesdemalasiamx.com/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente - Puebla",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Alimentos",
+    "nicho": "Miel afrodisíaca",
+    "empresa": "Cannaland",
+    "url": "https://cannaland.mx/",
+    "tipo": "Retail wellness",
+    "notas": "Royal Honey y similares",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Papelería",
+    "nicho": "Tijeras con patrón al corte",
+    "empresa": "Yoyi (ejemplo)",
+    "url": "https://yoyi.com.mx/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Joyería",
+    "nicho": "Charms",
+    "empresa": "Charms Lab (ejemplo)",
+    "url": "https://charmslab.mx/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Joyería",
+    "nicho": "Charms",
+    "empresa": "Plarte Charms",
+    "url": "https://plarte.com.mx/collections/dijes-para-pulseras-y-pulseras",
+    "tipo": "Joyería plata",
+    "notas": "Charms plata 925",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Joyería",
+    "nicho": "Charms",
+    "empresa": "Charms MX / Charms SMX",
+    "url": "https://www.charmssmx.com/",
+    "tipo": "D2C charms",
+    "notas": "Dijes plata 925, entrega CDMX metro",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Joyería",
+    "nicho": "Charms",
+    "empresa": "Malandra Jewelry",
+    "url": "https://malandra.mx/",
+    "tipo": "Joyería",
+    "notas": "Colección charms + joyería general",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Pupilentes",
+    "empresa": "Pupilentes.shop (ejemplo)",
+    "url": "https://pupilentes.shop/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Pupilentes",
+    "empresa": "Lentes en México",
+    "url": "https://www.lentesenmexico.com.mx/13-pupilentes-de-color",
+    "tipo": "Óptica online",
+    "notas": "Air Optix Colors, FreshLook, etc.",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Pupilentes",
+    "empresa": "Lentematic",
+    "url": "https://lentematic.com/collections/vista-pupilentes-de-colores",
+    "tipo": "Óptica online",
+    "notas": "Pupilentes cosméticos marcas premium",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Pupilentes",
+    "empresa": "GioLens Vision Care",
+    "url": "https://www.giolensvisioncare.com.mx/",
+    "tipo": "Marca/retail",
+    "notas": "Pupilentes de color varios modelos",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Insumos para uñas / press on",
+    "empresa": "Unika Studio (ejemplo)",
+    "url": "https://unikastudiomexico.com/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Insumos para uñas / press on",
+    "empresa": "Círculo B",
+    "url": "https://circulob.mx/",
+    "tipo": "Insumos uñas",
+    "notas": "Esmaltes, pegamentos, piedritas",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Insumos para uñas / press on",
+    "empresa": "Mi Shop MX",
+    "url": "https://www.mishop.mx/",
+    "tipo": "Mayoreo belleza",
+    "notas": "Press on y accesorios mayoreo",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Insumos para uñas / press on",
+    "empresa": "MC Nails (vía ML)",
+    "url": "https://listado.mercadolibre.com.mx/uñas-press-on",
+    "tipo": "Marca tips",
+    "notas": "Tips press on mayoreo",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Artículos religiosos / Esoterismo",
+    "nicho": "Tarot, lociones y velas esotéricas",
+    "empresa": "Pinka (ejemplo)",
+    "url": "https://pinka.com.mx/tarots-y-oraculos/tarot/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Artículos religiosos / Esoterismo",
+    "nicho": "Tarot, lociones y velas esotéricas",
+    "empresa": "Stellum",
+    "url": "https://www.stellum.mx/",
+    "tipo": "Tienda esotérica",
+    "notas": "Monterrey, tarot, velas mágicas",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Artículos religiosos / Esoterismo",
+    "nicho": "Tarot, lociones y velas esotéricas",
+    "empresa": "Tienda Esotérica MX",
+    "url": "https://tiendaesoterica.com.mx/",
+    "tipo": "Ecom esoterismo",
+    "notas": "Tarot, velas, wicca, amuletos",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Artículos religiosos / Esoterismo",
+    "nicho": "Tarot, lociones y velas esotéricas",
+    "empresa": "Magic Ways MX",
+    "url": "https://magicways.mx/",
+    "tipo": "D2C místico",
+    "notas": "Velas, tarot, cuarzos - Metepec",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Shampoo artesanal / con tinte",
+    "empresa": "Meidu (ejemplo)",
+    "url": "https://www.meidu.com.mx/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Jabones y shampoos",
+    "empresa": "Rizos Mexicanos (ejemplo)",
+    "url": "https://www.rizosmexicanos.com/",
+    "tipo": "Ejemplo original",
+    "notas": "Cuidado cabello rizado MX",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Productos para el cabello",
+    "empresa": "Don Juan MX",
+    "url": "https://donjuan.mx/",
+    "tipo": "Retail profesional cabello",
+    "notas": "Keratinas, cremas, ampolletas",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Mercería",
+    "nicho": "Hilos y estambre",
+    "empresa": "Makrama (ejemplo)",
+    "url": "https://makrama.com.mx/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Mercería",
+    "nicho": "Hilos y estambre",
+    "empresa": "Hilos y Estambres de México",
+    "url": "https://www.hilosyestambresdemexicosadecv.com/",
+    "tipo": "Mayoreo mercería",
+    "notas": "Centro CDMX Mesones 128, +22 años",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Mercería",
+    "nicho": "Hilos y estambre",
+    "empresa": "Mercería San Sebastián",
+    "url": "http://www.estambressansebastian.com.mx/inicio.html",
+    "tipo": "Mayoreo fábrica",
+    "notas": "Precios de fábrica hilos/estambres",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Mercería",
+    "nicho": "Hilos y estambre",
+    "empresa": "Tapyarte de México",
+    "url": "https://www.estambresymerceria.com.mx/",
+    "tipo": "Distribuidor",
+    "notas": "Mayoreo y menudeo estambres",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Papelería",
+    "nicho": "Bolsas de regalo",
+    "empresa": "Creear (ejemplo)",
+    "url": "https://creear.mx/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Ropa y calzado",
+    "nicho": "Tenis, botas, playeras",
+    "empresa": "Miky Shop (ejemplo)",
+    "url": "https://mikyshop.com.mx/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Skincare, cosméticos",
+    "empresa": "Meriti Cosmetics (ejemplo)",
+    "url": "https://meriticosmetics.com.mx/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Skincare y maquillaje",
+    "empresa": "Beauty Care Latam (ejemplo)",
+    "url": "https://beautycarelatam.com.mx/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Skincare Coreano",
+    "empresa": "Halo Skin (ejemplo)",
+    "url": "https://haloskin.mx/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Skincare Coreano",
+    "empresa": "Yoon Lab",
+    "url": "https://yoonlab.mx/",
+    "tipo": "K-beauty",
+    "notas": "Skincare coreano auténtico MX",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Skincare Coreano",
+    "empresa": "Youngmi",
+    "url": "https://youngmi.mx/",
+    "tipo": "K-beauty",
+    "notas": "+800 productos COSRX, Anua, Medicube",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Skincare Coreano",
+    "empresa": "Klara Beauty",
+    "url": "https://klarabeauty.com.mx/",
+    "tipo": "K-beauty",
+    "notas": "León Gto, marcas coreanas originales",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Skincare Coreano",
+    "empresa": "Nahima Korean Beauty",
+    "url": "https://nahima.mx/",
+    "tipo": "K-beauty",
+    "notas": "Mexicali, K-beauty",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Skincare Coreano",
+    "empresa": "KBeauty MX",
+    "url": "https://kbeautymx.com/",
+    "tipo": "K-beauty",
+    "notas": "Skin1004, Tocobo, Medicube",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Hogar",
+    "nicho": "Utensilios de cocina, tuppers",
+    "empresa": "Surtiloza (ejemplo)",
+    "url": "https://surtiloza.mx/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Hogar",
+    "nicho": "Artículos de limpieza",
+    "empresa": "Uline MX (ejemplo)",
+    "url": "https://es.uline.mx/",
+    "tipo": "Ejemplo / B2B",
+    "notas": "Insumos limpieza y papelería mayoreo",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Hogar",
+    "nicho": "Cortinas",
+    "empresa": "Cortinas.com (ejemplo)",
+    "url": "https://cortinas.com/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Hogar",
+    "nicho": "Cortinas",
+    "empresa": "Meya Design",
+    "url": "https://www.meya-design.mx/",
+    "tipo": "A medida",
+    "notas": "Persianas, cortinas, toldos MX",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Hogar",
+    "nicho": "Cortinas",
+    "empresa": "Cortilum",
+    "url": "https://www.cortilum.mx/",
+    "tipo": "Fábrica",
+    "notas": "GDL, +15 años, enrollables y toldos",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Hogar",
+    "nicho": "Cortinas",
+    "empresa": "Persianas y Cortinas.com",
+    "url": "https://persianasycortinas.com/",
+    "tipo": "Ecom",
+    "notas": "Envíos nacionales, a medida",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Hogar",
+    "nicho": "Cortinas",
+    "empresa": "Farz",
+    "url": "https://www.farz.mx/",
+    "tipo": "Fabricante premium",
+    "notas": "Persianas, cortinas, toldos, pérgolas",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Autos",
+    "nicho": "Aromatizantes para autos",
+    "empresa": "Olfativa Home (ejemplo)",
+    "url": "https://olfativahome.com/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Autos",
+    "nicho": "Aromatizantes para autos",
+    "empresa": "Cristalinas Shop",
+    "url": "https://cristalinasshop.com.mx/122-aromatizantes-de-coche",
+    "tipo": "D2C fragancias",
+    "notas": "Aromatizantes coche premium",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Autos",
+    "nicho": "Aromatizantes para autos",
+    "empresa": "Miniso MX",
+    "url": "https://www.miniso.com.mx/hogar/ferreteria-y-automotriz/accesorios-para-auto",
+    "tipo": "Retail",
+    "notas": "Aromatizantes clip/gel auto",
+    "prioridad": "Baja"
+  },
+  {
+    "giro": "Autos",
+    "nicho": "Refacciones automotrices",
+    "empresa": "Motorstore (ejemplo)",
+    "url": "https://motorstore.mx/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Autos",
+    "nicho": "Accesorios y refacciones pequeñas",
+    "empresa": "Más Refacciones (ejemplo)",
+    "url": "https://www.masrefacciones.mx/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Papelería",
+    "nicho": "Mochilas y útiles escolares",
+    "empresa": "Samsonite MX (ejemplo)",
+    "url": "https://samsonite.com.mx/collections/mochilas-escolares",
+    "tipo": "Ejemplo original",
+    "notas": "Marca grande - menos prioritario outbound SME",
+    "prioridad": "Baja"
+  },
+  {
+    "giro": "Jardín",
+    "nicho": "Vitaminas para plantas y abono",
+    "empresa": "Nucle.ag (ejemplo)",
+    "url": "https://mexico.nucle.ag/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Jardín",
+    "nicho": "Vitaminas para plantas y abono",
+    "empresa": "Selva Urban Farming",
+    "url": "https://shopselva.com/collections/nutrientes",
+    "tipo": "Grow shop",
+    "notas": "Nutrientes hidroponía, Biobizz, GH",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Jardín",
+    "nicho": "Vitaminas para plantas y abono",
+    "empresa": "Hydro Environment",
+    "url": "https://hydroenv.com.mx/",
+    "tipo": "Hidroponía B2B/B2C",
+    "notas": "Soluciones nutritivas mayoreo",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Jardín",
+    "nicho": "Vitaminas para plantas y abono",
+    "empresa": "VitaBloom",
+    "url": "https://vitabloom.mx/",
+    "tipo": "Fertilizantes orgánicos",
+    "notas": "VitaHuertos y línea orgánica",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Alimentos / Salud",
+    "nicho": "Gomitas de vitaminas",
+    "empresa": "Vital Suplementos (ejemplo)",
+    "url": "https://vitalsuplementosmex.com/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Salud",
+    "nicho": "Vitaminas y suplementos",
+    "empresa": "B Life (ejemplo)",
+    "url": "https://www.blife.mx/",
+    "tipo": "Marca D2C",
+    "notas": "Suplementos MX fuerte ecom",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Libros",
+    "nicho": "Libros de colección",
+    "empresa": "Penguin Libros MX (ejemplo)",
+    "url": "https://www.penguinlibros.com/mx/",
+    "tipo": "Ejemplo original",
+    "notas": "Editorial grande - menos SME",
+    "prioridad": "Baja"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Perfumes",
+    "empresa": "Arome (ejemplo)",
+    "url": "https://arome.mx/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Adultos",
+    "nicho": "Artículos para adultos",
+    "empresa": "Tienda Venus (ejemplo)",
+    "url": "https://www.tiendavenus.com/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Extensiones de pelo para salón",
+    "empresa": "Beauty Art (ejemplo)",
+    "url": "https://shop.beautyart.com.mx/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Pelucas de colores",
+    "empresa": "Elfa Mundi (ejemplo)",
+    "url": "https://www.elfamundi.com.mx/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Pelucas y extensiones",
+    "empresa": "Crazy Hair",
+    "url": "https://www.crazyhair.com.mx/",
+    "tipo": "Mayoreo pelucas",
+    "notas": "Mayoreo pelucas/extensiones, CDMX y GDL",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Pelucas y extensiones",
+    "empresa": "Denovedad",
+    "url": "https://denovedad.com/accesorios-de-belleza/extensiones-de-cabello.html",
+    "tipo": "Mayoreo accesorios",
+    "notas": "Extensiones mayoreo moda",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Belleza",
+    "nicho": "Pelucas y extensiones",
+    "empresa": "Supreme Hair México",
+    "url": "https://www.facebook.com/supremehairmexico/",
+    "tipo": "Retail/mayoreo",
+    "notas": "Pelucas, postizos, extensiones CDMX",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Proveedores",
+    "nicho": "Botellas y tapas personalizados",
+    "empresa": "Escowill (ejemplo)",
+    "url": "https://escowill.com/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Proveedores",
+    "nicho": "Botellas y tapas personalizados",
+    "empresa": "Envases La Merced",
+    "url": "https://envaseslamerced.mx/",
+    "tipo": "Fabricante PET",
+    "notas": "5 sucursales, mayoreo PET nacional",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Proveedores",
+    "nicho": "Botellas y tapas personalizados",
+    "empresa": "Shoperia MX",
+    "url": "https://shoperiamx.com/",
+    "tipo": "Envases vidrio/tapas",
+    "notas": "Tapas, corchos, frascos mayoreo",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Proveedores",
+    "nicho": "Botellas y tapas personalizados",
+    "empresa": "Envidrio",
+    "url": "https://envidrio.mx/",
+    "tipo": "Envases vidrio",
+    "notas": "Frascos mayoreo farmacéutica/cosmética",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Proveedores",
+    "nicho": "Botellas y tapas personalizados",
+    "empresa": "FrascoFlex",
+    "url": "https://www.frascoflex.com.mx/",
+    "tipo": "Distribuidor envases",
+    "notas": "Vidrio, PET, aluminio, cartón",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Proveedores",
+    "nicho": "Botellas y tapas personalizados",
+    "empresa": "Envases América",
+    "url": "https://envasesamerica.com.mx/",
+    "tipo": "Envases alimentos",
+    "notas": "Vidrio y plástico alimenticio",
+    "prioridad": "Media"
+  },
+  {
+    "giro": "Comercializadora",
+    "nicho": "Equipo de iluminación",
+    "empresa": "Vyorsa (ejemplo)",
+    "url": "https://vyorsa.com.mx/",
+    "tipo": "Ejemplo original",
+    "notas": "Foto/iluminación",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Fintech",
+    "nicho": "Envío de tarjetas",
+    "empresa": "Banco Plata (ejemplo)",
+    "url": "https://bancoplata.mx/es",
+    "tipo": "Ejemplo original",
+    "notas": "Fintech - outbound distinto (enterprise)",
+    "prioridad": "Baja"
+  },
+  {
+    "giro": "MedTech",
+    "nicho": "Suministros médicos/farmacéuticos",
+    "empresa": "PISA (ejemplo)",
+    "url": "https://www.pisa.com.mx/",
+    "tipo": "Ejemplo original",
+    "notas": "Farmacéutica grande - enterprise",
+    "prioridad": "Baja"
+  },
+  {
+    "giro": "Grooming",
+    "nicho": "Barbería y cuidado masculino",
+    "empresa": "Sensa Bien (ejemplo)",
+    "url": "https://www.sensabien.com/",
+    "tipo": "Ejemplo original",
+    "notas": "Ejemplo del cliente",
+    "prioridad": "Referencia"
+  },
+  {
+    "giro": "Grooming",
+    "nicho": "Barbería y cuidado masculino",
+    "empresa": "BarberLife",
+    "url": "https://productosdebarberia.com.mx/",
+    "tipo": "Mayoreo barbería",
+    "notas": "Ceras, after shave, herramientas",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Grooming",
+    "nicho": "Barbería y cuidado masculino",
+    "empresa": "Barber México",
+    "url": "https://www.barbermexico.com/shop",
+    "tipo": "Productos barbería",
+    "notas": "After shave, ceras, minoxidil",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Grooming",
+    "nicho": "Barbería y cuidado masculino",
+    "empresa": "BarbaNegra",
+    "url": "https://barbanegra.mx/",
+    "tipo": "Barbería + ecom",
+    "notas": "Productos Ossion y más",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Grooming",
+    "nicho": "Barbería y cuidado masculino",
+    "empresa": "Charle's México",
+    "url": "https://charlesmexico.com.mx/",
+    "tipo": "Marca masculina",
+    "notas": "Ceras, after shave, skincare hombre",
+    "prioridad": "Alta"
+  },
+  {
+    "giro": "Grooming",
+    "nicho": "Barbería y cuidado masculino",
+    "empresa": "Barber Style",
+    "url": "https://barberstyle.com.mx/",
+    "tipo": "Marca",
+    "notas": "Gel, cera, crema cabello/barba",
+    "prioridad": "Media"
+  }
+]
