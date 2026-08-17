@@ -310,7 +310,40 @@ lotes:
       - imprenta XV años papelería eventos .mx
       - letterpress invitaciones mayoreo
 
-# Plantilla para lotes futuros (17+)
+  "17":
+    slug: miel_afrodisiaca
+    giro: Alimentos
+    nicho: Miel afrodisiaca
+    ejemplo: https://www.mielesdemalasiamx.com/
+    sources:
+      - id: dirind_miel
+        kind: dirind
+        urls:
+          - https://www.dirind.com/dag/miel1.html
+          - https://www.dirind.com/dap/miel-abeja1.html
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/17_miel_afrodisiaca.json
+    search_queries:
+      - miel afrodisíaca Royal Honey México tienda .mx
+      - miel de Malasia mayoreo México Etumax
+      - apicultor miel de abeja mayoreo Yucatán Jalisco
+
+  "18":
+    slug: tijeras_patron_al_corte
+    giro: Papeleria
+    nicho: Tijeras con patron al corte
+    ejemplo: https://yoyi.com.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/18_tijeras_patron_al_corte.json
+    search_queries:
+      - tijeras dentadas scrapbooking México Fiskars
+      - papelería mayoreo tijeras escolares Barrilito MAE
+      - tijeras patrón al corte zigzag .mx
+
+# Plantilla para lotes futuros (19+)
 # Copiar bloque y llenar sources + seeds
 template_lote:
   slug: ""

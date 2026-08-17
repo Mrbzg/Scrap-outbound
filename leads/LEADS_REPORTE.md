@@ -58,8 +58,16 @@
 | Medicina / Suministros | Insumos para tatuar | Zebra Tattoo Supply | https://zebratattoosupply.com/ | Máquinas, cartuchos, PMU, envíos MX |
 | Medicina / Suministros | Insumos para tatuar | Make Art Supply | https://makeartsupply.com/ | Insumos profesionales tatuadores |
 | Medicina / Suministros | Insumos para tatuar | Inkside Supply | https://inksidesupply.com/ | CDMX, tintas, cartuchos, máquinas |
+| Alimentos | Miel afrodisíaca | Miel Oro | https://mieloro.com.mx/ | Apicultores GDL, +40 años, informacion@mieloro.com.mx |
+| Alimentos | Miel afrodisíaca | Tropical Honey | https://www.tropicalhoney.com.mx/ | Mérida, ventas@tropicalhoney.com.mx |
+| Alimentos | Miel afrodisíaca | Maya Honey | https://www.mayahoney.com/ | Izamal/Yucatán, contacto@mayahoney.com |
+| Alimentos | Miel afrodisíaca | Royal Honey MX | https://royalhoneymx.com/ | Mayoreo miel Malasia, envío discreto |
 | Papelería | Invitaciones físicas | Samsara Invitaciones | https://www.samsarainvitaciones.com.mx/ | Bodas, XV, hot stamping, digitales |
 | Papelería | Invitaciones físicas | Print The Joy / Tienda de Invitaciones | https://tiendadeinvitaciones.com/ | SLP, envíos nacionales gratis >$3500 |
+| Papelería | Tijeras con patrón al corte | Scrap It Coyoacán | https://scrapit.mx/ | Fiskars / Silhouette / Cricut, scrapitmexico@gmail.com |
+| Papelería | Tijeras con patrón al corte | La Esquinita del Scrap | https://laesquinitadelscrap.com/ | Narvarte, hola@laesquinitadelscrap.com |
+| Papelería | Tijeras con patrón al corte | Lumen | https://lumen.com.mx/ | Mayoreo útiles y tijeras, ventasmayoreo@ |
+| Papelería | Tijeras con patrón al corte | Papelería Mérida | https://papeleriasmerida.com.mx/ | Mayoreo tijeras escolares, 9993813500 |
 | Joyería | Charms | Plarte Charms | https://plarte.com.mx/collections/dijes-para-pulseras-y-pulseras | Charms plata 925 |
 | Joyería | Charms | Charms MX / Charms SMX | https://www.charmssmx.com/ | Dijes plata 925, entrega CDMX metro |
 | Belleza | Pupilentes | Lentes en México | https://www.lentesenmexico.com.mx/13-pupilentes-de-color | Air Optix Colors, FreshLook, etc. |
@@ -137,10 +145,20 @@ Lote 05 exportado: `leads/por_nicho/05_botanas_snacks.*` — **232 leads** (110 
 
 ### Alimentos — Miel afrodisíaca
 
+Lote 17 exportado: `leads/por_nicho/17_miel_afrodisiaca.*` — **256 leads** (71 Alta · 50 email · 72 teléfono).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| Cannaland | https://cannaland.mx/ | Retail wellness | **Media** | Royal Honey y similares |
-| Mieles de Malasia MX (ejemplo) | https://www.mielesdemalasiamx.com/ | Ejemplo original | **Referencia** | Ejemplo del cliente - Puebla |
+| Miel Oro | https://mieloro.com.mx/ | Productor | **Alta** | GDL, informacion@mieloro.com.mx |
+| Tropical Honey | https://www.tropicalhoney.com.mx/ | Productor | **Alta** | Mérida, ventas@tropicalhoney.com.mx |
+| Maya Honey | https://www.mayahoney.com/ | Productor | **Alta** | Izamal, contacto@mayahoney.com |
+| Mi Miel Yucatán | https://www.mimiel.com.mx/ | Productor | **Alta** | apicola@mimiel.com.mx |
+| Apiarios Abarca | https://apiariosabarca.com/ | Productor | **Alta** | CDMX, info@apiariosabarca.com |
+| Mieles México | https://mielesmexico.com/ | Ecom | **Alta** | Querétaro, info@mielesmexico.com |
+| NaturaSol / Mielmex | https://www.naturasol.com.mx/ | Marca | **Alta** | Naucalpan, recepcion@mielmex.com |
+| Royal Honey MX | https://royalhoneymx.com/ | Mayoreo D2C | **Media** | Miel Malasia, mayoreo desde 5 cajas |
+| Cannaland | https://cannaland.mx/ | Retail wellness | **Media** | Royal Honey VVIP |
+| Mieles de Malasia MX (ejemplo) | https://www.mielesdemalasiamx.com/ | Ejemplo original | **Referencia** | Ejemplo del cliente — Puebla 2222627488 |
 
 ### Alimentos / Salud — Gomitas de vitaminas
 
@@ -472,9 +490,19 @@ Lote 16 exportado: `leads/por_nicho/16_invitaciones_fisicas.*` — **248 leads**
 
 ### Papelería — Tijeras con patrón al corte
 
+Lote 18 exportado: `leads/por_nicho/18_tijeras_patron_al_corte.*` — **247 leads** (74 Alta · 43 email · 77 teléfono).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| Yoyi (ejemplo) | https://yoyi.com.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
+| Scrap It Coyoacán | https://scrapit.mx/ | Tienda scrap | **Alta** | Fiskars / Cricut, scrapitmexico@gmail.com |
+| La Esquinita del Scrap | https://laesquinitadelscrap.com/ | Tienda scrap | **Alta** | Narvarte, hola@laesquinitadelscrap.com |
+| Mishu Scrap | https://www.mishuscrap.com/ | Tienda scrap | **Alta** | Tonanitla, 5574612039 |
+| Lumen | https://lumen.com.mx/ | Mayoreo | **Alta** | ventasmayoreo@lumen.com.mx |
+| Papelería Lozano Hnos | https://papeleriaslozanohermanos.com.mx/ | Mayoreo | **Alta** | papeleria@lozano.com.mx |
+| Papelería Mérida | https://papeleriasmerida.com.mx/ | Mayoreo | **Alta** | Tijeras escolares, 9993813500 |
+| Tony Superpapelerías | https://www.tony.com.mx/ | Mayoreo | **Alta** | Cadena, 800 000 TONY |
+| Super Papelera | https://superpapelera.com.mx/ | Mayoreo | **Media** | EdoMex, Barrilito / MAE |
+| Yoyi (ejemplo) | https://yoyi.com.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente — Chiapa de Corzo, ventas@yoyi.com.mx |
 
 ### Proveedores — Botellas y tapas personalizados
 
@@ -600,7 +628,6 @@ Estos nichos quedaron cortos en hallazgos frescos (solo ejemplo o 1 lead). Convi
 - **MedTech / Suministros médicos/farmacéuticos** (1 leads nuevos)
 - **Papelería / Bolsas de regalo** (0 leads nuevos)
 - **Papelería / Mochilas y útiles escolares** (1 leads nuevos)
-- **Papelería / Tijeras con patrón al corte** (0 leads nuevos)
 - **Ropa / Disfraces** (1 leads nuevos)
 
 - **Ropa y calzado / Tenis, botas, playeras** (0 leads nuevos)

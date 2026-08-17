@@ -86,6 +86,8 @@ leads/por_nicho/{ID}_{slug}.csv|.json|.md
 | 14 | Miniaturas / modelismo escala | `14_articulos_miniatura.*` |
 | 15 | Insumos para tatuar | `15_insumos_para_tatuar.*` |
 | 16 | Invitaciones físicas | `16_invitaciones_fisicas.*` |
+| 17 | Miel afrodisíaca / Royal Honey | `17_miel_afrodisiaca.*` |
+| 18 | Tijeras con patrón al corte | `18_tijeras_patron_al_corte.*` |
 
 Catálogo: `leads/nichos.json` (58 nichos).
 
