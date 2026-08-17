@@ -504,9 +504,14 @@ Lote 07 exportado: `leads/por_nicho/07_disfraces.*` — **242 leads** (75 Alta).
 
 ### Ropa — Trajes típicos
 
+Lote 11 exportado: `leads/por_nicho/11_trajes_tipicos.*` — **296 leads** (27 Alta).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| El Charro | https://www.elcharro1.com/ | Fabricante | **Alta** | Mariachi, folklórico, tiendas GDL/CDMX/El Paso |
+| El Charro | https://www.elcharro1.com/ | Fabricante | **Alta** | sales@elcharro1.com — GDL/CDMX/El Paso |
+| Fábrica Los Gabrieles | https://fabricadetrajesdecharrogabrieles.com/ | Fabricante charro | **Alta** | +45 años Azcapotzalco |
+| Mayakim | https://www.mayakim.com.mx/ | Marca yucateca | **Media** | Guayaberas Mérida |
+| Isa y Alex Mayoreo | https://trajesartesanales.com/ | Mayoreo istmeño | **Alta** | Juchitán 9711164783 |
 | Dos Malinches (ejemplo) | https://dosmalinches.com/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
 
 ### Ropa y calzado — Tenis, botas, playeras
@@ -587,7 +592,7 @@ Estos nichos quedaron cortos en hallazgos frescos (solo ejemplo o 1 lead). Convi
 - **Papelería / Mochilas y útiles escolares** (1 leads nuevos)
 - **Papelería / Tijeras con patrón al corte** (0 leads nuevos)
 - **Ropa / Disfraces** (1 leads nuevos)
-- **Ropa / Trajes típicos** (1 leads nuevos)
+
 - **Ropa y calzado / Tenis, botas, playeras** (0 leads nuevos)
 - **Salud / Vitaminas y suplementos** (1 leads nuevos)
 - **Tecnología / Cargadores, porta laptop** (0 leads nuevos)

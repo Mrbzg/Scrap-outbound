@@ -226,7 +226,35 @@ lotes:
       - porta laptop mochila tienda .mx
       - dropshipping accesorios electrónicos México
 
-# Plantilla para lotes futuros (11+)
+  "11":
+    slug: trajes_tipicos
+    giro: Ropa
+    nicho: Trajes tipicos
+    ejemplo: https://dosmalinches.com/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/11_trajes_tipicos.json
+    search_queries:
+      - fábrica trajes de charro México mayoreo
+      - huipiles guayaberas mayoreo México
+      - trajes regionales folklóricos tienda .mx
+
+  "12":
+    slug: zapatos_para_danza
+    giro: Zapatos
+    nicho: Zapatos para danza
+    ejemplo: https://calzadomanzano.com/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/12_zapatos_para_danza.json
+    search_queries:
+      - zapatos danza folklórica México fábrica
+      - tienda ballet Capezio Bloch México
+      - calzado flamenco jazz tap .mx
+
+# Plantilla para lotes futuros (13+)
 # Copiar bloque y llenar sources + seeds
 template_lote:
   slug: ""

@@ -80,6 +80,8 @@ leads/por_nicho/{ID}_{slug}.csv|.json|.md
 | 08 | Cestas de regalo / arcones | `08_cestas_de_regalo.*` |
 | 09 | Almohadas y cobijas | `09_almohadas_cobijas.*` |
 | 10 | Cargadores / porta laptop | `10_cargadores_porta_laptop.*` |
+| 11 | Trajes típicos | `11_trajes_tipicos.*` |
+| 12 | Zapatos para danza | `12_zapatos_para_danza.*` |
 
 Catálogo: `leads/nichos.json` (58 nichos).
 
