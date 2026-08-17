@@ -819,7 +819,21 @@ lotes:
       - mayoreo K-beauty México proveedor
       - COSRX Anua Beauty of Joseon tienda México
 
-# Plantilla para lotes futuros (53+)
+  "53":
+    slug: papeleria_mayoreo
+    giro: Comercializadora
+    nicho: Articulos de papeleria en mayoreo
+    ejemplo: https://es.uline.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/53_papeleria_mayoreo.json
+    search_queries:
+      - papelería mayoreo México distribuidor útiles escolares
+      - marcas mexicanas de papelería Scribe Barrilito BACO
+      - papelería al mayoreo CDMX Guadalajara Monterrey
+
+# Plantilla para lotes futuros (54+)
 # Copiar bloque y llenar sources + seeds
 template_lote:
   slug: ""

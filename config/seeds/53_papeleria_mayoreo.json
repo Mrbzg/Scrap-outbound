@@ -1,0 +1,857 @@
+{
+  "lote": "53",
+  "slug": "papeleria_mayoreo",
+  "description": "Artículos de papelería en mayoreo MX",
+  "leads": [
+    {
+      "empresa": "Uline México (ejemplo)",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — papelería y empaque al mayoreo",
+      "fuente": "ejemplo_cliente",
+      "url": "https://es.uline.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Papelerías Lumen",
+      "tipo": "Mayoreo",
+      "notas": "Desde 1943; mayorista de papelería, electrónicos y hogar; República de El Salvador 52-54; ventas corporativas y gran mayoreo",
+      "fuente": "research",
+      "url": "https://lumen.com.mx/",
+      "email": "ventasmayoreo@lumen.com.mx",
+      "telefono": "5544455000",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Lumen Guadalajara",
+      "tipo": "Sucursal",
+      "notas": "C. Pedro Moreno 589, Centro GDL",
+      "fuente": "research",
+      "url": "https://lumen.com.mx/",
+      "email": "ventasmayoreo@lumen.com.mx",
+      "telefono": "3336143956",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Papira",
+      "tipo": "Mayoreo",
+      "notas": "Papelería al mayoreo con planta en Guanajuato; marcas Bic, Crayola, Norma, Faber-Castell; envíos nacionales",
+      "fuente": "research",
+      "url": "https://papira.com.mx/",
+      "ciudad": "Guanajuato",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Papelería Cornejo",
+      "tipo": "Mayoreo",
+      "notas": "Papelería de mayoreo en GDL",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Papelería Omega",
+      "tipo": "Mayoreo",
+      "notas": "+9,000 artículos: útiles, oficina, escritura y archivo",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Distribuidora Sajor",
+      "tipo": "Mayoreo",
+      "notas": "40+ años; productos Scribe, COPAMEX, Saira y Jiss",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Unión Papelera",
+      "tipo": "Mayoreo",
+      "notas": "Distribuidor de HP, 3M, Azor, Lefort, Avery Dennison, Epson, Sablón, Henkel, Scribe y Xerox",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Papelera del Norte",
+      "tipo": "Mayoreo",
+      "notas": "Papelería al mayoreo del norte; 3M, BACO, Barrilito, BIC, Azor",
+      "fuente": "research",
+      "url": "https://papeleradelnorte.shop/",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Office Lab / Marchante",
+      "tipo": "Mayoreo",
+      "notas": "Colección papelería y oficina con 70+ marcas",
+      "fuente": "research",
+      "url": "https://marchante.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Papelería Lozano Hermanos",
+      "tipo": "Mayoreo",
+      "notas": "Papelería y útiles, CDMX",
+      "fuente": "research",
+      "url": "https://papeleriaslozanohermanos.com.mx/",
+      "email": "papeleria@lozano.com.mx",
+      "telefono": "5557611520",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "COPAMEX",
+      "tipo": "Fabricante",
+      "notas": "Papelera mexicana líder en papeles de escritura y empaque",
+      "fuente": "brand",
+      "url": "https://www.copamex.com/",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Grupo Papelero Scribe",
+      "tipo": "Fabricante",
+      "notas": "Fabricante de cuadernos y papelería",
+      "fuente": "brand",
+      "url": "https://scribe.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "CIFRA Papelería",
+      "tipo": "Mayoreo",
+      "notas": "Distribuidora de papelería y consumibles",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Dabo Papelerías",
+      "tipo": "Retail",
+      "notas": "Cadena de papelerías",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "RAI Papelerías",
+      "tipo": "Retail",
+      "notas": "Cadena de papelerías y útiles",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Calpaco",
+      "tipo": "Mayoreo",
+      "notas": "Papelería y regalos por mayoreo",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Papelerías Yoreme",
+      "tipo": "Retail",
+      "notas": "Cadena de papelerías del noroeste",
+      "fuente": "brand",
+      "ciudad": "Culiacán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Mango Papelerías",
+      "tipo": "Retail",
+      "notas": "Cadena de papelerías",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Sanborns",
+      "tipo": "Retail",
+      "notas": "Dulcería y papelería fina",
+      "fuente": "brand",
+      "url": "https://www.sanborns.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Papelería Palacio",
+      "tipo": "Retail",
+      "notas": "Papelería y librería",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Scribe",
+      "tipo": "Marca",
+      "notas": "Desde 1960; cuadernos y papelería mexicana",
+      "fuente": "brand",
+      "url": "https://scribe.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Barrilito",
+      "tipo": "Marca",
+      "notas": "200+ años; lápices, bolígrafos, tijeras y kits escolares",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "BACO",
+      "tipo": "Marca",
+      "notas": "75+ años; artículos escolares y de oficina",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Pelikan México",
+      "tipo": "Marca",
+      "notas": "Papelería y útiles escolares, operación MX",
+      "fuente": "brand",
+      "url": "https://www.pelikan.com.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Norma",
+      "tipo": "Marca",
+      "notas": "Cuadernos y útiles escolares mexicanos",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "MAE",
+      "tipo": "Marca",
+      "notas": "Útiles escolares mexicanos",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Chenson",
+      "tipo": "Marca",
+      "notas": "Mochilas, loncheras y accesorios escolares MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Lápiz Carpintero",
+      "tipo": "Marca",
+      "notas": "Lápices clásicos mexicanos",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Azor",
+      "tipo": "Marca",
+      "notas": "Papelería y útiles, marca mexicana",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Janel",
+      "tipo": "Marca",
+      "notas": "Papelería mexicana",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Krystal",
+      "tipo": "Marca",
+      "notas": "Cuadernos y papelería mexicana",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Offiland",
+      "tipo": "Marca",
+      "notas": "Útiles escolares y oficina, marca MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Pegaso",
+      "tipo": "Marca",
+      "notas": "Papelería mexicana",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Rayter",
+      "tipo": "Marca",
+      "notas": "Papelería mexicana",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Sablón",
+      "tipo": "Marca",
+      "notas": "Papelería y pegamentos, marca MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Vortred",
+      "tipo": "Marca",
+      "notas": "Papelería mexicana",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mapasa",
+      "tipo": "Marca",
+      "notas": "Papelería mexicana",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Nassa",
+      "tipo": "Marca",
+      "notas": "Papelería mexicana",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Celosa",
+      "tipo": "Marca",
+      "notas": "Cintas adhesivas mexicanas",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Memotip",
+      "tipo": "Marca",
+      "notas": "Notas adhesivas mexicanas",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Devek",
+      "tipo": "Marca",
+      "notas": "Plastificados y papelería MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Tuk",
+      "tipo": "Marca",
+      "notas": "Adhesivos mexicanos",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Adhes",
+      "tipo": "Marca",
+      "notas": "Adhesivos mexicanos",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "K-Tape",
+      "tipo": "Marca",
+      "notas": "Cintas adhesivas mexicanas",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Tapebear",
+      "tipo": "Marca",
+      "notas": "Cintas adhesivas MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Navitek",
+      "tipo": "Marca",
+      "notas": "Papelería técnica mexicana",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "A-Ink",
+      "tipo": "Marca",
+      "notas": "Tintas y papelería mexicana",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Easy Line",
+      "tipo": "Marca",
+      "notas": "Útiles escolares MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "First Class",
+      "tipo": "Marca",
+      "notas": "Papelería mexicana",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Kinera",
+      "tipo": "Marca",
+      "notas": "Papelería mexicana",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Kores México",
+      "tipo": "Marca",
+      "notas": "Papelería y adhesivos, operación MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Kyma",
+      "tipo": "Marca",
+      "notas": "Papelería mexicana",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Lefort",
+      "tipo": "Marca",
+      "notas": "Papelería mexicana",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Starfile",
+      "tipo": "Marca",
+      "notas": "Archivo y papelería mexicana",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Swingline",
+      "tipo": "Marca",
+      "notas": "Engrapadoras y archivo, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Euroformas",
+      "tipo": "Marca",
+      "notas": "Papelería mexicana",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Euromac",
+      "tipo": "Marca",
+      "notas": "Papelería mexicana",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Eurocolors",
+      "tipo": "Marca",
+      "notas": "Papelería mexicana",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Dietrix",
+      "tipo": "Marca",
+      "notas": "Papelería mexicana",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Bombin",
+      "tipo": "Marca",
+      "notas": "Papelería mexicana",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Confetti",
+      "tipo": "Marca",
+      "notas": "Papelería mexicana",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Dixon",
+      "tipo": "Marca",
+      "notas": "Lápices y colores, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Paper Mate",
+      "tipo": "Marca",
+      "notas": "Bolígrafos, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Bic México",
+      "tipo": "Marca",
+      "notas": "Bolígrafos y encendedores, operación MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Crayola México",
+      "tipo": "Marca",
+      "notas": "Crayones y colores, operación MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Faber-Castell México",
+      "tipo": "Marca",
+      "notas": "Lápices de color y escolares, operación MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Prismacolor",
+      "tipo": "Marca",
+      "notas": "Arte profesional, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Sharpie",
+      "tipo": "Marca",
+      "notas": "Marcadores, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Stabilo",
+      "tipo": "Marca",
+      "notas": "Resaltadores y plumas, venta MX",
+      "fuente": "brand",
+      "ciudad": "Alemania"
+    },
+    {
+      "empresa": "Pentel",
+      "tipo": "Marca",
+      "notas": "Escritura, venta MX",
+      "fuente": "brand",
+      "ciudad": "Japón"
+    },
+    {
+      "empresa": "Pilot",
+      "tipo": "Marca",
+      "notas": "Escritura, venta MX",
+      "fuente": "brand",
+      "ciudad": "Japón"
+    },
+    {
+      "empresa": "Uni-Ball",
+      "tipo": "Marca",
+      "notas": "Escritura, venta MX",
+      "fuente": "brand",
+      "ciudad": "Japón"
+    },
+    {
+      "empresa": "Zebra (papelería)",
+      "tipo": "Marca",
+      "notas": "Escritura, venta MX",
+      "fuente": "brand",
+      "ciudad": "Japón"
+    },
+    {
+      "empresa": "Parker",
+      "tipo": "Marca",
+      "notas": "Plumas, venta MX",
+      "fuente": "brand",
+      "ciudad": "Francia"
+    },
+    {
+      "empresa": "Waterman",
+      "tipo": "Marca",
+      "notas": "Plumas, venta MX",
+      "fuente": "brand",
+      "ciudad": "Francia"
+    },
+    {
+      "empresa": "Casio México",
+      "tipo": "Marca",
+      "notas": "Calculadoras, operación MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "3M México",
+      "tipo": "Marca",
+      "notas": "Post-it y cintas, operación MX",
+      "fuente": "brand",
+      "url": "https://www.3m.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Avery Dennison México",
+      "tipo": "Marca",
+      "notas": "Etiquetas y archivo, operación MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "ACCO Brands",
+      "tipo": "Marca",
+      "notas": "Engrapadoras y archivo, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Fellowes",
+      "tipo": "Marca",
+      "notas": "Destructoras y oficina, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Dymo",
+      "tipo": "Marca",
+      "notas": "Etiquetadoras, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Elmer's",
+      "tipo": "Marca",
+      "notas": "Pegamentos, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Xerox México",
+      "tipo": "Marca",
+      "notas": "Papel y copiado, operación MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Office Depot México",
+      "tipo": "Retail",
+      "notas": "Cadena de papelería y oficina",
+      "fuente": "brand",
+      "url": "https://www.officedepot.com.mx/",
+      "telefono": "5525820910",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "OfficeMax México",
+      "tipo": "Retail",
+      "notas": "Cadena de papelería y oficina",
+      "fuente": "brand",
+      "url": "https://www.officemax.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Costco México",
+      "tipo": "Retail",
+      "notas": "Papelería y útiles por mayoreo",
+      "fuente": "brand",
+      "url": "https://www.costco.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Sam's Club México",
+      "tipo": "Retail",
+      "notas": "Papelería por mayoreo",
+      "fuente": "brand",
+      "url": "https://www.sams.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Walmart México",
+      "tipo": "Retail",
+      "notas": "Sección de papelería",
+      "fuente": "brand",
+      "url": "https://www.walmart.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Liverpool Papelería",
+      "tipo": "Retail",
+      "notas": "Sección de papelería fina",
+      "fuente": "brand",
+      "url": "https://www.liverpool.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "El Sótano",
+      "tipo": "Retail",
+      "notas": "Librería y papelería",
+      "fuente": "brand",
+      "url": "https://www.elsotano.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Posca",
+      "tipo": "Marca",
+      "notas": "Marcadores de pintura, venta MX",
+      "fuente": "brand",
+      "ciudad": "Japón"
+    },
+    {
+      "empresa": "Arteza",
+      "tipo": "Marca",
+      "notas": "Arte y manualidades, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Ecoline",
+      "tipo": "Marca",
+      "notas": "Acuarelas líquidas, venta MX",
+      "fuente": "brand",
+      "ciudad": "Holanda"
+    },
+    {
+      "empresa": "Derwent",
+      "tipo": "Marca",
+      "notas": "Arte profesional, venta MX",
+      "fuente": "brand",
+      "ciudad": "Reino Unido"
+    },
+    {
+      "empresa": "DAS",
+      "tipo": "Marca",
+      "notas": "Arcilla y modelado, venta MX",
+      "fuente": "brand",
+      "ciudad": "Italia"
+    },
+    {
+      "empresa": "Olfa",
+      "tipo": "Marca",
+      "notas": "Cúters y herramientas de corte, venta MX",
+      "fuente": "brand",
+      "ciudad": "Japón"
+    },
+    {
+      "empresa": "Markal",
+      "tipo": "Marca",
+      "notas": "Marcadores industriales, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Factis",
+      "tipo": "Marca",
+      "notas": "Escolares mexicanos",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Expo",
+      "tipo": "Marca",
+      "notas": "Marcadores para pizarrón, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Acrilex",
+      "tipo": "Marca",
+      "notas": "Pinturas y manualidades, venta MX",
+      "fuente": "brand",
+      "ciudad": "Brasil"
+    },
+    {
+      "empresa": "Ampersand",
+      "tipo": "Marca",
+      "notas": "Paneles de arte, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Angelus",
+      "tipo": "Marca",
+      "notas": "Pinturas para calzado, venta MX",
+      "fuente": "brand",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "ATL",
+      "tipo": "Marca",
+      "notas": "Papelería y arte mexicano",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Amazon MX papelería mayoreo",
+      "tipo": "Marketplace",
+      "notas": "Sellers de papelería por mayoreo",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=papeleria+mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mercado Libre papelería mayoreo",
+      "tipo": "Marketplace",
+      "notas": "Mayoreo de útiles escolares",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/papeleria-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    }
+  ]
+}

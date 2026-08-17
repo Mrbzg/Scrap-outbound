@@ -122,6 +122,7 @@ leads/por_nicho/{ID}_{slug}.csv|.json|.md
 | 50 | Pelucas de colores | `50_pelucas_de_colores.*` |
 | 51 | Jabones y shampoos | `51_jabones_shampoos.*` |
 | 52 | Skincare Coreano | `52_skincare_coreano.*` |
+| 53 | Artículos de papelería en mayoreo | `53_papeleria_mayoreo.*` |
 
 Catálogo: `leads/nichos.json` (58 nichos).
 
