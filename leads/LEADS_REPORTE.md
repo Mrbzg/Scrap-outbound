@@ -107,7 +107,7 @@
 
 ### Alimentos — Botanas y snacks mexicanos
 
-Lote 05 exportado: `leads/por_nicho/05_botanas_snacks.*` — **111 leads** (76 Alta · 70 email · 76 teléfono).
+Lote 05 exportado: `leads/por_nicho/05_botanas_snacks.*` — **232 leads** (110 Alta · 98 email · 114 teléfono).
 
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
@@ -200,7 +200,7 @@ Lote 05 exportado: `leads/por_nicho/05_botanas_snacks.*` — **111 leads** (76 A
 
 ### Belleza — Maquillaje artístico
 
-Lote 06 exportado: `leads/por_nicho/06_maquillaje_artistico.*` — **127 leads** (55 Alta).
+Lote 06 exportado: `leads/por_nicho/06_maquillaje_artistico.*` — **232 leads** (75 Alta).
 
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
@@ -485,7 +485,7 @@ Lote 06 exportado: `leads/por_nicho/06_maquillaje_artistico.*` — **127 leads**
 
 ### Ropa — Disfraces
 
-Lote 07 exportado: `leads/por_nicho/07_disfraces.*` — **126 leads** (43 Alta).
+Lote 07 exportado: `leads/por_nicho/07_disfraces.*` — **242 leads** (75 Alta).
 
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|

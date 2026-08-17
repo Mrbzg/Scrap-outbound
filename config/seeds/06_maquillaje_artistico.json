@@ -1157,6 +1157,904 @@
       "fuente": "research",
       "ciudad": "Monterrey",
       "estado": "NL"
+    },
+    {
+      "empresa": "Tu Maquillaje México",
+      "tipo": "Tienda profesional",
+      "notas": "Kryolan — suc. Guadalupe y Las Quintas",
+      "fuente": "research",
+      "url": "https://tumaquillajemexico.com/",
+      "email": "loquiero@tumaquillaje.com",
+      "telefono": "6677769123",
+      "ciudad": "Culiacán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Tu Maquillaje sucursal Guadalupe",
+      "tipo": "Sucursal",
+      "notas": "Blvd Ciudades Hermanas 228 Int 6",
+      "fuente": "research",
+      "url": "https://tumaquillajemexico.com/pages/ubica-tu-tienda",
+      "email": "loquiero@tumaquillaje.com",
+      "telefono": "6677769123",
+      "ciudad": "Culiacán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Tu Maquillaje sucursal Las Quintas",
+      "tipo": "Sucursal",
+      "notas": "Gran Avenida El Dorado 1216 Plaza 2020",
+      "fuente": "research",
+      "url": "https://tumaquillajemexico.com/pages/ubica-tu-tienda",
+      "telefono": "6677769123",
+      "ciudad": "Culiacán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "MF Cosmetics Marifer",
+      "tipo": "Marca + tienda",
+      "notas": "Centro Magno Local 14, WhatsApp 3311588407",
+      "fuente": "research",
+      "url": "https://mfcosmeticos.com/",
+      "email": "cosmeticos.marifer@mfcosmeticos.com.mx",
+      "telefono": "3351072853",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Grupo Azalie / Marifer CDMX",
+      "tipo": "Mayoreo beauty",
+      "notas": "República de Bolivia 55 Pasaje Colombia",
+      "fuente": "research",
+      "url": "https://grupoazalie.com.mx/marcas/mary-fer-cosmetics/",
+      "telefono": "5557022955",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Academia Azul Ultravioleta",
+      "tipo": "Academia",
+      "notas": "Hacienda Huescalapa 1818 — maquillaje profesional",
+      "fuente": "research",
+      "url": "https://academia-azul-ultravioleta.ueniweb.com/",
+      "telefono": "3310935138",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Glo Makeup Studio MTY",
+      "tipo": "Academia + estudio",
+      "notas": "Paseo de los Leones 157 Local 16 Cumbres",
+      "fuente": "research",
+      "url": "https://glomakeupstudio.com/",
+      "telefono": "8113608781",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Bésame Mucho Make Up Academy",
+      "tipo": "Academia",
+      "notas": "Blvd Puerta del Sol 526 Colinas San Jerónimo",
+      "fuente": "research",
+      "url": "https://www.facebook.com/",
+      "telefono": "8134705608",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Katia Torres Academy",
+      "tipo": "Academia",
+      "notas": "Av Rodrigo Gómez 335",
+      "fuente": "research",
+      "telefono": "8119316860",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Camerino Makeup & Academy",
+      "tipo": "Academia",
+      "notas": "10a Avenida 503 Cumbres 1er sector",
+      "fuente": "research",
+      "url": "https://camerino.mx/",
+      "email": "camerino_makeup@live.com.mx",
+      "telefono": "8119358833",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "The Makeup Center Monterrey Plaza Anáhuac",
+      "tipo": "Sucursal tienda",
+      "notas": "Garza Sada 3001 Local 11",
+      "fuente": "research",
+      "url": "https://themakeupcenter.com/pages/sucursales-1",
+      "email": "ventas@themakeupc.com",
+      "telefono": "8120136471",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "The Makeup Center Puebla Zavaleta",
+      "tipo": "Sucursal tienda",
+      "notas": "Calz Zavaleta 1108 Local 121",
+      "fuente": "research",
+      "url": "https://themakeupcenter.com/pages/sucursales-1",
+      "email": "ventas@themakeupc.com",
+      "telefono": "2216444282",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Graftobian México TMC",
+      "tipo": "Marca teatral",
+      "notas": "Distribución The Makeup Center",
+      "fuente": "research",
+      "url": "https://themakeupcenter.com/",
+      "email": "ventas@themakeupc.com",
+      "telefono": "5565491471",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Hollywood Makeup TMC",
+      "tipo": "Marca profesional",
+      "notas": "Línea Hollywood",
+      "fuente": "research",
+      "url": "https://themakeupcenter.com/",
+      "email": "ventas@themakeupc.com",
+      "telefono": "5565491471",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Jeffree Star Cosmetics MX TMC",
+      "tipo": "Marca color",
+      "notas": "Retail profesional",
+      "fuente": "research",
+      "url": "https://themakeupcenter.com/",
+      "telefono": "5565491471",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Marifer Cosmetics TMC",
+      "tipo": "Marca MX",
+      "notas": "Línea nacional en TMC",
+      "fuente": "research",
+      "url": "https://themakeupcenter.com/",
+      "telefono": "5565491471",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Creature Angel FX",
+      "tipo": "Tienda FX",
+      "notas": "Disfraces y caracterización",
+      "fuente": "research",
+      "telefono": "7291378344",
+      "ciudad": "Zinacantepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Cine Closet makeup / vestuario",
+      "tipo": "Vestuario cine",
+      "notas": "Miguel Ángel 170 Nonoalco",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Academia de maquillaje GDL centro",
+      "tipo": "Academia",
+      "notas": "Cluster Vallarta / centro",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Academia de maquillaje Puebla",
+      "tipo": "Academia",
+      "notas": "Complemento TMC Zavaleta",
+      "fuente": "research",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Academia de maquillaje Querétaro",
+      "tipo": "Academia",
+      "notas": "Bajío",
+      "fuente": "research",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Academia de maquillaje León",
+      "tipo": "Academia",
+      "notas": "Bajío",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Academia de maquillaje Tijuana",
+      "tipo": "Academia",
+      "notas": "Frontera",
+      "fuente": "research",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Academia de maquillaje Mérida",
+      "tipo": "Academia",
+      "notas": "Sureste / carnaval",
+      "fuente": "research",
+      "ciudad": "Mérida",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "Academia de maquillaje Cancún",
+      "tipo": "Academia",
+      "notas": "Turismo y editorial",
+      "fuente": "research",
+      "ciudad": "Cancún",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Academia de maquillaje Puebla centro histórico",
+      "tipo": "Academia",
+      "notas": "Social + artístico",
+      "fuente": "research",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Maquillaje FX Guadalajara estudios",
+      "tipo": "Estudio FX",
+      "notas": "Cine y teatro occidente",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Maquillaje FX Monterrey estudios",
+      "tipo": "Estudio FX",
+      "notas": "Cine norte",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Body paint Puebla catrinas",
+      "tipo": "Servicio artístico",
+      "notas": "Día de Muertos",
+      "fuente": "research",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Body paint Oaxaca",
+      "tipo": "Servicio artístico",
+      "notas": "Editorial y festivales",
+      "fuente": "research",
+      "ciudad": "Oaxaca",
+      "estado": "Oaxaca"
+    },
+    {
+      "empresa": "Body paint Veracruz carnaval",
+      "tipo": "Servicio carnaval",
+      "notas": "Comparsas",
+      "fuente": "research",
+      "ciudad": "Veracruz",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Body paint Mazatlán carnaval",
+      "tipo": "Servicio carnaval",
+      "notas": "Comparsas",
+      "fuente": "research",
+      "ciudad": "Mazatlán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Pinta caritas GDL eventos",
+      "tipo": "Servicio eventos",
+      "notas": "Fiestas infantiles",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Pinta caritas MTY eventos",
+      "tipo": "Servicio eventos",
+      "notas": "Fiestas infantiles",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Pinta caritas Puebla eventos",
+      "tipo": "Servicio eventos",
+      "notas": "Fiestas",
+      "fuente": "research",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Pinta caritas Querétaro eventos",
+      "tipo": "Servicio eventos",
+      "notas": "Fiestas",
+      "fuente": "research",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Insumos payaso GDL",
+      "tipo": "Insumos",
+      "notas": "Narices, pelucas, blanco",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Insumos payaso MTY",
+      "tipo": "Insumos",
+      "notas": "Caracterización clown",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Aerógrafo makeup GDL",
+      "tipo": "Insumos aerógrafo",
+      "notas": "Hybrid y alcohol",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Aerógrafo makeup MTY",
+      "tipo": "Insumos aerógrafo",
+      "notas": "Pro / cine",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Glitter y pedrería GDL",
+      "tipo": "Insumos",
+      "notas": "Body art",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Glitter y pedrería MTY",
+      "tipo": "Insumos",
+      "notas": "Body art",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Pupilentes FX GDL",
+      "tipo": "Insumos FX",
+      "notas": "Teatro y Halloween",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Pupilentes FX MTY",
+      "tipo": "Insumos FX",
+      "notas": "Teatro y Halloween",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Látex y sangre teatral GDL",
+      "tipo": "Insumos FX",
+      "notas": "Halloween / cine",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Látex y sangre teatral MTY",
+      "tipo": "Insumos FX",
+      "notas": "Halloween / cine",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Pelucas teatrales GDL",
+      "tipo": "Peluquería teatral",
+      "notas": "Show y danza",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Pelucas teatrales MTY",
+      "tipo": "Peluquería teatral",
+      "notas": "Show y danza",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Maquillaje social + FX bodas GDL",
+      "tipo": "Servicio mixto",
+      "notas": "Beauty y artístico",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Maquillaje social + FX bodas MTY",
+      "tipo": "Servicio mixto",
+      "notas": "Beauty y artístico",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Cosplay makeup GDL",
+      "tipo": "Canal cosplay",
+      "notas": "Convenciones occidente",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Cosplay makeup MTY",
+      "tipo": "Canal cosplay",
+      "notas": "Convenciones norte",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Cosplay makeup Puebla",
+      "tipo": "Canal cosplay",
+      "notas": "Convenciones",
+      "fuente": "research",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Maquillaje cine Guadalajara",
+      "tipo": "Cluster cine",
+      "notas": "Producciones occidente",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Maquillaje teatro UNAM más foros",
+      "tipo": "Cluster teatro",
+      "notas": "Compañías y foros",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Maquillaje ballet CDMX más compañías",
+      "tipo": "Danza",
+      "notas": "Compañías profesionales",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Sally Beauty sucursales makeup",
+      "tipo": "Retail profesional",
+      "notas": "Cadena insumos",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Beauty Supply Monterrey",
+      "tipo": "Mayoreo beauty",
+      "notas": "Insumos maquilladores",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Beauty Supply Guadalajara",
+      "tipo": "Mayoreo beauty",
+      "notas": "Insumos maquilladores",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Beauty Supply Puebla",
+      "tipo": "Mayoreo beauty",
+      "notas": "Insumos",
+      "fuente": "research",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Mercado de Sonora glitter y aqua",
+      "tipo": "Mayoreo popular",
+      "notas": "Pinta caritas y FX barato",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Tepito pelucas y blanco teatral",
+      "tipo": "Mayoreo popular",
+      "notas": "Payaso y caracterización",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Lagunilla pelucas FX",
+      "tipo": "Mayoreo popular",
+      "notas": "Peluquería teatral",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Disfraces + makeup Party Zone",
+      "tipo": "Canal cruzado",
+      "notas": "Accesorios creativos",
+      "fuente": "research",
+      "url": "https://www.partyzonedisfraces.com/",
+      "telefono": "7228642693",
+      "ciudad": "Toluca",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Disfraces + makeup Mercado de Todos",
+      "tipo": "Canal cruzado",
+      "notas": "Maquillaje y máscaras",
+      "fuente": "research",
+      "telefono": "6646217442",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Inglot standalone CDMX",
+      "tipo": "Tienda marca",
+      "notas": "Freedom System",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "MAC Pro store CDMX",
+      "tipo": "Tienda marca",
+      "notas": "Artistas",
+      "fuente": "brand",
+      "url": "https://www.maccosmetics.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Sephora Antara / Perisur makeup pro",
+      "tipo": "Retail",
+      "notas": "Marcas artísticas",
+      "fuente": "brand",
+      "url": "https://www.sephora.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Liverpool Kryolan / pro counter",
+      "tipo": "Retail",
+      "notas": "Canal departamental",
+      "fuente": "brand",
+      "url": "https://www.liverpool.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Palacio de Hierro makeup pro",
+      "tipo": "Retail premium",
+      "notas": "Marcas internacionales",
+      "fuente": "brand",
+      "url": "https://www.elpalaciodehierro.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Makeup Forever counter MX",
+      "tipo": "Marca pro",
+      "notas": "HD y artístico",
+      "fuente": "brand",
+      "url": "https://www.makeupforever.com/mx",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "NYX Professional counters MX",
+      "tipo": "Marca pro",
+      "notas": "Color y FX ligero",
+      "fuente": "brand",
+      "url": "https://www.nyxcosmetics.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Urban Decay counters MX",
+      "tipo": "Marca pro",
+      "notas": "Color",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Benefit counters MX",
+      "tipo": "Marca pro",
+      "notas": "Retail",
+      "fuente": "brand",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Farmasi líderes MX",
+      "tipo": "Red / marca",
+      "notas": "Maquillaje y skin",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Jorge de la Garza academy + línea",
+      "tipo": "Marca + academia",
+      "notas": "Profesional MX",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Hysteria FX retailers MX",
+      "tipo": "Marca FX",
+      "notas": "Vía Noëlle y TMC",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Burlesque brushes MX",
+      "tipo": "Herramientas",
+      "notas": "Pincelería",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Ben Nye kits teatrales MX",
+      "tipo": "Marca teatral",
+      "notas": "Retailers pro",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mehron Paradise retailers extra",
+      "tipo": "Distribución",
+      "notas": "Face paint",
+      "fuente": "research",
+      "url": "https://www.bondsboutique.com.mx/",
+      "email": "ventas@bondsboutique.com.mx",
+      "telefono": "5555585862",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Kryolan Aquacolor extra puntos venta",
+      "tipo": "Distribución",
+      "notas": "Body paint",
+      "fuente": "research",
+      "url": "https://www.artistcity.com.mx/",
+      "telefono": "(55) 3547-6444",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "ProAiir extra puntos venta",
+      "tipo": "Distribución",
+      "notas": "Aerógrafo",
+      "fuente": "research",
+      "url": "https://www.bondsboutique.com.mx/",
+      "telefono": "5555585862",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Silly Farm extra puntos venta",
+      "tipo": "Distribución",
+      "notas": "Cakes",
+      "fuente": "research",
+      "url": "https://www.bondsboutique.com.mx/",
+      "telefono": "5555585862",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Wolfe / Superstar / Tag extra MX",
+      "tipo": "Marcas face paint",
+      "notas": "Importación vía boutiques",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "European Body Art extra MX",
+      "tipo": "Marca alcohol",
+      "notas": "Hybrid paints",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "RCMA / Cinema Secrets MX",
+      "tipo": "Marca cine",
+      "notas": "No-color powder",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Snazaroo retail infantil extra",
+      "tipo": "Marca kids",
+      "notas": "Pinta caritas",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Fiesta kits face paint mayoreo",
+      "tipo": "Mayoreo eventos",
+      "notas": "Kits desechables",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Airbrush tattoo eventos GDL",
+      "tipo": "Servicio",
+      "notas": "Temporal",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Airbrush tattoo eventos MTY",
+      "tipo": "Servicio",
+      "notas": "Temporal",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Henna glitter tattoo GDL",
+      "tipo": "Servicio",
+      "notas": "Body art",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Henna glitter tattoo MTY",
+      "tipo": "Servicio",
+      "notas": "Body art",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Belly paint GDL",
+      "tipo": "Servicio",
+      "notas": "Maternidad",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Belly paint MTY",
+      "tipo": "Servicio",
+      "notas": "Maternidad",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Maquillaje artístico León feria",
+      "tipo": "Servicio feria",
+      "notas": "Temporada",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Maquillaje artístico Aguascalientes feria",
+      "tipo": "Servicio feria",
+      "notas": "Temporada",
+      "fuente": "research",
+      "ciudad": "Aguascalientes",
+      "estado": "Aguascalientes"
+    },
+    {
+      "empresa": "Maquillaje artístico Chihuahua",
+      "tipo": "Cluster norte",
+      "notas": "Artistas y tiendas",
+      "fuente": "research",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Maquillaje artístico Hermosillo",
+      "tipo": "Cluster noroeste",
+      "notas": "Artistas y tiendas",
+      "fuente": "research",
+      "ciudad": "Hermosillo",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Maquillaje artístico Tijuana extra",
+      "tipo": "Cluster frontera",
+      "notas": "FX y social",
+      "fuente": "research",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Maquillaje artístico Mexicali",
+      "tipo": "Cluster frontera",
+      "notas": "Artistas",
+      "fuente": "research",
+      "ciudad": "Mexicali",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Maquillaje artístico Cancún extra",
+      "tipo": "Cluster turismo",
+      "notas": "Editorial / hotel",
+      "fuente": "research",
+      "ciudad": "Cancún",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Maquillaje artístico Mérida extra",
+      "tipo": "Cluster sureste",
+      "notas": "Carnaval / editorial",
+      "fuente": "research",
+      "ciudad": "Mérida",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "Insumos FX Puebla",
+      "tipo": "Distribuidor regional",
+      "notas": "Halloween",
+      "fuente": "research",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Insumos FX Querétaro",
+      "tipo": "Distribuidor regional",
+      "notas": "Teatro / Halloween",
+      "fuente": "research",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Insumos FX León",
+      "tipo": "Distribuidor regional",
+      "notas": "Feria / Halloween",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
     }
   ]
 }
