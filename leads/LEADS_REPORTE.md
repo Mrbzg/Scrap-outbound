@@ -284,9 +284,17 @@ Lote 20 exportado: `leads/por_nicho/20_pupilentes.*` — **206 leads** (58 Alta 
 
 ### Belleza — Shampoo artesanal / con tinte
 
+Lote 23 exportado: `leads/por_nicho/23_shampoo_artesanal_tinte.*` — **206 leads** (28 Alta · 17 email · 62 teléfono).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| Meidu (ejemplo) | https://www.meidu.com.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
+| Rizos Mexicanos | https://www.rizosmexicanos.com/ | Marca D2C | **Alta** | Sólido avena, 5514718602 |
+| Don Juan Beauty Supply | https://donjuan.mx/ | Mayoreo | **Alta** | contacto@donjuan.mx · Hermosillo |
+| Bam Boo Lifestyle | https://www.bamboolifestyle.com.mx/ | Marca eco | **Alta** | onnearrss@gmail.com · 5579388337 |
+| Jabones Artesanales Ordaz | https://www.jabonesartesanalesordaz.net/ | Fabricante | **Alta** | ventas@jabonesartesanalesordaz.net |
+| RIS.O.S. | https://risos.com.mx/tienda/ | Marca rizos | **Alta** | Escobedo 194, 5564657515 |
+| AMAI MX | https://amai.mx/ | Marca D2C | **Media** | Shampoo en barra |
+| MEIDU (ejemplo) | https://www.meidu.com.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente — 5511336665 |
 
 ### Belleza — Skincare Coreano
 
@@ -638,7 +646,6 @@ Estos nichos quedaron cortos en hallazgos frescos (solo ejemplo o 1 lead). Convi
 - **Belleza / Pelucas de colores** (0 leads nuevos)
 - **Belleza / Perfumes** (0 leads nuevos)
 - **Belleza / Productos para el cabello** (1 leads nuevos)
-- **Belleza / Shampoo artesanal / con tinte** (0 leads nuevos)
 - **Belleza / Skincare y maquillaje** (0 leads nuevos)
 - **Belleza / Skincare, cosméticos** (0 leads nuevos)
 - **Comercializadora / Equipo de iluminación** (0 leads nuevos)

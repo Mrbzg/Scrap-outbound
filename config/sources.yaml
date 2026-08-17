@@ -399,7 +399,35 @@ lotes:
       - velas mágicas mayoreo Centro CDMX
       - cuarzos sahumerios oráculos tienda
 
-# Plantilla para lotes futuros (23+)
+  "23":
+    slug: shampoo_artesanal_tinte
+    giro: Belleza
+    nicho: Shampoo artesanal, shampoo con tinte
+    ejemplo: https://www.meidu.com.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/23_shampoo_artesanal_tinte.json
+    search_queries:
+      - shampoo tinte cubre canas México tienda .mx
+      - shampoo sólido artesanal rizos mayoreo
+      - jabón champú artesanal D2C México
+
+  "24":
+    slug: hilos_y_estambre
+    giro: Merceria
+    nicho: Hilos y estambre
+    ejemplo: https://makrama.com.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/24_hilos_y_estambre.json
+    search_queries:
+      - estambre mayoreo México Omega Tamm Dasa
+      - mercería hilos Centro CDMX Mesones
+      - hilo macramé tienda .mx
+
+# Plantilla para lotes futuros (25+)
 # Copiar bloque y llenar sources + seeds
 template_lote:
   slug: ""

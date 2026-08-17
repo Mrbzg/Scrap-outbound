@@ -92,6 +92,8 @@ leads/por_nicho/{ID}_{slug}.csv|.json|.md
 | 20 | Pupilentes de color | `20_pupilentes.*` |
 | 21 | Insumos para uñas / press on | `21_insumos_unas_press_on.*` |
 | 22 | Tarot, lociones y velas esotéricas | `22_tarot_velas_esotericas.*` |
+| 23 | Shampoo artesanal / con tinte | `23_shampoo_artesanal_tinte.*` |
+| 24 | Hilos y estambre | `24_hilos_y_estambre.*` |
 
 Catálogo: `leads/nichos.json` (58 nichos).
 
