@@ -343,7 +343,35 @@ lotes:
       - papelería mayoreo tijeras escolares Barrilito MAE
       - tijeras patrón al corte zigzag .mx
 
-# Plantilla para lotes futuros (19+)
+  "19":
+    slug: charms
+    giro: Joyeria
+    nicho: Charms
+    ejemplo: https://charmslab.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/19_charms.json
+    search_queries:
+      - charms plata 925 México tienda Pandora .mx
+      - dijes pulsera mayoreo Centro CDMX Taxco
+      - joyería plata charms Guadalajara Monterrey
+
+  "20":
+    slug: pupilentes
+    giro: Belleza
+    nicho: Pupilentes
+    ejemplo: https://pupilentes.shop/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/20_pupilentes.json
+    search_queries:
+      - pupilentes de color México tienda .mx
+      - lentes de contacto cosméticos mayoreo FreshLook
+      - óptica pupilentes Halloween Freshlady
+
+# Plantilla para lotes futuros (21+)
 # Copiar bloque y llenar sources + seeds
 template_lote:
   slug: ""

@@ -88,6 +88,8 @@ leads/por_nicho/{ID}_{slug}.csv|.json|.md
 | 16 | Invitaciones físicas | `16_invitaciones_fisicas.*` |
 | 17 | Miel afrodisíaca / Royal Honey | `17_miel_afrodisiaca.*` |
 | 18 | Tijeras con patrón al corte | `18_tijeras_patron_al_corte.*` |
+| 19 | Charms / dijes plata 925 | `19_charms.*` |
+| 20 | Pupilentes de color | `20_pupilentes.*` |
 
 Catálogo: `leads/nichos.json` (58 nichos).
 

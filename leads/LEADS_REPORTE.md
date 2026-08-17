@@ -68,10 +68,14 @@
 | Papelería | Tijeras con patrón al corte | La Esquinita del Scrap | https://laesquinitadelscrap.com/ | Narvarte, hola@laesquinitadelscrap.com |
 | Papelería | Tijeras con patrón al corte | Lumen | https://lumen.com.mx/ | Mayoreo útiles y tijeras, ventasmayoreo@ |
 | Papelería | Tijeras con patrón al corte | Papelería Mérida | https://papeleriasmerida.com.mx/ | Mayoreo tijeras escolares, 9993813500 |
-| Joyería | Charms | Plarte Charms | https://plarte.com.mx/collections/dijes-para-pulseras-y-pulseras | Charms plata 925 |
+| Joyería | Charms | Plarte | https://plarte.com.mx/ | SLP + Palma CDMX + GDL, ventas@plarte.com.mx |
 | Joyería | Charms | Charms MX / Charms SMX | https://www.charmssmx.com/ | Dijes plata 925, entrega CDMX metro |
-| Belleza | Pupilentes | Lentes en México | https://www.lentesenmexico.com.mx/13-pupilentes-de-color | Air Optix Colors, FreshLook, etc. |
-| Belleza | Pupilentes | Lentematic | https://lentematic.com/collections/vista-pupilentes-de-colores | Pupilentes cosméticos marcas premium |
+| Joyería | Charms | Malandra Jewelry | https://malandra.mx/ | SPGG, clientes@malandra.mx |
+| Joyería | Charms | Platería Emma | https://plateriaemma-mayoreo.com/ | Taxco mayoreo, plateriaemma@gmail.com |
+| Belleza | Pupilentes | Lentes en México | https://www.lentesenmexico.com.mx/13-pupilentes-de-color | Air Optix / FreshLook, ventas@lentesenmexico.com.mx |
+| Belleza | Pupilentes | Lentematic | https://lentematic.com/collections/vista-pupilentes-de-colores | SPGG desde 2012, clientes@lentematic.com |
+| Belleza | Pupilentes | GioLens Vision Care | https://www.giolensvisioncare.com.mx/ | Tijuana mayoreo, giolens@hotmail.com |
+| Belleza | Pupilentes | SColorsMX | https://www.scolorsmx.com/ | Freshlady, scolorsmx@gmail.com |
 | Belleza | Insumos para uñas / press on | Círculo B | https://circulob.mx/ | Esmaltes, pegamentos, piedritas |
 | Artículos religiosos / Esoterismo | Tarot, lociones y velas esotéricas | Stellum | https://www.stellum.mx/ | Monterrey, tarot, velas mágicas |
 | Artículos religiosos / Esoterismo | Tarot, lociones y velas esotéricas | Tienda Esotérica MX | https://tiendaesoterica.com.mx/ | Tarot, velas, wicca, amuletos |
@@ -257,11 +261,16 @@ Lote 06 exportado: `leads/por_nicho/06_maquillaje_artistico.*` — **232 leads**
 
 ### Belleza — Pupilentes
 
+Lote 20 exportado: `leads/por_nicho/20_pupilentes.*` — **206 leads** (58 Alta · 44 email · 58 teléfono).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| Lentes en México | https://www.lentesenmexico.com.mx/13-pupilentes-de-color | Óptica online | **Alta** | Air Optix Colors, FreshLook, etc. |
-| Lentematic | https://lentematic.com/collections/vista-pupilentes-de-colores | Óptica online | **Alta** | Pupilentes cosméticos marcas premium |
-| GioLens Vision Care | https://www.giolensvisioncare.com.mx/ | Marca/retail | **Media** | Pupilentes de color varios modelos |
+| Lentes en México | https://www.lentesenmexico.com.mx/ | Óptica online | **Alta** | ventas@lentesenmexico.com.mx · 5562860422 |
+| Lentematic | https://lentematic.com/ | Ecom | **Alta** | SPGG, clientes@lentematic.com · 8000220342 |
+| GioLens Vision Care | https://www.giolensvisioncare.com.mx/ | Marca/mayoreo | **Alta** | Tijuana, giolens@hotmail.com · 6643700664 |
+| SColorsMX | https://www.scolorsmx.com/ | Mayoreo D2C | **Alta** | Freshlady, scolorsmx@gmail.com |
+| Pupilentes GDL | https://www.facebook.com/pupilentesGDL/ | Tienda | **Alta** | Plaza Kristal, pupilentesgdl@gmail.com |
+| Más Visión | https://www.masvision.mx/ | Ecom óptica | **Media** | Acuvue / Air Optix / Biofinity |
 | Pupilentes.shop (ejemplo) | https://pupilentes.shop/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
 
 ### Belleza — Shampoo artesanal / con tinte
@@ -399,12 +408,18 @@ Lote 09 exportado: `leads/por_nicho/09_almohadas_cobijas.*` — **215 leads** (5
 
 ### Joyería — Charms
 
+Lote 19 exportado: `leads/por_nicho/19_charms.*` — **209 leads** (49 Alta · 29 email · 53 teléfono).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| Plarte Charms | https://plarte.com.mx/collections/dijes-para-pulseras-y-pulseras | Joyería plata | **Alta** | Charms plata 925 |
-| Charms MX / Charms SMX | https://www.charmssmx.com/ | D2C charms | **Alta** | Dijes plata 925, entrega CDMX metro |
-| Malandra Jewelry | https://malandra.mx/ | Joyería | **Media** | Colección charms + joyería general |
-| Charms Lab (ejemplo) | https://charmslab.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
+| Plarte | https://plarte.com.mx/ | Mayoreo | **Alta** | SLP + Palma + GDL, ventas@plarte.com.mx |
+| Malandra Jewelry | https://malandra.mx/ | Marca D2C | **Alta** | SPGG, clientes@malandra.mx |
+| Platería Emma | https://plateriaemma-mayoreo.com/ | Mayoreo | **Alta** | Taxco, plateriaemma@gmail.com |
+| Joyería Taxco 925 | https://www.taxco925.com/ | Fabricante | **Alta** | 7621224439 |
+| El Relicario de Plata | https://www.elrelicariodeplata.com/ | Fabricante | **Alta** | Taxco, dijes y relicarios |
+| Charms GDL | https://charmsgdl.com/ | Ecom | **Media** | Pandora-style S925 |
+| Charms MX / Charms SMX | https://www.charmssmx.com/ | D2C | **Media** | Entrega metro CDMX |
+| Charms Lab (ejemplo) | https://charmslab.mx/ | Ejemplo original | **Referencia** | Ejemplo del cliente — hola@charmslab.mx |
 
 ### Juguetes — Artículos miniatura o a escala
 
