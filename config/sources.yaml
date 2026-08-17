@@ -693,7 +693,49 @@ lotes:
       - suplementos alimenticios mayoreo México farmacias
       - marcas de suplementos México laboratorios
 
-# Plantilla para lotes futuros (44+)
+  "44":
+    slug: productos_cabello_keratina
+    giro: Belleza
+    nicho: Productos para el cabello (keratina, cremas, ampolletas)
+    ejemplo: https://donjuan.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/44_productos_cabello_keratina.json
+    search_queries:
+      - keratina productos capilares mayoreo México .mx
+      - productos para el cabello marca mexicana tienda
+      - ampolletas queratina salón belleza México
+
+  "45":
+    slug: extensiones_de_pelo
+    giro: Belleza
+    nicho: Extensiones de pelo para salon
+    ejemplo: https://shop.beautyart.com.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/45_extensiones_de_pelo.json
+    search_queries:
+      - extensiones de cabello mayoreo México tienda .mx
+      - extensiones de pelo humano CDMX Guadalajara salón
+      - pelucas extensiones mayoreo Centro CDMX
+
+  "46":
+    slug: cortinas
+    giro: Hogar
+    nicho: Cortinas
+    ejemplo: https://cortinas.com/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/46_cortinas.json
+    search_queries:
+      - cortinas blackout tienda México fábrica .mx
+      - persianas cortinas a medida CDMX Guadalajara Monterrey
+      - fábrica cortinas enrollables México
+
+# Plantilla para lotes futuros (47+)
 # Copiar bloque y llenar sources + seeds
 template_lote:
   slug: ""

@@ -113,6 +113,9 @@ leads/por_nicho/{ID}_{slug}.csv|.json|.md
 | 41 | Scoops / sorpresas | `41_scoops_sorpresas.*` |
 | 42 | Artículos para adultos | `42_articulos_para_adultos.*` |
 | 43 | Vitaminas y suplementos | `43_vitaminas_suplementos.*` |
+| 44 | Productos para el cabello (keratina, cremas, ampolletas) | `44_productos_cabello_keratina.*` |
+| 45 | Extensiones de pelo para salón | `45_extensiones_de_pelo.*` |
+| 46 | Cortinas | `46_cortinas.*` |
 
 Catálogo: `leads/nichos.json` (58 nichos).
 

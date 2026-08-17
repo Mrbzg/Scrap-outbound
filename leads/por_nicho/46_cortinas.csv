@@ -1,0 +1,26 @@
+giro,nicho,empresa,url,email,telefono,ciudad,estado,pais,tipo,prioridad,score_contacto,notas,fuente
+Hogar,Cortinas,Grupo Cortilum,https://www.cortilum.mx/,,3320022116,Guadalajara,Jalisco,México,Fabricante,Alta,6,"15+ años; fábrica de cortinas enrollables, blackout, screen y toldos; sucursales PV y Cancún",research
+Hogar,Cortinas,Persianas Luxor,https://www.persianasluxor.com.mx/,ventas@persianasluxor.com.mx,5585485672,CDMX,CDMX,México,Fabricante,Alta,9,"Fabricantes directos desde 1996; persianas y cortinas a medida, eléctricas y blackout",research
+Hogar,Cortinas,PersianasyCortinas.com,https://persianasycortinas.com/,,8114973858,México,México,México,Ecom,Alta,5,"Tienda en línea #1 de persianas y cortinas; envío gratis desde $3,499; medidas exactas garantizadas",research
+Hogar,Cortinas,Viva Persianas,https://vivapersianas.com/,contacto@vivapersianas.com,8181900840,Monterrey,Nuevo León,México,Fabricante,Alta,9,"13+ años y 50,000 clientes; persianas, cortinas y toldos a la medida; automatización Somfy",research
+Hogar,Cortinas,Viva Persianas GDL,https://vivapersianas.com/,guadalajara@vivapersianas.com,3315962343,Guadalajara,Jalisco,México,Sucursal,Alta,8,Oficina Guadalajara,research
+Hogar,Cortinas,Amazon MX cortinas,https://www.amazon.com.mx/s?k=cortinas+blackout,,,México,México,México,Marketplace,Media,2,Sellers de cortinas,research
+Hogar,Cortinas,Brancato,https://www.brancato.com.mx/,,,Monterrey,Nuevo León,México,Mayoreo,Media,4,"Telas para cortinas de mayoreo: blackouts, sheers y decorativas; surte cortineros y tapiceros",research
+Hogar,Cortinas,Cortinas (ejemplo original),https://cortinas.com/,,,,,México,Ejemplo original,Media,2,Seed del cliente,ejemplo_cliente
+Hogar,Cortinas,Cortinas.com (ejemplo),https://cortinas.com/,,,CDMX,CDMX,México,Ejemplo original,Media,3,Ejemplo del cliente — cortinas,ejemplo_cliente
+Hogar,Cortinas,Mainstays,,,,USA,,México,Marca,Media,2,"Cortinas y cortineros, marca Walmart",brand
+Hogar,Cortinas,Mercado Libre cortinas,https://listado.mercadolibre.com.mx/cortinas-black-out-por-mayoreo,,,México,México,México,Marketplace,Media,2,Mayoreo de cortinas blackout,research
+Hogar,Cortinas,Meya Design,https://www.meya-design.mx/,,,Naucalpan,EdoMex,México,Fabricante,Media,4,Cortinas personalizadas fabricadas en planta Farz; showroom Ciudad Satélite; garantía hasta 3 años,research
+Hogar,Cortinas,Nanwei,,,,China,,México,Marca,Media,2,"Cortinas blackout, vía ML/import",brand
+Hogar,Cortinas,Persianas Casa Bonita,https://www.persianascasabonita.com/,,,Hermosillo,Sonora,México,Fabricante,Media,4,"20 años; persianas y cortinas en 14 ciudades: MTY, GDL, Hermosillo, Mérida, Tampico, Saltillo…",research
+Hogar,Cortinas,Pisos y Muros LNA,https://lna.com.mx/,,,CDMX,CDMX,México,Retail,Media,3,"Persianas y cortinas blackout, enrollables y traslúcidas; sucursales",research
+Hogar,Cortinas,Tecno Blinds Shop,https://tecnoblindscdmx.shop/,,,CDMX,CDMX,México,Fabricante,Media,4,"Distribuidor oficial; persianas, cortinas y toldos con motorización; cobertura CDMX, Cuernavaca, Querétaro y Edomex",research
+Hogar,Cortinas,Teker,,,,China,,México,Marca,Media,2,"Cortinas blackout, vía ML (4.8★ 2,127 reviews)",brand
+Hogar,Cortinas,Walmart México,https://www.walmart.com.mx/,,,CDMX,CDMX,México,Retail,Media,3,Sección de cortinas y persianas,brand
+Hogar,Cortinas,Casa Osaka,,,,México,México,México,Marca,Baja,1,"Cortinas blackout 2 paneles, vía ML (4.9★ 179 reviews)",brand
+Hogar,Cortinas,Home Creations,,,,México,México,México,Marca,Baja,1,"Cortinas de baño, marca retail MX",brand
+Hogar,Cortinas,Home Trends (Walmart),,,,México,México,México,Marca,Baja,1,"Cortinas blackout y de baño, marca de Walmart MX",brand
+Hogar,Cortinas,Lightdot,,,,México,México,México,Distribuidor,Baja,1,Vende Nanwei en ML,research
+Hogar,Cortinas,Melocotton Hogar,,,,México,México,México,Marca,Baja,1,"Cortinas blackout microfibra, vía Walmart",brand
+Hogar,Cortinas,Way to Celebrate,,,,México,México,México,Marca,Baja,1,"Cortinas decorativas, vía Walmart",brand
+Hogar,Cortinas,Zulema,,,,México,México,México,Marca,Baja,1,"Cortinas de encaje y cenefas, retail MX",brand

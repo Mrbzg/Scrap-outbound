@@ -1,0 +1,562 @@
+{
+  "lote": "44",
+  "slug": "productos_cabello_keratina",
+  "description": "Productos para el cabello / keratina MX",
+  "leads": [
+    {
+      "empresa": "Don Juan Beauty Supply (ejemplo)",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — productos capilares y keratina",
+      "fuente": "ejemplo_cliente",
+      "url": "https://donjuan.mx/",
+      "email": "contacto@donjuan.mx",
+      "telefono": "6621940726",
+      "ciudad": "Hermosillo",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Sedal (Unilever)",
+      "tipo": "Marca",
+      "notas": "Línea de shampoo y keratina, retail MX",
+      "fuente": "brand",
+      "url": "https://www.unilever.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Savile",
+      "tipo": "Marca",
+      "notas": "Shampoo biotina y cuidado capilar, marca MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Moco de Gorila",
+      "tipo": "Marca",
+      "notas": "Gel y productos capilares mexicanos",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Caprice",
+      "tipo": "Marca",
+      "notas": "Productos capilares mexicanos",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Jockey Club",
+      "tipo": "Marca",
+      "notas": "Gel fijador y cuidado capilar MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Pantene (P&G)",
+      "tipo": "Marca",
+      "notas": "Línea keratina y ampolletas, retail MX",
+      "fuente": "brand",
+      "url": "https://www.pantene.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "TRESemmé",
+      "tipo": "Marca",
+      "notas": "Profesional accesible, retail MX",
+      "fuente": "brand",
+      "url": "https://www.tresemme.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Hair Genics",
+      "tipo": "Marca",
+      "notas": "Cuidado capilar, venta MX",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Natura (línea capilar)",
+      "tipo": "Marca",
+      "notas": "Productos naturales para cabello",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Nagama Keratina y Botox",
+      "tipo": "Fabricante",
+      "notas": "Empresa mexicana de keratina, botox capilar y shampoo post-tratamiento; distribución por estados",
+      "fuente": "research",
+      "url": "https://www.nagamakeratinaybotox.com/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Salerm Cosmetics",
+      "tipo": "Marca",
+      "notas": "Keratina y ampolletas profesionales, distribuido en MX",
+      "fuente": "brand",
+      "ciudad": "España"
+    },
+    {
+      "empresa": "Loquay",
+      "tipo": "Marca",
+      "notas": "Primer aminokeratina y ampolletas, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Liss-Factory",
+      "tipo": "Marca",
+      "notas": "Keratin Repair 2.0, alaciados sin formol, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "KeratinShot True Professional",
+      "tipo": "Marca",
+      "notas": "Keratina alaciado japonés/brasileño mayoreo, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Nutriliss",
+      "tipo": "Marca",
+      "notas": "Keratina por litro, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Vittale",
+      "tipo": "Marca",
+      "notas": "Keratina reestructurante 320ml, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Fábrica de Keratinas",
+      "tipo": "Fabricante",
+      "notas": "Keratina japonesa 19L, post-keratina y alaciados, vía ML",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "More Keratinas",
+      "tipo": "Marca",
+      "notas": "Keratina Ultra 19L cubeta, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Bio Products Corps",
+      "tipo": "Marca",
+      "notas": "Keratina brasileña galón, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Bio Bellisima",
+      "tipo": "Marca",
+      "notas": "Keratina galón, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Keratin bio xai",
+      "tipo": "Marca",
+      "notas": "Keratinas artesanales galón/20L, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Ro Keratin",
+      "tipo": "Marca",
+      "notas": "Keratina plastificado 1L, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Volga",
+      "tipo": "Marca",
+      "notas": "Kit 4L keratina, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "LACIO",
+      "tipo": "Marca",
+      "notas": "Keratina japonesa galón 5L, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Dlord",
+      "tipo": "Marca",
+      "notas": "Keratina Gold litro, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Firenze",
+      "tipo": "Marca",
+      "notas": "Ampolletas keratina 12 pzs, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Nutrapel Keractive",
+      "tipo": "Marca",
+      "notas": "Ampolletas keratina, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "ZAIRE",
+      "tipo": "Marca",
+      "notas": "Kerat-in alisado perfecto mayoreo, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "SELGRY",
+      "tipo": "Marca",
+      "notas": "Mayoreo keratina capilar 10 pzs, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Nancy Bruno Productos Capilares",
+      "tipo": "Distribuidor",
+      "notas": "Tratamientos capilares por mayoreo, vía ML",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "STEFANIE",
+      "tipo": "Marca",
+      "notas": "Ampolletas queratina y colágeno, vía ML",
+      "fuente": "brand",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Cosmética AKCARE",
+      "tipo": "Mayoreo",
+      "notas": "Productos de salón por mayoreo: keratina, botox capilar, shampoo sin sal; etiqueta propia",
+      "fuente": "research",
+      "url": "https://akcare.mx/",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Alev Natural",
+      "tipo": "Mayoreo",
+      "notas": "Keratina 100% brasileña al mayoreo, CDMX",
+      "fuente": "research",
+      "url": "https://alev-natural.ueniweb.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Sally Beauty México",
+      "tipo": "Retail",
+      "notas": "Cadena de productos de belleza profesional",
+      "fuente": "brand",
+      "url": "https://www.sallymexico.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Beauty Art",
+      "tipo": "Retail",
+      "notas": "Tienda de productos de belleza profesional",
+      "fuente": "research",
+      "url": "https://shop.beautyart.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Rizos Mexicanos",
+      "tipo": "Ecom",
+      "notas": "Productos para cabello rizado MX",
+      "fuente": "research",
+      "url": "https://www.rizosmexicanos.com/",
+      "telefono": "5514718602",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "MexMax",
+      "tipo": "Mayoreo",
+      "notas": "Mayorista de productos capilares mexicanos (compra a fabricantes MX)",
+      "fuente": "research",
+      "url": "https://mexmax.com/",
+      "ciudad": "USA"
+    },
+    {
+      "empresa": "Walmart México",
+      "tipo": "Retail",
+      "notas": "Vende Pantene, Sedal, TRESemmé, ampolletas",
+      "fuente": "brand",
+      "url": "https://www.walmart.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Soriana",
+      "tipo": "Retail",
+      "notas": "Vende línea capilar masiva",
+      "fuente": "brand",
+      "url": "https://www.soriana.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "HEB México",
+      "tipo": "Retail",
+      "notas": "Vende línea capilar",
+      "fuente": "brand",
+      "url": "https://www.heb.com.mx/",
+      "ciudad": "Monterrey",
+      "estado": "Nuevo León"
+    },
+    {
+      "empresa": "Chedraui",
+      "tipo": "Retail",
+      "notas": "Vende línea capilar",
+      "fuente": "brand",
+      "url": "https://www.chedraui.com.mx/",
+      "ciudad": "Xalapa",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Farmacias del Ahorro",
+      "tipo": "Retail",
+      "notas": "Vende ampolletas y tratamientos capilares",
+      "fuente": "brand",
+      "url": "https://www.fahorro.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Farmacias Guadalajara",
+      "tipo": "Retail",
+      "notas": "Vende línea capilar",
+      "fuente": "brand",
+      "url": "https://www.farmaciasguadalajara.com.mx/",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Coppel",
+      "tipo": "Retail",
+      "notas": "Vende línea capilar",
+      "fuente": "brand",
+      "url": "https://www.coppel.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Amazon MX keratina",
+      "tipo": "Marketplace",
+      "notas": "Sellers de keratina y productos capilares",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=keratina+para+cabello",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Mercado Libre keratina",
+      "tipo": "Marketplace",
+      "notas": "Mayoreo de keratina y tratamientos capilares",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/keratina-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "ARKARA CO",
+      "tipo": "Distribuidor",
+      "notas": "Distribuye Salerm en ML",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "TO BEAUTYSHOP",
+      "tipo": "Distribuidor",
+      "notas": "Vende Salerm ampolletas en ML",
+      "fuente": "research",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Kativa",
+      "tipo": "Marca",
+      "notas": "Keratina y cuidado capilar, distribuido en MX",
+      "fuente": "brand",
+      "ciudad": "Colombia"
+    },
+    {
+      "empresa": "Sally and Beauty GDL",
+      "tipo": "Tienda",
+      "notas": "Tienda de cosméticos y belleza, 4.6★ en GDL",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Mel Bros Co.",
+      "tipo": "Tienda",
+      "notas": "Cosmetics & beauty supply en GDL",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Novedades Santy",
+      "tipo": "Tienda",
+      "notas": "Cosmetics & beauty supply en GDL",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Sofía Distribuidora",
+      "tipo": "Distribuidor",
+      "notas": "Distribuidora de belleza en GDL",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "G&K Cosmetics",
+      "tipo": "Tienda",
+      "notas": "Cosmetics & beauty supply en Jalisco",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Distribuidora Alhóndiga",
+      "tipo": "Distribuidor",
+      "notas": "Distribuidora de productos de belleza, Col. Juárez",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Distribuidora de belleza Alejandri",
+      "tipo": "Distribuidor",
+      "notas": "Distribuidora de productos de belleza CDMX",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Biutik",
+      "tipo": "Tienda",
+      "notas": "Cosmetics & beauty supply en Coyoacán",
+      "fuente": "research",
+      "ciudad": "Coyoacán",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Casa Barba",
+      "tipo": "Tienda",
+      "notas": "Cosmetics & beauty supply en CDMX",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Betsary Real Beauty Supply",
+      "tipo": "Distribuidor",
+      "notas": "Distribuidora de productos de belleza con envíos a todo México",
+      "fuente": "research",
+      "url": "https://betsary.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Asepxia (Genomma)",
+      "tipo": "Marca",
+      "notas": "Cuidado capilar y facial, laboratorio MX",
+      "fuente": "brand",
+      "url": "https://www.genommalab.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "L'Oréal Professionnel México",
+      "tipo": "Marca",
+      "notas": "Tratamientos profesionales de keratina",
+      "fuente": "brand",
+      "url": "https://www.lorealprofessionnel.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Kérastase",
+      "tipo": "Marca",
+      "notas": "Lujo capilar, retail MX",
+      "fuente": "brand",
+      "url": "https://www.kerastase.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Redken",
+      "tipo": "Marca",
+      "notas": "Cuidado capilar profesional, retail MX",
+      "fuente": "brand",
+      "url": "https://www.redken.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Wella Professionals",
+      "tipo": "Marca",
+      "notas": "Color y tratamiento profesional",
+      "fuente": "brand",
+      "url": "https://www.wella.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Schwarzkopf Professional",
+      "tipo": "Marca",
+      "notas": "Color y cuidado capilar profesional",
+      "fuente": "brand",
+      "url": "https://www.schwarzkopf.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    }
+  ]
+}
