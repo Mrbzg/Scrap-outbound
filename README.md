@@ -102,6 +102,10 @@ leads/por_nicho/{ID}_{slug}.csv|.json|.md
 | 30 | Audífonos bluetooth, cargadores, fundas | `30_audifonos_bluetooth_cargadores.*` |
 | 31 | Fundas personalizadas y soporte para celular | `31_fundas_personalizadas_celular.*` |
 | 32 | Aromatizantes para autos | `32_aromatizantes_para_autos.*` |
+| 33 | Mochilas y útiles escolares | `33_mochilas_utiles_escolares.*` |
+| 34 | Skincare y maquillaje | `34_skincare_maquillaje.*` |
+| 35 | Refacciones automotrices | `35_refacciones_automotrices.*` |
+| 36 | Vitaminas para plantas y abono | `36_vitaminas_plantas_abono.*` |
 
 Catálogo: `leads/nichos.json` (58 nichos).
 

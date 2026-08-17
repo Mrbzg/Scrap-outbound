@@ -1,0 +1,219 @@
+giro,nicho,empresa,url,email,telefono,ciudad,estado,pais,tipo,prioridad,score_contacto,notas,fuente
+Refaccionaria,Refacciones automotrices,Dago Hidalgo,https://dago.com.mx/,hidalgo@dago.com.mx,,Pachuca,Hidalgo,México,Sucursal,Alta,6,"Río Tamazula 223, Issste, Pachuca",research
+Refaccionaria,Refacciones automotrices,Dago Refacciones,https://dago.com.mx/,toluca@dago.com.mx,,Toluca,EdoMex,México,Mayoreo,Alta,7,"15+ años; Toluca, Querétaro, Pachuca y Puebla; catálogos NGK/filtros",research
+Refaccionaria,Refacciones automotrices,Filtros producto,https://dago.com.mx/,toluca@dago.com.mx,,Toluca,EdoMex,México,Producto,Alta,6,Catálogo de filtros 2025,research
+Refaccionaria,Refacciones automotrices,Mayoreo Automotriz ML,https://www.mayoreoautomotrizml.com.mx/,mayoreomlventas@gmail.com,3331124080,Guadalajara,Jalisco,México,Mayoreo,Alta,9,"Béjar 1667, Sta. Elena de la Cruz; BAW, CAP, Cauplas, Profilter",research
+Refaccionaria,Refacciones automotrices,Mayoreo ML 2o tel,https://www.mayoreoautomotrizml.com.mx/,,3334500960,Guadalajara,Jalisco,México,Canal,Alta,5,33 3450 0960,research
+Refaccionaria,Refacciones automotrices,Nikko Autoparts,https://www.nikkoauto.mx/,,5557161400,CDMX,CDMX,México,Mayoreo,Alta,6,"50+ años; 15,000 productos; Av. Javier Rojo Gómez 1201, Iztapalapa",research
+Refaccionaria,Refacciones automotrices,Todo Refacciones,https://todorefacciones.mx/,ventas@todorefacciones.mx,8134407739,Monterrey,Nuevo León,México,Mayoreo,Alta,9,"Arteaga 948 Centro, MTY; mayoreo, distribución e importación",research
+Refaccionaria,Refacciones automotrices,Amazon MX autopartes,https://www.amazon.com.mx/s?k=refacciones+automotrices,,,México,México,México,Marketplace,Media,2,Sellers de autopartes,research
+Refaccionaria,Refacciones automotrices,AutoZone México,https://www.autozone.com.mx/,,,CDMX,CDMX,México,Retail,Media,3,Refaccionarias de autoservicio,brand
+Refaccionaria,Refacciones automotrices,Baleros y rodamientos producto,https://www.masterautopartes.com/,,,CDMX,CDMX,México,Producto,Media,3,Línea baleros y rodamientos,research
+Refaccionaria,Refacciones automotrices,Bosch México,https://www.bosch.com.mx/,,,,,México,Marca,Media,3,Autopartes,brand
+Refaccionaria,Refacciones automotrices,Clutch y frenos producto,https://www.masterautopartes.com/,,,CDMX,CDMX,México,Producto,Media,3,Línea clutch y frenos,research
+Refaccionaria,Refacciones automotrices,Master Autopartes,https://www.masterautopartes.com/,,,CDMX,CDMX,México,Mayoreo,Media,4,"45+ años, 25,000 productos; Central 115 Col. Atlántida; distribuidor Nikko",research
+Refaccionaria,Refacciones automotrices,Mayoreo Continental (MACOSA),https://www.mayoreocontinental.com.mx/,,,,,México,Mayoreo,Media,3,"Desde 1977, distribución al mayoreo, Sureste Mexicano",research
+Refaccionaria,Refacciones automotrices,ML refacciones mayoreo,https://listado.mercadolibre.com.mx/refacciones-automotrices-mayoreo,,,México,México,México,Marketplace,Media,2,Mayoreo de refacciones,research
+Refaccionaria,Refacciones automotrices,MotorStore (ejemplo),https://motorstore.mx/,,,,,México,Ejemplo original,Media,2,Ejemplo del cliente — refacciones automotrices,ejemplo_cliente
+Refaccionaria,Refacciones automotrices,NAPA México,https://www.napaautopartes.mx/,,,,,México,Retail,Media,2,Refaccionarias,brand
+Refaccionaria,Refacciones automotrices,NGK México,https://www.ngkntk.com.mx/,,,,,México,Marca,Media,3,Bujías y filtros,brand
+Refaccionaria,Refacciones automotrices,O'Reilly Auto Parts MX,https://www.oreillyauto.com.mx/,,,,,México,Retail,Media,2,Refaccionarias,brand
+Refaccionaria,Refacciones automotrices,Refacciones automotrices (ejemplo original),https://motorstore.mx/,,,,,México,Ejemplo original,Media,2,Seed del cliente,ejemplo_cliente
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Acapulco,,,,Acapulco,Guerrero,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Aguascalientes,,,,Aguascalientes,Aguascalientes,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Campeche,,,,Campeche,Campeche,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Cancún,,,,Cancún,Q. Roo,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Cd. Juárez,,,,Cd. Juárez,Chihuahua,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Chihuahua,,,,Chihuahua,Chihuahua,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Colima,,,,Colima,Colima,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Cuernavaca,,,,Cuernavaca,Morelos,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Culiacán,,,,Culiacán,Sinaloa,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Durango,,,,Durango,Durango,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Guadalajara,,,,Guadalajara,Jalisco,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Hermosillo,,,,Hermosillo,Sonora,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Irapuato,,,,Irapuato,Guanajuato,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico La Paz,,,,La Paz,BCS,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico León,,,,León,Guanajuato,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Mexicali,,,,Mexicali,BC,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Monterrey,,,,Monterrey,NL,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Mérida,,,,Mérida,Yucatán,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Oaxaca,,,,Oaxaca,Oaxaca,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Pachuca,,,,Pachuca,Hidalgo,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Puebla,,,,Puebla,Puebla,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Querétaro,,,,Querétaro,Querétaro,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Saltillo,,,,Saltillo,Coahuila,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico San Luis Potosí,,,,San Luis Potosí,SLP,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Tampico,,,,Tampico,Tamaulipas,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Tepic,,,,Tepic,Nayarit,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Tijuana,,,,Tijuana,BC,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Tlaxcala,,,,Tlaxcala,Tlaxcala,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Toluca,,,,Toluca,EdoMex,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Torreón,,,,Torreón,Coahuila,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Tuxtla Gutiérrez,,,,Tuxtla Gutiérrez,Chiapas,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Veracruz,,,,Veracruz,Veracruz,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Villahermosa,,,,Villahermosa,Tabasco,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Xalapa,,,,Xalapa,Veracruz,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Zacatecas,,,,Zacatecas,Zacatecas,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Afinación / eléctrico Zapopan,,,,Zapopan,Jalisco,México,Regional,Baja,1,Partes de encendido y eléctricas,research
+Refaccionaria,Refacciones automotrices,Autoboutiques,,,,,,México,Canal B2B,Baja,1,Accesorios y químicos,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Apizaco,,,,Apizaco,Tlaxcala,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Celaya,,,,Celaya,Guanajuato,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Chetumal,,,,Chetumal,Q. Roo,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Ciudad Obregón,,,,Ciudad Obregón,Sonora,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Coatzacoalcos,,,,Coatzacoalcos,Veracruz,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Comitán,,,,Comitán,Chiapas,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Cuautla,,,,Cuautla,Morelos,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Córdoba,,,,Córdoba,Veracruz,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Ensenada,,,,Ensenada,BC,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Fresnillo,,,,Fresnillo,Zacatecas,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Gómez Palacio,,,,Gómez Palacio,Durango,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Ixtapa,,,,Ixtapa,Guerrero,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Jiutepec,,,,Jiutepec,Morelos,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Los Mochis,,,,Los Mochis,Sinaloa,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Matamoros,,,,Matamoros,Tamaulipas,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Morelia,,,,Morelia,Michoacán,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Nogales,,,,Nogales,Sonora,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Nuevo Laredo,,,,Nuevo Laredo,Tamaulipas,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Orizaba,,,,Orizaba,Veracruz,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Playa del Carmen,,,,Playa del Carmen,Q. Roo,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Poza Rica,,,,Poza Rica,Veracruz,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Reynosa,,,,Reynosa,Tamaulipas,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Salamanca,,,,Salamanca,Guanajuato,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas San Juan del Río,,,,San Juan del Río,Querétaro,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Tapachula,,,,Tapachula,Chiapas,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Tehuacán,,,,Tehuacán,Puebla,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Tulancingo,,,,Tulancingo,Hidalgo,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Uruapan,,,,Uruapan,Michoacán,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes importadas Zamora,,,,Zamora,Michoacán,México,Regional,Baja,1,Importación y distribución,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Apizaco,,,,Apizaco,Tlaxcala,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Celaya,,,,Celaya,Guanajuato,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Chetumal,,,,Chetumal,Q. Roo,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Ciudad Obregón,,,,Ciudad Obregón,Sonora,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Coatzacoalcos,,,,Coatzacoalcos,Veracruz,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Comitán,,,,Comitán,Chiapas,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Cuautla,,,,Cuautla,Morelos,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Córdoba,,,,Córdoba,Veracruz,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Ensenada,,,,Ensenada,BC,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Fresnillo,,,,Fresnillo,Zacatecas,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Gómez Palacio,,,,Gómez Palacio,Durango,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Ixtapa,,,,Ixtapa,Guerrero,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Jiutepec,,,,Jiutepec,Morelos,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Los Mochis,,,,Los Mochis,Sinaloa,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Matamoros,,,,Matamoros,Tamaulipas,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Morelia,,,,Morelia,Michoacán,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Nogales,,,,Nogales,Sonora,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Nuevo Laredo,,,,Nuevo Laredo,Tamaulipas,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Orizaba,,,,Orizaba,Veracruz,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Playa del Carmen,,,,Playa del Carmen,Q. Roo,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Poza Rica,,,,Poza Rica,Veracruz,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Reynosa,,,,Reynosa,Tamaulipas,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Salamanca,,,,Salamanca,Guanajuato,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo San Juan del Río,,,,San Juan del Río,Querétaro,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Tapachula,,,,Tapachula,Chiapas,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Tehuacán,,,,Tehuacán,Puebla,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Tulancingo,,,,Tulancingo,Hidalgo,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Uruapan,,,,Uruapan,Michoacán,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Autopartes mayoreo Zamora,,,,Zamora,Michoacán,México,Regional,Baja,1,Distribución de refacciones,research
+Refaccionaria,Refacciones automotrices,Brembo,,,,,,México,Marca,Baja,1,Frenos,brand
+Refaccionaria,Refacciones automotrices,Cluster refaccionario CDMX,,,,CDMX,CDMX,México,Cluster,Baja,0,"Zonas de refacciones (Eje Central, Fray Servando)",research
+Refaccionaria,Refacciones automotrices,Continental / VDO,,,,,,México,Marca,Baja,1,Electrónica automotriz,brand
+Refaccionaria,Refacciones automotrices,Denso México,,,,,,México,Marca,Baja,1,Partes eléctricas y encendido,brand
+Refaccionaria,Refacciones automotrices,ELCA / NSB,,,,,,México,Marca,Baja,1,"Partes eléctricas, vía Master Autopartes",brand
+Refaccionaria,Refacciones automotrices,Flotilleros / empresas,,,,,,México,Canal B2B,Baja,1,Atención a flotillas con stock,research
+Refaccionaria,Refacciones automotrices,Llanteras / frenos Chilpancingo,,,,Chilpancingo,Guerrero,México,Regional,Baja,1,"Frenos, baleros y rodamientos",research
+Refaccionaria,Refacciones automotrices,Llanteras / frenos Ciudad Victoria,,,,Ciudad Victoria,Tamaulipas,México,Regional,Baja,1,"Frenos, baleros y rodamientos",research
+Refaccionaria,Refacciones automotrices,Llanteras / frenos Cuautitlán Izcalli,,,,Cuautitlán Izcalli,EdoMex,México,Regional,Baja,1,"Frenos, baleros y rodamientos",research
+Refaccionaria,Refacciones automotrices,Llanteras / frenos Ecatepec,,,,Ecatepec,EdoMex,México,Regional,Baja,1,"Frenos, baleros y rodamientos",research
+Refaccionaria,Refacciones automotrices,Llanteras / frenos Los Cabos,,,,Los Cabos,BCS,México,Regional,Baja,1,"Frenos, baleros y rodamientos",research
+Refaccionaria,Refacciones automotrices,Llanteras / frenos Mazatlán,,,,Mazatlán,Sinaloa,México,Regional,Baja,1,"Frenos, baleros y rodamientos",research
+Refaccionaria,Refacciones automotrices,Llanteras / frenos Minatitlán,,,,Minatitlán,Veracruz,México,Regional,Baja,1,"Frenos, baleros y rodamientos",research
+Refaccionaria,Refacciones automotrices,Llanteras / frenos Monclova,,,,Monclova,Coahuila,México,Regional,Baja,1,"Frenos, baleros y rodamientos",research
+Refaccionaria,Refacciones automotrices,Llanteras / frenos Naucalpan,,,,Naucalpan,EdoMex,México,Regional,Baja,1,"Frenos, baleros y rodamientos",research
+Refaccionaria,Refacciones automotrices,Llanteras / frenos Nezahualcóyotl,,,,Nezahualcóyotl,EdoMex,México,Regional,Baja,1,"Frenos, baleros y rodamientos",research
+Refaccionaria,Refacciones automotrices,Llanteras / frenos Ocotlán,,,,Ocotlán,Jalisco,México,Regional,Baja,1,"Frenos, baleros y rodamientos",research
+Refaccionaria,Refacciones automotrices,Llanteras / frenos Piedras Negras,,,,Piedras Negras,Coahuila,México,Regional,Baja,1,"Frenos, baleros y rodamientos",research
+Refaccionaria,Refacciones automotrices,Llanteras / frenos Puerto Vallarta,,,,Puerto Vallarta,Jalisco,México,Regional,Baja,1,"Frenos, baleros y rodamientos",research
+Refaccionaria,Refacciones automotrices,Llanteras / frenos San Miguel de Allende,,,,San Miguel de Allende,Guanajuato,México,Regional,Baja,1,"Frenos, baleros y rodamientos",research
+Refaccionaria,Refacciones automotrices,Llanteras / frenos Tlalnepantla,,,,Tlalnepantla,EdoMex,México,Regional,Baja,1,"Frenos, baleros y rodamientos",research
+Refaccionaria,Refacciones automotrices,Refaccionaria Acapulco,,,,Acapulco,Guerrero,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Aguascalientes,,,,Aguascalientes,Aguascalientes,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Campeche,,,,Campeche,Campeche,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Cancún,,,,Cancún,Q. Roo,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Cd. Juárez,,,,Cd. Juárez,Chihuahua,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Chihuahua,,,,Chihuahua,Chihuahua,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Colima,,,,Colima,Colima,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Cuernavaca,,,,Cuernavaca,Morelos,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Culiacán,,,,Culiacán,Sinaloa,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Durango,,,,Durango,Durango,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Guadalajara,,,,Guadalajara,Jalisco,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Hermosillo,,,,Hermosillo,Sonora,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Irapuato,,,,Irapuato,Guanajuato,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria La Paz,,,,La Paz,BCS,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria León,,,,León,Guanajuato,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Mexicali,,,,Mexicali,BC,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Monterrey,,,,Monterrey,NL,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Mérida,,,,Mérida,Yucatán,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Oaxaca,,,,Oaxaca,Oaxaca,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Pachuca,,,,Pachuca,Hidalgo,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Puebla,,,,Puebla,Puebla,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Querétaro,,,,Querétaro,Querétaro,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Saltillo,,,,Saltillo,Coahuila,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria San Luis Potosí,,,,San Luis Potosí,SLP,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Tampico,,,,Tampico,Tamaulipas,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Tepic,,,,Tepic,Nayarit,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Tijuana,,,,Tijuana,BC,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Tlaxcala,,,,Tlaxcala,Tlaxcala,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Toluca,,,,Toluca,EdoMex,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Torreón,,,,Torreón,Coahuila,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Tuxtla Gutiérrez,,,,Tuxtla Gutiérrez,Chiapas,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Veracruz,,,,Veracruz,Veracruz,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Villahermosa,,,,Villahermosa,Tabasco,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Xalapa,,,,Xalapa,Veracruz,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Zacatecas,,,,Zacatecas,Zacatecas,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionaria Zapopan,,,,Zapopan,Jalisco,México,Regional,Baja,1,Autopartes y refacciones,research
+Refaccionaria,Refacciones automotrices,Refaccionarias locales,,,,,,México,Canal B2B,Baja,1,Clientes de mayoreo de autopartes,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Apizaco,,,,Apizaco,Tlaxcala,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Celaya,,,,Celaya,Guanajuato,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Chetumal,,,,Chetumal,Q. Roo,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Ciudad Obregón,,,,Ciudad Obregón,Sonora,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Coatzacoalcos,,,,Coatzacoalcos,Veracruz,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Comitán,,,,Comitán,Chiapas,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Cuautla,,,,Cuautla,Morelos,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Córdoba,,,,Córdoba,Veracruz,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Ensenada,,,,Ensenada,BC,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Fresnillo,,,,Fresnillo,Zacatecas,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Gómez Palacio,,,,Gómez Palacio,Durango,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Ixtapa,,,,Ixtapa,Guerrero,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Jiutepec,,,,Jiutepec,Morelos,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Los Mochis,,,,Los Mochis,Sinaloa,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Matamoros,,,,Matamoros,Tamaulipas,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Morelia,,,,Morelia,Michoacán,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Nogales,,,,Nogales,Sonora,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Nuevo Laredo,,,,Nuevo Laredo,Tamaulipas,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Orizaba,,,,Orizaba,Veracruz,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Playa del Carmen,,,,Playa del Carmen,Q. Roo,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Poza Rica,,,,Poza Rica,Veracruz,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Reynosa,,,,Reynosa,Tamaulipas,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Salamanca,,,,Salamanca,Guanajuato,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas San Juan del Río,,,,San Juan del Río,Querétaro,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Tapachula,,,,Tapachula,Chiapas,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Tehuacán,,,,Tehuacán,Puebla,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Tulancingo,,,,Tulancingo,Hidalgo,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Uruapan,,,,Uruapan,Michoacán,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Refacciones pesadas Zamora,,,,Zamora,Michoacán,México,Regional,Baja,1,Camiones y diésel,research
+Refaccionaria,Refacciones automotrices,Taller mecánico Chilpancingo,,,,Chilpancingo,Guerrero,México,Regional,Baja,1,Compra de refacciones,research
+Refaccionaria,Refacciones automotrices,Taller mecánico Ciudad Victoria,,,,Ciudad Victoria,Tamaulipas,México,Regional,Baja,1,Compra de refacciones,research
+Refaccionaria,Refacciones automotrices,Taller mecánico Cuautitlán Izcalli,,,,Cuautitlán Izcalli,EdoMex,México,Regional,Baja,1,Compra de refacciones,research
+Refaccionaria,Refacciones automotrices,Taller mecánico Ecatepec,,,,Ecatepec,EdoMex,México,Regional,Baja,1,Compra de refacciones,research
+Refaccionaria,Refacciones automotrices,Taller mecánico Los Cabos,,,,Los Cabos,BCS,México,Regional,Baja,1,Compra de refacciones,research
+Refaccionaria,Refacciones automotrices,Taller mecánico Mazatlán,,,,Mazatlán,Sinaloa,México,Regional,Baja,1,Compra de refacciones,research
+Refaccionaria,Refacciones automotrices,Taller mecánico Minatitlán,,,,Minatitlán,Veracruz,México,Regional,Baja,1,Compra de refacciones,research
+Refaccionaria,Refacciones automotrices,Taller mecánico Monclova,,,,Monclova,Coahuila,México,Regional,Baja,1,Compra de refacciones,research
+Refaccionaria,Refacciones automotrices,Taller mecánico Naucalpan,,,,Naucalpan,EdoMex,México,Regional,Baja,1,Compra de refacciones,research
+Refaccionaria,Refacciones automotrices,Taller mecánico Nezahualcóyotl,,,,Nezahualcóyotl,EdoMex,México,Regional,Baja,1,Compra de refacciones,research
+Refaccionaria,Refacciones automotrices,Taller mecánico Ocotlán,,,,Ocotlán,Jalisco,México,Regional,Baja,1,Compra de refacciones,research
+Refaccionaria,Refacciones automotrices,Taller mecánico Piedras Negras,,,,Piedras Negras,Coahuila,México,Regional,Baja,1,Compra de refacciones,research
+Refaccionaria,Refacciones automotrices,Taller mecánico Puerto Vallarta,,,,Puerto Vallarta,Jalisco,México,Regional,Baja,1,Compra de refacciones,research
+Refaccionaria,Refacciones automotrices,Taller mecánico San Miguel de Allende,,,,San Miguel de Allende,Guanajuato,México,Regional,Baja,1,Compra de refacciones,research
+Refaccionaria,Refacciones automotrices,Taller mecánico Tlalnepantla,,,,Tlalnepantla,EdoMex,México,Regional,Baja,1,Compra de refacciones,research
+Refaccionaria,Refacciones automotrices,Talleres mecánicos,,,,,,México,Canal B2B,Baja,1,Compran refacciones y consumibles,research

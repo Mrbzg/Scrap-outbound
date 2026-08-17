@@ -1,0 +1,1739 @@
+{
+  "lote": "36",
+  "slug": "vitaminas_plantas_abono",
+  "description": "Vitaminas para plantas y abono MX",
+  "leads": [
+    {
+      "empresa": "Nucle.ag México (ejemplo)",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — nutrición vegetal y abonos",
+      "fuente": "ejemplo_cliente",
+      "url": "https://mexico.nucle.ag/"
+    },
+    {
+      "empresa": "Vinde",
+      "tipo": "Mayoreo",
+      "notas": "Módulos fertilizantes en pastilla (NPK); tienda física norte CDMX",
+      "fuente": "research",
+      "url": "https://vinde.com.mx/",
+      "email": "ventas@vinde.com.mx",
+      "telefono": "5547121065",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Vinde 2o tel",
+      "tipo": "Canal",
+      "notas": "55 3040 5164",
+      "fuente": "research",
+      "url": "https://vinde.com.mx/",
+      "email": "ventas@vinde.com.mx",
+      "telefono": "5530405164",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Vitabloom",
+      "tipo": "Marca",
+      "notas": "10 Norte 603, Cholula; biofertilizantes orgánicos y vitamínicos",
+      "fuente": "research",
+      "url": "https://vitabloom.mx/",
+      "email": "vidaqueflorece@vitabloom.mx",
+      "telefono": "2228048419",
+      "ciudad": "Cholula",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Vitabloom 2o tel",
+      "tipo": "Canal",
+      "notas": "+52 222 910 2821",
+      "fuente": "research",
+      "url": "https://vitabloom.mx/contacto/",
+      "email": "vidaqueflorece@vitabloom.mx",
+      "telefono": "2229102821",
+      "ciudad": "Cholula",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Vitabloom WA",
+      "tipo": "Canal",
+      "notas": "WhatsApp 221 581 6358",
+      "fuente": "research",
+      "url": "https://vitabloom.mx/producto/vitalawn/",
+      "telefono": "2215816358",
+      "ciudad": "Cholula",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Grow Shop México",
+      "tipo": "Ecom",
+      "notas": "Tienda online de cultivo: BioBizz, nutrientes orgánicos, hidroponía",
+      "fuente": "research",
+      "url": "https://growshopmexico.com/"
+    },
+    {
+      "empresa": "AgroGenial",
+      "tipo": "Marketplace",
+      "notas": "Fitobolic, Grofol, Nitrofoska vía ML",
+      "fuente": "research"
+    },
+    {
+      "empresa": "CRONOS AGRO",
+      "tipo": "Marketplace",
+      "notas": "Agromil V potenciador de crecimiento",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Campo Divino",
+      "tipo": "Marketplace",
+      "notas": "Bayfolan sólido y foliares",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Agroservicios Nacionales",
+      "tipo": "Distribuidor",
+      "notas": "Lázaro Cárdenas 2390, Col. Del Fresno; distribuidor Envu",
+      "fuente": "research",
+      "telefono": "3338113203",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Agroquímicos JAM",
+      "tipo": "Distribuidor",
+      "notas": "Carretera a Ortiz y Emiliano Zapata; distribuidor Envu",
+      "fuente": "research",
+      "telefono": "6222248244",
+      "ciudad": "Empalme",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Ferlin",
+      "tipo": "Marca",
+      "notas": "Bioestimulante hormonal vitaminado",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Bayfolan (Bayer)",
+      "tipo": "Marca",
+      "notas": "Fertilizante foliar vitamínico",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Econofibras",
+      "tipo": "Marca",
+      "notas": "Fertilizante 20-20-20 para plantas",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Orquidium / Anthurium vitaminas",
+      "tipo": "Marca",
+      "notas": "Vitaminas líquidas para plantas de ornato",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "BioBizz",
+      "tipo": "Marca",
+      "notas": "Nutrientes orgánicos importados",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "GrowTech",
+      "tipo": "Marca",
+      "notas": "Nutrición vegetal importada",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Amazon MX fertilizantes",
+      "tipo": "Marketplace",
+      "notas": "Sellers de fertilizantes",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=fertilizante+vitaminas+plantas",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "ML fertilizantes y vitaminas",
+      "tipo": "Marketplace",
+      "notas": "Vitaminas Anthurium, Fitobolic, Bayfolan…",
+      "fuente": "research",
+      "url": "https://hogar.mercadolibre.com.mx/jardines-exteriores/fertilizantes-y-vitaminas-para-plantas",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Módulos fertilizantes NPK producto",
+      "tipo": "Producto",
+      "notas": "Pastillas verde/amarillo/café, NPK + ácidos fúlvicos",
+      "fuente": "research",
+      "url": "https://vinde.com.mx/product/modulos-fertilizantes/",
+      "email": "ventas@vinde.com.mx",
+      "telefono": "5547121065",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "VitaHuertos Dúo producto",
+      "tipo": "Producto",
+      "notas": "Biofertilizante orgánico para huertos y frutales",
+      "fuente": "research",
+      "url": "https://vitabloom.mx/producto/vitahuertos/",
+      "telefono": "2228048419",
+      "ciudad": "Cholula",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "VitaLawn producto",
+      "tipo": "Producto",
+      "notas": "Fertilizante para pastos verdes",
+      "fuente": "research",
+      "url": "https://vitabloom.mx/producto/vitalawn/",
+      "ciudad": "Cholula",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Viveros / jardinerías",
+      "tipo": "Canal B2B",
+      "notas": "Venden vitaminas y abonos",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Huertos urbanos / verticales",
+      "tipo": "Canal B2B",
+      "notas": "Compran biofertilizantes por volumen",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Agronomía / extensionistas",
+      "tipo": "Canal B2B",
+      "notas": "Programas de nutrición vegetal",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Florerías / ornato",
+      "tipo": "Canal B2B",
+      "notas": "Vitaminas para floración",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Cluster vivero CDMX",
+      "tipo": "Cluster",
+      "notas": "Zona de viveros y jardinería",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Vivero / jardinería Aguascalientes",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Aguascalientes",
+      "estado": "Aguascalientes"
+    },
+    {
+      "empresa": "Vivero / jardinería Tijuana",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Vivero / jardinería Mexicali",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Mexicali",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Vivero / jardinería La Paz",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "La Paz",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Vivero / jardinería Campeche",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Campeche",
+      "estado": "Campeche"
+    },
+    {
+      "empresa": "Vivero / jardinería Tuxtla Gutiérrez",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Tuxtla Gutiérrez",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Vivero / jardinería Chihuahua",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Vivero / jardinería Cd. Juárez",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Cd. Juárez",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Vivero / jardinería Saltillo",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Saltillo",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Vivero / jardinería Torreón",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Torreón",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Vivero / jardinería Colima",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Colima",
+      "estado": "Colima"
+    },
+    {
+      "empresa": "Vivero / jardinería Durango",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Durango",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Vivero / jardinería León",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Vivero / jardinería Irapuato",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Irapuato",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Vivero / jardinería Acapulco",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Acapulco",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Vivero / jardinería Pachuca",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Pachuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Vivero / jardinería Toluca",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Toluca",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Vivero / jardinería Cuernavaca",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Cuernavaca",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Vivero / jardinería Tepic",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Tepic",
+      "estado": "Nayarit"
+    },
+    {
+      "empresa": "Vivero / jardinería Monterrey",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Vivero / jardinería Oaxaca",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Oaxaca",
+      "estado": "Oaxaca"
+    },
+    {
+      "empresa": "Vivero / jardinería Puebla",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Vivero / jardinería Querétaro",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Vivero / jardinería Cancún",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Cancún",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Vivero / jardinería San Luis Potosí",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Vivero / jardinería Culiacán",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Culiacán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Vivero / jardinería Hermosillo",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Hermosillo",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Vivero / jardinería Villahermosa",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Villahermosa",
+      "estado": "Tabasco"
+    },
+    {
+      "empresa": "Vivero / jardinería Tampico",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Tampico",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Vivero / jardinería Tlaxcala",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Tlaxcala",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Vivero / jardinería Xalapa",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Xalapa",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Vivero / jardinería Veracruz",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Veracruz",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Vivero / jardinería Zacatecas",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Zacatecas",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Vivero / jardinería Mérida",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Mérida",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "Vivero / jardinería Guadalajara",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Vivero / jardinería Zapopan",
+      "tipo": "Regional",
+      "notas": "Vitaminas y abonos para plantas",
+      "fuente": "research",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Fertilizantes Celaya",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Celaya",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Fertilizantes Salamanca",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Salamanca",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Fertilizantes San Juan del Río",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "San Juan del Río",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Fertilizantes Cuautla",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Cuautla",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Fertilizantes Jiutepec",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Jiutepec",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Fertilizantes Córdoba",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Córdoba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Fertilizantes Orizaba",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Orizaba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Fertilizantes Poza Rica",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Poza Rica",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Fertilizantes Coatzacoalcos",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Coatzacoalcos",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Fertilizantes Tapachula",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Tapachula",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Fertilizantes Comitán",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Comitán",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Fertilizantes Los Mochis",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Los Mochis",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Fertilizantes Ciudad Obregón",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Ciudad Obregón",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Fertilizantes Nogales",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Nogales",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Fertilizantes Ensenada",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Ensenada",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Fertilizantes Playa del Carmen",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Playa del Carmen",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Fertilizantes Chetumal",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Chetumal",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Fertilizantes Reynosa",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Reynosa",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Fertilizantes Matamoros",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Matamoros",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Fertilizantes Nuevo Laredo",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Nuevo Laredo",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Fertilizantes Gómez Palacio",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Gómez Palacio",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Fertilizantes Fresnillo",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Fresnillo",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Fertilizantes Uruapan",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Uruapan",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Fertilizantes Zamora",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Zamora",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Fertilizantes Morelia",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Fertilizantes Tehuacán",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Fertilizantes Apizaco",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Apizaco",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Fertilizantes Tulancingo",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Tulancingo",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Fertilizantes Ixtapa",
+      "tipo": "Regional",
+      "notas": "Abonos y bioestimulantes",
+      "fuente": "research",
+      "ciudad": "Ixtapa",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Agroinsumos Naucalpan",
+      "tipo": "Regional",
+      "notas": "Nutrición vegetal",
+      "fuente": "research",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Agroinsumos Ecatepec",
+      "tipo": "Regional",
+      "notas": "Nutrición vegetal",
+      "fuente": "research",
+      "ciudad": "Ecatepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Agroinsumos Nezahualcóyotl",
+      "tipo": "Regional",
+      "notas": "Nutrición vegetal",
+      "fuente": "research",
+      "ciudad": "Nezahualcóyotl",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Agroinsumos Tlalnepantla",
+      "tipo": "Regional",
+      "notas": "Nutrición vegetal",
+      "fuente": "research",
+      "ciudad": "Tlalnepantla",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Agroinsumos Cuautitlán Izcalli",
+      "tipo": "Regional",
+      "notas": "Nutrición vegetal",
+      "fuente": "research",
+      "ciudad": "Cuautitlán Izcalli",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Agroinsumos Puerto Vallarta",
+      "tipo": "Regional",
+      "notas": "Nutrición vegetal",
+      "fuente": "research",
+      "ciudad": "Puerto Vallarta",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Agroinsumos Mazatlán",
+      "tipo": "Regional",
+      "notas": "Nutrición vegetal",
+      "fuente": "research",
+      "ciudad": "Mazatlán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Agroinsumos Los Cabos",
+      "tipo": "Regional",
+      "notas": "Nutrición vegetal",
+      "fuente": "research",
+      "ciudad": "Los Cabos",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Agroinsumos San Miguel de Allende",
+      "tipo": "Regional",
+      "notas": "Nutrición vegetal",
+      "fuente": "research",
+      "ciudad": "San Miguel de Allende",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Agroinsumos Chilpancingo",
+      "tipo": "Regional",
+      "notas": "Nutrición vegetal",
+      "fuente": "research",
+      "ciudad": "Chilpancingo",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Agroinsumos Minatitlán",
+      "tipo": "Regional",
+      "notas": "Nutrición vegetal",
+      "fuente": "research",
+      "ciudad": "Minatitlán",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Agroinsumos Ciudad Victoria",
+      "tipo": "Regional",
+      "notas": "Nutrición vegetal",
+      "fuente": "research",
+      "ciudad": "Ciudad Victoria",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Agroinsumos Piedras Negras",
+      "tipo": "Regional",
+      "notas": "Nutrición vegetal",
+      "fuente": "research",
+      "ciudad": "Piedras Negras",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Agroinsumos Monclova",
+      "tipo": "Regional",
+      "notas": "Nutrición vegetal",
+      "fuente": "research",
+      "ciudad": "Monclova",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Agroinsumos Ocotlán",
+      "tipo": "Regional",
+      "notas": "Nutrición vegetal",
+      "fuente": "research",
+      "ciudad": "Ocotlán",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Celaya",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Celaya",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Salamanca",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Salamanca",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Hidroponía / cultivo San Juan del Río",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "San Juan del Río",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Cuautla",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Cuautla",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Jiutepec",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Jiutepec",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Córdoba",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Córdoba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Orizaba",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Orizaba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Poza Rica",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Poza Rica",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Coatzacoalcos",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Coatzacoalcos",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Tapachula",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Tapachula",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Comitán",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Comitán",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Los Mochis",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Los Mochis",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Ciudad Obregón",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Ciudad Obregón",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Nogales",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Nogales",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Ensenada",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Ensenada",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Playa del Carmen",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Playa del Carmen",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Chetumal",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Chetumal",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Reynosa",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Reynosa",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Matamoros",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Matamoros",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Nuevo Laredo",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Nuevo Laredo",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Gómez Palacio",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Gómez Palacio",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Fresnillo",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Fresnillo",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Uruapan",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Uruapan",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Zamora",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Zamora",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Morelia",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Tehuacán",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Apizaco",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Apizaco",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Tulancingo",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Tulancingo",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Hidroponía / cultivo Ixtapa",
+      "tipo": "Regional",
+      "notas": "Nutrientes y sustratos",
+      "fuente": "research",
+      "ciudad": "Ixtapa",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Florería / ornato Aguascalientes",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Aguascalientes",
+      "estado": "Aguascalientes"
+    },
+    {
+      "empresa": "Florería / ornato Tijuana",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Florería / ornato Mexicali",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Mexicali",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Florería / ornato La Paz",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "La Paz",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Florería / ornato Campeche",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Campeche",
+      "estado": "Campeche"
+    },
+    {
+      "empresa": "Florería / ornato Tuxtla Gutiérrez",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Tuxtla Gutiérrez",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Florería / ornato Chihuahua",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Florería / ornato Cd. Juárez",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Cd. Juárez",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Florería / ornato Saltillo",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Saltillo",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Florería / ornato Torreón",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Torreón",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Florería / ornato Colima",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Colima",
+      "estado": "Colima"
+    },
+    {
+      "empresa": "Florería / ornato Durango",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Durango",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Florería / ornato León",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Florería / ornato Irapuato",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Irapuato",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Florería / ornato Acapulco",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Acapulco",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Florería / ornato Pachuca",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Pachuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Florería / ornato Toluca",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Toluca",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Florería / ornato Cuernavaca",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Cuernavaca",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Florería / ornato Tepic",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Tepic",
+      "estado": "Nayarit"
+    },
+    {
+      "empresa": "Florería / ornato Monterrey",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Florería / ornato Oaxaca",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Oaxaca",
+      "estado": "Oaxaca"
+    },
+    {
+      "empresa": "Florería / ornato Puebla",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Florería / ornato Querétaro",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Florería / ornato Cancún",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Cancún",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Florería / ornato San Luis Potosí",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Florería / ornato Culiacán",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Culiacán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Florería / ornato Hermosillo",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Hermosillo",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Florería / ornato Villahermosa",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Villahermosa",
+      "estado": "Tabasco"
+    },
+    {
+      "empresa": "Florería / ornato Tampico",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Tampico",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Florería / ornato Tlaxcala",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Tlaxcala",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Florería / ornato Xalapa",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Xalapa",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Florería / ornato Veracruz",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Veracruz",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Florería / ornato Zacatecas",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Zacatecas",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Florería / ornato Mérida",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Mérida",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "Florería / ornato Guadalajara",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Florería / ornato Zapopan",
+      "tipo": "Regional",
+      "notas": "Vitaminas de floración",
+      "fuente": "research",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Huerto urbano Naucalpan",
+      "tipo": "Regional",
+      "notas": "Biofertilizantes orgánicos",
+      "fuente": "research",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Huerto urbano Ecatepec",
+      "tipo": "Regional",
+      "notas": "Biofertilizantes orgánicos",
+      "fuente": "research",
+      "ciudad": "Ecatepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Huerto urbano Nezahualcóyotl",
+      "tipo": "Regional",
+      "notas": "Biofertilizantes orgánicos",
+      "fuente": "research",
+      "ciudad": "Nezahualcóyotl",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Huerto urbano Tlalnepantla",
+      "tipo": "Regional",
+      "notas": "Biofertilizantes orgánicos",
+      "fuente": "research",
+      "ciudad": "Tlalnepantla",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Huerto urbano Cuautitlán Izcalli",
+      "tipo": "Regional",
+      "notas": "Biofertilizantes orgánicos",
+      "fuente": "research",
+      "ciudad": "Cuautitlán Izcalli",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Huerto urbano Puerto Vallarta",
+      "tipo": "Regional",
+      "notas": "Biofertilizantes orgánicos",
+      "fuente": "research",
+      "ciudad": "Puerto Vallarta",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Huerto urbano Mazatlán",
+      "tipo": "Regional",
+      "notas": "Biofertilizantes orgánicos",
+      "fuente": "research",
+      "ciudad": "Mazatlán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Huerto urbano Los Cabos",
+      "tipo": "Regional",
+      "notas": "Biofertilizantes orgánicos",
+      "fuente": "research",
+      "ciudad": "Los Cabos",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Huerto urbano San Miguel de Allende",
+      "tipo": "Regional",
+      "notas": "Biofertilizantes orgánicos",
+      "fuente": "research",
+      "ciudad": "San Miguel de Allende",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Huerto urbano Chilpancingo",
+      "tipo": "Regional",
+      "notas": "Biofertilizantes orgánicos",
+      "fuente": "research",
+      "ciudad": "Chilpancingo",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Huerto urbano Minatitlán",
+      "tipo": "Regional",
+      "notas": "Biofertilizantes orgánicos",
+      "fuente": "research",
+      "ciudad": "Minatitlán",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Huerto urbano Ciudad Victoria",
+      "tipo": "Regional",
+      "notas": "Biofertilizantes orgánicos",
+      "fuente": "research",
+      "ciudad": "Ciudad Victoria",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Huerto urbano Piedras Negras",
+      "tipo": "Regional",
+      "notas": "Biofertilizantes orgánicos",
+      "fuente": "research",
+      "ciudad": "Piedras Negras",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Huerto urbano Monclova",
+      "tipo": "Regional",
+      "notas": "Biofertilizantes orgánicos",
+      "fuente": "research",
+      "ciudad": "Monclova",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Huerto urbano Ocotlán",
+      "tipo": "Regional",
+      "notas": "Biofertilizantes orgánicos",
+      "fuente": "research",
+      "ciudad": "Ocotlán",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Jardinería profesional Celaya",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Celaya",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Jardinería profesional Salamanca",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Salamanca",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Jardinería profesional San Juan del Río",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "San Juan del Río",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Jardinería profesional Cuautla",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Cuautla",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Jardinería profesional Jiutepec",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Jiutepec",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Jardinería profesional Córdoba",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Córdoba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Jardinería profesional Orizaba",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Orizaba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Jardinería profesional Poza Rica",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Poza Rica",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Jardinería profesional Coatzacoalcos",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Coatzacoalcos",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Jardinería profesional Tapachula",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Tapachula",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Jardinería profesional Comitán",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Comitán",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Jardinería profesional Los Mochis",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Los Mochis",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Jardinería profesional Ciudad Obregón",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Ciudad Obregón",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Jardinería profesional Nogales",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Nogales",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Jardinería profesional Ensenada",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Ensenada",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Jardinería profesional Playa del Carmen",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Playa del Carmen",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Jardinería profesional Chetumal",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Chetumal",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Jardinería profesional Reynosa",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Reynosa",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Jardinería profesional Matamoros",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Matamoros",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Jardinería profesional Nuevo Laredo",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Nuevo Laredo",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Jardinería profesional Gómez Palacio",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Gómez Palacio",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Jardinería profesional Fresnillo",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Fresnillo",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Jardinería profesional Uruapan",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Uruapan",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Jardinería profesional Zamora",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Zamora",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Jardinería profesional Morelia",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Jardinería profesional Tehuacán",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Jardinería profesional Apizaco",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Apizaco",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Jardinería profesional Tulancingo",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Tulancingo",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Jardinería profesional Ixtapa",
+      "tipo": "Regional",
+      "notas": "Abonos y mejoradores",
+      "fuente": "research",
+      "ciudad": "Ixtapa",
+      "estado": "Guerrero"
+    }
+  ]
+}

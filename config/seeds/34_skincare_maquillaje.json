@@ -1,0 +1,1684 @@
+{
+  "lote": "34",
+  "slug": "skincare_maquillaje",
+  "description": "Skincare y maquillaje MX",
+  "leads": [
+    {
+      "empresa": "Beauty Care Latam (ejemplo)",
+      "tipo": "Ejemplo original",
+      "notas": "Ejemplo del cliente — skincare y maquillaje; Reforma 1015 P.5 Santa Fe",
+      "fuente": "ejemplo_cliente",
+      "url": "https://beautycarelatam.com.mx/",
+      "telefono": "5591382000",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "MAKEUPMX Distribuidora",
+      "tipo": "Mayoreo",
+      "notas": "Campo Real 1402 local 4, El Refugio; K-beauty y cosmética",
+      "fuente": "research",
+      "url": "https://makeupmx.com/",
+      "email": "contacto@makeupmxdistribuidora.com",
+      "telefono": "4424673394",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "MAKEUPMX soporte",
+      "tipo": "Canal",
+      "notas": "Soporte / ATC",
+      "fuente": "research",
+      "url": "https://makeupmx.com/",
+      "email": "equipomakeupmx@gmail.com",
+      "telefono": "4424673394",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "ML Beauty Trend",
+      "tipo": "Mayoreo",
+      "notas": "Beauty Creations, Arantza, Pink Up, Moira +20 marcas; mín. $1,490",
+      "fuente": "research",
+      "url": "https://mlbeautytrend.mx/",
+      "email": "hola@mlbeautytrend.mx",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Bamboo Store Cosméticos",
+      "tipo": "Mayoreo",
+      "notas": "Calz. Tlalpan 1074 local C, Benito Juárez; originales y chinos",
+      "fuente": "research",
+      "url": "https://www.bamboocosmeticos.com/",
+      "email": "contacto@bamboocosmeticos.com",
+      "telefono": "5568303103",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Bamboo WA",
+      "tipo": "Canal",
+      "notas": "WhatsApp +52 55 1382 2468",
+      "fuente": "research",
+      "url": "https://www.bamboocosmeticos.com/",
+      "telefono": "5513822468",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Cosmétics mayoreo CDMX",
+      "tipo": "Mayoreo",
+      "notas": "Transvaal 531 int 1; sin mínimo, envíos República",
+      "fuente": "research",
+      "url": "https://www.facebook.com/cdmxcosmeticosmayoreo/",
+      "telefono": "5577619644",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "SANMAR Tienda de cosméticos",
+      "tipo": "Mayoreo",
+      "notas": "Cosméticos de mayoreo CDMX/Cancún",
+      "fuente": "research",
+      "telefono": "9984240133",
+      "ciudad": "Cancún",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Melón Bombón Shop",
+      "tipo": "Mayoreo",
+      "notas": "Distribuidor mayorista de cosméticos sin mínimo de compra",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Mega Bodega Soluna",
+      "tipo": "Mayoreo",
+      "notas": "Bodega de maquillaje y cosméticos CDMX",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "House of Beauty",
+      "tipo": "Mayoreo",
+      "notas": "Adara Paris, Beauty Creations, La Girl, La Colors, Pink Up, Rude…",
+      "fuente": "research",
+      "url": "https://www.housebeauty.mx/mayoreo/",
+      "telefono": "5575227542",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Zelar Shop Mayoreo",
+      "tipo": "Mayoreo",
+      "notas": "Oscar Wilde 5895A, Lomas Universidad; Beauty Creations",
+      "fuente": "research",
+      "url": "https://mayoreo.zelarshop.com/",
+      "email": "ventas@zelarshop.com",
+      "telefono": "3319462952",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Beauty Creations",
+      "tipo": "Marca",
+      "notas": "Maquillaje mayoreo, distribución MX",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Arantza Cosmetics",
+      "tipo": "Marca",
+      "notas": "Maquillaje mexicano",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Pink Up Cosmetics",
+      "tipo": "Marca",
+      "notas": "Maquillaje mayoreo MX",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Moira Beauty",
+      "tipo": "Marca",
+      "notas": "Maquillaje profesional",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Italia Deluxe",
+      "tipo": "Marca",
+      "notas": "Cosméticos",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Rude Cosmetics",
+      "tipo": "Marca",
+      "notas": "Maquillaje",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "La Girl / La Colors",
+      "tipo": "Marca",
+      "notas": "Maquillaje",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Prosa / Kevin & Coco",
+      "tipo": "Marca",
+      "notas": "Cosméticos mayoreo",
+      "fuente": "brand"
+    },
+    {
+      "empresa": "Sephora México",
+      "tipo": "Retail",
+      "notas": "Cadenas de belleza",
+      "fuente": "brand",
+      "url": "https://www.sephora.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Liverpool Belleza",
+      "tipo": "Retail",
+      "notas": "Cosmética y perfumería",
+      "fuente": "brand",
+      "url": "https://www.liverpool.com.mx/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "El Palacio de Hierro",
+      "tipo": "Retail",
+      "notas": "Belleza premium",
+      "fuente": "brand",
+      "url": "https://www.elpalaciodehierro.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Farmacias del Ahorro",
+      "tipo": "Retail",
+      "notas": "Dermocosmética en farmacias",
+      "fuente": "brand",
+      "url": "https://www.fahorro.com/",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Amazon MX cosméticos",
+      "tipo": "Marketplace",
+      "notas": "Sellers de maquillaje y skincare",
+      "fuente": "research",
+      "url": "https://www.amazon.com.mx/s?k=maquillaje+mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "ML cosméticos mayoreo",
+      "tipo": "Marketplace",
+      "notas": "Kits y lotes de maquillaje",
+      "fuente": "research",
+      "url": "https://listado.mercadolibre.com.mx/maquillaje-mayoreo",
+      "ciudad": "México",
+      "estado": "México"
+    },
+    {
+      "empresa": "Sérum vitamina C producto",
+      "tipo": "Producto",
+      "notas": "Skincare activos",
+      "fuente": "research",
+      "url": "https://makeupmx.com/",
+      "telefono": "4424673394",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Protector solar producto",
+      "tipo": "Producto",
+      "notas": "SPF en mayoreo",
+      "fuente": "research",
+      "url": "https://mlbeautytrend.mx/",
+      "email": "hola@mlbeautytrend.mx",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Paletas de sombras producto",
+      "tipo": "Producto",
+      "notas": "Paletas Beauty Creations / Moira",
+      "fuente": "research",
+      "url": "https://www.housebeauty.mx/mayoreo/",
+      "telefono": "5575227542",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Revendedoras / catálogo",
+      "tipo": "Canal B2B",
+      "notas": "Compran mayoreo sin mínimo",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Salones / spas",
+      "tipo": "Canal B2B",
+      "notas": "Compran skincare y maquillaje profesional",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Maquillistas profesionales",
+      "tipo": "Canal B2B",
+      "notas": "Pro kits y marcas",
+      "fuente": "research"
+    },
+    {
+      "empresa": "Cluster Centro CDMX cosmética",
+      "tipo": "Cluster",
+      "notas": "Mayoreo de belleza en el Centro",
+      "fuente": "research",
+      "ciudad": "CDMX",
+      "estado": "CDMX"
+    },
+    {
+      "empresa": "Skincare y maquillaje Aguascalientes",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Aguascalientes",
+      "estado": "Aguascalientes"
+    },
+    {
+      "empresa": "Skincare y maquillaje Tijuana",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Skincare y maquillaje Mexicali",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Mexicali",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Skincare y maquillaje La Paz",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "La Paz",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Skincare y maquillaje Campeche",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Campeche",
+      "estado": "Campeche"
+    },
+    {
+      "empresa": "Skincare y maquillaje Tuxtla Gutiérrez",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Tuxtla Gutiérrez",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Skincare y maquillaje Chihuahua",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Skincare y maquillaje Cd. Juárez",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Cd. Juárez",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Skincare y maquillaje Saltillo",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Saltillo",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Skincare y maquillaje Torreón",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Torreón",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Skincare y maquillaje Colima",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Colima",
+      "estado": "Colima"
+    },
+    {
+      "empresa": "Skincare y maquillaje Durango",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Durango",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Skincare y maquillaje León",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Skincare y maquillaje Irapuato",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Irapuato",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Skincare y maquillaje Acapulco",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Acapulco",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Skincare y maquillaje Pachuca",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Pachuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Skincare y maquillaje Toluca",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Toluca",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Skincare y maquillaje Cuernavaca",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Cuernavaca",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Skincare y maquillaje Tepic",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Tepic",
+      "estado": "Nayarit"
+    },
+    {
+      "empresa": "Skincare y maquillaje Monterrey",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Skincare y maquillaje Oaxaca",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Oaxaca",
+      "estado": "Oaxaca"
+    },
+    {
+      "empresa": "Skincare y maquillaje Puebla",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Skincare y maquillaje Querétaro",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Skincare y maquillaje Cancún",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Cancún",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Skincare y maquillaje San Luis Potosí",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Skincare y maquillaje Culiacán",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Culiacán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Skincare y maquillaje Hermosillo",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Hermosillo",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Skincare y maquillaje Villahermosa",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Villahermosa",
+      "estado": "Tabasco"
+    },
+    {
+      "empresa": "Skincare y maquillaje Tampico",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Tampico",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Skincare y maquillaje Tlaxcala",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Tlaxcala",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Skincare y maquillaje Xalapa",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Xalapa",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Skincare y maquillaje Veracruz",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Veracruz",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Skincare y maquillaje Zacatecas",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Zacatecas",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Skincare y maquillaje Mérida",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Mérida",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "Skincare y maquillaje Guadalajara",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Skincare y maquillaje Zapopan",
+      "tipo": "Regional",
+      "notas": "Cosméticos por mayoreo",
+      "fuente": "research",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Mayoreo belleza Celaya",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Celaya",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Mayoreo belleza Salamanca",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Salamanca",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Mayoreo belleza San Juan del Río",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "San Juan del Río",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Mayoreo belleza Cuautla",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Cuautla",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Mayoreo belleza Jiutepec",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Jiutepec",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Mayoreo belleza Córdoba",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Córdoba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Mayoreo belleza Orizaba",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Orizaba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Mayoreo belleza Poza Rica",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Poza Rica",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Mayoreo belleza Coatzacoalcos",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Coatzacoalcos",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Mayoreo belleza Tapachula",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Tapachula",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Mayoreo belleza Comitán",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Comitán",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Mayoreo belleza Los Mochis",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Los Mochis",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Mayoreo belleza Ciudad Obregón",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Ciudad Obregón",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Mayoreo belleza Nogales",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Nogales",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Mayoreo belleza Ensenada",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Ensenada",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Mayoreo belleza Playa del Carmen",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Playa del Carmen",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Mayoreo belleza Chetumal",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Chetumal",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Mayoreo belleza Reynosa",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Reynosa",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Mayoreo belleza Matamoros",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Matamoros",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Mayoreo belleza Nuevo Laredo",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Nuevo Laredo",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Mayoreo belleza Gómez Palacio",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Gómez Palacio",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Mayoreo belleza Fresnillo",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Fresnillo",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Mayoreo belleza Uruapan",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Uruapan",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Mayoreo belleza Zamora",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Zamora",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Mayoreo belleza Morelia",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Mayoreo belleza Tehuacán",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Mayoreo belleza Apizaco",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Apizaco",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Mayoreo belleza Tulancingo",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Tulancingo",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Mayoreo belleza Ixtapa",
+      "tipo": "Regional",
+      "notas": "Maquillaje y skincare",
+      "fuente": "research",
+      "ciudad": "Ixtapa",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Estética / spa Naucalpan",
+      "tipo": "Regional",
+      "notas": "Compran cosmética profesional",
+      "fuente": "research",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Estética / spa Ecatepec",
+      "tipo": "Regional",
+      "notas": "Compran cosmética profesional",
+      "fuente": "research",
+      "ciudad": "Ecatepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Estética / spa Nezahualcóyotl",
+      "tipo": "Regional",
+      "notas": "Compran cosmética profesional",
+      "fuente": "research",
+      "ciudad": "Nezahualcóyotl",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Estética / spa Tlalnepantla",
+      "tipo": "Regional",
+      "notas": "Compran cosmética profesional",
+      "fuente": "research",
+      "ciudad": "Tlalnepantla",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Estética / spa Cuautitlán Izcalli",
+      "tipo": "Regional",
+      "notas": "Compran cosmética profesional",
+      "fuente": "research",
+      "ciudad": "Cuautitlán Izcalli",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Estética / spa Puerto Vallarta",
+      "tipo": "Regional",
+      "notas": "Compran cosmética profesional",
+      "fuente": "research",
+      "ciudad": "Puerto Vallarta",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Estética / spa Mazatlán",
+      "tipo": "Regional",
+      "notas": "Compran cosmética profesional",
+      "fuente": "research",
+      "ciudad": "Mazatlán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Estética / spa Los Cabos",
+      "tipo": "Regional",
+      "notas": "Compran cosmética profesional",
+      "fuente": "research",
+      "ciudad": "Los Cabos",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Estética / spa San Miguel de Allende",
+      "tipo": "Regional",
+      "notas": "Compran cosmética profesional",
+      "fuente": "research",
+      "ciudad": "San Miguel de Allende",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Estética / spa Chilpancingo",
+      "tipo": "Regional",
+      "notas": "Compran cosmética profesional",
+      "fuente": "research",
+      "ciudad": "Chilpancingo",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Estética / spa Minatitlán",
+      "tipo": "Regional",
+      "notas": "Compran cosmética profesional",
+      "fuente": "research",
+      "ciudad": "Minatitlán",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Estética / spa Ciudad Victoria",
+      "tipo": "Regional",
+      "notas": "Compran cosmética profesional",
+      "fuente": "research",
+      "ciudad": "Ciudad Victoria",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Estética / spa Piedras Negras",
+      "tipo": "Regional",
+      "notas": "Compran cosmética profesional",
+      "fuente": "research",
+      "ciudad": "Piedras Negras",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Estética / spa Monclova",
+      "tipo": "Regional",
+      "notas": "Compran cosmética profesional",
+      "fuente": "research",
+      "ciudad": "Monclova",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Estética / spa Ocotlán",
+      "tipo": "Regional",
+      "notas": "Compran cosmética profesional",
+      "fuente": "research",
+      "ciudad": "Ocotlán",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Revendedora beauty Celaya",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Celaya",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Revendedora beauty Salamanca",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Salamanca",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Revendedora beauty San Juan del Río",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "San Juan del Río",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Revendedora beauty Cuautla",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Cuautla",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Revendedora beauty Jiutepec",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Jiutepec",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Revendedora beauty Córdoba",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Córdoba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Revendedora beauty Orizaba",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Orizaba",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Revendedora beauty Poza Rica",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Poza Rica",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Revendedora beauty Coatzacoalcos",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Coatzacoalcos",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Revendedora beauty Tapachula",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Tapachula",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Revendedora beauty Comitán",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Comitán",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Revendedora beauty Los Mochis",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Los Mochis",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Revendedora beauty Ciudad Obregón",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Ciudad Obregón",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Revendedora beauty Nogales",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Nogales",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Revendedora beauty Ensenada",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Ensenada",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Revendedora beauty Playa del Carmen",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Playa del Carmen",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Revendedora beauty Chetumal",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Chetumal",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Revendedora beauty Reynosa",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Reynosa",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Revendedora beauty Matamoros",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Matamoros",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Revendedora beauty Nuevo Laredo",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Nuevo Laredo",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Revendedora beauty Gómez Palacio",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Gómez Palacio",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Revendedora beauty Fresnillo",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Fresnillo",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Revendedora beauty Uruapan",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Uruapan",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Revendedora beauty Zamora",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Zamora",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Revendedora beauty Morelia",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Morelia",
+      "estado": "Michoacán"
+    },
+    {
+      "empresa": "Revendedora beauty Tehuacán",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Tehuacán",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Revendedora beauty Apizaco",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Apizaco",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Revendedora beauty Tulancingo",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Tulancingo",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Revendedora beauty Ixtapa",
+      "tipo": "Regional",
+      "notas": "Catálogo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Ixtapa",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Dermocosmética Naucalpan",
+      "tipo": "Regional",
+      "notas": "Skincare y protectores",
+      "fuente": "research",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Dermocosmética Ecatepec",
+      "tipo": "Regional",
+      "notas": "Skincare y protectores",
+      "fuente": "research",
+      "ciudad": "Ecatepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Dermocosmética Nezahualcóyotl",
+      "tipo": "Regional",
+      "notas": "Skincare y protectores",
+      "fuente": "research",
+      "ciudad": "Nezahualcóyotl",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Dermocosmética Tlalnepantla",
+      "tipo": "Regional",
+      "notas": "Skincare y protectores",
+      "fuente": "research",
+      "ciudad": "Tlalnepantla",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Dermocosmética Cuautitlán Izcalli",
+      "tipo": "Regional",
+      "notas": "Skincare y protectores",
+      "fuente": "research",
+      "ciudad": "Cuautitlán Izcalli",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Dermocosmética Puerto Vallarta",
+      "tipo": "Regional",
+      "notas": "Skincare y protectores",
+      "fuente": "research",
+      "ciudad": "Puerto Vallarta",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Dermocosmética Mazatlán",
+      "tipo": "Regional",
+      "notas": "Skincare y protectores",
+      "fuente": "research",
+      "ciudad": "Mazatlán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Dermocosmética Los Cabos",
+      "tipo": "Regional",
+      "notas": "Skincare y protectores",
+      "fuente": "research",
+      "ciudad": "Los Cabos",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Dermocosmética San Miguel de Allende",
+      "tipo": "Regional",
+      "notas": "Skincare y protectores",
+      "fuente": "research",
+      "ciudad": "San Miguel de Allende",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Dermocosmética Chilpancingo",
+      "tipo": "Regional",
+      "notas": "Skincare y protectores",
+      "fuente": "research",
+      "ciudad": "Chilpancingo",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Dermocosmética Minatitlán",
+      "tipo": "Regional",
+      "notas": "Skincare y protectores",
+      "fuente": "research",
+      "ciudad": "Minatitlán",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Dermocosmética Ciudad Victoria",
+      "tipo": "Regional",
+      "notas": "Skincare y protectores",
+      "fuente": "research",
+      "ciudad": "Ciudad Victoria",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Dermocosmética Piedras Negras",
+      "tipo": "Regional",
+      "notas": "Skincare y protectores",
+      "fuente": "research",
+      "ciudad": "Piedras Negras",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Dermocosmética Monclova",
+      "tipo": "Regional",
+      "notas": "Skincare y protectores",
+      "fuente": "research",
+      "ciudad": "Monclova",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Dermocosmética Ocotlán",
+      "tipo": "Regional",
+      "notas": "Skincare y protectores",
+      "fuente": "research",
+      "ciudad": "Ocotlán",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Salón de belleza Aguascalientes",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Aguascalientes",
+      "estado": "Aguascalientes"
+    },
+    {
+      "empresa": "Salón de belleza Tijuana",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Tijuana",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Salón de belleza Mexicali",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Mexicali",
+      "estado": "BC"
+    },
+    {
+      "empresa": "Salón de belleza La Paz",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "La Paz",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Salón de belleza Campeche",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Campeche",
+      "estado": "Campeche"
+    },
+    {
+      "empresa": "Salón de belleza Tuxtla Gutiérrez",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Tuxtla Gutiérrez",
+      "estado": "Chiapas"
+    },
+    {
+      "empresa": "Salón de belleza Chihuahua",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Chihuahua",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Salón de belleza Cd. Juárez",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Cd. Juárez",
+      "estado": "Chihuahua"
+    },
+    {
+      "empresa": "Salón de belleza Saltillo",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Saltillo",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Salón de belleza Torreón",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Torreón",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Salón de belleza Colima",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Colima",
+      "estado": "Colima"
+    },
+    {
+      "empresa": "Salón de belleza Durango",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Durango",
+      "estado": "Durango"
+    },
+    {
+      "empresa": "Salón de belleza León",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "León",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Salón de belleza Irapuato",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Irapuato",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Salón de belleza Acapulco",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Acapulco",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Salón de belleza Pachuca",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Pachuca",
+      "estado": "Hidalgo"
+    },
+    {
+      "empresa": "Salón de belleza Toluca",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Toluca",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Salón de belleza Cuernavaca",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Cuernavaca",
+      "estado": "Morelos"
+    },
+    {
+      "empresa": "Salón de belleza Tepic",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Tepic",
+      "estado": "Nayarit"
+    },
+    {
+      "empresa": "Salón de belleza Monterrey",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Monterrey",
+      "estado": "NL"
+    },
+    {
+      "empresa": "Salón de belleza Oaxaca",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Oaxaca",
+      "estado": "Oaxaca"
+    },
+    {
+      "empresa": "Salón de belleza Puebla",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Puebla",
+      "estado": "Puebla"
+    },
+    {
+      "empresa": "Salón de belleza Querétaro",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Querétaro",
+      "estado": "Querétaro"
+    },
+    {
+      "empresa": "Salón de belleza Cancún",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Cancún",
+      "estado": "Q. Roo"
+    },
+    {
+      "empresa": "Salón de belleza San Luis Potosí",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "San Luis Potosí",
+      "estado": "SLP"
+    },
+    {
+      "empresa": "Salón de belleza Culiacán",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Culiacán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Salón de belleza Hermosillo",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Hermosillo",
+      "estado": "Sonora"
+    },
+    {
+      "empresa": "Salón de belleza Villahermosa",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Villahermosa",
+      "estado": "Tabasco"
+    },
+    {
+      "empresa": "Salón de belleza Tampico",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Tampico",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Salón de belleza Tlaxcala",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Tlaxcala",
+      "estado": "Tlaxcala"
+    },
+    {
+      "empresa": "Salón de belleza Xalapa",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Xalapa",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Salón de belleza Veracruz",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Veracruz",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Salón de belleza Zacatecas",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Zacatecas",
+      "estado": "Zacatecas"
+    },
+    {
+      "empresa": "Salón de belleza Mérida",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Mérida",
+      "estado": "Yucatán"
+    },
+    {
+      "empresa": "Salón de belleza Guadalajara",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Guadalajara",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Salón de belleza Zapopan",
+      "tipo": "Regional",
+      "notas": "Consumo de maquillaje",
+      "fuente": "research",
+      "ciudad": "Zapopan",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Perfumería / regalos Naucalpan",
+      "tipo": "Regional",
+      "notas": "Cosmética de regalo",
+      "fuente": "research",
+      "ciudad": "Naucalpan",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Perfumería / regalos Ecatepec",
+      "tipo": "Regional",
+      "notas": "Cosmética de regalo",
+      "fuente": "research",
+      "ciudad": "Ecatepec",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Perfumería / regalos Nezahualcóyotl",
+      "tipo": "Regional",
+      "notas": "Cosmética de regalo",
+      "fuente": "research",
+      "ciudad": "Nezahualcóyotl",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Perfumería / regalos Tlalnepantla",
+      "tipo": "Regional",
+      "notas": "Cosmética de regalo",
+      "fuente": "research",
+      "ciudad": "Tlalnepantla",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Perfumería / regalos Cuautitlán Izcalli",
+      "tipo": "Regional",
+      "notas": "Cosmética de regalo",
+      "fuente": "research",
+      "ciudad": "Cuautitlán Izcalli",
+      "estado": "EdoMex"
+    },
+    {
+      "empresa": "Perfumería / regalos Puerto Vallarta",
+      "tipo": "Regional",
+      "notas": "Cosmética de regalo",
+      "fuente": "research",
+      "ciudad": "Puerto Vallarta",
+      "estado": "Jalisco"
+    },
+    {
+      "empresa": "Perfumería / regalos Mazatlán",
+      "tipo": "Regional",
+      "notas": "Cosmética de regalo",
+      "fuente": "research",
+      "ciudad": "Mazatlán",
+      "estado": "Sinaloa"
+    },
+    {
+      "empresa": "Perfumería / regalos Los Cabos",
+      "tipo": "Regional",
+      "notas": "Cosmética de regalo",
+      "fuente": "research",
+      "ciudad": "Los Cabos",
+      "estado": "BCS"
+    },
+    {
+      "empresa": "Perfumería / regalos San Miguel de Allende",
+      "tipo": "Regional",
+      "notas": "Cosmética de regalo",
+      "fuente": "research",
+      "ciudad": "San Miguel de Allende",
+      "estado": "Guanajuato"
+    },
+    {
+      "empresa": "Perfumería / regalos Chilpancingo",
+      "tipo": "Regional",
+      "notas": "Cosmética de regalo",
+      "fuente": "research",
+      "ciudad": "Chilpancingo",
+      "estado": "Guerrero"
+    },
+    {
+      "empresa": "Perfumería / regalos Minatitlán",
+      "tipo": "Regional",
+      "notas": "Cosmética de regalo",
+      "fuente": "research",
+      "ciudad": "Minatitlán",
+      "estado": "Veracruz"
+    },
+    {
+      "empresa": "Perfumería / regalos Ciudad Victoria",
+      "tipo": "Regional",
+      "notas": "Cosmética de regalo",
+      "fuente": "research",
+      "ciudad": "Ciudad Victoria",
+      "estado": "Tamaulipas"
+    },
+    {
+      "empresa": "Perfumería / regalos Piedras Negras",
+      "tipo": "Regional",
+      "notas": "Cosmética de regalo",
+      "fuente": "research",
+      "ciudad": "Piedras Negras",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Perfumería / regalos Monclova",
+      "tipo": "Regional",
+      "notas": "Cosmética de regalo",
+      "fuente": "research",
+      "ciudad": "Monclova",
+      "estado": "Coahuila"
+    },
+    {
+      "empresa": "Perfumería / regalos Ocotlán",
+      "tipo": "Regional",
+      "notas": "Cosmética de regalo",
+      "fuente": "research",
+      "ciudad": "Ocotlán",
+      "estado": "Jalisco"
+    }
+  ]
+}

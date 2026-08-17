@@ -539,7 +539,63 @@ lotes:
       - ambientadores automotriz fabricante México
       - aromatizante colgante gel auto mayoreo CDMX
 
-# Plantilla para lotes futuros (33+)
+  "33":
+    slug: mochilas_utiles_escolares
+    giro: Papeleria
+    nicho: Mochilas y utiles escolares
+    ejemplo: https://samsonite.com.mx/collections/mochilas-escolares
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/33_mochilas_utiles_escolares.json
+    search_queries:
+      - mochilas escolares mayoreo México fábrica .mx
+      - mochilas y útiles escolares por mayoreo CDMX Monterrey Guadalajara
+      - loncheras mochilas marca mexicana Ducas Carsa
+
+  "34":
+    slug: skincare_maquillaje
+    giro: Belleza
+    nicho: Skincare y maquillaje
+    ejemplo: https://beautycarelatam.com.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/34_skincare_maquillaje.json
+    search_queries:
+      - maquillaje skincare mayoreo México distribuidor .mx
+      - cosméticos mayoreo CDMX sin mínimo
+      - Beauty Creations Arantza Pink Up mayoreo México
+
+  "35":
+    slug: refacciones_automotrices
+    giro: Refaccionaria
+    nicho: Refacciones automotrices
+    ejemplo: https://motorstore.mx/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/35_refacciones_automotrices.json
+    search_queries:
+      - refacciones automotrices mayoreo México distribuidor .mx
+      - autopartes mayoreo Monterrey Guadalajara CDMX
+      - refaccionarias proveedor mayorista México
+
+  "36":
+    slug: vitaminas_plantas_abono
+    giro: Jardin
+    nicho: Vitaminas para plantas y abono
+    ejemplo: https://mexico.nucle.ag/
+    sources:
+      - id: seed_manual
+        kind: seeds
+        file: config/seeds/36_vitaminas_plantas_abono.json
+    search_queries:
+      - vitaminas para plantas fertilizante México tienda .mx
+      - abonos biofertilizantes mayoreo México
+      - nutrición vegetal viveros jardinería México
+
+# Plantilla para lotes futuros (37+)
 # Copiar bloque y llenar sources + seeds
 template_lote:
   slug: ""
