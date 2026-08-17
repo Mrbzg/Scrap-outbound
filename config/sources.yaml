@@ -138,6 +138,16 @@ lotes:
         kind: dirind
         urls:
           - https://www.dirind.com/dag/botanas1.html
+          - https://www.dirind.com/dag/tortillas-tostadas1.html
+      - id: quiminet_frituras
+        kind: quiminet
+        urls:
+          - https://www.quiminet.com/proveedores/frituras-2615278348.htm
+          - https://www.quiminet.com/productos/frituras-2615278348/proveedores.htm
+      - id: cosmos_frituras
+        kind: generic_list
+        urls:
+          - https://www.cosmos.com.mx/producto/frituras-4cqw/
       - id: seed_manual
         kind: seeds
         file: config/seeds/05_botanas_snacks.json

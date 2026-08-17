@@ -74,7 +74,7 @@ leads/por_nicho/{ID}_{slug}.csv|.json|.md
 | 02 | Colágeno hidrolizado | `02_colageno_hidrolizado.*` |
 | 03 | Frutos secos | `03_frutos_secos.*` |
 | 04 | Cartas coleccionables / TCG | `04_cartas_coleccionables.*` |
-| 05 | Botanas y snacks (scaffold) | `05_botanas_snacks.*` |
+| 05 | Botanas y snacks mexicanos | `05_botanas_snacks.*` |
 
 Catálogo: `leads/nichos.json` (58 nichos).
 

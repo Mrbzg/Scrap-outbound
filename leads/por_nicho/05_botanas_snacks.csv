@@ -1,7 +1,112 @@
 giro,nicho,empresa,url,email,telefono,ciudad,estado,pais,tipo,prioridad,score_contacto,notas,fuente
-Alimentos,Botanas y snacks mexicanos,Botanas Los Compadres,https://botanasloscompadres.com/,,9991779873,Kanasín,Yucatán,México,Fabricante/distribuidor,Alta,6,,seeds:seed_manual
-Alimentos,Botanas y snacks mexicanos,Botanas Lily,https://www.botanaslily.com.mx,,,Guadalajara,Jalisco,México,Fabricante,Media,4,,seeds:seed_manual
-Alimentos,Botanas y snacks mexicanos,Botanas Torritos,https://botanastorritos.com/,,,Yucatán,Yucatán,México,Fabricante D2C,Media,4,Botanas yucatecas desde 1953,seeds:seed_manual
+Alimentos,Botanas y snacks mexicanos,Afrima / Tostadas Luz Ma,https://www.tostadasluzma.com.mx,alimentos_fritos@yahoo.com.mx,(443) 313-7098,Morelia,Michoacán,México,Fabricante,Alta,9,Tostadas tradicional/botanera/horneada y churros de maíz,dirind
+Alimentos,Botanas y snacks mexicanos,Alimentos Extruidos / Gustinos,https://www.gustinos.com,ventas@gustinos.com,(33) 3686-1771,Tlajomulco,Jalisco,México,Fabricante insumos,Alta,9,"Pellets para snacks de trigo, papa y maíz",dirind
+Alimentos,Botanas y snacks mexicanos,Alimentos Finos del Norte,,jgarza@hotmail.com,(844) 432-0602,Saltillo,Coahuila,México,Fabricante insumos,Alta,7,Pellet de cuero de cerdo para chicharrón,dirind
+Alimentos,Botanas y snacks mexicanos,Alimentos Procesados de Zamora / Aproza,https://www.aprozaoficial.com,aproza2@prodigy.net.mx,(351) 517-0212,Zamora,Michoacán,México,Fabricante,Alta,9,"Cereales y botanas extruidas, palomitas, Troncheese",dirind
+Alimentos,Botanas y snacks mexicanos,Alimentos Susalia,https://www.susalia.com,info@susalia.com,(55) 8788-1860,CDMX,CDMX,México,Marca tostadas,Alta,9,"Tortillas, totopos y tostadas de nopal",dirind
+Alimentos,Botanas y snacks mexicanos,Alimentos Típicos Mexicanos GAVI,,administracion@gavi.com.mx,(55) 5360-0980,Naucalpan,EdoMex,México,Fabricante,Alta,7,"Tostadas, totopos, tortillas de harina",dirind
+Alimentos,Botanas y snacks mexicanos,Alimentos y Botanas Herrera,https://www.botanasherrera.com,ventas@botanasherrera.com,(999) 946-1491,Mérida,Yucatán,México,Fabricante,Alta,9,"Charritos, papas, churritos, cacahuate, chicharrón, totopos, platanitos",dirind
+Alimentos,Botanas y snacks mexicanos,Beto Botanas,https://betobotanas.com.mx/,ventas@betobotanas.com.mx,5553052136,Cd. López Mateos,EdoMex,México,Fabricante/distribuidor,Alta,9,"Churritos, chicharrones, chetos, palomitas, papas, mayoreo",research
+Alimentos,Botanas y snacks mexicanos,Bokados / Nacional de Alimentos y Helados,https://www.bokados.com,info@bokados.com,800-800-3442,Santa Catarina,NL,México,Marca nacional,Alta,9,"Botanas BOKA-2, Arca Continental, Monterrey",dirind
+Alimentos,Botanas y snacks mexicanos,Botanamex,https://botanamex.com.mx/,ventas@botanamex.com.mx,5575854444,Chalco,EdoMex,México,Fabricante,Alta,9,"Zona industrial Chalco, elaboración de botanas",research
+Alimentos,Botanas y snacks mexicanos,Botanas Bibisnacks,http://botanasbibisnacks.com/,botanasbibi@gmail.com,5562841244,Iztapalapa,CDMX,México,Fabricante mayoreo,Alta,9,"Papas, chicharrones, churritos nopal/amaranto, palomitas — Santa Isabel Industrial",research
+Alimentos,Botanas y snacks mexicanos,Botanas Crounsh / Tostadas Chihuahua,https://www.botanascrounsh.com,tostadas_chihuahua@hotmail.com,(614) 435-4092,Chihuahua,Chihuahua,México,Fabricante tostadas,Alta,9,Tostadas y botanas regionales,dirind
+Alimentos,Botanas y snacks mexicanos,Botanas Esnafer,https://www.botanasesnafer.com.mx,contacto@botanasesnafer.com.mx,(595) 951-1061,Texcoco,EdoMex,México,Fabricante,Alta,9,"Cacahuates, haba, garbanzo, girasol y calabaza — cobertura nacional",dirind
+Alimentos,Botanas y snacks mexicanos,Botanas Julimoy,https://www.julimoy.com.mx,escalera.m@julimoy.com.mx,(55) 5694-4437,Iztapalapa,CDMX,México,Fabricante,Alta,9,"Papas, palomitas, aros, donitas, churritos, cacahuates",dirind
+Alimentos,Botanas y snacks mexicanos,Botanas Kande / Tronquitos,https://www.fritostronquitos.com.mx,botanaskande@prodigy.net.mx,(81) 8354-5871,Monterrey,NL,México,Fabricante,Alta,9,"TRONQUITOS, CRUCITAS, TOSKYS — harina maíz/trigo/papa",dirind
+Alimentos,Botanas y snacks mexicanos,Botanas Los Compadres,https://botanasloscompadres.com/,,9991779873,Kanasín,Yucatán,México,Fabricante/distribuidor,Alta,6,"Proveedor tiendas y supermercados, mayoreo por kilo",research
+Alimentos,Botanas y snacks mexicanos,Botanas Mima,,tostadasmima@gmail.com,(81) 8336-1600,Santa Catarina,NL,México,Fabricante regional,Alta,7,Tostadas — Col. La Fama,dirind
+Alimentos,Botanas y snacks mexicanos,Botanas Mina,https://www.facebook.com/Botanasminaoficial,josueweromina@gmail.com,9988424833,Cancún,Quintana Roo,México,Fabricante regional,Alta,9,"Plátanos fritos, papas, palomitas, chicharrón de trigo/maíz",dirind
+Alimentos,Botanas y snacks mexicanos,Botanas Provi / Productos VYL,https://botanasprovi.com.mx/,bety@botanasprovi.com.mx,(444) 833-6922,San Luis Potosí,SLP,México,Fabricante,Alta,9,"Papas, cacahuates, haba, churritos, chicharrón 100% naturales",dirind
+Alimentos,Botanas y snacks mexicanos,Botanas Ramos,,botanasramos@gmail.com,4777704596,León,Guanajuato,México,Fabricante regional,Alta,7,Botanas de harina para freír y cuero para chicharrón,research
+Alimentos,Botanas y snacks mexicanos,Botanas RIC,https://botanasric.com/,ric@botanasric.com,(487) 872-0408,Rioverde,SLP,México,Fabricante,Alta,9,"Papas, churritos, chicharrón, totopos, habas, cacahuates",dirind
+Alimentos,Botanas y snacks mexicanos,Botanas San José,https://botanassanjose.com/,ventas@prosanjo.com.mx,5545289162,CDMX,CDMX,México,Fabricante,Alta,9,"Cueritos, chetos, frituras, palomitas, papas — Iztapalapa",research
+Alimentos,Botanas y snacks mexicanos,Botanas Torritos,https://botanastorritos.com/,gerenciadeventas@botanastorritos.com,9992541252,Mérida,Yucatán,México,Fabricante D2C,Alta,9,"Botanas yucatecas desde 1953, charritos tostadas churritos",research
+Alimentos,Botanas y snacks mexicanos,Botanas WIPO,https://www.botanaswipo.com,ventas@botanaswipo.com,(33) 3684-7678,Zapopan,Jalisco,México,Fabricante,Alta,9,"Frituras de harina de trigo, papa integral y maíz",dirind
+Alimentos,Botanas y snacks mexicanos,Botanas y Derivados / BYDSA,https://www.bydsa.com,jbueno@bydsa.com,(81) 8360-9086,Guadalupe,NL,México,Fabricante,Alta,9,"Botanas, frituras, papas, chicharrones",dirind
+Alimentos,Botanas y snacks mexicanos,Cacahuates del Rey / Pikatones,https://www.facebook.com/pikatones,cacahuatesdelrey@hotmail.com,(449) 996-2626,Aguascalientes,Aguascalientes,México,Fabricante,Alta,9,"Cacahuates habanero, nacho, jalapeño, pika nuts, japonés",dirind
+Alimentos,Botanas y snacks mexicanos,CGM / Botanas Matracas,https://www.empresascgm.com.mx,cogumo@prodigy.net.mx,(591) 917-1349,Zumpango,EdoMex,México,Fabricante,Alta,9,Frituras y botanas MATRACAS,dirind
+Alimentos,Botanas y snacks mexicanos,Chilifrut,,miguelangel.ventaschilifrut@gmail.com,(55) 7160-6467,Naucalpan,EdoMex,México,Fabricante granel,Alta,7,"Desde 1983, cacahuates y frituras a granel",dirind
+Alimentos,Botanas y snacks mexicanos,Comercializadora Galfra / Rancho Sano,https://www.galfra.com,ventas@galfra.com,(378) 103-2851,Tepatitlán,Jalisco,México,Fabricante,Alta,9,"Cacahuates Rancho Sano, Charro Pancho, mazapán",dirind
+Alimentos,Botanas y snacks mexicanos,Empacadora Kipi,https://www.kipi.com.mx,kipipms@prodigy.net.mx,(55) 5759-2021,GAM,CDMX,México,Empacadora,Alta,8,"Churritos, confitados, bofitos",dirind
+Alimentos,Botanas y snacks mexicanos,Friconsel / El Charrito,https://www.friconsel.com,info@friconsel.com,(81) 8327-1918,Guadalupe,NL,México,Fabricante,Alta,9,"Botanas EL CHARRITO — papas, chicharrón, cacahuates",dirind
+Alimentos,Botanas y snacks mexicanos,Frituras Rincón Tarasco,,comprasrincontarasco@gmail.com,(961) 615-4502,Tuxtla Gutiérrez,Chiapas,México,Fabricante,Alta,7,"Churritos, nachos, papas, plátanos, tostadas, totopitos",dirind
+Alimentos,Botanas y snacks mexicanos,Fun Fruit botanas,https://funfruit.com.mx/,shop@funfruit.com.mx,,Tlalnepantla,EdoMex,México,Mayoreo B2B,Alta,7,"Semillas y botanas de frutos secos, envíos nacionales",research
+Alimentos,Botanas y snacks mexicanos,Galdisa / Golden Nuts,https://www.galdisa.com,info@galdisa.com.mx,(55) 5630-4616,CDMX,CDMX,México,Fabricante/mayoreo,Alta,9,"GOLDEN y GOLD FRITZ, maquila de marca propia",dirind
+Alimentos,Botanas y snacks mexicanos,GIMX / Indugrumex,https://www.indugrumex.com,ventas@indugrumex.com,(55) 2483-7013,Atizapán,EdoMex,México,Fabricante,Alta,9,"Churros de amaranto, palanquetas, granolas, semillas",dirind
+Alimentos,Botanas y snacks mexicanos,Grupo Bimbo / Dirección Corporativa Impulsora,https://www.grupobimbo.com,direcciondecompras.gestion@grupobimbo.com,(55) 5268-6600,CDMX,CDMX,México,Corporativo,Alta,8,"Barcel, Takis, Ricolino — enterprise",dirind
+Alimentos,Botanas y snacks mexicanos,Grupo El Norteño / Del Norte Foods,https://www.delnortefoods.com,gleal@delnortefoods.com,(844) 415-1438,Saltillo,Coahuila,México,Fabricante,Alta,9,Productos de maíz,dirind
+Alimentos,Botanas y snacks mexicanos,Grupo Martin Cubero,https://www.cacahuatesdemorelos.com.mx,martindd@mail.internet.com.mx,(55) 5626-7516,Tlalpan,CDMX,México,Fabricante,Alta,9,Cacahuates y botanas MARTIN,dirind
+Alimentos,Botanas y snacks mexicanos,Grupo Medesa / Meber,https://www.grupomedesa.com,contacto@grupomedesa.com,(722) 237-4573,San Mateo Atenco,EdoMex,México,Fabricante,Alta,9,"Botanas MEBER, cacahuate japonés, dulces",dirind
+Alimentos,Botanas y snacks mexicanos,Grupo Ta-Itto,https://www.grupotaitto.com,,(55) 7248-8082,Texcoco,EdoMex,México,Fabricante,Alta,6,"Cacahuate japonés, dulces y botanas",dirind
+Alimentos,Botanas y snacks mexicanos,Hergran,https://www.hergran.com,informacion@hergran.com,(81) 8104-1891,Monterrey,NL,México,Marca granola/snacks,Alta,9,Granola y snacks con frutos secos,research
+Alimentos,Botanas y snacks mexicanos,Ideas en Alimentos / Tipikas,https://ideasenalimentos.com.mx,contacto@ideasenalimentos.com.mx,(999) 985-0291,Mérida,Yucatán,México,Fabricante,Alta,9,Tortillas de harina TIPIKAS,dirind
+Alimentos,Botanas y snacks mexicanos,Industrial Las Norteñas,,servicioalcliente@nortenas.com.mx,800-134-5001,Tepic,Nayarit,México,Fabricante,Alta,7,"Tortillas de harina, tostadas y galletas de cacahuate",dirind
+Alimentos,Botanas y snacks mexicanos,iNuts,https://www.inuts.com.mx,clientes@inuts.com.mx,(55) 1850-5463,CDMX,CDMX,México,Marca gourmet D2C,Alta,9,"Cacahuates japoneses, almendras, tablas de botana",research
+Alimentos,Botanas y snacks mexicanos,K-Botanas,https://www.k-botanas.com/,,5656566389,Pachuca,Hidalgo,México,Fabricante D2C,Alta,6,"Fábrica desde 1998, tamarindo enchilado, cacahuates, mayoreo y tienda online",research
+Alimentos,Botanas y snacks mexicanos,La Trigueña,https://www.latriguena.com.mx,atencionaclientes@latriguena.com.mx,(961) 615-3684,Tuxtla Gutiérrez,Chiapas,México,Fabricante,Alta,9,"Tostadas botaneras, horneadas y chicharrón",dirind
+Alimentos,Botanas y snacks mexicanos,McCain México,https://www.mccain.com.mx,francisco.lopez@mccain.com,800-0622-246,CDMX,CDMX,México,Corporativo,Alta,8,Papas a la francesa y botanas congeladas — enterprise,dirind
+Alimentos,Botanas y snacks mexicanos,Milenarias,https://www.milenarias.com,rosamariacole@hotmail.com,(222) 231-8671,Puebla,Puebla,México,Fabricante,Alta,9,"Frituras, totopos, tostadas, botanas",dirind
+Alimentos,Botanas y snacks mexicanos,Mura Productos de Cerdo,,productosmura@prodigy.net.mx,(614) 436-0514,Chihuahua,Chihuahua,México,Fabricante,Alta,7,"Chicharrón ahumado y botanero, cuero curtido a granel",dirind
+Alimentos,Botanas y snacks mexicanos,Nacional Abastecedora de Granos / Galdisa Abastos,https://www.galdisa.com.mx,ventas@galdisa.com,(55) 5630-4616,CDMX,CDMX,México,Mayoreo industria,Alta,9,"Cacahuate, pepita, pistache para industria de botanas — CEDA",dirind
+Alimentos,Botanas y snacks mexicanos,Nishikawa Cacahuates,https://www.cacahuatesnishikawa.com,ventas@cacahuatesnishikawa.com,(55) 5657-1845,Iztacalco,CDMX,México,Fabricante,Alta,9,"Cacahuates japoneses, salado y enchilado",dirind
+Alimentos,Botanas y snacks mexicanos,PALS Snacks,https://www.pals-snacks.com,hola@pals-snacks.com,(81) 8370-9282,Monterrey,NL,México,Marca snack,Alta,9,Barras de frutos secos veganas,research
+Alimentos,Botanas y snacks mexicanos,Planta de Vida / Frubotanas,https://www.plantavit.mx,comentarios@plantavit.mx,(81) 8355-4032,Guadalupe,NL,México,Marca healthy,Alta,9,"FRUBOTANAS fruta deshidratada, granolas ÁLMEN, quinoa",dirind
+Alimentos,Botanas y snacks mexicanos,Productos de Maíz El Azteca,,elaztecaprod@hotmail.com,(632) 322-3931,Magdalena de Kino,Sonora,México,Fabricante,Alta,7,"Pinole, tostadas, botanas y fritos de maíz",dirind
+Alimentos,Botanas y snacks mexicanos,Productos de Maíz Sabrosam,https://www.sabrosam.com,contacto@sabrosam.com.mx,(33) 3608-4555,Guadalajara,Jalisco,México,Fabricante,Alta,9,"Tortillas, totopos, tostadas en todas sus variedades",dirind
+Alimentos,Botanas y snacks mexicanos,Productos Deshidratados Arran,https://www.arran.mx,productos@arran.mx,800-823-2747,Acatlán,Hidalgo,México,Fabricante,Alta,9,"Chicharrón botanero, plátanos, churritos, torcidillos, totopos",dirind
+Alimentos,Botanas y snacks mexicanos,Productos Diamante,https://www.productosdiamante.com,contacto@productosdiamante.com,(999) 944-0183,Kanasín,Yucatán,México,Empacadora,Alta,8,"Cacahuate, nueces, pistaches NOM NOMS; salsas POXILA",dirind
+Alimentos,Botanas y snacks mexicanos,Productos Diana,https://www.pdiana.com,info@pdiana.com,(644) 414-6224,Cd. Obregón,Sonora,México,Empacadora,Alta,8,"Botanas y dulces, pistaches, cacahuates, habas",dirind
+Alimentos,Botanas y snacks mexicanos,Productos Don Tacho,https://www.productosdontacho.com,ventas@productosdontacho.com,(444) 688-7775,Mexquitic de Carmona,SLP,México,Fábrica botanas,Alta,8,Fábrica de botanas y frituras SLP,dirind
+Alimentos,Botanas y snacks mexicanos,Productos Dorisa,,contactobotanasdorisa@gmail.com,(55) 5657-0641,Iztacalco,CDMX,México,Fabricante,Alta,7,"Papas, cacahuate, chicharrón, habas, garbanzo, pepita — mayoreo",dirind
+Alimentos,Botanas y snacks mexicanos,Productos Fritos,,pfritos@hotmail.com,(55) 5583-2555,CDMX,CDMX,México,Fabricante,Alta,7,"Habas, cacahuates, pepitas y garbanzos fritos",dirind
+Alimentos,Botanas y snacks mexicanos,Productos Kris,https://www.kris.mx,,(662) 214-2344,Hermosillo,Sonora,México,Fabricante,Alta,6,"Tostadas, nachos, palomitas, fritos y botanas de maíz",dirind
+Alimentos,Botanas y snacks mexicanos,Productos Lily de Occidente,https://www.botanaslily.com.mx,contacto@botanaslily.com,(33) 3639-0504,Tlaquepaque,Jalisco,México,Fabricante,Alta,9,Cronchitos y tostis LILY,dirind
+Alimentos,Botanas y snacks mexicanos,Productos Manzela,https://www.manzela.com.mx,manzela@prodigy.net.mx,800-715-7208,Texcoco,EdoMex,México,Fabricante,Alta,9,"Cacahuate japonés, garapiñado, enchilado; dulces de tamarindo",dirind
+Alimentos,Botanas y snacks mexicanos,Productos Morelos,,productosmorelos@hotmail.com,(668) 812-4898,Los Mochis,Sinaloa,México,Fabricante,Alta,7,"Tostadas, totopos, churritos, tortillas",dirind
+Alimentos,Botanas y snacks mexicanos,Productos Nipon,https://www.niponbotanas.com,info@pnipon.com,(55) 5716-8600,Iztacalco,CDMX,México,Fabricante,Alta,9,"Cacahuate japonés, chile-limón, enchilados, CRISPY LEMON",dirind
+Alimentos,Botanas y snacks mexicanos,Productos Pepito,,propesa1@prodigy.com.mx,800-710-6153,Iztapalapa,CDMX,México,Empacadora,Alta,6,Elaboración y empacado de dulces y botana,dirind
+Alimentos,Botanas y snacks mexicanos,Productos Soleta de Oro,,soletadeoro81@hotmail.com,(81) 8330-8018,San Nicolás de los Garza,NL,México,Fabricante,Alta,7,Tortillas de harina y tostadas,dirind
+Alimentos,Botanas y snacks mexicanos,Productos Ávila / Kokis,https://www.productosavila.com,compras@productosavila.com,(33) 3609-1042,Zapopan,Jalisco,México,Fabricante,Alta,9,Fritos y botanas KOKIS,dirind
+Alimentos,Botanas y snacks mexicanos,Rosasnack,,administracionprovifiesta@botanasprovi.com.mx,4445553156,Mexquitic,SLP,México,Fabricante/maquila,Alta,7,"Maquila de papas, frituras, chicharrones, tostadas, totopos",dirind
+Alimentos,Botanas y snacks mexicanos,Señor Cactus / Deli Dip Snacks,https://www.senorcactus.com.mx,atencion.clientes@delidipsnacks.com.mx,800-759-0015,El Marqués,Querétaro,México,Fabricante,Alta,9,Tortillas y tostadas de nopal,dirind
+Alimentos,Botanas y snacks mexicanos,Tiobaldo / Productos Delta,https://www.tiobaldo.com.mx,ventas@tiobaldo.com.mx,(81) 8345-1803,Monterrey,NL,México,Fabricante tostadas,Alta,9,Tostadas y botanas de maíz norte,dirind
+Alimentos,Botanas y snacks mexicanos,Tostaditas Musiqueras / Productos Paga,https://www.musiqueras.com.mx,,(81) 1093-7324,Guadalupe,NL,México,Fabricante,Alta,6,"Tostaditas MUSIQUERAS horneada, chipotle, jalapeño",dirind
+Alimentos,Botanas y snacks mexicanos,Tostimex,https://matangazo.mx/producto/tostimex/,,8183513898,Monterrey,NL,México,Fabricante tostadas,Alta,6,"Fábrica de tostadas, Av. Ruiz Cortínez 2529 Ote.",research
+Alimentos,Botanas y snacks mexicanos,Totis / Fritos Totis,https://www.totis.com.mx/,jmartinez@totis.com.mx,800-201-7333,Tizayuca,Hidalgo,México,Marca nacional,Alta,9,"Donitas, Pap's, chicharrones, totopos — planta Tizayuca",dirind
+Alimentos,Botanas y snacks mexicanos,Welbing México,https://www.welbingmexico.com,equipodeventas@welbingmexico.com,(55) 5360-4763,Tlalnepantla,EdoMex,México,Granel + marca propia,Alta,9,"Botanas de nuez, macadamia, golden berries",research
+Alimentos,Botanas y snacks mexicanos,Afrima de Michoacán,,,,Morelia,Michoacán,México,Fabricante,Media,2,"Benito Juárez 1205, Granjas del Maestro — frituras",cosmos
+Alimentos,Botanas y snacks mexicanos,Azúcar Dulcerías botanas,https://www.azucardulcerias.com/collections/botanas,,,México,México,México,Mayoreo ecom,Media,3,"Botanas al mayoreo por caja, envíos nacionales",research
+Alimentos,Botanas y snacks mexicanos,Barcel,https://www.barcel.com.mx/,,,CDMX,CDMX,México,Marca nacional,Media,4,"Grupo Bimbo — Takis, Chip's, Runners; corporativo grande",brand
+Alimentos,Botanas y snacks mexicanos,Bofrymex,,,,Uruapan,Michoacán,México,Fabricante,Media,2,Chicharrón botanero — Col. Casa del Niño,cosmos
+Alimentos,Botanas y snacks mexicanos,Botanas El Tacuache,,,,Colima,Colima,México,Proveedor B2B,Media,2,"Av. Gil Cabrera Gudiño 616, Rancho Blanco",quiminet
+Alimentos,Botanas y snacks mexicanos,Botanas Jovi,,,(833) 212-4522,Tampico,Tamaulipas,México,Fabricante regional,Media,4,"Rancheritos, chicharrones, tostadas, cacahuates, cocadas",dirind
+Alimentos,Botanas y snacks mexicanos,Botanas K-Chis,,,,Puebla,Puebla,México,Proveedor B2B,Media,2,30 Norte 803 Col. Resurgimiento,quiminet
+Alimentos,Botanas y snacks mexicanos,Botanas SAS,,,,Azcapotzalco,CDMX,México,Distribuidor,Media,2,"Tonga 28 Col. Euzkadi, venta de frituras",quiminet
 Alimentos,Botanas y snacks mexicanos,Botanas y snacks mexicanos (ejemplo original),https://chanchips.com/,,,,,México,Ejemplo original,Media,2,Seed del cliente,ejemplo_cliente
-Alimentos,Botanas y snacks mexicanos,Chan Chips,https://chanchips.com/,,,,,México,Ejemplo original,Media,2,Ejemplo del cliente,ejemplo_cliente
-Alimentos,Botanas y snacks mexicanos,Totis,https://www.totis.com.mx/,,,,,México,Marca nacional,Media,3,,seeds:seed_manual
+Alimentos,Botanas y snacks mexicanos,Casacarlo,,,,EdoMex,EdoMex,México,Distribuidor,Media,2,Frituras y botanas Estado de México,quiminet
+Alimentos,Botanas y snacks mexicanos,Chan Chips,https://chanchips.com/,,,,,México,Ejemplo original,Media,2,Ejemplo del cliente — botanas mexicanas D2C,ejemplo_cliente
+Alimentos,Botanas y snacks mexicanos,Chicharrones Porky,https://www.sigma-alimentos.com/,,,Monterrey,NL,México,Marca nacional,Media,4,Sigma Alimentos — chicharrón botanero,brand
+Alimentos,Botanas y snacks mexicanos,Cicasa Internacional,,,,CDMX,CDMX,México,Proveedor B2B,Media,2,"Calle De La Rosa 32, Ampliación San Marcos — frituras",quiminet
+Alimentos,Botanas y snacks mexicanos,Comercial Lucero,,,,San Nicolás de los Garza,NL,México,Distribuidor,Media,2,Frituras Nuevo León,quiminet
+Alimentos,Botanas y snacks mexicanos,Comercializadora Gonac,https://www.gonac.com.mx/,,,Tlaxcala,Tlaxcala,México,Distribuidor nacional,Media,4,"Frituras, Ciudad Industrial Xicohtencatl II",quiminet
+Alimentos,Botanas y snacks mexicanos,Dulcería Central Sur,,,,Monterrey,NL,México,Distribuidor,Media,2,Batallón de San Blas 56 Col. Obrera — frituras,cosmos
+Alimentos,Botanas y snacks mexicanos,Dulces y Cacahuates Noriko,,,,Iztapalapa,CDMX,México,Distribuidor,Media,2,"Botanas y frituras, Claudio Alcer 85 Santa Martha Acatitla",quiminet
+Alimentos,Botanas y snacks mexicanos,E-Feast,,,,CDMX,CDMX,México,Distribuidor,Media,2,Frituras y botanas CP 01730,quiminet
+Alimentos,Botanas y snacks mexicanos,Fritos Vikingos,,,,Tultitlán,EdoMex,México,Fabricante,Media,2,Chicharrón botanero — Lomas de Cartagena,cosmos
+Alimentos,Botanas y snacks mexicanos,Grupo Comercial Sedesil,,,,San Nicolás de los Garza,NL,México,Distribuidor,Media,2,"Frituras de maíz, Vía Matamoros 520",quiminet
+Alimentos,Botanas y snacks mexicanos,Grupo Richaud,,,,Campeche,Campeche,México,Proveedor B2B,Media,2,Mariano Rodríguez 14 Col. San José,quiminet
+Alimentos,Botanas y snacks mexicanos,Mafer,https://www.mafer.com.mx/,,,México,México,México,Marca nacional,Media,3,Cacahuates premium (PepsiCo),brand
+Alimentos,Botanas y snacks mexicanos,Magno Ingeniería en Alimentos,,,,Cd. Juárez,Chihuahua,México,Proveedor B2B,Media,2,Av. Ejército Nacional 7695 — frituras y botanas,quiminet
+Alimentos,Botanas y snacks mexicanos,Mayoreo Total botanas,https://www.mayoreototal.mx/collections/botanas,,,México,México,México,Mayoreo ecom,Media,3,Churritos Kipi y botanas por caja,research
+Alimentos,Botanas y snacks mexicanos,Mission Foods México,https://www.missionfoods.com.mx/,,,México,México,México,Marca totopos,Media,3,Totopos y tortillas — Gruma,brand
+Alimentos,Botanas y snacks mexicanos,Nature's Heart snacks,https://naturesheart.com.mx/,,,México,México,México,Marca healthy,Media,3,Snacks y nueces retail moderno,brand
+Alimentos,Botanas y snacks mexicanos,Nava Foods,,,,Morelia,Michoacán,México,Proveedor B2B,Media,2,"Salvador Arzuela 200, Elias Perez Avalos",quiminet
+Alimentos,Botanas y snacks mexicanos,Proagropecuarios Nauhtlan,,,,Nautla,Veracruz,México,Productor,Media,2,"Frituras de plátano, Barra de Palmas",quiminet
+Alimentos,Botanas y snacks mexicanos,Rikanuez,https://www.rikanuez.com/,,,CDMX,CDMX,México,Ecom + mayoreo,Media,4,Nuez pecana y botana premium,research
+Alimentos,Botanas y snacks mexicanos,Sabritas,https://www.sabritas.com.mx/,,,CDMX,CDMX,México,Marca nacional,Media,4,"PepsiCo — corporativo grande, menos fit outbound SME",brand
+Alimentos,Botanas y snacks mexicanos,Saníssimo,https://www.sanissimo.com.mx/,,,México,México,México,Marca tostadas,Media,3,"Tostadas y totopos horneados, Grupo Bimbo",brand
+Alimentos,Botanas y snacks mexicanos,Tostadas Milpa Real,https://www.milpareal.com.mx/,,,México,México,México,Marca tostadas,Media,3,Tostadas de maíz tradicionales,brand
+Alimentos,Botanas y snacks mexicanos,Tostadas Salmas,https://www.salmas.com.mx/,,,México,México,México,Marca tostadas,Media,3,Tostadas horneadas de nopal y maíz,brand
+Alimentos,Botanas y snacks mexicanos,Encanto Frituras,,,,México,México,México,Marca frituras,Baja,1,Conchitas y frituras de maíz sazonadas,research
+Alimentos,Botanas y snacks mexicanos,Valley Foods,,,,México,México,México,Marca papas,Baja,1,Potato chips limón y ridge — canal retail,research

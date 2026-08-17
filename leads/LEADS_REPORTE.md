@@ -107,13 +107,21 @@
 
 ### Alimentos — Botanas y snacks mexicanos
 
+Lote 05 exportado: `leads/por_nicho/05_botanas_snacks.*` — **111 leads** (76 Alta · 70 email · 76 teléfono).
+
 | Empresa | URL | Tipo | Prioridad | Notas |
 |---|---|---|---|---|
-| Botanas Torritos | https://botanastorritos.com/ | Fabricante D2C | **Alta** | Botanas yucatecas desde 1953, tienda online |
-| Botanas Los Compadres | https://botanasloscompadres.com/ | Fabricante/distribuidor | **Alta** | Proveedor tiendas y supermercados, Yucatán |
-| Totis | https://www.totis.com.mx/ | Marca nacional | **Media** | Botanas mexicanas clásicas |
-| Botanas Lily | https://www.botanaslily.com.mx | Fabricante | **Media** | GDL, cronchitos y tostis |
-| Productos Don Tacho | https://www.productosdontacho.com/ | Fábrica botanas | **Media** | SLP, frituras y botanas |
+| Botanas Torritos | https://botanastorritos.com/ | Fabricante D2C | **Alta** | Yucatán desde 1953, gerenciadeventas@ |
+| Botanas Los Compadres | https://botanasloscompadres.com/ | Fabricante/distribuidor | **Alta** | Mayoreo Kanasín, 9991779873 |
+| K-Botanas | https://www.k-botanas.com/ | Fabricante D2C | **Alta** | Fábrica Pachuca, tienda online |
+| Botanamex | https://botanamex.com.mx/ | Fabricante | **Alta** | Chalco, ventas@botanamex.com.mx |
+| Botanas San José | https://botanassanjose.com/ | Fabricante | **Alta** | Cueritos y frituras CDMX |
+| Beto Botanas | https://betobotanas.com.mx/ | Fabricante/distribuidor | **Alta** | Mayoreo EdoMex |
+| Botanas Herrera | https://www.botanasherrera.com | Fabricante | **Alta** | Mérida, charritos y totopos |
+| Botanas WIPO | https://www.botanaswipo.com | Fabricante | **Alta** | Zapopan |
+| Productos Don Tacho | https://www.productosdontacho.com/ | Fábrica botanas | **Alta** | SLP, ventas@productosdontacho.com |
+| Productos Lily | https://www.botanaslily.com.mx | Fabricante | **Alta** | GDL, cronchitos y tostis |
+| Totis | https://www.totis.com.mx/ | Marca nacional | **Alta** | Tizayuca, donitas y Pap's |
 | Chan Chips (ejemplo) | https://chanchips.com/ | Ejemplo original | **Referencia** | Ejemplo del cliente |
 
 ### Alimentos — Frutos secos
